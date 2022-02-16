@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/index.ts": {
+      "includeFiles": "prisma/**"
+    }
+  }
+}
