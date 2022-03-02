@@ -15,7 +15,7 @@
       ]
     }
   ],
-  "rewrites": [
+  "redirects": [
     {
       "source": "/",
       "destination": "https://github.com/ellanan/apod-api"
