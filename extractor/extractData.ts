@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import async from 'async';
 import { DateTime, Interval } from 'luxon';
-import { getDataByDate } from './getDataByDate';
+import { getDataByDate } from '../api/_data/getDataByDate';
 
 const extractedDataDirectory = path.join(__dirname, 'extractedDailyData');
 fs.mkdirSync(extractedDataDirectory, { recursive: true });

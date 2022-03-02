@@ -1,10 +1,14 @@
 // The VercelRequest and VercelResponse imports are types for the Request and Response objects
 import _ from 'lodash';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
+import { DateTime, Interval } from 'luxon';
+import { getDataByDate } from './_data/getDataByDate';
 
 const dataDictonary = require('./_data/data.json');
 const isoDates = Object.keys(dataDictonary);
 const dailyData = Object.values(dataDictonary);
+
+let lastDayOfData = isoDates[isoDates.length - 1];
 
 type OrignalAPIQueryParams = {
   date?: string;
@@ -75,5 +79,39 @@ export default async (request: VercelRequest, response: VercelResponse) => {
   const queryParams: OrignalAPIQueryParams & AdditionalQueryParams =
     request.query;
 
-  response.status(200).send(getData(queryParams));
+  const daysSinceLastData = Interval.fromDateTimes(
+    DateTime.fromISO(lastDayOfData),
+    DateTime.now().startOf('day')
+  ).length('days');
+
+  if (daysSinceLastData < 1) {
+    response.status(200).send(getData(queryParams));
+  } else {
+    console.log(
+      `missing ${daysSinceLastData} days of data from ${lastDayOfData}`
+    );
+    const missingData = await Promise.all(
+      Interval.fromDateTimes(
+        DateTime.fromISO(lastDayOfData).startOf('day').plus({ days: 1 }),
+        DateTime.now().endOf('day')
+      )
+        .splitBy({
+          days: 1,
+        })
+        .map(
+          async (interval) =>
+            [
+              interval.start.toISODate(),
+              await getDataByDate(interval.start),
+            ] as [string, any]
+        )
+    );
+
+    Object.assign(dataDictonary, _.fromPairs(missingData));
+    isoDates.push(...missingData.map(([date, data]) => data.date));
+    dailyData.push(...missingData.map(([date, data]) => data));
+    lastDayOfData = missingData[missingData.length - 1][1].date;
+
+    response.status(200).send(getData(queryParams));
+  }
 };
