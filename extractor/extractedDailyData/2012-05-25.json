@@ -1,14 +1,10 @@
 {
   "title": "Scorpius in Red and Blue",
-  "credit": [],
   "explanation": "Cosmic dust clouds dim the light of background stars. But they also reflect the light of stars nearby. Since bright stars tend to radiate strongly in the blue portion of the visible spectrum, and the interstellar dust scatters blue light more strongly than red, the dusty reflection nebulae tend to be blue. Lovely examples are the wispy blue reflection nebulae near bright, hot stars Pi and Delta Scorpii (upper left and lower right) in this telescopic skyscape from the head of the constellation Scorpius. Of course, the contrasting red emission nebulae are also caused by the hot stars' energetic radiation. Ultraviolet photons ionize hydrogen atoms in the interstellar clouds producing the characteristic red hydrogen alpha emission line as the electrons recombine. About 600 light-years away, the nebulae are found in the second version of the Sharpless Catalog as Sh2-1 (left, with reflection nebulae VdB 99) and Sh2-7. At that distance, this field of view is about 40 light-years across.",
   "date": "2012-05-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1205/Vdb99_JOhn.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: John Davis Explanation",
-    "John Davis"
-  ],
+  "copyright": "John Davis",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1205/Vdb99_JOhn920.jpg"
 }

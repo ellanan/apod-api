@@ -1,14 +1,10 @@
 {
   "title": "Finding NEOWISE",
-  "credit": [],
   "explanation": "If you can see the stars of the Big Dipper, you can find comet NEOWISE in your evening sky tonight. After sunset look for the naked-eye comet below the bowl of the famous celestial kitchen utensil of the north and above your northwestern horizon. You're looking for a fuzzy 'star' with a tail, though probably not so long a tail as in this clear sky snapshot taken from Los Padres National Forest in California on the evening of July 16. Recent photographs of C/2020 F3 (NEOWISE) often show this comet's broad dust tail and fainter but separate ion tail extending farther than the eye can follow. Skygazers around the world have been delighted to find NEOWISE, surprise visitor from the outer Solar System.",
   "date": "2020-07-18",
   "hdurl": "https://apod.nasa.gov/apod/image/2007/NEOWISEBelowBigDipper-7-16-2020-TomMasterson.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tom Masterson Explanation",
-    "Tom Masterson"
-  ],
+  "copyright": "Tom Masterson",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2007/NEOWISEBelowBigDipper-7-16-2020-TomMasterson1081.jpg"
 }

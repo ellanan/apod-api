@@ -1,14 +1,10 @@
 {
   "title": "Three Years of Saturn",
-  "credit": [],
   "explanation": "Using an image recorded just last month as a base, this composite illustration tracks the motion of bright Saturn as it wanders through planet Earth's night sky. Starting at the upper right, Saturn's position is shown about every two weeks beginning in August 2005 and projected through September 2008. Over the three year period, Saturn actually appears to reverse its general eastward (leftward) drift, tracing out three flattened curves. The periodic backwards or retrograde motion with respect to the background stars is a reflection of the motion of the Earth itself. Retrograde motion can be seen each time Earth overtakes and laps planets orbiting farther from the Sun, the Earth moving more rapidly through its own closer-in orbit. The Beehive star cluster in Cancer lies near the track at the upper right. Stars along the \"backward question mark\" at the head of Leo are in the left half of the frame. Saturn's position this month is near the right hand limit of the middle curve. Click on the picture to download and view the gif animation.",
   "date": "2007-04-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0704/3_years_of_saturn.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Peter Wienerroither Explanation",
-    "Peter Wienerroither"
-  ],
+  "copyright": "Peter Wienerroither",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0704/saturn3play_wienerroither_c.jpg"
 }

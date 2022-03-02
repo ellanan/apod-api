@@ -1,14 +1,10 @@
 {
   "title": "3C294: Distant X-Ray Galaxy Cluster",
-  "credit": [
-    "Credit: A. Fabian (IoA Cambridge) et al., NASA Explanation",
-    "A. Fabian (IoA Cambridge) et al., NASA"
-  ],
+  "credit": "A. Fabian (IoA Cambridge) et al., NASA",
   "explanation": "Large clusters of galaxies are the most massive objects in the universe. Astronomers now realize that a hallmark of these cosmic behemoths are gas clouds with temperatures of tens of millions of degrees that pervade the clusters and radiate strongly in x-rays. This Chandra Observatory image centered on a radio galaxy cataloged as 3C294 indeed reveals the telltale hot x-ray gas in an hourglass shaped region surrounding the dominant galaxy and shows the presence of a massive galaxy cluster in the distant universe. Here the picture is color-coded by x-ray energy, red for low, green for medium, and blue for high energy x-rays. The cluster associated with 3C294 is 10 billion light-years away making it the most distant x-ray galaxy cluster ever detected. Objects at that extreme distance existed when the universe was young, a mere 20 percent of its present age. Impressively, this observation demonstrates that even at those early times massive clusters of galaxies were already present.",
   "date": "2001-02-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0102/3c294_chandra_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0102/3c294_chandra.jpg"
 }

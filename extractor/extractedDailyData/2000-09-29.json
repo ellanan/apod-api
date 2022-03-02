@@ -1,14 +1,10 @@
 {
   "title": "September Sky",
-  "credit": [],
   "explanation": "",
   "date": "2000-09-29",
   "hdurl": "https://apod.nasa.gov/apod/image/0009/sepsky_labels.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stan Richard Explanation",
-    "Stan Richard"
-  ],
+  "copyright": "Stan Richard",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0009/sepsky_stanrichard.jpg"
 }

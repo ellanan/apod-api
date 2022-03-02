@@ -1,14 +1,10 @@
 {
   "title": "A Year of Spectacular Comets",
-  "credit": [],
   "explanation": "Two spectacular comets graced Earth's skies during 2007. Both comets became bright enough to be seen by the unaided eye of the casual sky enthusiast. Early in 2007, Comet McNaught grew brighter than any comet in 40 years, displaying a beautiful dust tail that flowed across the sky. Comet McNaught (c/2006 P1) became known as the Great Comet of 2007, sported unusual striations in its expansive dust tail, and showed unexpectedly complex chemistry in its ion tail. Toward the year's end, normally docile and faint Comet Holmes brightened suddenly and unexpectedly to naked eye visibility. Remarkably, Comet 17P/Holmes stayed bright for weeks even though it lies beyond the orbit of Mars. No distant comet in recent history has remained so bright for so long. In this view, a white Comet Holmes was photographed in early December posing with the Heart and Soul Nebulas.",
   "date": "2007-12-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0712/holmespan_nanz_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Bob Nanz (San Diego Astronomy Association) Explanation",
-    "Bob Nanz (San Diego Astronomy Association)"
-  ],
+  "copyright": "Bob Nanz (San Diego Astronomy Association)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0712/holmespan_nanz.jpg"
 }

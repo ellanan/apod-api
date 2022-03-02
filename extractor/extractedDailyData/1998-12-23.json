@@ -1,14 +1,10 @@
 {
   "title": "Ring Around the Galaxy",
-  "credit": [
-    "Credit: S. J. Warren (Imperial College) et al., VLT, ESO Explanation",
-    "S. J. Warren (Imperial College) et al., VLT, ESO"
-  ],
+  "credit": "S. J. Warren (Imperial College) et al., VLT, ESO",
   "explanation": "It is difficult to hide one galaxy far behind another. The closer galaxy's gravity will act like a huge lens, pulling images of the background galaxy around both sides. This is just the case observed in the above recently released image from the VLT: the red galaxy in the middle is in the foreground, lensing the image of the background green galaxy into surrounding contorted arcs. These images are more than sideshows, since the distance between background images increases with the mass of the lens. This lens mass turns out to be much greater than the sum of all its stars - indicating the presence of dark matter. The distorted galaxy is said to appear as an Einstein ring, named after Albert Einstein who accurately predicted many attributes of the gravitational lens effect -- although he also guessed that such an effect was unlikely to be seen in practice.",
   "date": "1998-12-23",
   "hdurl": "https://apod.nasa.gov/apod/image/9812/ering_vlt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9812/ering_vlt.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Triple Star is Born",
-  "credit": [
-    "Credit: Bill Saxton, ALMA (ESO/NAOJ/NRAO), NRAO/AUI/NSF - Publication: John Tobin (Univ. Oklahoma/Leiden) et al. Explanation",
-    "Bill Saxton, ALMA (ESO/NAOJ/NRAO), NRAO/AUI/NSF - Publication: John Tobin (Univ. Oklahoma/Leiden) et al."
-  ],
+  "credit": "Bill Saxton, ALMA (ESO/NAOJ/NRAO), NRAO/AUI/NSF - Publication: John Tobin (Univ. Oklahoma/Leiden) et al.",
   "explanation": "A triple star system is forming, enshrouded within this dusty natal disk some 750 light-years away in the Perseus molecular cloud. Imaged at millimeter wavelengths by the Atacama Large Millimeter/submillimeter Array (ALMA) in Chile, the extreme close-up shows two protostars separated by a mere 61 AU (1 AU is the Earth-Sun distance) with a third 183 AU from the central protostar. The ALMA image also reveals a clear spiral structure indicating instability and fragmentation led to the multiple protostellar objects within the disk. Astronomers estimate that the system, cataloged as L1448 IRS3B, is less than 150,000 years old. Captured at an early phase, the starforming scenario is likely not at all uncommon, since almost half of all sun-like stars have at least one companion.",
   "date": "2016-12-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1612/nrao16cb18c_nraoTobin.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1612/nrao16cb18c_nraoTobin1024c.jpg"
 }

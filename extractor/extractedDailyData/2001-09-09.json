@@ -1,14 +1,10 @@
 {
   "title": "NGC 3293: A Bright Young Open Cluster",
-  "credit": [],
   "explanation": "Hot blue stars shine brightly in this beautiful, recently formed galactic or \"open\" star cluster. Open cluster NGC 3293 is located in the constellation Carina, lies at a distance of about 8000 light years, and has a particularly high abundance of these young bright stars. A study of NGC 3293 implies that the blue stars are only about 6 million years old, whereas the cluster's dimmer, redder stars appear to be about 20 million years old. If true, star formation in this open cluster took at least 15 million years. Even this amount of time is short, however, when compared with the billions of years stars like our Sun live, and the over-ten billion year lifetimes of many galaxies and our universe. NGC 3293 appears just in front of a dense dust lane emanating from the Carina Nebula.",
   "date": "2001-09-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0109/ngc3293_aao.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: David Malin (AAO), AATB Explanation",
-    "David Malin (AAO), AATB"
-  ],
+  "copyright": "David Malin (AAO), AATB",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0109/ngc3293_aao_big.jpg"
 }

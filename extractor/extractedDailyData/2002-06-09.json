@@ -1,14 +1,10 @@
 {
   "title": "A Chamaeleon Sky",
-  "credit": [
-    "Credit: FORS Team, 8.2-meter VLT Antu, ESO Explanation",
-    "FORS Team, 8.2-meter VLT Antu, ESO"
-  ],
+  "credit": "FORS Team, 8.2-meter VLT Antu, ESO",
   "explanation": "A photogenic group of nebulae can be found toward Chamaeleon, a constellation visible predominantly in skies south of the Earth's equator. Celestial objects visible there include the blue reflection nebulas highlighted by thin dust surrounding the bright stars in the above image center. Toward the top and lower right, dark molecular clouds laced with thick dust block light from stars in the background. The parent molecular cloud Chamaeleon I is located about 450 light years from Earth.",
   "date": "2002-06-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0206/chamaeleon_vlt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0206/chamaeleon_vlt.jpg"
 }

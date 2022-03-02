@@ -1,14 +1,10 @@
 {
   "title": "The Gegenschein",
-  "credit": [],
   "explanation": "If you look carefully enough, you can even see the glow of the Sun in the opposite direction. At night this glow is known as the gegenschein (German for \"counter glow\"), and can be seen as a faint glow in an extremely dark sky. The gegenschein is sunlight back-scattered off small interplanetary dust particles. These dust particles are millimeter sized splinters from asteroids and orbit in the ecliptic plane of the planets. Pictured above, the gegenschein is seen superposed toward the constellation of Pisces. The gegenschein is distinguished from zodiacal light by the high angle of reflection. During the day, a phenomenon similar to the gegenschein called the glory can be seen in reflecting air or clouds opposite the Sun from an airplane.",
   "date": "2006-12-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0612/gegenschein_westlake_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jimmy Westlake (Colorado Mountain College) Explanation",
-    "Jimmy Westlake (Colorado Mountain College)"
-  ],
+  "copyright": "Jimmy Westlake (Colorado Mountain College)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0612/gegenschein_westlake.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Spiral Galaxy NGC 7742",
-  "credit": [
-    "Credit: Hubble Heritage Team (AURA/ STScI/ NASA) Explanation",
-    "Hubble Heritage Team (AURA/ STScI/ NASA)"
-  ],
+  "credit": "Hubble Heritage Team (AURA/ STScI/ NASA)",
   "explanation": "This might resemble a fried egg you've had for breakfast, but it's actually much larger. In fact, ringed by blue-tinted star forming regions and faintly visible spiral arms, the yolk-yellow center of this face-on spiral galaxy, NGC 7742, is about 3,000 light-years across. About 72 million light-years away in the constellation Pegasus, NGC 7742 is known to be a Seyfert galaxy - a type of active spiral galaxy with a center or nucleus which is very bright at visible wavelengths. Across the spectrum, the tremendous brightness of Seyferts can change over periods of just days to months and galaxies like NGC 7742 are suspected of harboring massive black holes at their cores. This beautiful color picture is courtesy of the Hubble Space Telescope Heritage Project.",
   "date": "2001-07-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0107/ngc7742_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0107/ngc7742_hst.jpg"
 }

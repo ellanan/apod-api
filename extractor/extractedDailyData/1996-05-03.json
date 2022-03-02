@@ -1,14 +1,10 @@
 {
   "title": "The Milky Way Near the Southern Cross",
-  "credit": [],
   "explanation": "",
   "date": "1996-05-03",
   "hdurl": "https://apod.nasa.gov/apod/image/southerncross_gb.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Greg Bock, Courtesy Southern Astronomical Society Explanation",
-    "Greg Bock, Courtesy Southern Astronomical Society"
-  ],
+  "copyright": "Greg Bock, Courtesy Southern Astronomical Society",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/southerncross_gb.gif"
 }

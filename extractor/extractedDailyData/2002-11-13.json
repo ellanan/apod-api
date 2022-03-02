@@ -1,14 +1,10 @@
 {
   "title": "Asteroid Annefrank",
-  "credit": [
-    "Credit: STARDUST Team, JPL, NASA Explanation",
-    "STARDUST Team, JPL, NASA"
-  ],
+  "credit": "STARDUST Team, JPL, NASA",
   "explanation": "NASA's interplanetary probe STARDUST, on its way to Comet Wild 2 in January 2004, passed asteroid 5535 Annefrank earlier this month. Annefrank, named for a holocaust victim who kept a famous diary, is a member of the main asteroid belt between Mars and Jupiter. Just prior to closest approach at about 3300 km distant, the robot spacecraft took the above picture. Although images obtained were not detailed enough to resolve much of the asteroid's surface, the size, reflectivity, and general shape of the asteroid were recorded. At 6 kilometers across, asteroid Annefrank turned out to be larger -- and darker -- than expected.",
   "date": "2002-11-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0211/annefrank_stardust_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0211/annefrank_stardust.jpg"
 }

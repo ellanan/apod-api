@@ -1,14 +1,10 @@
 {
   "title": "Giant Emission Nebula NGC 3603 in Infrared",
-  "credit": [
-    "Credit: 2MASS Project, UMass, IPAC/Caltech, NSF, NASA Explanation",
-    "2MASS Project, UMass, IPAC/Caltech, NSF, NASA"
-  ],
+  "credit": "2MASS Project, UMass, IPAC/Caltech, NSF, NASA",
   "explanation": "NGC 3603 is the largest region of glowing gas in our Milky Way galaxy. Spanning over 20 light years across, the giant emission nebula (HII region) is home to a massive star cluster, thick dust pillars, and a star about to explode. NGC 3603 was captured above in infrared light by a Two Micron All Sky Survey (2MASS) telescope. The young star cluster near the center heats the region's mostly hydrogen gas. Many stars in the cluster are estimated to be about one million years old, much less than the five billion-year age of our Sun. NGC 3603 lies approximately 20,000 light years away toward the constellation of Carina.",
   "date": "2002-08-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0208/ngc3603_2mass_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0208/ngc3603_2mass.jpg"
 }

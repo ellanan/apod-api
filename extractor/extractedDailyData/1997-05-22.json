@@ -1,14 +1,10 @@
 {
   "title": "Bound For Mars",
-  "credit": [
-    "Credit: P. James (U. Toledo), T. Clancy (SSI Boulder, CO), S. Lee (U. Colorado), NASA Explanation",
-    "P. James (U. Toledo), T. Clancy (SSI Boulder, CO), S. Lee (U. Colorado), NASA"
-  ],
+  "credit": "P. James (U. Toledo), T. Clancy (SSI Boulder, CO), S. Lee (U. Colorado), NASA",
   "explanation": "Two NASA spacecraft, Mars Global Surveyor and Mars Pathfinder, are presently approaching the red planet. Pathfinder is scheduled to land on July 4th and Global Surveyor due to enter orbit in September. Recent studies of the Martian climate, motivated by this impending invasion of spacecraft from Earth, have indicate that Mars weather is more chaotic than previously thought - showing abrupt swings between \"hot and dusty\" and \"cold and cloudy\". These Hubble Space Telescope images from March 1997 show the Northern Hemisphere in early Martian summer, with a receding polar cap and whitish water-ice clouds. The left image is centered on Ares Valles, Pathfinder's landing site, while in the right image, towering Tharsis mountains (massive extinct volcanoes) can be seen poking through the clouds. Stretching to the eastern edge of the righthand image (at lower right) is the Valles Marineris, an immense canyon system. Martian weather reports will play an important role in mission planning. Both spacecraft rely on the Martian atmosphere for braking maneuvers and Pathfinder's lander and rover are solar powered.",
   "date": "1997-05-22",
   "hdurl": "https://apod.nasa.gov/apod/image/9705/mars4_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9705/mars4_hst.jpg"
 }

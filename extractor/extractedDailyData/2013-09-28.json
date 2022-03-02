@@ -1,14 +1,10 @@
 {
   "title": "Equinox Earth",
-  "credit": [
-    "Credit: Roscosmos / NTSOMZ / zelenyikot.livejournal.com Courtesy: Igor Tirsky, Vitaliy Egorov Explanation",
-    "Roscosmos / NTSOMZ / zelenyikot.livejournal.com Courtesy: Igor Tirsky, Vitaliy Egorov"
-  ],
+  "credit": "Roscosmos / NTSOMZ / zelenyikot.livejournal.com Courtesy: Igor Tirsky, Vitaliy Egorov",
   "explanation": "From a geostationary orbit 36,000 kilometers above the equator, Russian meteorological satellite Elektro-L takes high-resolution images of our fair planet every 30 minutes. But only twice a year, during an Equinox, can it capture an image like this one, showing an entire hemisphere bathed in sunlight. At an Equinox, the Earth's axis of rotation is not tilted toward or away from the Sun, so the solar illumination can extend to both the planet's poles. Of course, this Elektro-L picture was recorded on September 22nd, at the northern hemisphere's autumnal equinox. For a moment on that date, the Sun was behind the geostationary satellite and a telltale glint of reflected sunlight is seen crossing the equator, at the location on the planet with satellite and sun directly overhead (5MB animated gif).",
   "date": "2013-09-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1309/EquinoxEarthElektroL900.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1309/EquinoxEarthElektroL800.jpg"
 }

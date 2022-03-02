@@ -1,14 +1,10 @@
 {
   "title": "The Tulip and Cygnus X-1",
-  "credit": [],
   "explanation": "This tall telescopic field of view looks out along the plane of our Milky Way Galaxy toward the nebula rich constellation Cygnus the Swan. Popularly called the Tulip Nebula, the brightest glowing cloud of interstellar gas and dust above center is also found in the 1959 catalog by astronomer Stewart Sharpless as Sh2-101. Nearly 70 light-years across the complex and beautiful Tulip Nebula blossoms about 8,000 light-years away, shown in a Hubble palette image that maps the glow of the nebula's sulfur, hydrogen, and oxygen ions into red, green, and blue colors. Ultraviolet radiation from young energetic stars at the edge of the Cygnus OB3 association, including O star HDE 227018, ionizes the atoms and powers the emission from the Tulip Nebula. Also in the field of view is microquasar Cygnus X-1, one of the strongest X-ray sources in planet Earth's sky. Driven by powerful jets from a black hole accretion disk, its fainter bluish curved shock front is only just visible though, directly above the cosmic Tulip's petals near the top of the frame.",
   "date": "2021-07-29",
   "hdurl": "https://apod.nasa.gov/apod/image/2107/sh2_101_04.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Carlos Uriarte Explanation",
-    "Carlos Uriarte"
-  ],
+  "copyright": "Carlos Uriarte",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2107/sh2_101_04_1024.jpg"
 }

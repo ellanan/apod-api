@@ -1,14 +1,10 @@
 {
   "title": "Shepard Flies Freedom 7",
-  "credit": [
-    "Credit: Project Mercury, NASA Explanation",
-    "Project Mercury, NASA"
-  ],
+  "credit": "Project Mercury, NASA",
   "explanation": "Forty years ago today (May 5, 1961), at the dawn of the space age, NASA controllers \"lit the candle\" and sent Alan Shepard arcing into space atop a Redstone rocket. The picture shows the pressure-suited Shepard before launch in his cramped space capsule dubbed \"Freedom 7\". Broadcast live to a global television audience, the flight of Freedom 7 - the first space flight by an American - followed less than a month after the first human venture into space by Soviet Cosmonaut Yuri Gagarin. Freedom 7's historic flight was suborbital, lasting only about 15 minutes, but during it Shepard demonstrated manual control of his capsule. Naval aviator Shepard was chosen as one of the original seven Mercury Program astronauts. He considered this first flight the greatest challenge and actively sought the assignment. Shepard's career as an astronaut spanned a remarkable period in human achievement and in 1971 he walked on the moon as commander of the Apollo 14 mission. A true pioneer and intrepid explorer, Alan Shepard died in 1998 at age 74.",
   "date": "2001-05-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0105/shepard_freedom7_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0105/shepard_freedom7.jpg"
 }

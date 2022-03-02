@@ -1,14 +1,10 @@
 {
   "title": "100 Hours of Astronomy Begins",
-  "credit": [],
   "explanation": "Today, 100 Hours of Astronomy begins, a cornerstone project of the International Year of Astronomy 2009 celebrating the 400th anniversary of Galileo's original telescopic exploration of the sky. Running from April 2 through April 5, many different public programs are planned worldwide as part of the project, starting with today's opening event at the Franklin Institute in Philadelphia. Featuring one of Galileo's two remaining telescopes, the event will be webcast live. Of course, the sky examined by Galileo can still be appreciated today, with much more capable instruments that are widely available. But this skyward view from a private observatory in Veszprem, Hungary also includes objects Galileo did not see when he gazed into the night. Recorded on March 26, the image captures the paired trails of the International Space Station (the brighter trail) and the shuttle orbiter Discovery in low Earth orbit, as well as the streak of a passing airplane.",
   "date": "2009-04-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0904/iss_castor_090326_ladanyi_v1.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tamas Ladanyi (TWAN) Explanation",
-    "Tamas Ladanyi (TWAN)"
-  ],
+  "copyright": "Tamas Ladanyi (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0904/iss_castor_090326_ladanyi_v1c800.jpg"
 }

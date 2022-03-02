@@ -1,14 +1,10 @@
 {
   "title": "Opportunity's Mars Analemma",
-  "credit": [
-    "Credit: NASA/JPL/Cornell/ASU/TAMU Explanation",
-    "NASA/JPL/Cornell/ASU/TAMU"
-  ],
+  "credit": "NASA/JPL/Cornell/ASU/TAMU",
   "explanation": "Staring up into the martian sky, the Opportunity rover captured an image at 11:02 AM local mean time nearly every 3rd sol, or martian day, for 1 martian year. Of course, the result is this martian analemma, a curve tracing the Sun's motion through the sky in the course of a year (668 sols) on the Red Planet. Spanning Earth dates from July, 16, 2006 to June 2, 2008 the images are shown composited in this zenith-centered, fisheye projection. North is at the top surrounded by a panoramic sky and landscape made in late 2007 from inside Victoria crater. The tinted martian sky is blacked out around the analemma images to clearly show the Sun's positions. Unlike Earth's figure-8-shaped analemma, Mars' analemma is pear-shaped, because of its similar axial tilt but more elliptical orbit. When Mars is farther from the Sun, the Sun progresses slowly in the martian sky creating the pointy top of the curve. When close to the Sun and moving quickly, the apparent solar motion is stretched into the rounded bottom. For several sols some of the frames are missing due to rover operations and dust storms.",
   "date": "2014-05-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1405/marsAnalemma_b_4k.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1405/marsAnalemma_b_900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Nebulosity in Sagittarius",
-  "credit": [],
   "explanation": "What causes the colors in this beautiful nebulosity in Sagittarius? Dubbed NGC 6589 and NGC 6590, the colors of this nebulosity, are caused by gas and dust. The blue color of the nebula nearest the bright stars is caused by reflection off interstellar dust. The dust emits little visible light of its own - in the absence of a nearby star the dust would appear dark, blocking light from background stars. The red color of the nebula farthest from the bright stars is caused by glowing hydrogen gas. Energetic light from the central stars ionizes hydrogen gas - which glows red when recombining with a local electron.",
   "date": "1997-08-10",
   "hdurl": "https://apod.nasa.gov/apod/image/sagneb_aat.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: D. Malin (AAO), AATB Explanation",
-    "D. Malin (AAO), AATB"
-  ],
+  "copyright": "D. Malin (AAO), AATB",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/sagneb_aat_big.gif"
 }

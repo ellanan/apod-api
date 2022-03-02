@@ -1,14 +1,10 @@
 {
   "title": "A New Truss for the International Space Station",
-  "credit": [
-    "Credit: STS-110 Shuttle Crew, NASA Explanation",
-    "STS-110 Shuttle Crew, NASA"
-  ],
+  "credit": "STS-110 Shuttle Crew, NASA",
   "explanation": "The International Space Station (ISS) is being fitted with a backbone. During the present visit of Space Shuttle Atlantis, astronauts are installing a huge truss on the growing space outpost. The truss is over 13 meters long and about 4.5 meters wide. Dubbed Starboard 0, or S0 (pronounced S-Zero) for short, the truss will route electricity, vent excess heat, and allow for future ISS expansion. Pictured above, the truss was lifted out of the shuttle's cargo bay by the station's robotic Canadarm2.",
   "date": "2002-04-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0204/isstruss_nasa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0204/isstruss_nasa.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Shaping NGC 6188",
-  "credit": [],
   "explanation": "Dark shapes with bright edges winging their way through dusty NGC 6188 are tens of light-years long. The emission nebula is found near the edge of an otherwise dark large molecular cloud in the southern constellation Ara, about 4,000 light-years away. Formed in that region only a few million years ago, the massive young stars of the embedded Ara OB1 association sculpt the fantastic shapes and power the nebular glow with stellar winds and intense ultraviolet radiation. The recent star formation itself was likely triggered by winds and supernova explosions, from previous generations of massive stars, that swept up and compressed the molecular gas. A false-color Hubble palette was used to create this sharp close-up image and shows emission from sulfur, hydrogen, and oxygen atoms in red, green, and blue hues. At the estimated distance of NGC 6188, the picture spans about 200 light-years.",
   "date": "2010-07-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1007/NGC6188_sadowski.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Piotrek Sadowski Explanation",
-    "Piotrek Sadowski"
-  ],
+  "copyright": "Piotrek Sadowski",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1007/NGC6188_sadowski900r.jpg"
 }

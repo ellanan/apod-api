@@ -1,14 +1,10 @@
 {
   "title": "Reflection Nebula M78",
-  "credit": [
-    "Credit: Sloan Digital Sky Survey Collaboration Explanation",
-    "Sloan Digital Sky Survey Collaboration"
-  ],
+  "credit": "Sloan Digital Sky Survey Collaboration",
   "explanation": "An eerie blue glow and ominous columns of dark dust highlight M78, a bright reflection nebula in the constellation of Orion. The dust not only absorbs light, but also reflects the light of several bright blue stars that formed recently in the nebula. The same type of scattering that colors the daytime sky further enhances the blue color. M78 is about five light-years across and visible through a small telescope. M78 appears above only as it was 1600 years ago, however, because that is how long it takes light to go from there to here. M78 belongs to the larger Orion Molecular Cloud Complex that contains the Great Nebula in Orion and the Horsehead Nebula.",
   "date": "2000-04-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0004/m78_sdss_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0004/m78_sdss.jpg"
 }

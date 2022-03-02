@@ -1,14 +1,10 @@
 {
   "title": "Accretion Disk Binary System",
-  "credit": [
-    "Credit: NASA, HST Artist's Visualization Explanation",
-    "NASA, HST Artist's Visualization"
-  ],
+  "credit": "NASA, HST Artist's Visualization",
   "explanation": "",
   "date": "1995-12-26",
   "hdurl": "https://apod.nasa.gov/apod/image/disk_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/disk_hst.gif"
 }

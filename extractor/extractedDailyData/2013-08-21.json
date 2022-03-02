@@ -1,14 +1,10 @@
 {
   "title": "Perseid Meteors Over China",
-  "credit": [],
   "explanation": "Comet dust rained down on planet Earth earlier this month, streaking through dark skies in the annual Perseid meteor shower. While enjoying the anticipated space weather above Zhangbei Prairie, Hebei Province, China, astronomer Xiang Zhan recorded a series of 10 second long exposures spanning four hours on the night of August 12/13 using a wide angle lens. Combining frames which captured 68 meteor flashes, he produced the above composite view of the Perseids of summer. Although the sand-sized comet particles are traveling parallel to each other, the resulting shower meteors clearly seem to radiate from a single point on the sky in the eponymous constellation Perseus. The radiant effect is due to perspective, as the parallel tracks appear to converge at a distance. The next notable meteor shower may be the Orionids in late October.",
   "date": "2013-08-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1308/perseids_zhan_1188.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Xiang Zhan (Beijing Planetarium) Explanation",
-    "Xiang Zhan (Beijing Planetarium)"
-  ],
+  "copyright": "Xiang Zhan (Beijing Planetarium)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1308/perseids_zhan_960.jpg"
 }

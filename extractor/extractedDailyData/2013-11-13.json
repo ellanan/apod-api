@@ -1,14 +1,10 @@
 {
   "title": "In the Shadow of Saturn",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "In the shadow of Saturn, unexpected wonders appear. The robotic Cassini spacecraft now orbiting Saturn drifted in giant planet's shadow earlier this year and looked back toward the eclipsed Sun. Cassini saw a unique and celebrated view. First, the night side of Saturn is seen to be partly lit by light reflected from its own majestic ring system. Next, Saturn's expansive ring system appears as majestic as always even from this odd angle. Ring particles, many glowing only as irregular crescents, slightly scatter sunlight toward Cassini in this natural color image. Several moons and ring features are also discernible. Appearing quite prominently is Saturn's E ring, the ring created by the unusual ice-fountains of the moon Enceladus and the outermost ring visible above. To the upper left, far in the distance, are the planets Mars and Venus. To the lower right, however, is perhaps the most wondrous spectacle of all: the almost invisible, nearly ignorable, pale blue dot of Earth.",
   "date": "2013-11-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1311/saturnshadow2_cassini_annotated_9000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1311/saturnshadow2_cassini_annotated_960.jpg"
 }

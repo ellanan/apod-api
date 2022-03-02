@@ -1,14 +1,10 @@
 {
   "title": "Saturn the Giant",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "On May 25, 1961 U.S. president John Kennedy announced the goal of landing astronauts on the Moon by the end of the decade. By November 9, 1967 this Saturn V rocket was ready for launch and the first full test of its capabilities on the Apollo 4 mission. Its development directed by rocket pioneer Wernher Von Braun, the three stage Saturn V stood over 36 stories tall. It had a cluster of five first stage engines fueled by liquid oxygen and kerosene which together were capable of producing 7.9 million pounds of thrust. Giant Saturn V rockets ultimately hurled nine Apollo missions to the Moon and back again with six landing on the lunar surface. The first landing mission, Apollo 11, achieved Kennedy's goal on July 20, 1969.",
   "date": "2019-11-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1911/s67-50903_saturnVlaunch.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1911/s67-50903_saturnVlaunch1024.jpg"
 }

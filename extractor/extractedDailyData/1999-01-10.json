@@ -1,14 +1,10 @@
 {
   "title": "Venus' Once Molten Surface",
-  "credit": [
-    "Credit: E. De Jong et al. (JPL), MIPL, Magellan Team, NASA Explanation",
-    "E. De Jong et al. (JPL), MIPL, Magellan Team, NASA"
-  ],
+  "credit": "E. De Jong et al. (JPL), MIPL, Magellan Team, NASA",
   "explanation": "If you could look at Venus with radar eyes - this is what you might see. This computer reconstruction of the surface of Venus was created from data from the Magellan spacecraft. Magellan orbited Venus and used radar to map our neighboring planet's surface between 1990 and 1994. Magellan found many interesting surface features, including the large circular domes, typically 25-kilometers across, that are depicted above. Volcanism is thought to have created the domes, although the precise mechanism remains unknown. Venus' surface is so hot and hostile that no surface probe has lasted more than a few minutes.",
   "date": "1999-01-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9706/venus3_mag_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9706/venus3_mag.jpg"
 }

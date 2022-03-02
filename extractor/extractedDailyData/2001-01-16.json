@@ -1,14 +1,10 @@
 {
   "title": "Europa Rotating",
-  "credit": [],
   "explanation": "Evidence has been mounting that beneath the vast planes of ice that cover Europa lies water -- liquid oceans that might be home to alien life. The smallest of Jupiter's Galilean Moons (which include Io, Ganymede, and Callisto), Europa's deep interior is composed of mostly of silicate rock. Upon close inspection, many surface cracks stop abruptly only to continue on somewhere else -- indicating surface plates that might be sliding. The above time-lapse sequence is a composite of images taken during the Voyager spacecraft flyby of the moon twenty years ago. Not all regions are resolved in high detail. The movie shows Europa during a complete rotation, which corresponds to a complete revolution around Jupiter since Europa always keeps the same face toward the giant planet. The cause of many of the surface colors on Europa also remains a topic of research.",
   "date": "2001-01-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0101/europarotmovie_gal.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Calvin J. Hamilton, Voyager Team, NASA Explanation",
-    "Calvin J. Hamilton, Voyager Team, NASA"
-  ],
+  "copyright": "Calvin J. Hamilton, Voyager Team, NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0101/europarotmovie_gal.gif"
 }

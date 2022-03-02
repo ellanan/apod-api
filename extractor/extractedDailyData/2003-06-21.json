@@ -1,14 +1,10 @@
 {
   "title": "A Crescent Earth at Midnight",
-  "credit": [
-    "Credit: GOES Project, GSFC, NASA Explanation",
-    "GOES Project, GSFC, NASA"
-  ],
+  "credit": "GOES Project, GSFC, NASA",
   "explanation": "The Earth's northern hemisphere is outlined as a sunlit crescent in this dramatic view from orbit, recorded near local midnight by the Geostationary Operational Environmental Satellite (GOES-8) on June 22, 1996. That date was two days after the Solstice, by astronomical reckoning, the first day of summer in the north and winter in the southern hemisphere. Today's scheduled geocentric astronomical event is again the northern hemisphere's summer Solstice, with the Sun reaching its northernmost declination at 19 hours 10 minutes Universal Time. That makes today also the longest day of the year in the north, with the arctic regions near the top of the picture experiencing 24 hours of daylight. Looking south along the Earth's limb, atmospheric scattering of sunlight causes the limb to be visible beyond areas directly illuminated by the sun.",
   "date": "2003-06-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0306/crescentearth_goes8_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0306/crescentearth_goes8_c3.jpg"
 }

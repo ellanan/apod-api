@@ -1,13 +1,9 @@
 {
   "title": "Massive Black Hole Shreds Passing Star",
-  "credit": [
-    "Credit: NASA's Goddard Space Flight Center, CI Lab Explanation",
-    "NASA's Goddard Space Flight Center, CI Lab"
-  ],
+  "credit": "NASA's Goddard Space Flight Center, CI Lab",
   "explanation": "What happens when a star gets too close to a black hole? Recent observations from Earth-orbiting observatories of an event dubbed ASASSN-14li, in a distant galactic center, appears to be giving one star's harrowing story. Although angularly unresolved, variations in high energy light indicate that some of the star became shredded and reformed into a disk swirling around the dark abyss. In the hypothesized scenario envisioned, a jet formed on the spin axis of the black hole. The innermost part of the disk, colored white, glows most strongly in X-rays and may drive a periodic wind, shown in blue. Future X-ray and ultraviolet observations of stellar disruptions by black holes -- including those in the center of our own galaxy -- hold promise of telling us about the complex dynamics of some of the hottest and highest-gravity places in the universe.",
   "date": "2015-10-28",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/hu6hIhW00Fk?rel=0&showinfo=0"
 }

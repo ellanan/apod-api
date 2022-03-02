@@ -1,14 +1,10 @@
 {
   "title": "Planets Around Sun-Like Stars",
-  "credit": [
-    "Credit: E. Williams, G. Marcy, and L.-A. McConnaughey, (UC Berkeley), (SFSU) Explanation",
-    "E. Williams, G. Marcy, and L.-A. McConnaughey, (UC Berkeley), (SFSU)"
-  ],
+  "credit": "E. Williams, G. Marcy, and L.-A. McConnaughey, (UC Berkeley), (SFSU)",
   "explanation": "",
   "date": "1996-01-31",
   "hdurl": "https://apod.nasa.gov/apod/image/planets_marcy.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/planets_marcy.gif"
 }

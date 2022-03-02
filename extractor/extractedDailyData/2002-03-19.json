@@ -1,14 +1,10 @@
 {
   "title": "Breaking Distant Light",
-  "credit": [
-    "Credit: VIMOS, VLT, ESO Explanation",
-    "VIMOS, VLT, ESO"
-  ],
+  "credit": "VIMOS, VLT, ESO",
   "explanation": "In the distant universe, time appears to run slow. Since time-dilated light appears shifted toward the red end of the spectrum (redshifted), astronomers are able to use cosmological time-slowing to help measure vast distances in the universe. Above, the light from distant galaxies has been broken up into its constituent colors (spectra), allowing astronomers to measure the redshift of known spectral lines. The novelty of the above image is that the distance to hundreds of galaxies can now be measured on a single frame using the Visible MultiObject Spectrograph that has begun operating at the Very Large Telescope array in Chile. Analyzing the space distribution of distant objects will allow insight into when and how stars, galaxies, and quasars formed, clustered, and evolved in the early universe.",
   "date": "2002-03-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0203/galaxyspectra_vlt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0203/galaxyspectra_vlt.jpg"
 }

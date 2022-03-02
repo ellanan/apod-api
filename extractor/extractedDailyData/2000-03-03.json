@@ -1,14 +1,10 @@
 {
   "title": "Dust Storm on Planet Earth",
-  "credit": [
-    "Credit: SeaWiFS Project, GSFC, NASA Explanation",
-    "SeaWiFS Project, GSFC, NASA"
-  ],
+  "credit": "SeaWiFS Project, GSFC, NASA",
   "explanation": "From low Earth orbit, NASA's SeaWIFS instrument records ocean color, tracking changes in our water world's climate and biosphere. But even an ocean planet can have dust storms. On February 26th, SeaWIFS returned this dramatic close-up view of a vast, developing cloud of Saharan desert dust blowing from northwest Africa (lower right) a thousand miles or more out over the Atlantic Ocean. While there are indications that the planet-spanning effects of the Saharan dust events include the decline of the ecologies of coral reefs in the Caribbean and an increased frequency of Atlantic hurricanes, there is also evidence that the dust provides nutrients to the Amazonian rain forests. From space-based vantage points, other satellite images have also revealed storms which transport massive quantities of fine sand and dust across Earth's oceans.",
   "date": "2000-03-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0003/feb26sandstorm_seawifs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0003/feb26sandstorm_seawifs.jpg"
 }

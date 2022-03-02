@@ -1,14 +1,10 @@
 {
   "title": "Flare Well AR2673",
-  "credit": [
-    "Credit: NASA, SDO, and the AIA, EVE, and HMI science teams Explanation",
-    "NASA, SDO, and the AIA, EVE, and HMI science teams"
-  ],
+  "credit": "NASA, SDO, and the AIA, EVE, and HMI science teams",
   "explanation": "Almost out of view from our fair planet, rotating around the Sun's western edge giant active region AR2673 lashed out with another intense solar flare followed by a large coronal mass ejection on September 10. The flare itself is seen here at the right in an extreme ultraviolet image from the sun-staring Solar Dynamics Observatory. This intense flare was the fourth X-class flare from AR2673 this month. The active region's most recent associated coronal mass ejection collided with Earth's magnetosphere 2 days later. Say farewell to the mighty AR2673, for now. For the next two weeks, the powerful sunspot group will be on the Sun's far side.",
   "date": "2017-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1709/SDOsept10x8blend1311714k.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1709/SDOsept10x8blend131171_1024crop.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "NGC 6934 from Gemini North",
-  "credit": [
-    "Credit: Gemini Obs., NSF, & U. Hawaii IfA Explanation",
-    "Gemini Obs., NSF, & U. Hawaii IfA"
-  ],
+  "credit": "Gemini Obs., NSF, & U. Hawaii IfA",
   "explanation": "What's going on near the center of globular cluster NGC 6934? The blur caused by the Earth's atmosphere has prevented astronomers from discerning individual stars in this unusual environment. Telescopes in space can help, but the new Gemini North telescope took the above picture from the ground. In infrared light, Gemini was able to use its adaptive optic mirrors to resolve stars even near the globular cluster's center. NGC 6934 is a 15 billion-year-old ball of hundreds of thousands of stars. Dating stars in ancient globular clusters like NGC 6934 provide valuable constraints on the minimum age of the universe.",
   "date": "1999-06-30",
   "hdurl": "https://apod.nasa.gov/apod/image/9906/ngc6934_gemini.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9906/ngc6934_gemini.jpg"
 }

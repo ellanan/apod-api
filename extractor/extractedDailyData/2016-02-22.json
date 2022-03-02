@@ -1,13 +1,9 @@
 {
   "title": "Flying Over Pluto's Moon Charon",
-  "credit": [
-    "Credit: NASA, Johns Hopkins U. APL, SwRI, Stuart Robbins Explanation",
-    "NASA, Johns Hopkins U. APL, SwRI, Stuart Robbins"
-  ],
+  "credit": "NASA, Johns Hopkins U. APL, SwRI, Stuart Robbins",
   "explanation": "Given some poetic license, there is now scientific evidence that hell has frozen over. To start, Greek mythology holds that Charon is the ferryman of the underworld. Next, recent analysis of data taken by the robotic New Horizons spacecraft that shot past Charon -- the namesake that is the largest moon of Pluto -- in July now indicates that the cause of the huge chasm that runs across the 1200-km moon was that a huge internal sea froze. And since water expands when it freezes, the already hardened outer crust could not contain it and cracked. To better picture the crack, a fanciful journey over some of Charon's has been digitally created from collected images. The featured video starts by showing the Dark Polar Deposit (dubbed Mordor) near Charon's north pole and then flies over the dwarf-planet-wide canyon. Last, the video shows a much-debated protuberance called Moated Mountain. Understanding the history of Pluto and Charon is helping humanity to better understand both the friendliest and more forbidding places in the early Solar System from which Earth formed and life somehow emerged.",
   "date": "2016-02-22",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/lrMBzJcvtt0?rel=0"
 }

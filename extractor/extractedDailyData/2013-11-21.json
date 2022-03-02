@@ -1,14 +1,10 @@
 {
   "title": "The Trail of a Minotaur",
-  "credit": [],
   "explanation": "Star trails arc above a moonlit beach and jetty in this serene sea and night skyscape. Captured on November 19, the single time exposure looks south down the Atlantic coast from Cape Cod, Massachusetts, USA. But the longest and brightest trail is a Minotaur 1 rocket, a stage separation and exhaust plume visible along the rocket's fiery path toward low Earth orbit. The multi-stage Minotaur was launched from the Mid-Atlantic Regional Spaceport at NASA's Wallops Flight Facility at 8:15 pm Eastern Time in Virginia, about 400 miles away. On board were a remarkable 29 satellites destined for low Earth orbit, including a small cubesat built by high school students, and Firefly.",
   "date": "2013-11-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1311/minotaur1_111913cook.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Chris Cook Explanation",
-    "Chris Cook"
-  ],
+  "copyright": "Chris Cook",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1311/minotaur1_111913cook950.jpg"
 }

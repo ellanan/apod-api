@@ -1,14 +1,10 @@
 {
   "title": "Galaxy Zoo Catalogs the Universe",
-  "credit": [],
   "explanation": "You, too, can Zoo. The Galaxy Zoo project has been enabling citizen scientists -- inquisitive people like yourself armed with only a web browser-- to sort through the universe. Specifically, after a brief training session, volunteers are asked to use the superior image-processing power of their minds to classify and measure properties of galaxies in the vast Sloan Digital Sky Survey. In its two short years of existence, millions of galaxies have already been inspected by thousands of enthusiastic volunteers. Using Galaxy Zoo data, for example, the universe has been discovered to create no preferred spin direction, an unusual and unclassified object was found that is still being investigated, and a whole class of small galaxies dubbed Green Peas were uncovered where star formation occurs at an extraordinarily high rate. Further, the Galaxy Zoo may be setting a precedent for a new type of scientific inquiry where the web helps collect, focus and coordinate human and machine intelligence. Pictured above, a group of vibrant mergers found by Zooites demonstrates the diverse zoo-like nature of many interacting galaxies in the universe.",
   "date": "2009-10-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0910/mergers_galaxyzoo_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: SDSS, Galaxy Zoo; Composite: Richard Nowell & Hannah Hutchins Explanation",
-    "SDSS, Galaxy Zoo; Composite: Richard Nowell & Hannah Hutchins"
-  ],
+  "copyright": "SDSS, Galaxy Zoo; Composite: Richard Nowell & Hannah Hutchins",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0910/mergers_galaxyzoo.jpg"
 }

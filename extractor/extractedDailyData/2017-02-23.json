@@ -1,14 +1,10 @@
 {
   "title": "Seven Worlds for TRAPPIST-1",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, Spitzer Space Telescope, Robert Hurt (Spitzer, Caltech) Explanation",
-    "NASA, JPL-Caltech, Spitzer Space Telescope, Robert Hurt (Spitzer, Caltech)"
-  ],
+  "credit": "NASA, JPL-Caltech, Spitzer Space Telescope, Robert Hurt (Spitzer, Caltech)",
   "explanation": "Seven worlds orbit the ultracool dwarf star TRAPPIST-1, a mere 40 light-years away. In May 2016 astronomers using the Transiting Planets and Planetesimals Small Telescope (TRAPPIST) announced the discovery of three planets in the TRAPPIST-1 system. Just announced, additional confirmations and discoveries by the Spitzer Space Telescope and supporting ESO ground-based telescopes have increased the number of known planets to seven. The TRAPPIST-1 planets are likely all rocky and similar in size to Earth, the largest treasure trove of terrestrial planets ever detected around a single star. Because they orbit very close to their faint, tiny star they could also have regions where surface temperatures allow for the presence of liquid water, a key ingredient for life. Their tantalizing proximity to Earth makes them prime candidates for future telescopic explorations of the atmospheres of potentially habitable planets. All seven worlds appear in this artist's illustration, an imagined view from a fictionally powerful telescope near planet Earth. Planet sizes and relative positions are drawn to scale for the Spitzer observations. The system's inner planets are transiting their dim, red, nearly Jupiter-sized parent star.",
   "date": "2017-02-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1702/ssc2017-trappist1_Med.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1702/ssc2017-trappist1_1024.jpg"
 }

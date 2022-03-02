@@ -1,13 +1,9 @@
 {
   "title": "Golden Gate Sunset: Green Flash",
-  "credit": [],
   "explanation": "The setting is San Francisco Bay, the time is sunset, and the bridge is the Golden Gate. What you are about to see is an unexpected double sunset ending with a rare green flash. Watch closely -- in the recorded time-lapse sequence, unusually warm air created by bridge traffic refracts sunlight toward the Earth, causing a superior image of the top of the Sun to form. This image will disappear -- marking the first \"sunset\" -- only after the main image has dipped below the deck. All the while, boats pass in the foreground, cars pass over the bridge, and clouds reflecting sunlight drift by in the distance. The scene ends with Earth's turbulent atmosphere itself creating a path that only higher-energy visible sunlight can traverse, making the last glimpse of our home star appear to flash green.",
   "date": "2015-12-02",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alex Rivest; Music: Eureka by Huma-Huma Explanation",
-    "Alex Rivest; Music: Eureka by Huma-Huma"
-  ],
+  "copyright": "Alex Rivest; Music: Eureka by Huma-Huma",
   "media_type": "video",
   "url": "https://www.youtube.com/embed/5iIR-vCXYOk?rel=0"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Mare Orientale",
-  "credit": [
-    "Credit: NASA, Lunar Orbiter 4 Explanation",
-    "NASA, Lunar Orbiter 4"
-  ],
+  "credit": "NASA, Lunar Orbiter 4",
   "explanation": "Like a target ring bull's-eye, the Mare Orientale is one of the most striking large scale lunar features. Located on the Moon's extreme western edge, this impact basin is unfortunately difficult to see from an earthbound perspective. It is over 3 billion years old, about 600 miles across and was formed by the impact of an asteroid sized object. The collision caused ripples in the lunar crust resulting in the three concentric circular features visible in this 1967 photograph made by NASA's Lunar Orbiter 4. Molten lava from the Moon's interior flooded the impact site through the fractured crust creating a mare. Dark, smooth regions on the moon are called mare (Latin for sea), because early astronomers thought these areas might be oceans.",
   "date": "2002-11-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0211/mareOrientale_lunarOrbiter4_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0211/mareOrientale_lunarOrbiter4_c1.jpg"
 }

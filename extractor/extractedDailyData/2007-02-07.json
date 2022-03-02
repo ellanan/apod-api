@@ -1,14 +1,10 @@
 {
   "title": "Liquid Lakes on Saturn's Titan",
-  "credit": [
-    "Credit: Cassini Radar Mapper, JPL, ESA, NASA Explanation",
-    "Cassini Radar Mapper, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Radar Mapper, JPL, ESA, NASA",
   "explanation": "",
   "date": "2007-02-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0702/titanlakes2_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0702/titanlakes2_cassini.jpg"
 }

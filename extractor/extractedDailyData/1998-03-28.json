@@ -1,14 +1,10 @@
 {
   "title": "Von Braun's Wheel",
-  "credit": [
-    "Credit: Courtesy NASA/MSFC Historical Archives Explanation",
-    "Courtesy NASA/MSFC Historical Archives"
-  ],
+  "credit": "Courtesy NASA/MSFC Historical Archives",
   "explanation": "Orbiting 1,075 miles above the Earth, a 250 foot wide, inflated, reinforced nylon \"wheel\" was conceived in the early 1950s to function as a navigational aid, meteorological station, military platform, and way station for space exploration by rocket pioneer Wernher von Braun. The wheel-shaped station could be easily rotated creating artificial gravity so that the astronauts would not suffer the effects of prolonged weightlessness. Von Braun and his team favored building a permanently occupied Earth orbiting space station from which to stage a lunar exploration program. But in the 1960s NASA adopted the Apollo Program, which called for astronauts to transfer to a landing vehicle after achieving lunar orbit, bypassing the construction of von Braun's wheel.",
   "date": "1998-03-28",
   "hdurl": "https://apod.nasa.gov/apod/image/vonb_wheel.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/vonb_wheel.gif"
 }

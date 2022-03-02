@@ -1,14 +1,10 @@
 {
   "title": "The Earth-Moon System",
-  "credit": [
-    "Credit: NASA, JPL, Galileo Project Explanation",
-    "NASA, JPL, Galileo Project"
-  ],
+  "credit": "NASA, JPL, Galileo Project",
   "explanation": "",
   "date": "1995-06-29",
   "hdurl": "https://apod.nasa.gov/apod/image/earthmoon.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/earthmoon.gif"
 }

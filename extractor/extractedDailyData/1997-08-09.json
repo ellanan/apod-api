@@ -1,17 +1,11 @@
 {
   "title": "The Hydra Cluster of Galaxies",
-  "credit": [
-    "Credit: Digitized Sky Survey (ROE), SkyView Copyright: STScI, AAO, UK-PPARC, ROE Explanation",
-    "Digitized Sky Survey (ROE), SkyView Copyright: STScI, AAO, UK-PPARC, ROE"
-  ],
+  "credit": "Digitized Sky Survey (ROE), SkyView Copyright: STScI, AAO, UK-PPARC, ROE",
   "explanation": "You are flying through space and come to ... the Hydra Cluster of Galaxies. Listed as Abell 1060, the Hydra Cluster contains well over 100 bright galaxies. Clusters of galaxies are the largest gravitationally-bound objects in the universe. All of the bright extended images in the above picture are galaxies in the Hydra Cluster with the exception of unrelated diffraction crosses centered on bright stars. Several proximate clusters and galaxy groups might together create an even larger entity - a supercluster - but these clumps of matter are not (yet) falling toward each other. In fact, the Hydra cluster is thought to be part of the Hydra-Centaurus Supercluster of galaxies. Similarly, our own Milky Way Galaxy is part of the Local Group of Galaxies which is part of the Virgo Supercluster of Galaxies.",
   "date": "1997-08-09",
   "hdurl": "https://apod.nasa.gov/apod/image/hydra_poss.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: STScI, AAO, UK-PPARC, ROE Explanation",
-    "STScI, AAO, UK-PPARC, ROE"
-  ],
+  "copyright": "STScI, AAO, UK-PPARC, ROE",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hydra_poss.gif"
 }

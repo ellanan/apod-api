@@ -1,14 +1,10 @@
 {
   "title": "Star Factory Messier 17",
-  "credit": [
-    "Credit: Subaru Telescope (NAOJ), Hubble Space Telescope, Color data: Wolfgang Promper, Processing: Robert Gendler Explanation",
-    "Subaru Telescope (NAOJ), Hubble Space Telescope, Color data: Wolfgang Promper, Processing: Robert Gendler"
-  ],
+  "credit": "Subaru Telescope (NAOJ), Hubble Space Telescope, Color data: Wolfgang Promper, Processing: Robert Gendler",
   "explanation": "Sculpted by stellar winds and radiation, the star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this degree wide field of view spans almost 100 light-years. The sharp, composite, color image utilizing data from space and ground based telescopes, follows faint details of the region's gas and dust clouds against a backdrop of central Milky Way stars. Stellar winds and energetic light from hot, massive stars formed from M17's stock of cosmic gas and dust have slowly carved away at the remaining interstellar material producing the cavernous appearance and undulating shapes. M17 is also known as the Omega Nebula or the Swan Nebula.",
   "date": "2013-04-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1304/M17-HST-Subaru-LLL.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1304/M17-HST-Subaru_900.jpg"
 }

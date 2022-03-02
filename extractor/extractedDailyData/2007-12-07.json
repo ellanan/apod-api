@@ -1,14 +1,10 @@
 {
   "title": "Double Cluster in Perseus",
-  "credit": [],
   "explanation": "Skygazers recently following Comet Holmes have probably also chanced across this lovely starfield, not far from the comet on the sky in the constellation Perseus. Some 7,000 light-years away, this pair of open or galactic star clusters is an easy binocular target and is visible to the unaided eye from dark sky areas. In fact, it was cataloged in 130 BC by Greek astronomer Hipparchus. Now known as h and chi Persei, or NGC 869(left) and NGC 884, the clusters themselves are separated by only a few hundred light-years and contain stars much younger and hotter than the Sun. In addition to being physically close together, the clusters' ages based on their individual stars are similar - evidence that both clusters were likely a product of the same star-forming region.",
   "date": "2007-12-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0712/hundchi_volker.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Volker Wendel, Josef Popsel, Stefan Binnewies Explanation",
-    "Volker Wendel, Josef Popsel, Stefan Binnewies"
-  ],
+  "copyright": "Volker Wendel, Josef Popsel, Stefan Binnewies",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0712/hundchi_volker800.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Happy Birthday Jules Verne",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "One hundred seventy-five years ago (on February 8th), Jules Verne was born in Nantes, France. Inspired by a lifelong fascination with machines, Verne wrote visionary works about \"Extraordinary Voyages\" including such terrestrial travels as Around the World in 80 Days, Journey to the Centre of the Earth, and Twenty Thousand Leagues Under the Sea. In 1865 he published the story of three adventurers who undertook a journey From the Earth to the Moon. Verne's characters rode a \"projectile-vehicle\" fired from a huge cannon constructed in Florida, USA. Does that sound vaguely familiar? A century later, the Saturn V rocket and NASA's Apollo program finally turned this work of fiction into fact, propelling adventuresome trios on what was perhaps Verne's most extraordinary voyage. This dramatic view shows the moonbound Apollo 11 space-vehicle riding top a Saturn V rocket as it blasts skyward. Launched from a spaceport in Florida, the Apollo 11 crew traveled to the moon and back again in 1969, making humanity's first landing on the lunar surface.",
   "date": "2003-02-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0302/moonbound_apollo11_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0302/moonbound_apollo11.jpg"
 }

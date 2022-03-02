@@ -1,14 +1,10 @@
 {
   "title": "Hyakutake: Stars Through A Comet's Tail",
-  "credit": [],
   "explanation": "Comets are cosmic icebergs. They follow very elongated orbits which carry them from the frozen, remote outer reaches of the Solar System to close encounters with the Sun. Heated by sunlight, they slough off layers of material as gas and dust, forming their characteristic awe-inspiring comas (heads) and tails. In the spring of 1996, Comet Hyakutake inspired Arizona photographers Rick Scott and Joe Orman to take this picture showing faint stars near the constellation Ursa Minor (the Little Dipper) shining through the comet's long, graceful tail. Blown by the solar wind, comet tails generally point away from the Sun.",
   "date": "1998-07-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/hyakutake_scott_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: R. Scott and J. Orman Explanation",
-    "R. Scott and J. Orman"
-  ],
+  "copyright": "R. Scott and J. Orman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/hyakutake_scott.jpg"
 }

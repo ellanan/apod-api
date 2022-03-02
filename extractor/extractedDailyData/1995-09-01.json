@@ -1,17 +1,11 @@
 {
   "title": "Subrahmanyan Chandrasekhar 1910-1995",
-  "credit": [
-    "Credit: University of Chicago Press, S. Chandrasekhar Copyright: 1989 by The University of Chicago. All rights reserved. Used by permission. Explanation",
-    "University of Chicago Press, S. Chandrasekhar Copyright: 1989 by The University of Chicago. All rights reserved. Used by permission."
-  ],
+  "credit": "University of Chicago Press, S. Chandrasekhar Copyright: 1989 by The University of Chicago. All rights reserved. Used by permission.",
   "explanation": "",
   "date": "1995-09-01",
   "hdurl": "https://apod.nasa.gov/apod/image/chandra_uc.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: 1989 by The University of Chicago. All rights reserved. Used by permission. Explanation",
-    "1989 by The University of Chicago. All rights reserved. Used by permission."
-  ],
+  "copyright": "1989 by The University of Chicago. All rights reserved. Used by permission.",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/chandra_uc.gif"
 }

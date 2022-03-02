@@ -1,14 +1,10 @@
 {
   "title": "The Far 3kpc Arm",
-  "credit": [
-    "Credit: R. Hurt (SSC), JPL-Caltech, NASA Explanation",
-    "R. Hurt (SSC), JPL-Caltech, NASA"
-  ],
+  "credit": "R. Hurt (SSC), JPL-Caltech, NASA",
   "explanation": "A major discovery was lurking in the data. By accident, while preparing a talk on the Galaxy's spiral arms for a meeting of the American Astronomical Society, Tom Dame (Harvard-Smithsonian CfA) found it - a new spiral arm in the Milky Way. The arm is labeled in this illustration as the Far 3kpc Arm, located at a distance of 3 kpc (kiloparsecs) or about 10,000 light-years from the galactic center, on the opposite side from the Sun. Along with the Near 3kpc Arm whose presence was known since the mid 1950s, the counterpart inner arms now establish that the galaxy has a simple symmetry. The arms are defined by shocked interstellar gas flowing along both sides of the Milky Way's central bar. Dame and his collaborator Patrick Thaddeus recorded the presence of both inner spiral arms in their radio data tracking emission from carbon monoxide molecules along the galactic plane. How much star formation goes on in the counterpart arms? Despite this depiction of stars and star forming regions along the arms, the last attempt to search for star formation in the Near 3kpc Arm was in 1980 and didn't turn up any. The discovery of the Far 3kpc Arm has renewed interest in this and other questions about the center of the Milky Way.",
   "date": "2008-07-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0807/MWspitzer_lab_2048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0807/far3kpcarm_adjusted.jpg"
 }

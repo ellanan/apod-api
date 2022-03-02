@@ -1,14 +1,10 @@
 {
   "title": "A Solar Prominence Erupts",
-  "credit": [
-    "Credit: SOHO - EIT Consortium, ESA, NASA Explanation",
-    "SOHO - EIT Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - EIT Consortium, ESA, NASA",
   "explanation": "Our Sun is still very active. Last year, our Sun went though Solar Maximum, the time in its 11-year cycle where the most sunspots and explosive activities occur. Sunspots, the Solar Cycle, and solar prominences are all caused by the Sun's changing magnetic field. Pictured above is a solar prominence that erupted on May 15, throwing electrons and ions out into the Solar System. The image was taken in the ultraviolet light emitted by a specific type of ionized helium, a common element on the Sun. Particularly hot areas appear in white, while relatively cool areas appear in red. Our Sun should gradually quiet down until Solar Minimum occurs in 2007.",
   "date": "2001-09-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0109/sunplume_soho_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0109/sunplume_soho.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Orion in Infrared",
-  "credit": [
-    "Credit: IRAS, IPAC, JPL/Caltech, NASA Explanation",
-    "IRAS, IPAC, JPL/Caltech, NASA"
-  ],
+  "credit": "IRAS, IPAC, JPL/Caltech, NASA",
   "explanation": "Do you recognize the constellation Orion? This striking but unfamiliar looking picture of the familiar Orion region of the sky was produced using survey data from the now-defunct InfraRed Astronomical Satellite (IRAS). The above image combines information recorded at three different invisible infrared wavelengths and covers about 30x24 degrees on the sky. Most of Orion's visually impressive stars don't stand out, but bright Betelgeuse does appear as a small bright purplish dot on the lower left. The bright region on the right contains the Great Nebula in Orion, while the bright region just above the image bottom is the Rosette Nebula. Surrounding these regions are a jumble of chaotic glowing gas and dark dust jettisoned by stars forming and exploding over millions of years.",
   "date": "2005-04-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0504/orion_iras_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0504/orion_iras.jpg"
 }

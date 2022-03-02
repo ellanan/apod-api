@@ -1,14 +1,10 @@
 {
   "title": "Curiosity Rover at Rocknest on Mars",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, MSSS, MAHLI Explanation",
-    "NASA, JPL-Caltech, MSSS, MAHLI"
-  ],
+  "credit": "NASA, JPL-Caltech, MSSS, MAHLI",
   "explanation": "What's in this smooth soil on Mars? In late October, NASA's robotic Curiosity rover stopped near a place dubbed Rocknest as it continues to explore Gale Crater on Mars. Rocknest is the group of stones seen near the top left of the above image -- just to the left of Curiosity's mast. Of particular interest was the unusually smooth patch of soil named Wind Drift seen to the left of Curiosity, which was likely created by the Martian wind blowing fine particles into Rocknest's wake. The above image shows part of Mt. Sharp in the background to upper right, and, oddly, almost the entire rover itself, digitally reconstructed from 55 frames while digitally removing an extended arm. Curiosity scooped several sand samples from Wind Drift into its Chemistry and Mineralogy Experiment (CheMin) and the Sample Analysis at Mars (SAM) laboratory for a detailed analysis. Preliminary data from the soil indicates a small amount of one-carbon organic material the origin of which it presently unknown. Although the organic signal might be just contaminants from Earth, the exciting possibility that it could be from Mars itself will remain a focus of future exploration and research.",
   "date": "2012-12-27",
   "hdurl": "https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_11119.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_960.jpg"
 }

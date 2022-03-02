@@ -1,14 +1,10 @@
 {
   "title": "NGC 3132: The Southern Ring Nebula",
-  "credit": [
-    "Credit: Hubble Legacy Archive, ESA, NASA; Processing - Donald Waid Explanation",
-    "Hubble Legacy Archive, ESA, NASA; Processing - Donald Waid"
-  ],
+  "credit": "Hubble Legacy Archive, ESA, NASA; Processing - Donald Waid",
   "explanation": "It's the dim star, not the bright one, near the center of NGC 3132 that created this odd but beautiful planetary nebula. Nicknamed the Eight-Burst Nebula and the Southern Ring Nebula, the glowing gas originated in the outer layers of a star like our Sun. In this reprocessed color picture, the hot purplish pool of light seen surrounding this binary system is energized by the hot surface of the faint star. Although photographed to explore unusual symmetries, it's the asymmetries that help make this planetary nebula so intriguing. Neither the unusual shape of the surrounding cooler shell nor the structure and placements of the cool filamentary dust lanes running across NGC 3132 are well understood.",
   "date": "2013-04-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1304/ngc3132_waid_1041.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1304/ngc3132_waid_960.jpg"
 }

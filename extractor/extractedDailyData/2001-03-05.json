@@ -1,14 +1,10 @@
 {
   "title": "Survivor: NEAR Shoemaker On Asteroid Eros",
-  "credit": [
-    "Credit: NEAR Project, NASA Explanation",
-    "NEAR Project, NASA"
-  ],
+  "credit": "NEAR Project, NASA",
   "explanation": "Not part of a television game series, the NEAR Shoemaker spacecraft survived its unprecedented landing on an asteroid last month. As suggested in the illustration inset above, the car-sized probe likely rests gently on the tips of its solar panels having touched down under the influence of asteroid Eros' feeble gravity. Fortunately, the spacecraft's solar panels were bathed in sunlight and able to power NEAR's gamma-ray spectrometer. Perched on the asteroid, this instrument can determine the composition of Eros to a depth of about 10 centimeters with unanticipated accuracy by measuring the gamma-ray signatures of the atomic nuclei present. The data returned from the surface of Eros are plotted above and show clearly features corresponding to Iron, Oxygen, Silicon, and Potassium in the asteroid's regolith. Also briefly operating on Eros, NEAR's magnetometer has indicated that no surface magnetic field is discernible. Now turned off, NEAR Shoemaker could remain preserved in its present location, the vicinity of the huge, saddle-shaped feature dubbed Himeros, for billions of years. But, as the asteroid orbits, the spacecraft's solar panels will be repeatedly turned toward the Sun ... offering the possibility of reawakening this survivor.",
   "date": "2001-03-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0103/xgrsplot_near_c1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0103/xgrsplot_near_c2.jpg"
 }

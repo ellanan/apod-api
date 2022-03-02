@@ -1,14 +1,10 @@
 {
   "title": "Titan from Cassini in Infrared",
-  "credit": [
-    "Credit: VIMS, U. Arizona, ESA, NASA Explanation",
-    "VIMS, U. Arizona, ESA, NASA"
-  ],
+  "credit": "VIMS, U. Arizona, ESA, NASA",
   "explanation": "Could the building blocks of life exist under the smog of Titan? What is creating all of the methane? To help answer these questions, the largest and most mysterious moon of Saturn got a quick first look from the Cassini robot spacecraft soon after entering orbit around the giant planet last week. Although thick atmospheric smog prevented detailed surface images in visible light, infrared light was able to provide interesting clues to the nature of Titan's surface. The above images show Titan in three different colors of infrared light, with the most energetic on the left. The leftmost image is the most detailed but shows surface features that are not yet well understood. The smoothness of the middle image is consistent with a large frozen ocean of water ice containing simple hydrocarbons. The darker regions on the rightmost image might indicate areas relatively rich in hydrocarbons. The white spot visible near the South Pole is hypothesized to be a persistent cloud of large particles containing methane. A better understanding of the mysterious surface of Titan will hopefully be forthcoming as scientists study these images and those from a planned 45 flybys over the next four years. In January, Cassini is scheduled to drop the Huygens probe onto Titan's surface.",
   "date": "2004-07-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0407/titaninfrared_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0407/titaninfrared_cassini.jpg"
 }

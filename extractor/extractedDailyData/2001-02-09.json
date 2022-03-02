@@ -1,14 +1,10 @@
 {
   "title": "Nashville Four Planet Skyline",
-  "credit": [],
   "explanation": "So far this February, evening skies have been blessed with a glorious Moon and three bright planets; Venus, Jupiter, and Saturn. But just last week, on January 30th, an extreme wide-angle lens allowed astrophotographer Larry Koehn to capture this twilight view of Moon and four planets above Nashville, Tennessee, USA. These major solar system bodies lie along the ecliptic plane and so follow a diagonal line through the picture. Starting near the upper left corner is bright Jupiter, which takes on a slightly triangular shape due to the lens distortion. Just below and right of Jupiter is Saturn. Continuing along the diagonal toward the lower right is an overexposed, six day old Moon and brilliant Venus seemingly embedded in clouds. The fourth planet pictured is Mercury. Notoriously hard to see from planet Earth because it never wanders far from the Sun, Mercury is visible just above the lower right corner. The line from Jupiter to Mercury spans about 92 degrees across the Nashville sky.",
   "date": "2001-02-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0102/plan4_koehn.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Larry Koehn Explanation",
-    "Larry Koehn"
-  ],
+  "copyright": "Larry Koehn",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0102/plan4_koehn_sm.jpg"
 }

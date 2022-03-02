@@ -1,14 +1,10 @@
 {
   "title": "Ultraviolet Earth",
-  "credit": [
-    "Credit: NASA, Apollo 16, George Carruthers (NRL) and the Far UV Camera Team Explanation",
-    "NASA, Apollo 16, George Carruthers (NRL) and the Far UV Camera Team"
-  ],
+  "credit": "NASA, Apollo 16, George Carruthers (NRL) and the Far UV Camera Team",
   "explanation": "",
   "date": "1996-06-10",
   "hdurl": "https://apod.nasa.gov/apod/image/uvEarth_ap16_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/uvEarth_ap16.gif"
 }

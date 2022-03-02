@@ -1,14 +1,10 @@
 {
   "title": "M101: An Ultraviolet View",
-  "credit": [
-    "Credit: Astro 2, UIT, NASA Explanation",
-    "Astro 2, UIT, NASA"
-  ],
+  "credit": "Astro 2, UIT, NASA",
   "explanation": "This picture of giant spiral galaxy Messier 101 (M101) was taken by the Ultraviolet Imaging Telescope (UIT). UIT flew into orbit as part of the Astro 2 mission on-board the Space Shuttle Endeavour in March 1995. The image has been processed so that the colors (dark purple through white) represent an increasing intensity of ultraviolet light. Pictures of galaxies like this one show mainly clouds of gas containing newly formed stars many times more massive than the sun, which glow strongly in the ultraviolet. In contrast, visible light pictures of galaxies tend to be dominated by the yellow and red light of older stars. Ultraviolet light, invisible to the human eye, is blocked by ozone in the atmosphere so ultraviolet pictures of celestial objects must be taken from space. M101 is a mere 22 million light-years away in the constellation Ursa Major. Its popular moniker is the Pinwheel Galaxy.",
   "date": "2000-06-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0006/m101_uit_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0006/m101_uit.jpg"
 }

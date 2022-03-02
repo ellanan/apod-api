@@ -1,14 +1,10 @@
 {
   "title": "X-Rays from the Galactic Plane",
-  "credit": [
-    "Credit: Ken Ebisawa (LHEA/ GSFC) et al., CXC, NASA Explanation",
-    "Ken Ebisawa (LHEA/ GSFC) et al., CXC, NASA"
-  ],
+  "credit": "Ken Ebisawa (LHEA/ GSFC) et al., CXC, NASA",
   "explanation": "In February 2000, the orbiting Chandra X-ray Observatory spent 27 hours staring into the plane of our Milky Way galaxy. Its target was a spot in the small constellation Scutum, within the Milky Way's zone of avoidance where galactic gas and dust clouds block visible light, making a poor window for optical telescopes. However the penetrating x-ray observations looked through the obscurations revealing the Milky Way and the Universe beyond. The x-ray view is reconstructed above in false color. Distant active galaxies emitting high energy x-rays appear as blue dots, while reddish dots are sources of lower energy x-rays, likely stars within the Milky Way itself. Intriguing is the diffuse blue glow of high energy x-rays, distinct from the individual sources in the picture. Astronomers have long debated whether our galactic plane's apparently extended x-ray emission was due to discrete sources or diffuse hot gas. As these results suggest diffuse interstellar gas with a temperature of tens of millions of degrees Celsius is indeed the answer, other questions arise. What heats the gas to these incredible temperatures? Why does this energetic gas linger in the galactic plane?",
   "date": "2001-08-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0108/galplane_cxo_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0108/galplane_cxo_c1.jpg"
 }

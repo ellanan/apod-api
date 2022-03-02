@@ -1,14 +1,10 @@
 {
   "title": "Journey to the Center of the Galaxy",
-  "credit": [
-    "Credit: S. Price (AFRL/VSBC) et al., CBE, MSX, USAF Explanation",
-    "S. Price (AFRL/VSBC) et al., CBE, MSX, USAF"
-  ],
+  "credit": "S. Price (AFRL/VSBC) et al., CBE, MSX, USAF",
   "explanation": "In Jules Verne's science fiction classic A Journey to the Center of the Earth, Professor Hardwigg and his fellow explorers encounter many strange and exciting wonders. What wonders lie at the center of our Galaxy? Astronomers now know of some of the bizarre objects which exist there, like vast dust clouds, bright young stars, swirling rings of gas, and even a large black hole. Much of the Galactic Center is shielded from our view in visible light by the intervening dust and gas, but it can be explored using other forms of electromagnetic radiation. This haunting image of the Galactic Center region in infrared light was made in 1996 by a telescope onboard the Midcourse Space Experiment. The center itself appears as a bright spot near the middle of this roughly 1 degree field of view, and the north galactic pole is towards the top. The picture is in false color - starlight appears blue while dust is greenish grey, tending to red in the cooler areas.",
   "date": "2000-04-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0004/galcen_msx_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0004/galcen_msx_c1.jpg"
 }

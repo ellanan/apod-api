@@ -1,13 +1,9 @@
 {
   "title": "Moon Shadow versus Sun Reflection",
-  "credit": [
-    "Credit: Himawari-8, NASA's SVS (GSFC) Explanation",
-    "Himawari-8, NASA's SVS (GSFC)"
-  ],
+  "credit": "Himawari-8, NASA's SVS (GSFC)",
   "explanation": "What are those lights and shadows crossing the Earth? As the featured five-second time-lapse video progresses, a full day on planet Earth is depicted as seen from Japan's Himawari-8 satellite in geostationary orbit high above the Pacific Ocean. The Sun rises to the right and sets to the left, illuminating the half of Earth that is most directly below. A reflected image of the Sun -- a Sun glint -- is visible as a bright spot that moves from right to left. More unusual, though, is the dark spot that moves from the lower left to upper right That is the shadow of the Moon, and it can only appear when the Moon goes directly between the Earth and the Sun. Last year, on the day these images were taken, the most deeply shadowed region experienced a total eclipse of the Sun. Next month a similarly dark shadow will sweep right across the USA.",
   "date": "2017-07-17",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/9Vp2jUQ4rNM?rel=0"
 }

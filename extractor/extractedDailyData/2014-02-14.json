@@ -1,14 +1,10 @@
 {
   "title": "IC 1805: Light from the Heart",
-  "credit": [],
   "explanation": "Sprawling across almost 200 light-years, emission nebula IC 1805 is a mix of glowing interstellar gas and dark dust clouds about 7,500 light-years away in the Perseus spiral arm of our galaxy. Stars were born in this region whose nickname, the Heart Nebula, derives from its Valentine's-Day-appropriate shape. The clouds themselves are shaped by stellar winds and radiation from massive hot stars in the nebula's newborn star cluster Melotte 15 about 1.5 million years young. This deep telescopic image maps the pervasive light of narrow emission lines from atoms in the nebula to a color palette made popular in Hubble images of star forming regions. The field of view spans about two degrees on the sky or four times the diameter of a full moon. The cosmic heart is found in the constellation of Cassiopeia, the boastful mythical Queen of Aethiopia .",
   "date": "2014-02-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1402/IC1805_HaSHO_gonzalez2000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: César Blanco González Explanation",
-    "César Blanco González"
-  ],
+  "copyright": "César Blanco González",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1402/IC1805_HaSHO_gonzalez950.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Solar Flare in the Gamma-ray Sky",
-  "credit": [
-    "Credit: NASA, DOE, International Fermi LAT Collaboration Explanation",
-    "NASA, DOE, International Fermi LAT Collaboration"
-  ],
+  "credit": "NASA, DOE, International Fermi LAT Collaboration",
   "explanation": "What shines in the gamma-ray sky? The answer is usually the most exotic and energetic of astrophysical environments, like active galaxies powered by supermassive black holes, or incredibly dense pulsars, the spinning remnants of exploded stars. But on March 7, a powerful solar flare, one of a series of recent solar eruptions, dominated the gamma-ray sky at energies up to 1 billion times the energy of visible light photons. These two panels illustrate the intensity of that solar flare in all-sky images recorded by the orbiting Fermi Gamma-ray Space Telescope. On March 6, as on most days, the Sun was almost invisible to Fermi's imaging detectors. But during the energetic X-class flare, it became nearly 100 times brighter than even the Vela Pulsar at gamma-ray energies. Now faded in Fermi's view, the Sun will likely shine again in the gamma-ray sky as the solar activity cycle approaches its maximum.",
   "date": "2012-03-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1203/GraySun2panelLabel.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1203/GraySun2panelLabel800.jpg"
 }

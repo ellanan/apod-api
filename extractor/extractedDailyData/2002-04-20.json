@@ -1,14 +1,10 @@
 {
   "title": "Orion Nebula: The 2MASS View",
-  "credit": [
-    "Credit: 2MASS Collaboration, U. Mass., IPAC Mosaic by E. Kopan Explanation",
-    "2MASS Collaboration, U. Mass., IPAC Mosaic by E. Kopan"
-  ],
+  "credit": "2MASS Collaboration, U. Mass., IPAC Mosaic by E. Kopan",
   "explanation": "Few astronomical sights excite the imagination like the nearby stellar nursery known as the Orion Nebula. The Nebula's glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1,500 light-years away. This distinctively detailed image of the Orion Nebula was constructed using data from the 2 Micron All Sky Survey or 2MASS. Using telescopes in the Northern and Southern Hemispheres of planet Earth, the 2MASS project has mapped the entire sky in infrared light. The wavelength of infrared light is longer than visible light but more easily penetrates obscuring dust clouds. 2MASS cameras were sensitve to near infrared wavelengths around 2 microns or about 0.00008 inches. Visible light has a wavelength of about 0.00002 inches. Survey observations in three infrared bands were translated to blue, green, and red colors to produce this composite image.",
   "date": "2002-04-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0204/ori2mass_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0204/ori2mass.jpg"
 }

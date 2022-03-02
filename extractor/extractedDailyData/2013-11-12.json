@@ -1,14 +1,10 @@
 {
   "title": "The Unexpected Tails of Asteroid P5",
-  "credit": [
-    "Credit: NASA, ESA, and D. Jewitt (UCLA) et al. Explanation",
-    "NASA, ESA, and D. Jewitt (UCLA) et al."
-  ],
+  "credit": "NASA, ESA, and D. Jewitt (UCLA) et al.",
   "explanation": "What is happening to asteroid P/2013 P5? No one is sure. For reasons unknown, the asteroid is now sporting not one but six discernible tails. The above images were taken two months ago by the orbiting Hubble Space Telescope and show the rapidly changing dust streams. It is not even known when P5 began displaying such unusual tails. Were the main belt asteroid struck by a large meteor, it would be expected to sport a single dust tail. Possible explanations include that light pressure from the Sun is causing the asteroid to rotate increasingly rapidly, which in turn causes pools of previously gravity-bound dust to spin off. Future observations should better indicate how P5 and its dust plumes are evolving and so provide more clues to its nature -- and to how many similar asteroids might exist.",
   "date": "2013-11-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1311/asteroidP5_hubble_3000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1311/asteroidP5_hubble_960.jpg"
 }

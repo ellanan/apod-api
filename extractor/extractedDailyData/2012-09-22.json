@@ -1,14 +1,10 @@
 {
   "title": "Austrian Analemma",
-  "credit": [],
   "explanation": "Today, the Sun crosses the celestial equator heading south at 14:49 Universal Time. An equinox (equal night), this astronomical event marks the first day of autumn in the northern hemisphere and spring in the south. With the Sun on the celestial equator, Earth dwellers will experience nearly 12 hours of daylight and 12 hours of darkness. To celebrate, consider this careful record of the Sun's yearly journey through southern Austrian skies. The scene is composed of images made at the same time each day, capturing the Sun's position on dates from September 29, 2011 through September 9, 2012. The multiple suns trace an intersecting curve known as an analemma. In fact, the past year's two equinox dates correspond to the middle (not the intersection point) of the curve. The summer and winter solstices are at the top and bottom. Of course, many would also consider it a good idea to travel the mountain road toward the left, passing the vineyards along the way to reach the nearby town of Kitzeck and toast the equinox with a glass of wine. Near the roadside bench is a windmill-like klapotetz, traditionally used in this wine-growing region to keep the birds away.",
   "date": "2012-09-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1209/Analemma2012M_polzl.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Pölzl Explanation",
-    "Robert Pölzl"
-  ],
+  "copyright": "Robert Pölzl",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1209/Analemma2012M_polzl900.jpg"
 }

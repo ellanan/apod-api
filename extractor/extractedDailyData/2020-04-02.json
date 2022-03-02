@@ -1,14 +1,10 @@
 {
   "title": "Venus and the Pleiades in April",
-  "credit": [],
   "explanation": "Venus is currently the brilliant evening star. Shared around world, in tonight's sky Venus will begin to wander across the face of the lovely Pleiades star cluster. This digital sky map illustrates the path of the inner planet as the beautiful conjunction evolves, showing its position on the sky over the next few days. The field of view shown is appropriate for binocular equipped skygazers but the star cluster and planet are easily seen with the naked-eye. As viewed from our fair planet, Venus passed in front of the stars of the Seven Sisters 8 years ago, and will again 8 years hence. In fact, orbiting the Sun 13 Venus years are almost equal to 8 years on planet Earth. So we can expect our sister planet to visit nearly the same place in our sky every 8 years.",
   "date": "2020-04-02",
   "hdurl": "https://apod.nasa.gov/apod/image/2004/Venus-Pleiades2020-1.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fred Espenak (Bifrost Astronomical Observatory) Explanation",
-    "Fred Espenak (Bifrost Astronomical Observatory)"
-  ],
+  "copyright": "Fred Espenak (Bifrost Astronomical Observatory)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2004/Venus-Pleiades2020-1.jpg"
 }

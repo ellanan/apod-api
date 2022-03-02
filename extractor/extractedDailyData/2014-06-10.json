@@ -1,14 +1,10 @@
 {
   "title": "M51: X-Rays from the Whirlpool",
-  "credit": [],
   "explanation": "What if we X-rayed an entire spiral galaxy? This was done (again) recently by NASA's Chandra X-ray Observatory for the nearby interacting galaxies known as the Whirlpool (M51). Hundreds of glittering x-ray stars are present in the above Chandra image of the spiral and its neighbor. The image is a conglomerate of X-ray light from Chandra and visible light from the Hubble Space Telescope. The number of luminous x-ray sources, likely neutron star and black hole binary systems within the confines of M51, is unusually high for normal spiral or elliptical galaxies and suggests this cosmic whirlpool has experienced intense bursts of massive star formation. The bright cores of both galaxies, NGC 5194 and NGC 5195 (right and left respectively), also exhibit high-energy activity. In this false-color image where X-rays are depicted in purple, diffuse X-ray emission typically results from multi-million degree gas heated by supernova explosions.",
   "date": "2014-06-10",
   "hdurl": "https://apod.nasa.gov/apod/image/1406/m51_chandrahubble_960.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: X-ray: NASA, CXC, R. Kilgard (Wesleyan U. et al.; Optical: NASA, STScI Explanation",
-    "X-ray: NASA, CXC, R. Kilgard (Wesleyan U. et al.; Optical: NASA, STScI"
-  ],
+  "copyright": "X-ray: NASA, CXC, R. Kilgard (Wesleyan U. et al.; Optical: NASA, STScI",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1406/m51_chandrahubble_960.jpg"
 }

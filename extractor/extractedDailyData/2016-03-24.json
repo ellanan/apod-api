@@ -1,14 +1,10 @@
 {
   "title": "Hickson 91 in Piscis Austrinus",
-  "credit": [],
   "explanation": "Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups (HCGs). This sharp telescopic image captures one such galaxy group, HCG 91, in beautiful detail. The group's three colorful spiral galaxies at the center of the field of view are locked in a gravitational tug of war, their interactions producing faint but visible tidal tails over 100,000 light-years long. Their close encounters trigger furious star formation. On a cosmic timescale the result will be a merger into a large single galaxy, a process now understood to be a normal part of the evolution of galaxies, including our own Milky Way. HCG 91 lies about 320 million light-years away in the constellation Piscis Austrinus. But the impressively deep image also catches evidence of fainter tidal tails and galaxy interactions close to 2 billion light-years distant.",
   "date": "2016-03-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1603/NGC7214_70.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: CHART32 Team, Processing - Johannes Schedler Explanation",
-    "CHART32 Team, Processing - Johannes Schedler"
-  ],
+  "copyright": "CHART32 Team, Processing - Johannes Schedler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1603/NGC7214_70_1024c.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Burns Cliff on Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, JPL, NASA",
   "explanation": "The majestic walls of Endurance Crater contain layers of clues about the ancient past of Mars. In fact, the deeper the layer, the older the clue. The particular crater wall imaged above was dubbed Burns Cliff and was in front of the robot rover Opportunity last week. Close inspection of different layers has found slightly different compositions as well as interesting trends in relative compositions. For example, deeper layers contain similarly decreasing amounts of both magnesium and sulfur, indicating a common reason for their decline -- possibly dissolution in water. Today, more practically, Burns Cliff blocks one exit direction for Opportunity to leave Endurance Crater. When combined with slippery sand elsewhere on the crater floor, controllers have decided to program Opportunity to back out of the crater the way it came in - after a few more days exploration.",
   "date": "2004-11-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0411/burnscliff_opportunity_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0411/burnscliff_opportunity.jpg"
 }

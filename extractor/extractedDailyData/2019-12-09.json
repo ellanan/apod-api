@@ -1,13 +1,9 @@
 {
   "title": "Looking Sideways from the Parker Solar Probe",
-  "credit": [
-    "Credit: NASA, JHUAPL, Naval Research Lab, Parker Solar Probe Explanation",
-    "NASA, JHUAPL, Naval Research Lab, Parker Solar Probe"
-  ],
+  "credit": "NASA, JHUAPL, Naval Research Lab, Parker Solar Probe",
   "explanation": "Everybody sees the Sun. Nobody's been there. Starting in 2018 though, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions near to the Sun for the first time. The PSP's looping orbit brings it yet closer to the Sun each time around -- every few months. The featured time-lapse video shows the view looking sideways from behind PSP's Sun shield during its first approach to the Sun a year ago -- to about half the orbit of Mercury. The PSP's Wide Field Imager for Solar Probe (WISPR) cameras took the images over nine days, but they are digitally compressed here into about 14 seconds. The waving solar corona is visible on the far left, with stars, planets, and even the central band of our Milky Way Galaxy streaming by in the background as the PSP orbits the Sun. PSP has found the solar neighborhood to be surprisingly complex and to include switchbacks -- times when the Sun's magnetic field briefly reverses itself. The Sun is not only Earth's dominant energy source, its variable solar wind compresses Earth's atmosphere, triggers auroras, affects power grids, and can even damage orbiting communication satellites.",
   "date": "2019-12-09",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/7w8szZ4TxCk?rel=0"
 }

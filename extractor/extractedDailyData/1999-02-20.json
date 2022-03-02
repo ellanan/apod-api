@@ -1,14 +1,10 @@
 {
   "title": "Astro 1 In Orbit",
-  "credit": [
-    "Credit: STS-35 Crew, NASA Explanation",
-    "STS-35 Crew, NASA"
-  ],
+  "credit": "STS-35 Crew, NASA",
   "explanation": "In December of 1990, the Space Shuttle Columbia carried an array of astronomical telescopes high above the Earth's obscuring atmosphere to observe the Universe at ultraviolet and x-ray wavelengths. The telescopes, known by the acronyms UIT, HUT, WUPPE, and BBXRT, are seen here in Columbia's payload bay against a spectacular view of the constellation Orion. The ultraviolet telescopes were mounted on a common structure - HUT is visible in this view along with a star tracker (the silver cone at the left). The mission studied solar system, galactic, and extra-galactic sources.",
   "date": "1999-02-20",
   "hdurl": "https://apod.nasa.gov/apod/image/9708/astro1_sts35_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9708/astro1_sts35_big.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "VAR!",
-  "credit": [
-    "Credit: E. Hubble, NASA, ESA, R. Gendler, Z. Levay and the Hubble Heritage Team Explanation",
-    "E. Hubble, NASA, ESA, R. Gendler, Z. Levay and the Hubble Heritage Team"
-  ],
+  "credit": "E. Hubble, NASA, ESA, R. Gendler, Z. Levay and the Hubble Heritage Team",
   "explanation": "In the 1920s, examining photographic plates from the Mt. Wilson Observatory's 100 inch telescope, Edwin Hubble determined the distance to the Andromeda Nebula, decisively demonstrating the existence of other galaxies far beyond the Milky Way. His notations are evident on the historic plate image inset at the lower right, shown in context with ground based and Hubble Space Telescope images of the region made nearly 90 years later. By comparing different plates, Hubble searched for novae, stars which underwent a sudden increase in brightness. He found several on this plate, indicating their position with lines and an \"N\". Later, discovering that the one near the upper right corner was actually a type of variable star known as a cepheid, he crossed out the \"N\" and wrote \"VAR!\". Thanks to the work of Harvard astronomer Henrietta Leavitt, cepheids, regularly varying pulsating stars, could be used as standard candle distance indicators. Identifying such a star allowed Hubble to show that Andromeda was not a small cluster of stars and gas within our own galaxy, but a large galaxy in its own right at a substantial distance from the Milky Way. Hubble's discovery is responsible for establishing our modern concept of a Universe filled with galaxies.",
   "date": "2011-07-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1107/varHubblepanel_hst.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1107/varHubblepanel_hst800.jpg"
 }

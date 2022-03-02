@@ -1,14 +1,10 @@
 {
   "title": "JWST on the Road to L2",
-  "credit": [],
   "explanation": "This timelapse gif tracks the James Webb Space Telescope as it streaks across the stars of Orion on its journey to a destination beyond the Moon. Recorded on December 28, 12 consecutive exposures each 10 minutes long were aligned and combined with a subsequent color image of the background stars to create the animation. About 2.5 days after its December 25 launch, JWST cruised past the altitude of the Moon's orbit as it climbed up the gravity ridge from Earth to reach a halo orbit around L2, an Earth-Sun Lagrange point. Lagrange points are convenient locations in space where the combined gravitational attraction of one massive body (Earth) orbiting another massive body (Sun) is in balance with the centripetal force needed to move along with them. So much smaller masses, like spacecraft, will tend to stay there. One of 5 Lagrange points, L2 is about 1.5 million kilometers from Earth directly along the Earth-Sun line. JWST will arrive at L2 on January 23, 29 days after launch. While relaxing in Earth's surface gravity you can follow the James Webb Space Telescope's progress and complicated deployment online.",
   "date": "2021-12-31",
   "hdurl": "https://apod.nasa.gov/apod/image/2112/JWST.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Malcolm Park (North York Astronomical Association) Explanation",
-    "Malcolm Park (North York Astronomical Association)"
-  ],
+  "copyright": "Malcolm Park (North York Astronomical Association)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2112/JWSTcrop1024.gif"
 }

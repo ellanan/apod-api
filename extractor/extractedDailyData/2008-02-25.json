@@ -1,14 +1,10 @@
 {
   "title": "Dawn of the Large",
-  "credit": [],
   "explanation": "Why do objects have mass? To help find out, Europe's CERN has built the Large Hadron Collider (LHC), the most powerful particle accelerator yet created by humans. This May, the LHC is scheduled to start smashing protons into each other with unprecedented impact speeds. The LHC will explore the leading explanation that mass arises from ordinary particles slogging through an otherwise invisible but pervasive field of virtual Higgs particles. Were high energy colliding particles to create real Higgs bosons, the Higgs mechanism for mass creation may be bolstered. LHC will also look for micro black holes, magnetic monopoles, and explore the possibility that every type of fundamental particle we know about has a nearly invisible supersymmetric counterpart. The LHC@Home project will allow anyone with a home computer to help LHC scientists search archived LHC data for these strange beasts. Pictured above, a person stands in front of the huge ATLAS detector, one of six detectors being attached to the LHC.",
   "date": "2008-02-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0802/atlas_cern_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Maximilien Brice, CERN Explanation: Why do objects have mass? To help find out, Europe's CERN has built the Large Hadron Collider (LHC), the most powerful particle accelerator yet created by humans. This May, the LHC is scheduled to start smashing protons into each other with unprecedented impact speeds. The LHC will explore the leading explanation",
-    "Maximilien Brice, CERN Explanation: Why do objects have mass? To help find out, Europe's CERN has built the Large Hadron Collider (LHC), the most powerful particle accelerator yet created by humans. This May, the LHC is scheduled to start smashing protons into each other with unprecedented impact speeds. The LHC will explore the leading"
-  ],
+  "copyright": "Maximilien Brice, CERN Explanation: Why do objects have mass? To help find out, Europe's CERN has built the Large Hadron Collider (LHC), the most powerful particle accelerator yet created by humans. This May, the LHC is scheduled to start smashing protons into each other with unprecedented impact speeds. The LHC will explore the leading",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0802/atlas_cern.jpg"
 }

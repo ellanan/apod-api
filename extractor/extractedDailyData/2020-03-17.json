@@ -1,14 +1,10 @@
 {
   "title": "M77: Spiral Galaxy with an Active Center",
-  "credit": [
-    "Credit: Hubble, NASA, ESA; Processing & License: Judy Schmidt Explanation",
-    "Hubble, NASA, ESA; Processing & License: Judy Schmidt"
-  ],
+  "credit": "Hubble, NASA, ESA; Processing & License: Judy Schmidt",
   "explanation": "What's happening in the center of nearby spiral galaxy M77? The face-on galaxy lies a mere 47 million light-years away toward the constellation of the Sea Monster (Cetus). At that estimated distance, this gorgeous island universe is about 100 thousand light-years across. Also known as NGC 1068, its compact and very bright core is well studied by astronomers exploring the mysteries of supermassive black holes in active Seyfert galaxies. M77 and its active core glows bright at x-ray, ultraviolet, visible, infrared, and radio wavelengths. The featured sharp image of M77 was taken by the Hubble Space Telescope and is dominated by the (visible) red light emitted by hydrogen. The image shows details of the spiral's winding spiral arms as traced by obscuring dust clouds, and red-tinted star forming regions close in to the galaxy's luminous core.",
   "date": "2020-03-17",
   "hdurl": "https://apod.nasa.gov/apod/image/2003/M77Halpha_HubbleSchmidt_2290.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2003/M77Halpha_HubbleSchmidt_960.jpg"
 }

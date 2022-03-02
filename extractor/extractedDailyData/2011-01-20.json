@@ -1,14 +1,10 @@
 {
   "title": "The Once and Future Stars of Andromeda",
-  "credit": [],
   "explanation": "The big, beautiful Andromeda Galaxy, aka M31, is a spiral galaxy a mere 2.5 million light-years away. Two space-based observatories have combined to produce this intriguing composite image of Andromeda, at wavelengths outside the visible spectrum. The remarkable view follows the locations of this galaxy's once and future stars. In reddish hues, image data from the large Herschel infrared observatory traces enormous lanes of dust, warmed by stars, sweeping along Andromeda's spiral arms. The dust, in conjunction with the galaxy's interstellar gas, comprises the raw material for future star formation. X-ray data from the XMM-Newton observatory in blue pinpoint Andromeda's X-ray binary star systems. These systems likely contain neutron stars or stellar mass black holes that represent final stages in stellar evolution. More than twice the size of our own Milky Way, the Andromeda Galaxy is over 200,000 light-years across.",
   "date": "2011-01-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1101/M31_XMM_HERSCHEL.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: ESA/Herschel/ PACS/SPIRE/J.Fritz(U.Gent) / XMM-Newton/EPIC/W.Pietsch(MPE) Explanation",
-    "ESA/Herschel/ PACS/SPIRE/J.Fritz(U.Gent) / XMM-Newton/EPIC/W.Pietsch(MPE)"
-  ],
+  "copyright": "ESA/Herschel/ PACS/SPIRE/J.Fritz(U.Gent) / XMM-Newton/EPIC/W.Pietsch(MPE)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1101/M31_XMM_HERSCHEL_r900.jpg"
 }

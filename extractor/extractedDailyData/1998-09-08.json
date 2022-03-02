@@ -1,14 +1,10 @@
 {
   "title": "A Cluster Too Far",
-  "credit": [
-    "Credit: E. J. Ostrander et al. (Carnegie Mellon U.), WFPC2, HST, NASA Explanation",
-    "E. J. Ostrander et al. (Carnegie Mellon U.), WFPC2, HST, NASA"
-  ],
+  "credit": "E. J. Ostrander et al. (Carnegie Mellon U.), WFPC2, HST, NASA",
   "explanation": "Why is this galaxy cluster so red? Nearby clusters have galaxies with colors that are much more yellow and blue. A leading explanation is that this cluster of galaxies lies so far across our universe (z~1) that cosmological time dilation significantly reddens the light. If true, this cluster might lie too far away to have formed in a dense universe, implying that our universe is not very dense. HST 035528+09435 is one of the reddest clusters found in the Hubble Space Telescope's Medium Deep Survey. Astronomers will now work to confirm the high distance to this cluster, and contemplate what it signifies about the nature of our universe.",
   "date": "1998-09-08",
   "hdurl": "https://apod.nasa.gov/apod/image/9809/clusters_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9809/clusters_hst.jpg"
 }

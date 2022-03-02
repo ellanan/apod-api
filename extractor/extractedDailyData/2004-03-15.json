@@ -1,14 +1,10 @@
 {
   "title": "The Orion Nebula from CFHT",
-  "credit": [],
   "explanation": "Few astronomical sights excite the imagination like the nearby stellar nursery known as the Orion Nebula. The Nebula's glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. The Great Nebula in Orion can be found with the unaided eye just below and to the left of the easily identifiable belt of three stars in the popular constellation Orion. The above image from the 3.6-meter Canada-France-Hawaii Telescope atop a dormant volcano in Hawaii brings out Orion's detail in spectacular fashion. Buried in the complex nebulosity are the bright stars of the Trapezium in Orion's heart, the sweeping lanes of dark dust that cross the center, the pervasive red glowing hydrogen gas, and the blue tinted dust that reflects the light of newborn stars. The whole Orion Nebula cloud complex, which includes the Horsehead Nebula, will slowly disperse over the next 100,000 years.",
   "date": "2004-03-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0403/m42_cfht_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT), Coelum Explanation",
-    "Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT), Coelum"
-  ],
+  "copyright": "Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT), Coelum",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0403/m42_cfht.jpg"
 }

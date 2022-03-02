@@ -1,14 +1,10 @@
 {
   "title": "Stars, Dust and Nebula in NGC 2170",
-  "credit": [],
   "explanation": "When stars form, pandemonium reigns. A textbook case is the star forming region NGC 2170. Visible above are red glowing emission nebulas of hydrogen, blue reflection nebulas of dust, dark absorption nebulas of dust, and the stars that formed from them. The first massive stars formed from the dense gas will emit energetic light and winds that erode, fragment, and sculpt their birthplace. And then they explode. The resulting morass is often as beautiful as it is complex. After tens of millions of years, the dust boils away, the gas gets swept away, and all that is left is a naked open cluster of stars.",
   "date": "2007-02-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0702/ngc2170_croman_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Russell Croman (Russell Croman Astrophotography) Explanation",
-    "Russell Croman (Russell Croman Astrophotography)"
-  ],
+  "copyright": "Russell Croman (Russell Croman Astrophotography)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0702/ngc2170_croman.jpg"
 }

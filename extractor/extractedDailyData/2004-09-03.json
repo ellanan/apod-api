@@ -1,14 +1,10 @@
 {
   "title": "Hurricane Frances Approaches Florida",
-  "credit": [
-    "Credit: NASA, NOAA Explanation",
-    "NASA, NOAA"
-  ],
+  "credit": "NASA, NOAA",
   "explanation": "A major hurricane is heading for Florida. Hurricane Frances, one of the stronger storm systems of modern times, may cross the eastern coast of Florida sometime tomorrow. Those in the path of a hurricane should take precautions. For example, NASA's Kennedy Space Center has completely shut down. The orbiting GOES-12 satellite took the above image of Hurricane Frances early yesterday. Hurricanes are huge swirling storms with cloud systems typically larger than a state. Tropical cyclones, called hurricanes in Earth's Western Hemisphere and typhoons in the Eastern Hemisphere, get their immense energy from warm evaporated ocean water. As this water vapor cools and condenses, it heats the air, lowers pressure and hence causes cooler air to come swooshing in. Winds can reach over 250 kilometers per hour and become very dangerous. Much remains unknown about cyclones, including how they are formed and the exact path they will take.",
   "date": "2004-09-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0409/frances2_noaa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0409/frances2_noaa.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Pleiades Deep and Dusty",
-  "credit": [],
   "explanation": "The well-known Pleiades star cluster is slowly destroying part of a passing cloud of gas and dust. The Pleiades is the brightest open cluster of stars on Earth's sky and can be seen from almost any northerly location with the unaided eye. The passing young dust cloud is thought to be part of Gould's Belt, an unusual ring of young star formation surrounding the Sun in the local Milky Way Galaxy. Over the past 100,000 years, part of Gould's Belt is by chance moving right through the older Pleiades and is causing a strong reaction between stars and dust. Pressure from the stars' light significantly repels the dust in the surrounding blue reflection nebula, with smaller dust particles being repelled more strongly. A short-term result is that parts of the dust cloud have become filamentary and stratified. The featured deep image also captured Comet C/2015 ER61 (PanSTARRS) on the lower left.",
   "date": "2017-11-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1711/DeepPleiadesPanstarrs_Casado_2000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Juan Carlos Casado (TWAN, Earth & Stars), Miquel Serra-Ricart & Daniel Padron, FECYT Explanation",
-    "Juan Carlos Casado (TWAN, Earth & Stars), Miquel Serra-Ricart & Daniel Padron, FECYT"
-  ],
+  "copyright": "Juan Carlos Casado (TWAN, Earth & Stars), Miquel Serra-Ricart & Daniel Padron, FECYT",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1711/DeepPleiadesPanstarrs_Casado_960.jpg"
 }

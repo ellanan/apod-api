@@ -1,14 +1,10 @@
 {
   "title": "Stars of NGC 206",
-  "credit": [
-    "Credit: B.J. Mochejska (Warsaw University), The DIRECT Project, FLWO, MDM Explanation",
-    "B.J. Mochejska (Warsaw University), The DIRECT Project, FLWO, MDM"
-  ],
+  "credit": "B.J. Mochejska (Warsaw University), The DIRECT Project, FLWO, MDM",
   "explanation": "Nestled within the dusty arms of the large spiral galaxy Andromeda (M31), the star cluster NGC 206 is one of the largest star forming regions known in our local group of galaxies. The beautiful bright blue stars of NGC 206 betray its youth - but close, systematic studies of variable stars in and around NGC 206 will also accurately reveal its distance. Astronomers are searching for variable stars in NGC 206, particularly pulsating stars known as Cepheids and eclipsing binary star systems. Distances for these types of stars can be effectively determined by following the periodic changes in their brightness and spectra. About 3 million light-years away, an accurately known distance to NGC 206 and thus M31 is critical to the larger understanding of galaxy formation, galaxy evolution, and ultimately the distance scale of the Universe.",
   "date": "1999-04-02",
   "hdurl": "https://apod.nasa.gov/apod/image/9904/ngc206_direct_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9904/ngc206_direct.jpg"
 }

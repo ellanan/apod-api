@@ -1,14 +1,10 @@
 {
   "title": "Shapley 1: An Annular Planetary Nebula",
-  "credit": [],
   "explanation": "What happens when a star runs out of nuclear fuel? The center condenses into a white dwarf while the outer atmospheric layers are expelled into space and appear as a planetary nebula. This particular planetary nebula, designated Shapley 1 after the famous astronomer Harlow Shapley, has a very apparent annular ring like structure. Although some of these nebulae appear like planets on the sky (hence their name), they actually surround stars far outside our Solar System.",
   "date": "2000-06-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0006/shapley1_aat.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: D. Malin (AAO), AATB Explanation",
-    "D. Malin (AAO), AATB"
-  ],
+  "copyright": "D. Malin (AAO), AATB",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0006/shapley1_aat_big.jpg"
 }

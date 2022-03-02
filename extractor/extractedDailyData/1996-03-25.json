@@ -1,14 +1,10 @@
 {
   "title": "Comet Hyakutake Passes the Earth",
-  "credit": [],
   "explanation": "",
   "date": "1996-03-25",
   "hdurl": "https://apod.nasa.gov/apod/image/hyakutake_21Mar_pm_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Peter McCullough (U. Illinois Urbana-Champaign) McCollough's MPEG Movie of Comet Hyakutake taken March 23 Explanation",
-    "Peter McCullough (U. Illinois Urbana-Champaign) McCollough's MPEG Movie of Comet Hyakutake taken March 23"
-  ],
+  "copyright": "Peter McCullough (U. Illinois Urbana-Champaign) McCollough's MPEG Movie of Comet Hyakutake taken March 23",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hyakutake_21Mar_pm.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Southern Comet",
-  "credit": [],
   "explanation": "",
   "date": "2007-01-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0701/CometMcNaught_munford.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Noel Munford (Palmerston North Astronomical Society, New Zealand) Explanation",
-    "Noel Munford (Palmerston North Astronomical Society, New Zealand)"
-  ],
+  "copyright": "Noel Munford (Palmerston North Astronomical Society, New Zealand)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0701/CometMcNaught_munford_c505.jpg"
 }

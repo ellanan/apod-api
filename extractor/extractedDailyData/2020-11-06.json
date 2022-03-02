@@ -1,14 +1,10 @@
 {
   "title": "Moon over ISS",
-  "credit": [],
   "explanation": "Completing one orbit of our fair planet in 90 minutes the International Space Station can easily be spotted by eye as a very bright star moving through the night sky. Have you seen it? The next time you do, you will have recognized the location of over 20 years of continuous human presence in space. In fact, the Expedition 1 crew to the ISS docked with the orbital outpost some 400 kilometers above the Earth on November 2, 2000. No telescope is required to spot the ISS flashing through the night. But this telescopic field of view does reveal remarkable details of the space station captured as it transited the waning gibbous moon on November 3, just one day after the space age milestone. The well-timed telescopic snapshot also contains the location of another inspirational human achievement. About 400,000 kilometers away, the Apollo 11 landing site on the dark, smooth lunar Sea of Tranquility is to the right of the ISS silhouette.",
   "date": "2020-11-06",
   "hdurl": "https://apod.nasa.gov/apod/image/2011/ISSlunartransit110320closeup.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Derek Demeter (Emil Buehler Planetarium) Explanation",
-    "Derek Demeter (Emil Buehler Planetarium)"
-  ],
+  "copyright": "Derek Demeter (Emil Buehler Planetarium)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2011/ISSlunartransit110320closeup1024.jpg"
 }

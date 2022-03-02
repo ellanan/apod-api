@@ -1,14 +1,10 @@
 {
   "title": "NGC 2419: Intergalactic Wanderer",
-  "credit": [],
   "explanation": "Three objects stand out in this thoughtful telescopic image, a view toward the mostly stealthy constellation Lynx. The two brightest (the spiky ones) are nearby stars. The third is the remote globular star cluster NGC 2419, at distance of nearly 300,000 light-years. NGC 2419 is sometimes called \"the Intergalactic Wanderer\", an appropriate title considering that the distance to the Milky Way's satellite galaxy, the Large Magellanic Cloud, is only about 160,000 light-years. Roughly similar to other large globular star clusters like Omega Centauri, NGC 2419 is itself intrinsically bright, but appears faint because it is so far away. NGC 2419 may really have an extragalactic origin as, for example, the remains of a small galaxy captured and disrupted by the Milky Way. But its extreme distance makes it difficult to study and compare its properties with other globular clusters that roam the halo of our Milky Way galaxy.",
   "date": "2015-06-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1506/ngc2419Frankebig.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Bob Franke Explanation",
-    "Bob Franke"
-  ],
+  "copyright": "Bob Franke",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1506/ngc2419Franke.jpg"
 }

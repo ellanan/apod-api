@@ -1,14 +1,10 @@
 {
   "title": "Eta Carinae in X-Rays",
-  "credit": [
-    "Credit: Chandra X-ray Observatory, NASA Explanation",
-    "Chandra X-ray Observatory, NASA"
-  ],
+  "credit": "Chandra X-ray Observatory, NASA",
   "explanation": "Eta Carinae is the one of the most luminous star systems in our Galaxy, radiating millions of times more power than our Sun. Eta Carinae is also one of the strangest star systems known, brightening and fading greatly since the early 1800s. Recently, the Chandra Observatory observed Eta Carinae in X-ray light, adding even more unanticipated pieces to this enigmatic puzzle. Pictured above, a horseshoe-shaped outer ring about two light-years across has been discovered surrounding a hot core measuring three light-months across. One thing appears likely: these structures were caused by collisions involving matter expelled from the center at supersonic speeds. Speculation continues that Eta Carinae will be seen to undergo a supernova explosion sometime in the next thousand years.",
   "date": "1999-10-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9910/etacarina_chandra_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9910/etacarina_chandra.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Astronaut Who Captured a Satellite",
-  "credit": [
-    "Credit: STS-51A, NASA Explanation",
-    "STS-51A, NASA"
-  ],
+  "credit": "STS-51A, NASA",
   "explanation": "In 1984, high above the Earth's surface, an astronaut captured a satellite. It was the second satellite captured that mission. Pictured above, astronaut Dale A. Gardner flies free using the Manned Maneuvering Unit and begins to attach a control device dubbed the Stinger to the rotating Westar 6 satellite. Communications satellite Westar 6 had suffered a rocket malfunction that left it unable to reach its intended high geosynchronous orbit. Both the previously caught Palapa B-2 satellite and the Westar 6 satellite were guided into the cargo bay of the Space Shuttle Discovery and returned to Earth. Westar 6 was subsequently refurbished and sold.",
   "date": "2010-01-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1001/westarcapture_sts51a_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1001/westarcapture_sts51a.jpg"
 }

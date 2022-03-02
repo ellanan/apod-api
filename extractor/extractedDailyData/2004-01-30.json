@@ -1,14 +1,10 @@
 {
   "title": "X-Ray Rings Expand from a Gamma Ray Burst",
-  "credit": [
-    "Credit: S. Vaughan, R. Willingale (U. Leicester) et al., XMM, ESA Explanation",
-    "S. Vaughan, R. Willingale (U. Leicester) et al., XMM, ESA"
-  ],
+  "credit": "S. Vaughan, R. Willingale (U. Leicester) et al., XMM, ESA",
   "explanation": "Why do x-ray rings appear to emanate from a gamma-ray burst? The surprising answer has little to do with the explosion itself but rather with light reflected off sheets of dust-laden gas in our own Milky Way Galaxy. GRB 031203 was a tremendous explosion -- a gamma-ray burst that occurred far across the universe with radiation just arriving in our Solar System last December 3. Since GRBs can also emit copious amounts of x-rays, a bright flash of x-rays likely arrived simultaneously with the gamma-radiation. In this case, the x-rays also bounced off two slabs of cosmic dust nearly 3500 light-years distant and created the unusual reflections. The longer path from the GRB, to the dust slab, to the XMM-Newton telescope caused the x-ray light echoes to arrive well after the GRB.",
   "date": "2004-01-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0401/grbrings_xmm_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0401/grbrings_xmm_big.gif"
 }

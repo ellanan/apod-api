@@ -1,14 +1,10 @@
 {
   "title": "The Tails of Comet NEOWISE",
-  "credit": [],
   "explanation": "Comet NEOWISE (C/2020 F3) is now sweeping through northern skies. Its developing tails stretch some six degrees across this telescopic field of view, recorded from Brno, Czech Republic before daybreak on July 10. Pushed out by the pressure of sunlight itself, the comet's broad, yellowish dust tail is easiest to see. But the image also captures a fainter, more bluish tail too, separate from the reflective comet dust. The fainter tail is an ion tail, formed as ions from the cometary coma are dragged outward by magnetic fields in the solar wind and fluoresce in the sunlight. In this sharp portrait of our new visitor from the outer Solar System, the tails of comet NEOWISE are reminiscent of the even brighter tails of Hale Bopp, the Great Comet of 1997.",
   "date": "2020-07-11",
   "hdurl": "https://apod.nasa.gov/apod/image/2007/C2020_F3_NEOWISE_2020_07_10_druckmuller.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Miloslav Druckmuller (Brno University of Technology) Explanation",
-    "Miloslav Druckmuller (Brno University of Technology)"
-  ],
+  "copyright": "Miloslav Druckmuller (Brno University of Technology)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2007/C2020_F3_NEOWISE_2020_07_10_druckmuller1024.jpg"
 }

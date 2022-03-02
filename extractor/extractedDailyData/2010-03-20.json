@@ -1,14 +1,10 @@
 {
   "title": "Zodiacal Light Vs. Milky Way",
-  "credit": [],
   "explanation": "Ghostly Zodiacal light, featured near the center of this remarkable panorama, is produced as sunlight is scattered by dust in the Solar System's ecliptic plane. In the weeks surrounding the March equinox (today at 1732 UT) Zodiacal light is more prominent after sunset in the northern hemisphere, and before sunrise in the south, when the ecliptic makes a steep angle with the horizon. In the picture, the narrow triangle of Zodiacal light extends above the western horizon and seems to end at the lovely Pleiades star cluster. Arcing above the Pleiades are stars and nebulae along the plane of our Milky Way Galaxy. Recorded on March 10 from Teide National Park on the island of Tenerife, the vista is composed of 4 separate pictures spanning over 180 degrees.",
   "date": "2010-03-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1003/01_zodiacal_lactea_DLopez.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Daniel López Explanation",
-    "Daniel López"
-  ],
+  "copyright": "Daniel López",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1003/01_zodiacal_lactea_DLopez600h.jpg"
 }

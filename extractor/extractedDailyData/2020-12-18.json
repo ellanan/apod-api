@@ -1,14 +1,10 @@
 {
   "title": "Diamond in the Sky",
-  "credit": [],
   "explanation": "When the shadow of the Moon raced across planet Earth's southern hemisphere on December 14, sky watchers along the shadow's dark central path were treated to the only total solar eclipse of 2020. During the New Moon's shadow play this glistening diamond ring was seen for a moment, even in cloudy skies. Known as the diamond ring effect, the transient spectacle actually happens twice. Just before and immediately after totality, a thin sliver of solar disk visible behind the Moon's edge creates the appearance of a shiny jewel set in a dark ring. This dramatic snapshot from the path of totality in northern Patagonia, Argentina captures this eclipse's second diamond ring, along with striking solar prominences lofted beyond the edge of the Moon's silhouette.",
   "date": "2020-12-18",
   "hdurl": "https://apod.nasa.gov/apod/image/2012/2020Dec14TSE_Ribas_IMG_9291c.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mariano Ribas (Planetario de la Ciudad de Buenos Aires) Explanation",
-    "Mariano Ribas (Planetario de la Ciudad de Buenos Aires)"
-  ],
+  "copyright": "Mariano Ribas (Planetario de la Ciudad de Buenos Aires)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2012/2020Dec14TSE_Ribas_IMG_9291c1024.jpg"
 }

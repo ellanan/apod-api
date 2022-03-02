@@ -1,14 +1,10 @@
 {
   "title": "Io: A Volcanic Moon",
-  "credit": [
-    "Credit: NASA, Voyager Project Explanation",
-    "NASA, Voyager Project"
-  ],
+  "credit": "NASA, Voyager Project",
   "explanation": "",
   "date": "1995-08-03",
   "hdurl": "https://apod.nasa.gov/apod/image/io1.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/io1.gif"
 }

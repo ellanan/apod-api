@@ -1,14 +1,10 @@
 {
   "title": "Comet Leonard behind JWST Launch Plume",
-  "credit": [],
   "explanation": "Which one of these two streaks is a comet? Although they both have comet-like features, the lower streak is the only real comet. This lower streak shows the coma and tail of Comet Leonard, a city-sized block of rocky ice that is passing through the inner Solar System as it continues its looping orbit around the Sun. Comet Leonard has recently passed its closest to both the Earth and Venus and will round the Sun next week. The comet, still visible to the unaided eye, has developed a long and changing tail in recent weeks. In contrast, the upper streak is the launch plume of the Ariane V rocket that lifted the James Webb Space Telescope (JWST) off the Earth two days ago. The featured single-exposure image was taken from Thailand, and the foreground spire is atop a pagoda in Doi Inthanon National Park. JWST, NASA's largest and most powerful space telescope so far, will orbit the Sun near the Earth-Sun L2 point and is scheduled to start science observations in the summer of 2022.",
   "date": "2021-12-27",
   "hdurl": "https://apod.nasa.gov/apod/image/2112/CometJwst_Matipon_2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Matipon Tangmatitham (NARIT) Explanation",
-    "Matipon Tangmatitham (NARIT)"
-  ],
+  "copyright": "Matipon Tangmatitham (NARIT)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2112/CometJwst_Matipon_1080.jpg"
 }

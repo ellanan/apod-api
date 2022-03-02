@@ -1,14 +1,10 @@
 {
   "title": "In the Center of NGC 604",
-  "credit": [
-    "Credit: H. Yang (UIUC), J. Hester (ASU), HST, NASA Explanation",
-    "H. Yang (UIUC), J. Hester (ASU), HST, NASA"
-  ],
+  "credit": "H. Yang (UIUC), J. Hester (ASU), HST, NASA",
   "explanation": "Stars are sometimes born in the midst of chaos. About 3 million years ago in the nearby galaxy M33, a large cloud of gas spawned dense internal knots which gravitationally collapsed to form stars. But NGC 604 was so large, it could form enough stars to make a globular cluster. Many young stars from this cloud are visible above, along with what is left of the initial gas cloud. Some stars were so massive they have already evolved and exploded in a supernova. The brightest stars that are left emit light so energetic that they create one of the largest cloud of ionized hydrogen gas known, second only to the 30 Doradus Cluster in Milky Way's close neighbor, the Large Magellanic Cloud.",
   "date": "1997-03-05",
   "hdurl": "https://apod.nasa.gov/apod/image/9703/ngc604_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9703/ngc604_hst.jpg"
 }

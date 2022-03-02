@@ -1,14 +1,10 @@
 {
   "title": "Semeis 147: Supernova Remnant",
-  "credit": [],
   "explanation": "It's easy to get lost following the intricate filaments in this stunningly detailed image of faint supernova remnant Simeis 147. Seen towards the constellation Taurus it covers nearly 3 degrees (6 full moons) on the sky corresponding to a width of 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years. On three separate nights in December 2001 and January 2002 astronomer Steve Mandel accumulated a total of over eight hours of exposure time to compose this image. He used an astronomical CCD camera, telephoto lens, and his specially designed adapter to allow such wide-field digital imaging. He also used a narrow H-alpha filter to transmit only the the light from recombining hydrogen atoms in the expanding nebulosity, defining the regions of shocked, glowing gas. This supernova remnant has an apparent age of about 100,000 years (light from the original explosion first reached Earth 100,000 years ago) but it is not the only aftermath of the massive stellar explosion. The cosmic catastrophe also left behind a spinning neutron star or pulsar, all that remains of the star's dense core.",
   "date": "2002-08-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0208/s147_mandel_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Mandel Explanation",
-    "Steve Mandel"
-  ],
+  "copyright": "Steve Mandel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0208/s147_mandel.jpg"
 }

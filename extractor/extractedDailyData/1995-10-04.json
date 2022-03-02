@@ -1,14 +1,10 @@
 {
   "title": "The Sun Spews X-rays",
-  "credit": [
-    "Credit: Yohkoh Soft X-ray Telescope, ISAS, Japan Explanation",
-    "Yohkoh Soft X-ray Telescope, ISAS, Japan"
-  ],
+  "credit": "Yohkoh Soft X-ray Telescope, ISAS, Japan",
   "explanation": "",
   "date": "1995-10-04",
   "hdurl": "https://apod.nasa.gov/apod/image/sun_yohkoh.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/sun_yohkoh.gif"
 }

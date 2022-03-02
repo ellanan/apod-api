@@ -1,14 +1,10 @@
 {
   "title": "Shocked by Supernova 1987A",
-  "credit": [
-    "Credit: P. Garnavich (Harvard CfA) et al., NASA Explanation",
-    "P. Garnavich (Harvard CfA) et al., NASA"
-  ],
+  "credit": "P. Garnavich (Harvard CfA) et al., NASA",
   "explanation": "Fifteen years ago today, the brightest supernova of modern times was sighted. Over time, astronomers have watched and waited for the expanding debris from this tremendous stellar explosion to crash into previously expelled material. A clear result of such a collision is demonstrated above in two frames recorded by the Hubble Space Telescope in 1994 (left) and 1997(right). While the central concentration of stellar debris has clearly evolved over this period, the yellow spot on the ring in the righthand picture announces the collision of an outward moving blast wave with the pre-existing, light-year wide ring. The collision is occurring at speeds near 60 million kilometers per hour and shock-heats the ring material causing it to glow. Astronomers are hopeful that such collisions will illuminate the interesting past of SN 1987A, and perhaps provide more clues about the origin of the mysterious rings.",
   "date": "2002-02-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0202/sn87aknot_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0202/sn87aknot_hst.jpg"
 }

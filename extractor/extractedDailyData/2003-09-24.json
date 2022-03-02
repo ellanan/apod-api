@@ -1,14 +1,10 @@
 {
   "title": "M33: Spiral Galaxy in Triangulum",
-  "credit": [],
   "explanation": "The small constellation Triangulum in the northern sky harbors this magnificent face-on spiral galaxy, M33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33's diameter spans over 50,000 light-years, making it third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 lies very close to the Andromeda Galaxy and observers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from planet Earth, this sharp 27 frame mosaic of M33 nicely shows off blue star clusters and pinkish star forming regions which trace the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region seen here, visible along an arm arcing above and to the right of the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.",
   "date": "2003-09-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0309/M33colormosaic5LL_gendler_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0309/M33colormosaic5LL_gendler_c1.jpg"
 }

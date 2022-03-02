@@ -1,14 +1,10 @@
 {
   "title": "Stardust in Aries",
-  "credit": [],
   "explanation": "This composition in stardust covers almost 2 degrees on the sky, close to the border of the zodiacal constellation Aries and the plane of our Milky Way Galaxy. At the lower right of the gorgeous skyscape is a dusty blue reflection nebula surrounding a bright star cataloged as van den Bergh 13 (vdB 13), about 1,000 light-years away. At that estimated distance, the cosmic canvas is over 30 light-years across. Also surrounded by scattered blue starlight, vdB 16 lies toward the upper left, while dark dusty nebulae sprawl across the scene. Near the edge of a large molecular cloud, they can hide newly formed stars and young stellar objects or protostars from prying optical telescopes. Collapsing due to self-gravity, the protostars form around dense cores embedded in the molecular cloud.",
   "date": "2010-11-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1011/vdb13stardust_falesiedi.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alessandro Falesiedi Explanation",
-    "Alessandro Falesiedi"
-  ],
+  "copyright": "Alessandro Falesiedi",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1011/vdb13stardust_falesiedi900.jpg"
 }

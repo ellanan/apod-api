@@ -1,14 +1,10 @@
 {
   "title": "Giant Cluster Bends, Breaks Images",
-  "credit": [
-    "Credit: W. N. Colley & E. Turner (Princeton), J.A. Tyson (Lucent), HST, NASA Explanation",
-    "W. N. Colley & E. Turner (Princeton), J.A. Tyson (Lucent), HST, NASA"
-  ],
+  "credit": "W. N. Colley & E. Turner (Princeton), J.A. Tyson (Lucent), HST, NASA",
   "explanation": "What are those strange blue objects? Many are images of a single, unusual, beaded, blue, ring-like galaxy which just happens to line-up behind a giant cluster of galaxies. Cluster galaxies here appear yellow and -- together with the cluster's dark matter -- act as a gravitational lens. A gravitational lens can create several images of background galaxies, analogous to the many points of light one would see while looking through a wine glass at a distant street light. The distinctive shape of this background galaxy -- which is probably just forming -- has allowed astronomers to deduce that it has separate images at 4, 8, 9 and 10 o'clock, from the center of the cluster. Possibly even the blue smudge just left of center is yet another image! This spectacular photo from the Hubble Space Telescope was taken in October 1994.",
   "date": "2001-06-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0004/cl0024_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0004/cl0024_hst.jpg"
 }

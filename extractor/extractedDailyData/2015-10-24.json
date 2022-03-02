@@ -1,14 +1,10 @@
 {
   "title": "Jupiter in 2015",
-  "credit": [
-    "Credit: NASA, ESA, Amy Simon (GSFC), Michael Wong (UC Berkeley), Glenn Orton (JPL-Caltech) Explanation",
-    "NASA, ESA, Amy Simon (GSFC), Michael Wong (UC Berkeley), Glenn Orton (JPL-Caltech)"
-  ],
+  "credit": "NASA, ESA, Amy Simon (GSFC), Michael Wong (UC Berkeley), Glenn Orton (JPL-Caltech)",
   "explanation": "Two remarkable global maps of Jupiter's banded cloud tops can be compared by just sliding your cursor over this sharp projection (or follow this link) of image data from the Hubble Space Telescope. Both captured on January 19, during back-to-back 10 hour rotations of the ruling gas giant, the all-planet projections represent the first in a series of planned annual portraits by the Outer Planet Atmospheres Legacy program. Comparing the two highlights cloud movements and measures wind speeds in the planet's dynamic atmosphere. In fact, the Great Red Spot, the famous long-lived swirling storm boasting 300 mile per hour winds, is seen sporting a rotating, twisting filament. The images confirm that Great Red Spot is still shrinking, though still larger than planet Earth. Posing next to it (lower right) is Oval BA, also known as Red Spot Junior.",
   "date": "2015-10-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1510/JupiterHST1522a.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1510/JupiterHST1522a1280.jpg"
 }

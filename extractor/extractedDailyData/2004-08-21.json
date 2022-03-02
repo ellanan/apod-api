@@ -1,14 +1,10 @@
 {
   "title": "Solar Sail",
-  "credit": [
-    "Credit: NASA / MSFC Explanation",
-    "NASA / MSFC"
-  ],
+  "credit": "NASA / MSFC",
   "explanation": "Could solar sailing become a future Olympic sport? Nearly 400 years ago astronomer Johannes Kepler observed comet tails blown by a solar breeze and suggested that vessels might likewise navigate through space using appropriately fashioned sails. It is now widely recognized that sunlight does indeed produce a force which moves comet tails and a large, reflective sail could be a practical means of propelling a spacecraft. In fact, the illustration above represents a concept explored by NASA for an interstellar probe pushed along by sunlight reflected from an ultrathin sail. Nearly half a kilometer wide, the delicate solar sail would be unfurled in space. Continuous pressure from sunlight would ultimately accelerate the craft to speeds about five times higher than possible with conventional rockets. While not quite ready for the Olympics, NASA has recently tested solar sail technologies on earth and the Japanese Space Agency ISAS has deployed solar sail material in space. The Planetary Society in collaboration with the Space Research Institute (IKI) in Moscow and partners is preparing to launch Cosmos 1, a solar sail powered spacecraft.",
   "date": "2004-08-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0408/solarsail_msfc_m.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0408/solarsail_msfc.jpg"
 }

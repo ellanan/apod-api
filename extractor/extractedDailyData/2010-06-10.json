@@ -1,14 +1,10 @@
 {
   "title": "Regulus and the Red Planet",
-  "credit": [],
   "explanation": "Leo's royal star Regulus and red planet Mars appear in a colorful pairing just above the horizon in this starry skyscape. The photo was taken on June 4th from Oraman, a mountainous region of Kurdistan in western Iran near the border with Iraq. The marked color contrast between Mars and the bright blue star was easy to discern by eye, but is further enhanced in the picture through the use of a diffusion filter. Otherwise dominating the western evening sky, brilliant Venus has already set below the mountains in the scene. Saturn still shines in the night though, farther eastward along the ecliptic plane. Sliding your cursor over the picture will identify the planets, the stars of Leo, and a long-recognized star cluster in Coma Berenices.",
   "date": "2010-06-10",
   "hdurl": "https://apod.nasa.gov/apod/image/1006/MarsLeoKurdistan1_tafreshi.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Babak Tafreshi (TWAN) Explanation",
-    "Babak Tafreshi (TWAN)"
-  ],
+  "copyright": "Babak Tafreshi (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1006/MarsLeoKurdistan1_tafreshi900.jpg"
 }

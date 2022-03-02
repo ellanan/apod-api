@@ -1,14 +1,10 @@
 {
   "title": "Solar Sail",
-  "credit": [
-    "Credit: NASA / MSFC Illustration Explanation",
-    "NASA / MSFC Illustration"
-  ],
+  "credit": "NASA / MSFC Illustration",
   "explanation": "Nearly 400 years ago astronomer Johannes Kepler observed comet tails blown by a solar breeze and suggested that vessels might likewise navigate through space using appropriately fashioned sails. It is now widely recognized that sunlight does indeed produce a force which moves comet tails and a large, reflective sail could be a practical means of propelling a spacecraft. In fact, the illustration above represents one concept explored by NASA centers to develop an interstellar probe pushed along by sunlight reflected from an ultrathin sail. Nearly half a kilometer wide, the delicate solar sail would be unfurled in space. Continuous pressure from sunlight would ultimately accelerate the craft to speeds about five times higher than possible with conventional rockets -- without requiring any fuel! If launched in 2010 such a probe could overtake Voyager 1, the most distant spacecraft bound for interstellar space, in 2018 going as far in eight years as the Voyager will have journeyed in 41 years.",
   "date": "2003-03-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0303/solarsail_msfc_m.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0303/solarsail_msfc.jpg"
 }

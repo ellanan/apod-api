@@ -1,14 +1,10 @@
 {
   "title": "Magnetic Streamlines of the Milky Way",
-  "credit": [
-    "Credit: ESA, Planck; Text: Joan Schmelz (USRA) Explanation",
-    "ESA, Planck; Text: Joan Schmelz (USRA)"
-  ],
+  "credit": "ESA, Planck; Text: Joan Schmelz (USRA)",
   "explanation": "What role do magnetic fields play in interstellar physics? Analyses of observations by ESA's Planck satellite of emission by small magnetically-aligned dust grains reveal previously unknown magnetic field structures in our Milky Way Galaxy -- as shown by the curvy lines in the featured full-sky image. The dark red shows the plane of the Milky Way, where the concentration of dust is the highest. The huge arches above the plane are likely remnants of past explosive events from our Galaxy's core, conceptually similar to magnetic loop-like structures seen in our Sun's atmosphere. The curvy streamlines align with interstellar filaments of neutral hydrogen gas and provide tantalizing evidence that magnetic fields may supplement gravity in not only in shaping the interstellar medium, but in forming stars. How magnetism affected our Galaxy's evolution will likely remain a topic of research for years to come.",
   "date": "2020-06-17",
   "hdurl": "https://apod.nasa.gov/apod/image/2006/PolarisedMilkyWay_Planck_2048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2006/PolarisedMilkyWay_Planck_1080.jpg"
 }

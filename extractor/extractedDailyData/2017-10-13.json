@@ -1,14 +1,10 @@
 {
   "title": "Under the Galaxy",
-  "credit": [],
   "explanation": "The Large Magellanic Cloud, a satellite galaxy of the Milky Way, stands above the southern horizon in this telephoto view from Las Campanas Observatory, planet Earth. In the dark September skies of the Chilean Atacama desert, the small galaxy has an impressive span of about 10 degrees or 20 Full Moons. The sensitive digital camera's panorama has also recorded a faint, pervasive airglow, otherwise invisible to the eye. Apparently bright terrestrial lights in the foreground are actually very dim illumination from the cluster of housing for the observatory astronomers and engineers. But the flattened mountain top along the horizon just under the galaxy is Las Campanas peak, home to the future Giant Magellan Telescope.",
   "date": "2017-10-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1710/Yuri_LMC_LasCampanas.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Yuri Beletsky (Carnegie Las Campanas Observatory, TWAN) Explanation",
-    "Yuri Beletsky (Carnegie Las Campanas Observatory, TWAN)"
-  ],
+  "copyright": "Yuri Beletsky (Carnegie Las Campanas Observatory, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1710/Yuri_LMC_LasCampanas.jpg"
 }

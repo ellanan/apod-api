@@ -1,14 +1,10 @@
 {
   "title": "Identify this Phenomenon",
-  "credit": [
-    "Credit: Walter Lewin (MIT) Explanation",
-    "Walter Lewin (MIT)"
-  ],
+  "credit": "Walter Lewin (MIT)",
   "explanation": "What caused this ring of colors? At the time of this writing, MIT Physics Professor Walter Lewin had yet to find someone who can give the correct explanation. Not students. Not colleagues. Not APOD editors. He wonders how the astute readers of APOD will do. Can you match wits with Professor Lewin? Lewin took the above picture in a construction area in Massachusetts on June 20. Your answer should be able to explain the color sequence and the bright area in the center. Shortly after he gives the explanation on December 7 during a lecture in his course Vibrations and Waves at MIT, APOD will carry a link to it. A discussion page for this image will be held in the APOD Forum on the Asterisk*. Additionally, Professor Lewin will answer appropriate e-mail questions and guesses sent to asklewin@space.mit.edu.",
   "date": "2004-09-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0408/ring_lewin_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0408/ring_lewin.jpg"
 }

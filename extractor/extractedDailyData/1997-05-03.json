@@ -1,14 +1,10 @@
 {
   "title": "Giant Cluster Bends, Breaks Galaxy Images",
-  "credit": [
-    "Credit: W.N. Colley & E. Turner (Princeton), J.A. Tyson (Lucent Technologies), HST, NASA Explanation",
-    "W.N. Colley & E. Turner (Princeton), J.A. Tyson (Lucent Technologies), HST, NASA"
-  ],
+  "credit": "W.N. Colley & E. Turner (Princeton), J.A. Tyson (Lucent Technologies), HST, NASA",
   "explanation": "What are those strange blue objects? Many are images of a single, unusual, beaded, blue, ring-like galaxy which just happens to line-up behind a giant cluster of galaxies. Cluster galaxies here appear yellow and -- together with the cluster's dark matter -- act as a gravitational lens. A gravitational lens can create several images of background galaxies, analogous to the many points of light one would see while looking through a wine glass at a distant street light. The distinctive shape of this background galaxy -- which is probably just forming -- has allowed astronomers to deduce that it has separate images at 4, 8, 9 and 10 o'clock, from the center of the cluster. Possibly even the blue smudge just left of center is yet another image! This spectacular photo from HST was taken in October 1994. The first cluster lens was found unexpectedly by Roger Lynds (NOAO) and Vahe Petrosian (Stanford) in 1986 while testing a new type of imaging device. Lensed arcs around this cluster, CL0024+1654, were first discovered from the ground by David Koo (UCO Lick) in 1988.",
   "date": "1997-05-03",
   "hdurl": "https://apod.nasa.gov/apod/image/cl0024_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/cl0024_hst.gif"
 }

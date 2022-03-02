@@ -1,14 +1,10 @@
 {
   "title": "The Colors and Mysteries of Centaurus A",
-  "credit": [
-    "Credit: X-ray (NASA/CXC/M. Karovska et al.); Radio 21-cm image (NRAO/VLA/Schiminovich, et al.), Radio continuum image (NRAO/VLA/J.Condon et al.); Optical (Digitized Sky Survey, U.K. Schmidt Image/ STScI) Explanation",
-    "X-ray (NASA/CXC/M. Karovska et al.); Radio 21-cm image (NRAO/VLA/Schiminovich, et al.), Radio continuum image (NRAO/VLA/J.Condon et al.); Optical (Digitized Sky Survey, U.K. Schmidt Image/ STScI)"
-  ],
+  "credit": "X-ray (NASA/CXC/M. Karovska et al.); Radio 21-cm image (NRAO/VLA/Schiminovich, et al.), Radio continuum image (NRAO/VLA/J.Condon et al.); Optical (Digitized Sky Survey, U.K. Schmidt Image/ STScI)",
   "explanation": "Why is spiral galaxy Centaurus A in so much turmoil? The above composite image shows different clues to the unusual galaxy's past in different bands of light. In low energy radio waves, shown in red, lobes across the thick swath of dust glow brightly. In more energetic radio waves, depicted in green, a bright jet is seen emanating from the galaxy's center. In optical light, shown in white, the stars that compose much of the galaxy are visible. Recently, Centaurus A has recently been imaged in X-ray light by the Chandra X-ray Observatory. The X-rays, depicted in blue, show arcs of hot gas shooting out from the center in an explosion that likely happened about 10 million years ago. One hypothesis that would explain the turmoil would be if Centaurus A devoured a smaller galaxy about 100 million years ago.",
   "date": "2002-08-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0208/cenA_chandra_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0208/cenA_chandra.jpg"
 }

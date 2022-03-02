@@ -1,14 +1,10 @@
 {
   "title": "Centaurus Radio Jets Rising",
-  "credit": [
-    "Credit: Ilana Feain, Tim Cornwell & Ron Ekers (CSIRO/ATNF); ATCA northern middle lobe pointing courtesy R. Morganti (ASTRON); Parkes data courtesy N. Junkes (MPIfR); ATCA & Moon photo: Shaun Amy, CSIRO Explanation",
-    "Ilana Feain, Tim Cornwell & Ron Ekers (CSIRO/ATNF); ATCA northern middle lobe pointing courtesy R. Morganti (ASTRON); Parkes data courtesy N. Junkes (MPIfR); ATCA & Moon photo: Shaun Amy, CSIRO"
-  ],
+  "credit": "Ilana Feain, Tim Cornwell & Ron Ekers (CSIRO/ATNF); ATCA northern middle lobe pointing courtesy R. Morganti (ASTRON); Parkes data courtesy N. Junkes (MPIfR); ATCA & Moon photo: Shaun Amy, CSIRO",
   "explanation": "What if you could see the huge radio jets of Centaurus A rising? The Cen A radio jets are not only over a million light years long, they occupy an angular area over 200 times greater than the full Moon in Earth's sky. The jets are expelled by a violent black hole millions of times the mass of our Sun embedded deep in the center of nearby active galaxy Cen A. Somehow, the black hole creates the fast moving jets as other matter falls in. In this picture, radio telescopes from the Australian Telescope Compact Array (ATCA) near Narrabri, NSW, Australia, were captured in front of a full Moon, with a radio image of Cen A superposed at its real angular size in the background. The above picture includes the most detailed map yet of any galaxy-class radio jets in the universe, taking several years and over 1,000 hours exposure time to complete. Details in the photo may yield clues as to how radio jets interact with stars and intergalactic dust. The light dots in the image depict not stars, but typically other radio bright galaxies in the even more distant universe.",
   "date": "2011-04-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1104/cena_csiro_1063.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1104/cena_csiro_900.jpg"
 }

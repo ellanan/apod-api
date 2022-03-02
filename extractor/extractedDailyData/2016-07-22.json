@@ -1,14 +1,10 @@
 {
   "title": "Galaxy Cluster Abell S1063 and Beyond",
-  "credit": [
-    "Credit: NASA, ESA, Jennifer Lotz (STScI) Explanation",
-    "NASA, ESA, Jennifer Lotz (STScI)"
-  ],
+  "credit": "NASA, ESA, Jennifer Lotz (STScI)",
   "explanation": "Some 4 billion light-years away, galaxies of massive Abell S1063 cluster near the center of this sharp Hubble Space Telescope snapshot. But the fainter bluish arcs are magnified images of galaxies that lie far beyond Abell S1063. About twice as distant, their otherwise undetected light is magnified and distorted by the cluster's largely unseen gravitational mass, approximately 100 trillion times the mass of the Sun. Providing a tantalizing glimpse of galaxies in the early universe, the effect is known as gravitational lensing. A consequence of warped spacetime it was first predicted by Einstein a century ago. The Hubble image is part of the Frontier Fields program to explore the Final Frontier.",
   "date": "2016-07-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1607/abells1063_hst_r.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1607/abells1063_hst_r1024.jpg"
 }

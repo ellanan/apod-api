@@ -1,14 +1,10 @@
 {
   "title": "NGC 7129 and NGC 7142",
-  "credit": [],
   "explanation": "This alluring telescopic image looks toward the constellation Cepheus and an intriguing visual pairing of dusty reflection nebula NGC 7129 (left) and open star cluster NGC 7142. The two appear separated by only half a degree on the sky, but they actually lie at quite different distances. In the foreground, dusty nebula NGC 7129 is about 3,000 light-years distant, while open cluster NGC 7142 is likely over 6,000 light-years away. In fact, the pervasive and clumpy foreground dust clouds in this region redden the light from NGC 7142, complicating astronomical studies of the cluster. Still, NGC 7142 is thought to be an older open star cluster, while the bright stars embedded in NGC 7129 are perhaps a million years young. The telltale reddish crescent shapes around NGC 7129 are associated with energetic jets streaming away from newborn stars. Surprisingly, despite the dust, far off background galaxies can be seen in the colorful cosmic vista.",
   "date": "2007-09-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0709/n7129n7142_hallas.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tony Hallas Explanation",
-    "Tony Hallas"
-  ],
+  "copyright": "Tony Hallas",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0709/n7129n7142_hallas_c786.jpg"
 }

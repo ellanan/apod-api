@@ -1,14 +1,10 @@
 {
   "title": "Star Clusters Young and Old",
-  "credit": [],
   "explanation": "Many stars form in clusters. Galactic or open star clusters are relatively young swarms of bright stars born together near the plane of our Milky Way Galaxy. Separated by about a degree on the sky, two nice examples are M46 (upper left) 5,400 light-years in the distance and M47 (lower right) only 1,600 light-years away toward the nautical constellation Puppis. Around 300 million years young M46 contains a few hundred stars in a region about 30 light-years across. Aged 80 million years, M47 is a smaller but looser cluster of about 50 stars spanning 10 light-years. But this portrait of stellar youth also contains an ancient interloper. The small, colorful patch of glowing gas in M46 is actually the planetary nebula NGC 2438 - the final phase in the life of a sun-like star billions of years old. NGC 2438 is estimated to be only 3,000 light-years distant and likely represents a foreground object, only by chance appearing along our line of sight to youthful M46.",
   "date": "2006-09-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/m46m47_hetlage_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Chris Hetlage Explanation",
-    "Chris Hetlage"
-  ],
+  "copyright": "Chris Hetlage",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/m46m47_hetlage.jpg"
 }

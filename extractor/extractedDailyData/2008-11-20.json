@@ -1,14 +1,10 @@
 {
   "title": "Endeavour in the Moon",
-  "credit": [],
   "explanation": "",
   "date": "2008-11-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/sts126_kozubal_lg.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Marek Kozubal, Clay Center Observatory at Dexter and Southfield Schools Explanation",
-    "Marek Kozubal, Clay Center Observatory at Dexter and Southfield Schools"
-  ],
+  "copyright": "Marek Kozubal, Clay Center Observatory at Dexter and Southfield Schools",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/sts126_kozubal_sm.jpg"
 }

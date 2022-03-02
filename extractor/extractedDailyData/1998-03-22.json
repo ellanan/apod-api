@@ -1,14 +1,10 @@
 {
   "title": "Sunspots: Magnetic Depressions",
-  "credit": [
-    "Credit: National Solar Observatory Explanation",
-    "National Solar Observatory"
-  ],
+  "credit": "National Solar Observatory",
   "explanation": "Our Sun has spots! These spots appear dark in photographs like the one above, but in fact sunspots are quite bright - they are just dark compared to the rest of the Sun. Sunspots are about the size of the Earth and frequently occur in groups, as shown above. Sunspots occur when a concentrated portion of the Solar magnetic field pokes through the surface. This field slows energy from entering the sunspot region, causing sunspots to appear cooler, darker, and lower than the surrounding surface. Sunspots typically last a few days before dissipating. The number of sunspots is always changing, generally going from a maximum to a minimum about every 5 ½ years. In fact, the Sun just passed a minimum two years ago. The Sun and sunspots should never be looked at directly.",
   "date": "1998-03-22",
   "hdurl": "https://apod.nasa.gov/apod/image/9701/sunspot_nso_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9701/sunspot_nso.jpg"
 }

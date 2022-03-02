@@ -1,14 +1,10 @@
 {
   "title": "Tycho Brahe Measures the Sky",
-  "credit": [
-    "Credit: Tycho Brahes Glada V�nner Explanation",
-    "Tycho Brahes Glada V�nner"
-  ],
+  "credit": "Tycho Brahes Glada V�nner",
   "explanation": "Tycho Brahe was the most meticulous astronomical observer of his time. Brahe, who lived between 1546 and 1601, set out to solve the day's most pressing astronomical problem: to determine whether the Earth or the Sun was at the center of the Solar System. To do this he and his assistants created the first major astronomical observatory where they devised and used the most accurate pre-telescopic astronomical instruments. Tycho Brahe thus compiled tables of precise measurements of the positions and brightnesses of planets and stars. Brahe never solved the Solar System problem himself - but left data so impressively accurate his assistant Johannes Kepler was able to develop definitive laws. Brahe is also remembered for witnessing a supernova in 1572, showing that the Great Comet of 1577 was not an atmospheric phenomena, and for his metal nose.",
   "date": "1999-05-30",
   "hdurl": "https://apod.nasa.gov/apod/image/tycho_brahe.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/tycho_brahe.gif"
 }

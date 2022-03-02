@@ -1,14 +1,10 @@
 {
   "title": "Six Rainbows Across Norway",
-  "credit": [],
   "explanation": "Have you ever seen six rainbows at once? They are not only rare to see -- they are a puzzle to understand. The common rainbow is caused by sunlight internally reflected by the backs of falling raindrops, while also being refracted at the air / water boundary. To see a rainbow, look opposite the Sun towards a rainstorm. This primary rainbow is the brightest color swath in the above image. Multiple internal reflections inside water droplets sometimes make a secondary rainbow to become visible outside the first, with colors reversed. Just such a secondary rainbow is visible of the far left. Harder to explain is the intermediate rainbow, between the two. This rainbow is likely caused by sunlight that has first reflected off the lake before striking the distant raindrops that is reflecting sunlight back toward the observer. Each of these rainbows appears to be reflected by the calm lake, although because the positions of rainbows depend on the location of the observer, a slightly displaced image of each rainbow is actually being imaged.",
   "date": "2007-09-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0709/sixrainbows_nordvik_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Terje O. Nordvik Explanation",
-    "Terje O. Nordvik"
-  ],
+  "copyright": "Terje O. Nordvik",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0709/sixrainbows_nordvik.jpg"
 }

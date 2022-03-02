@@ -1,14 +1,10 @@
 {
   "title": "A Solar System Portrait",
-  "credit": [
-    "Credit: Voyager 1 Team, NASA Explanation",
-    "Voyager 1 Team, NASA"
-  ],
+  "credit": "Voyager 1 Team, NASA",
   "explanation": "As the Voyager 1 spacecraft headed out of our Solar System, it looked back and took a parting family portrait of the Sun and planets. From beyond Pluto, our Solar System looks like a bright star surrounded by faint dots. In the above picture, the Sun is so bright it is blocked out for contrast. The innermost dots visible, labeled E and V for Earth and Venus, are particularly hard to discern. Gas giants Jupiter (J) and Saturn (S) are much more noticeable. The outermost planets visible are Uranus (U) and Neptune (N). Each planet is shown labeled and digitally enhanced in an inset image. Voyager 1 is only one of four human-made objects to leave our Solar System, the other three being Voyager 2, and Pioneer 10 and Pioneer 11.",
   "date": "1999-05-05",
   "hdurl": "https://apod.nasa.gov/apod/image/9905/solarsystem_voyager_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9905/solarsystem_voyager_big.jpg"
 }

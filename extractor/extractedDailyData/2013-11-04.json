@@ -1,14 +1,10 @@
 {
   "title": "Eclipse Over New York",
-  "credit": [],
   "explanation": "A sunrise over New York City rarely looks like this. Yesterday, however, the Sun rose partly eclipsed by the Moon as seen from much of the eastern North American and northern South America. Simultaneously, much of Africa, already well into daytime, saw the eclipse from beginning to end. The eclipse was unusual in that it was a hybrid -- parts of the Earth saw the Moon as too angularly small to cover the whole Sun, and so at maximum coverage left the Sun surrounded by a ring a fire, while other parts of the Earth saw the Moon as large enough to cover the entire Sun, and so at maximum coverage witnessed a total solar eclipse. Slight changes in the angular size of the Moon as seen from the Earth's surface are caused by the non-flatness of the Earth and the ellipticity of the Moon's orbit. Pictured above, the famous Empire State Building in New York City is seen to the left of the partially eclipsed Sun, adorned with scenic clouds. The next solar eclipse visible from New York City -- a very slight eclipse -- will occur during the sunset of 2014 October 23.",
   "date": "2013-11-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1311/partialeclipseNYC_cook_1102.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Chris Cook Explanation",
-    "Chris Cook"
-  ],
+  "copyright": "Chris Cook",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1311/partialeclipseNYC_cook_960.jpg"
 }

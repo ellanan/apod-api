@@ -1,14 +1,10 @@
 {
   "title": "The United States at Night",
-  "credit": [],
   "explanation": "",
   "date": "1996-06-17",
   "hdurl": "https://apod.nasa.gov/apod/image/usanight_dmsp_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: NOAA/ NGDC DMSP Digital Archive Explanation",
-    "NOAA/ NGDC DMSP Digital Archive"
-  ],
+  "copyright": "NOAA/ NGDC DMSP Digital Archive",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/usanight_dmsp.gif"
 }

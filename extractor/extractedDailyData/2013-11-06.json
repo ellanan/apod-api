@@ -1,14 +1,10 @@
 {
   "title": "Creature Aurora Over Norway",
-  "credit": [],
   "explanation": "It was Halloween and the sky looked like a creature. Exactly which creature, the astrophotographer was unsure (but possibly you can suggest one). Exactly what caused the eerie apparition was sure: one of the best auroral displays in recent memory. This spectacular aurora had an unusually high degree of detail. Pictured above, the vivid green and purple auroral colors are caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons. Birch trees in Troms�, Norway formed an also eerie foreground. Many other photogenic auroras have been triggered by recent energetic flares on the Sun.",
   "date": "2013-11-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1311/creatureaurora_salomonsen_600.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ole C. Salomonsen (Arctic Light Photo) Explanation",
-    "Ole C. Salomonsen (Arctic Light Photo)"
-  ],
+  "copyright": "Ole C. Salomonsen (Arctic Light Photo)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1311/creatureaurora_salomonsen_600.jpg"
 }

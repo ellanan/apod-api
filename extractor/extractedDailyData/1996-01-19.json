@@ -1,14 +1,10 @@
 {
   "title": "The Dusty Disk of Beta Pic",
-  "credit": [
-    "Credit: C. Burrows and J. Krist (STScI), WFPC2 IDT Team, NASA, ESA Explanation",
-    "C. Burrows and J. Krist (STScI), WFPC2 IDT Team, NASA, ESA"
-  ],
+  "credit": "C. Burrows and J. Krist (STScI), WFPC2 IDT Team, NASA, ESA",
   "explanation": "",
   "date": "1996-01-19",
   "hdurl": "https://apod.nasa.gov/apod/image/BetaPicB.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hst_betapic.gif"
 }

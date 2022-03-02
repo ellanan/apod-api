@@ -1,14 +1,10 @@
 {
   "title": "M78 Wide Field",
-  "credit": [],
   "explanation": "Interstellar dust clouds and glowing nebulae abound in the fertile constellation of Orion. One of the brightest, M78, is centered in this colorful, wide field view, covering an area north of Orion's belt. At a distance of about 1,500 light-years, the bluish reflection nebula is around 5 light-years across. Its tint is due to dust preferentially reflecting the blue light of hot, young stars. Reflection nebula NGC 2071 is just to the left of M78. To the right of M78 and much more compact in appearance, the intriguing McNeil's Nebula is a recently recognized variable nebula associated with the formation of a sun-like star. The remarkably deep exposure also brings out the region's faint but pervasive reddish glow of atomic hydrogen gas.",
   "date": "2009-11-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0911/m78wide_tvdavis.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Thomas V. Davis (tvdavisastropix.com) Explanation",
-    "Thomas V. Davis (tvdavisastropix.com)"
-  ],
+  "copyright": "Thomas V. Davis (tvdavisastropix.com)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0911/m78wide_tvdavis900.jpg"
 }

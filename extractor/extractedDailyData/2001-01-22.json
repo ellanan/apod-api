@@ -1,14 +1,10 @@
 {
   "title": "A Two-toned Crater on Asteroid Eros",
-  "credit": [
-    "Credit: NEAR Project, JHU APL, NASA Explanation",
-    "NEAR Project, JHU APL, NASA"
-  ],
+  "credit": "NEAR Project, JHU APL, NASA",
   "explanation": "",
   "date": "2001-01-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0101/whitecrater_near_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0101/whitecrater_near.jpg"
 }

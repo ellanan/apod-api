@@ -1,14 +1,10 @@
 {
   "title": "NGC 1 and NGC 2",
-  "credit": [],
   "explanation": "Beautiful nebulae, clusters, and galaxies that grace planet Earth's night sky are often known by their New General Catalog designation or NGC number. That classic listing was compiled by John Louis Emil Dreyer, remarkable director of the Armagh Observatory from 1882 to 1916. NGC 2266 is, for example, the 2,266th item in his New General Catalog of Nebulae and Clusters of Stars. Noting that \"every book has a first page\", modern day astronomer Jay GaBany wondered what NGC 1 might look like - and found it, along with NGC 2 in the constellation Pegasus. Pictured above, both are more or less typical-sized (50-100 thousand light-years across) spiral galaxies with estimated distances of over 150 million light-years for NGC 1 (top) and about twice that for NGC 2. NGC ordering is based on an astronomical coordinate system, so these otherwise unremarkable spirals appear first in the NGC listing because their location in the sky translates to the smallest Right Ascension coordinate in the catalog.",
   "date": "2005-08-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0508/ngc1_gabany_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: R Jay GaBany (Cosmotography.com) Explanation",
-    "R Jay GaBany (Cosmotography.com)"
-  ],
+  "copyright": "R Jay GaBany (Cosmotography.com)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0508/ngc1_gabany_c.jpg"
 }

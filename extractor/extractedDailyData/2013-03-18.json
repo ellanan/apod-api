@@ -1,14 +1,10 @@
 {
   "title": "Comet PANSTARRS Just After Sunset",
-  "credit": [],
   "explanation": "Have you seen the comet? As Comet PANSTARRS fades, careful observers -- even with unaided eyes -- should still be able to find the shedding ice ball on the western horizon just after sunset. Pictured above, Comet PANSTARRS (C/2011 L4) was pointed out from a hilltop last week on First Encounter Beach in Massachusetts, USA. The comet was discovered by -- and is named for -- the Pan-STARRS astronomical sky survey that discovered it. As the comet now recedes from both the Earth and the Sun, it will remain visible further into the night, although binoculars or a small telescope will soon to be needed to find it.",
   "date": "2013-03-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1303/panstarrs_cook_1100.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Chris Cook Explanation",
-    "Chris Cook"
-  ],
+  "copyright": "Chris Cook",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1303/panstarrs_cook_960.jpg"
 }

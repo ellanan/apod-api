@@ -1,14 +1,10 @@
 {
   "title": "New Horizons at Io",
-  "credit": [
-    "Credit: NASA, JHU/APL, SwRI - Additional Processing: Sean Walker Explanation",
-    "NASA, JHU/APL, SwRI - Additional Processing: Sean Walker"
-  ],
+  "credit": "NASA, JHU/APL, SwRI - Additional Processing: Sean Walker",
   "explanation": "Spewed from a volcano, a complex plume rises over 300 kilometers above the horizon of Jupiter's moon Io in this image from cameras onboard the New Horizons spacecraft. The volcano, Tvashtar, is marked by the bright glow (about 1 o'clock) at the moon's edge, beyond the terminator or night/day shadow line. The shadow of Io cuts across the plume itself. Also capturing stunning details on the dayside surface, the high resolution image was recorded when the spacecraft was 2.3 million kilometers from Io. Later it was combined with lower resolution color data by astro-imager Sean Walker to produce this sharp portrait of the solar system's most active moon. Outward bound at almost 23 kilometers per second, the New Horizons spacecraft should cross the orbit of Saturn in June next year, and is ultimately destined to encounter Pluto in 2015.",
   "date": "2007-04-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0704/io_walkerNH.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0704/io_walkerNH520.jpg"
 }

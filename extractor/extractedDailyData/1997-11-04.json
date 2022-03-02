@@ -1,14 +1,10 @@
 {
   "title": "Blue Stragglers in Globular Clusters",
-  "credit": [
-    "Credit: M. Shara (STScI), R.A. Safer (Villanova), M. Livio (STScI), WFPC2, HST, NASA Explanation",
-    "M. Shara (STScI), R.A. Safer (Villanova), M. Livio (STScI), WFPC2, HST, NASA"
-  ],
+  "credit": "M. Shara (STScI), R.A. Safer (Villanova), M. Livio (STScI), WFPC2, HST, NASA",
   "explanation": "This old dog is doing new tricks. On the left is ancient globular cluster 47 Tucanae which formed many billions of years ago. On the right is a closeup of its dense stellar center by the Hubble Space Telescope, released last week. Circled are mysterious stars called \"blue stragglers.\" Stars as bright and blue as blue stragglers live short lives, much shorter than the age of the host globular cluster itself. But this contradicts evidence that globular cluster stars formed all at once. Although this problem has been known for almost 50 years, a mass and spin rate for a blue straggler was first published last Saturday. This new information indicates that BSS 19 was rejuvenated by two orbiting stars slowly coalescing , and not by a dramatic collision.",
   "date": "1997-11-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9711/bluestrag_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9711/bluestrag_hst.jpg"
 }

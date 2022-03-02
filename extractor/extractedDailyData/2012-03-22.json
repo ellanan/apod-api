@@ -1,14 +1,10 @@
 {
   "title": "M95 with Supernova",
-  "credit": [],
   "explanation": "Barred spiral galaxy M95 is about 75,000 light-years across, comparable in size to our own Milky Way and one of the larger galaxies of the Leo I galaxy group. In fact, it is part of a not quite so famous trio of Leo galaxies with neighbors M96 and M105, about 38 million light-years distant. In this sharp and colorful cosmic portrait, a bright, compact ring of star formation surrounds the galaxy's core. Surrounding the prominent yellowish bar are tightly wound spiral arms traced by dust lanes, young blue star clusters, and telltale pinkish star forming regions. As a bonus, follow along the spiral arm unwinding down and to the right and you'll soon get to M95's latest supernova SN 2012aw, discovered on March 16 and now identified as the explosion of a massive star. A good target for small telescopes, the supernova stands out in this video feature (vimeo) comparing the recent image with a deep image of M95 without supernova taken in 2009.",
   "date": "2012-03-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1203/m95sn2012awBlock.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mt. Lemmon SkyCenter, University of Arizona Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, University of Arizona"
-  ],
+  "copyright": "Adam Block, Mt. Lemmon SkyCenter, University of Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1203/m95sn2012awBlock900.jpg"
 }

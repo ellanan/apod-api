@@ -1,14 +1,10 @@
 {
   "title": "NGC 6357: Stellar Wonderland",
-  "credit": [
-    "Credit: X-ray: NASA/CXC/PSU/L. Townsley et al; Optical: UKIRT; Infrared: NASA/JPL-Caltech Explanation",
-    "X-ray: NASA/CXC/PSU/L. Townsley et al; Optical: UKIRT; Infrared: NASA/JPL-Caltech"
-  ],
+  "credit": "X-ray: NASA/CXC/PSU/L. Townsley et al; Optical: UKIRT; Infrared: NASA/JPL-Caltech",
   "explanation": "For reasons unknown, NGC 6357 is forming some of the most massive stars ever discovered. This complex wonderland of star formation consists of numerous filaments of dust and gas surrounding huge cavities of massive star clusters. The intricate patterns are caused by complex interactions between interstellar winds, radiation pressures, magnetic fields, and gravity. The featured image includes not only visible light taken by the UKIRT Telescope in Hawaii (blue) as part of the SuperCosmos Sky Surveys, but infrared light from NASA's orbiting Spitzer Space Telescope (orange) and X-ray light from NASA's orbiting Chandra X-ray Observatory (pink). NGC 6357 spans about 100 light years and lies about 5,500 light years away toward the constellation of the Scorpion. Within 10 million years, the most massive stars currently seen in NGC 6357 will have exploded.",
   "date": "2016-12-26",
   "hdurl": "https://apod.nasa.gov/apod/image/1612/ngc6357_nasa_3600.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1612/ngc6357_nasa_960.jpg"
 }

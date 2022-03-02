@@ -1,14 +1,10 @@
 {
   "title": "Earth-size Kepler-186f",
-  "credit": [
-    "Credit: NASA Ames / SETI Institute / JPL-Caltech, Discovery: Elisa V. Quintana, et al. Explanation",
-    "NASA Ames / SETI Institute / JPL-Caltech, Discovery: Elisa V. Quintana, et al."
-  ],
+  "credit": "NASA Ames / SETI Institute / JPL-Caltech, Discovery: Elisa V. Quintana, et al.",
   "explanation": "Planet Kepler-186f is the first known Earth-size planet to lie within the habitable zone of a star beyond the Sun. Discovered using data from the prolific planet-hunting Kepler spacecraft, the distant world orbits its parent star, a cool, dim, M dwarf star about half the size and mass of the Sun, some 500 light-years away in the constellation Cygnus. M dwarfs are common, making up about 70 percent of the stars in our Milky Way galaxy. To be within the habitable zone, where surface temperatures allowing liquid water are possible, Kepler-186f orbits close, within 53 million kilometers (about the Mercury-Sun distance) of the M dwarf star, once every 130 days. Four other planets are known in the distant system. All four are only a little larger than Earth and in much closer orbits, also illustrated in the tantalizing artist's vision. While the size and orbit of Kepler-186f are known, its mass and composition are not, and can't be determined by Kepler's transit technique. Still, models suggest that it could be rocky and have an atmosphere, making it potentially the most Earth-like exoplanet discovered so far ...",
   "date": "2014-04-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1404/kepler186f_artistconcept_0.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1404/kepler186f_artistconcept_0h600.jpg"
 }

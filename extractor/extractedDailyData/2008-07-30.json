@@ -1,14 +1,10 @@
 {
   "title": "The International Space Station Transits the Sun",
-  "credit": [],
   "explanation": "That's no sunspot. It's the International Space Station (ISS) caught by chance passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no solar panels. By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most sophisticated machines ever created by humanity. Also, sunspots occur on the Sun, whereas the ISS orbits the Earth. Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one's timing and equipment just right for a great image is rare. Strangely, besides that fake spot, the Sun, last week, lacked any real sunspots. Sunspots have been rare on the Sun since the dawn of the current Solar Minimum, a period of low solar activity. Although fewer sunspots have been recorded during this Solar Minimum than for many previous decades, the low solar activity is not, as yet, very unusual.",
   "date": "2008-07-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0807/isssun_wagner_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Martin Wagner Explanation",
-    "Martin Wagner"
-  ],
+  "copyright": "Martin Wagner",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0807/isssun_wagner.jpg"
 }

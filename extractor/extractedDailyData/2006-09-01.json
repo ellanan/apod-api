@@ -1,14 +1,10 @@
 {
   "title": "Gemini South Star Trails",
-  "credit": [],
   "explanation": "Stars seem to arc through southern skies in this surrealistic time exposure -- recorded before moonrise from the Gemini South Observatory, Cerro Pachon, Chile, Planet Earth. During the one hour 40 minute exposure camera and tripod were fixed, so the concentric star trails are a reflection of Earth's daily rotation about its axis. The view looks to the south and includes the Gemini telescope enclosure in the foreground. At the apparent center of the curving trails, the South Celestial Pole lies just off the upper left edge. Two faint, wide streaks track the Magellanic Clouds, satellites of the Milky Way Galaxy, while a meteor flashes throught the scene just left of the observatory.",
   "date": "2006-09-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/gemstartrails_schulz_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Elke Schulz Explanation",
-    "Elke Schulz"
-  ],
+  "copyright": "Elke Schulz",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/gemstartrails_schulz_c52.jpg"
 }

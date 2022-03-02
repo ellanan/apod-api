@@ -1,14 +1,10 @@
 {
   "title": "SpaceShipOne",
-  "credit": [
-    "Credit: Scaled Composites Explanation",
-    "Scaled Composites"
-  ],
+  "credit": "Scaled Composites",
   "explanation": "Slung below its equally innovative mothership dubbed White Knight, SpaceShipOne rides above planet Earth, photographed during a recent flight test. SpaceShipOne was designed and built by cutting-edge aeronautical engineer Burt Rutan and his company Scaled Composites to compete for the X Prize. The 10 million dollar X prize is open to private companies and requires the successful launch of a spaceship which carries three people on short sub-orbital flights to an altitude of 100 kilometers -- a scenario similar to the early manned spaceflights of NASA's Mercury Program. Unlike more conventional rocket flights to space, SpaceShipOne will first be carried to an altitude of 50,000 feet by the twin turbojet White Knight and then released before igniting its own hybrid solid fuel rocket engine. After the climb to space, the craft will convert to a stable high drag configuration for re-entry, ultimately landing like a conventional glider at light plane speeds.",
   "date": "2003-06-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0306/ssone_cap_car.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0306/ssone_scaled_c1topcarry.jpg"
 }

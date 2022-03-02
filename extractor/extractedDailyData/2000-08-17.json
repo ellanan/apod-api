@@ -1,14 +1,10 @@
 {
   "title": "Mount Megantic Magnetic Storm",
-  "credit": [],
   "explanation": "",
   "date": "2000-08-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0008/aurora2_gauthier.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Sebastien Gauthier (Observatoire Astronomique du Mont-Megantic) Explanation",
-    "Sebastien Gauthier (Observatoire Astronomique du Mont-Megantic)"
-  ],
+  "copyright": "Sebastien Gauthier (Observatoire Astronomique du Mont-Megantic)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0008/aurora2_gauthier.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Kepler-90 Planetary System",
-  "credit": [
-    "Credit: NASA Ames, Wendy Stenzel Explanation",
-    "NASA Ames, Wendy Stenzel"
-  ],
+  "credit": "NASA Ames, Wendy Stenzel",
   "explanation": "Do other stars have planetary systems like our own? Yes -- one such system is Kepler-90. Cataloged by the orbiting Kepler satellite, an eighth planet has now been discovered giving Kepler-90 the same number of known planets as our Solar System. Similarities between Kepler-90 and our system include a G-type star comparable to our Sun, rocky planets comparable to our Earth, and large planets comparable in size to Jupiter and Saturn. Differences include that all of the known Kepler-90 planets orbit relatively close in -- closer than Earth's orbit around the Sun -- making them possibly too hot to harbor life. However, observations over longer time periods may discover cooler planets further out. Kepler-90 lies about 2,500 light years away, and at magnitude 14 is visible with a medium-sized telescope toward the constellation of the Dragon (Draco). Exoplanet-finding missions planned for launch in the next decade include TESS, JWST, WFIRST, and PLATO.",
   "date": "2017-12-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1712/Kepler90Illustration_Kepler_1820.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1712/Kepler90Illustration_Kepler_1080.jpg"
 }

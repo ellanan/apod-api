@@ -1,14 +1,10 @@
 {
   "title": "The Martian Spring",
-  "credit": [
-    "Credit: P. James (Univ. Toledo), S. Lee (Univ. Colorado), NASA Explanation",
-    "P. James (Univ. Toledo), S. Lee (Univ. Colorado), NASA"
-  ],
+  "credit": "P. James (Univ. Toledo), S. Lee (Univ. Colorado), NASA",
   "explanation": "As spring comes to the northern latitudes of Mars, increased solar heating brings warmth and a change in the weather. The winds produced by the large temperature differences between the receding polar ice and the warming regions to the south may cause dust storms - like the one visible in the above Hubble Space Telescope images made in September this year. On the left, north is up and the Martian polar cap is seen at the top with dark regions along its southern border. The dust storm, about 600 miles wide, is visible against the white polar ice as a salmon colored notch. The image on the right presents the data showing the dust storm on a map grid centered on the north pole. Mars is famous for planet wide dust storms but studies of more localized weather patterns are difficult without high resolution images like those provided by the Hubble. As NASA prepares future missions to Mars, detailed studies of Martian weather patterns become increasingly important.",
   "date": "1996-11-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9611/marsds96_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9611/marsds96_hst.jpg"
 }

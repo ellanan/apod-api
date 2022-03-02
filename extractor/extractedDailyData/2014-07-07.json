@@ -1,14 +1,10 @@
 {
   "title": "J1502+1115: A Triple Black Hole Galaxy",
-  "credit": [
-    "Credit: R. P. Deane (U. Capetown) et al. Explanation",
-    "R. P. Deane (U. Capetown) et al."
-  ],
+  "credit": "R. P. Deane (U. Capetown) et al.",
   "explanation": "Most galaxies contain one supermassive black hole -- why does this galaxy have three? The likely reason is that galaxy J1502+1115 is the product of the recent coalescence of three smaller galaxies. The two closest black holes are shown above resolved in radio waves by large coordinated array of antennas spread out over Europe, Asia, and Africa. These two supermassive black holes imaged are separated by about 500 light years and each has a likely mass about 100 million times the mass of our Sun. Currently, J1502+1115, at a redshift of 0.39, is one of only a few triple black hole system known and is being studied to learn more about galaxy and supermassive black hole interaction rates during the middle ages of our universe. Gravitational radiation emitted by such massive black hole systems may be detectable by future observatories.",
   "date": "2014-07-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1407/innerBhs_vlbi_619.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1407/innerBhs_vlbi_960.jpg"
 }

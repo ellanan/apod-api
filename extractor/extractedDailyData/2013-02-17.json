@@ -1,13 +1,9 @@
 {
   "title": "Asteroid 2012 DA14 Passes the Earth",
-  "credit": [],
   "explanation": "There it goes. That small spot moving in front of background stars in the above video is a potentially dangerous asteroid passing above the Earth's atmosphere. This past Friday, the 50-meter wide asteroid 2012 DA14 just missed the Earth, passing not only inside the orbit of the Moon, which is unusually close for an asteroid of this size, but also inside the orbit of geosynchronous satellites. Unfortunately, asteroids this big or bigger strike the Earth every 1000 years or so. Were 2012 DA14 to have hit the Earth, it could have devastated a city-sized landscape, or stuck an ocean and raised dangerous tsunamis. Although finding and tracking potentially dangerous asteroids is a primary concern of modern astronomy, these small bodies or ice and rock are typically so dim that only a few percent of them have been found, so far. Even smaller chunks of ice and rock, like the (unrelated) spectacular meteors that streaked over Russia and California over the past few days, are even harder to find -- but pose less danger.",
   "date": "2013-02-17",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Daniel L�pez (El Cielo de Canarias) Explanation",
-    "Daniel L�pez (El Cielo de Canarias)"
-  ],
+  "copyright": "Daniel L�pez (El Cielo de Canarias)",
   "media_type": "video",
   "url": "https://player.vimeo.com/video/59789517"
 }

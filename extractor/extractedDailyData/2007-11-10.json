@@ -1,14 +1,10 @@
 {
   "title": "A Tale of Comet Holmes",
-  "credit": [],
   "explanation": "A beautiful blue ion tail has become visible in deep telescopic images of Comet Holmes. Pointing generally away from the Sun and also planet Earth, the comet's ion tail is seriously foreshortened by our extreme viewing angle. Still, enthusiastic comet watchers have remarked that on the whole, the compact but tentacled appearance suggests a jellyfish or even a cosmic calamari. This stunning view of the comet's greenish coma and blue tail was recorded on November 4 in clear skies near Budapest, Hungary. The colors are caused by molecules in the tenuous gas, like C2 (green) and CO+ (blue), fluorescing in sunlight. In a more recent development, the dramatic inset is a deep image from L'Aquila in central Italy on November 8, showing the ion tail disconnecting from the comet.",
   "date": "2007-11-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/CHolmes_eder.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ivan Eder and (inset) Paolo Berardi Explanation",
-    "Ivan Eder and (inset) Paolo Berardi"
-  ],
+  "copyright": "Ivan Eder and (inset) Paolo Berardi",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/CHolmes_eder_berardi.jpg"
 }

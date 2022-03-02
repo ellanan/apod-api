@@ -1,14 +1,10 @@
 {
   "title": "WR 104: Pinwheel Star",
-  "credit": [
-    "Credit: U.C. Berkeley Space Sciences Laboratory, W.M. Keck Observatory Explanation",
-    "U.C. Berkeley Space Sciences Laboratory, W.M. Keck Observatory"
-  ],
+  "credit": "U.C. Berkeley Space Sciences Laboratory, W.M. Keck Observatory",
   "explanation": "Like a cosmic lawn sprinkler, dust streaming from a rotating star system creates a pinwheel pattern in this false color infrared image. Astronomers discovered the surprising star dust scenario using a sophisticated interferometer and the 10 meter Keck I telescope to observe the bright Wolf-Rayet star WR 104. Wolf-Rayet stars are thought to be massive objects on the brink of a cataclysmic supernova explosion - having grown so hot and bright that their intense light begins to drive material away in a stellar wind. The problem is, their starlight would also be so intense that any dust flakes should be destroyed! A possible solution to this dusty dilemma is that a companion star exists hidden in the bright central region, generating wind interactions which shield a relatively narrow dust forming region from the light of WR 104. As the binary system rotates, the spray of surviving dust particles appears to spiral outward.",
   "date": "1999-04-09",
   "hdurl": "https://apod.nasa.gov/apod/image/9904/wr104_sslkeck_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9904/wr104_sslkeck.jpg"
 }

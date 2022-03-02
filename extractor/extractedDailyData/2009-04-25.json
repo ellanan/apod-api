@@ -1,14 +1,10 @@
 {
   "title": "Dark Markings of the Sky",
-  "credit": [],
   "explanation": "Based on wide field photographs, American astronomer Edward Emerson Barnard cataloged the dark markings of the sky in the early 20th century. Barnard's markings are dark nebulae, interstellar clouds of obscuring gas and dust. Their shapes are visible in cosmic silhouette because they lie in the foreground along the line-of-sight to rich star fields and stellar nurseries near the plane of our Galaxy. This deep telescopic image from the early 21st century captures a tantalizing array of Barnard's dusty nebulae toward the constellation Taurus and the Taurus molecular cloud some 400 light-years away. Included in the nearly 1 degree wide field of view is Barnard 7 (the 7th object in the catalog) at the upper right, next to a dusty bluish reflection nebula. Young variable star RY Tauri is emerging from a yellowish cocoon of dust near top center. Typically a light-year or so across, many of Barnard's dark nebulae are themselves likely sites of future star formation.",
   "date": "2009-04-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0904/b7_cannistra.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Cannistra (StarryWonders) Explanation",
-    "Steve Cannistra (StarryWonders)"
-  ],
+  "copyright": "Steve Cannistra (StarryWonders)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0904/b7_cannistra900.jpg"
 }

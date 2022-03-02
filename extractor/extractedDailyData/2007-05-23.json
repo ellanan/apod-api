@@ -1,14 +1,10 @@
 {
   "title": "Venus Near the Moon",
-  "credit": [],
   "explanation": "The two brightest objects in the night sky appeared to go right past each other last week. On the night of May 19, Earth's Moon and the planet Venus were visible in the same part of the sky, and at closest approach were less than one degree apart. The conjunction was captured in the above image taken from near Quebec City, Quebec, Canada. Venus appears on the lower left of the above photo. The spires that appear to emanate from Venus are diffraction spikes caused by the camera itself. The image is so clear that craters on the Moon are resolved. Of course, the real physical distance between the two heavenly bodies was not unusually small -- the apparent conjunction was really just an illusion of perspective. Although Earth's Moon passes Venus once each month, such a close passing visible in the evening sky is more rare.",
   "date": "2007-05-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0705/venusmoon_ouellet_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jay Ouellet Explanation",
-    "Jay Ouellet"
-  ],
+  "copyright": "Jay Ouellet",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0705/venusmoon_ouellet.jpg"
 }

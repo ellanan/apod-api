@@ -1,14 +1,10 @@
 {
   "title": "50 Miles on Pluto",
-  "credit": [
-    "Credit: NASA, Johns Hopkins Univ./APL, Southwest Research Inst. Explanation",
-    "NASA, Johns Hopkins Univ./APL, Southwest Research Inst."
-  ],
+  "credit": "NASA, Johns Hopkins Univ./APL, Southwest Research Inst.",
   "explanation": "A 50 mile (80 kilometer) trip across Pluto would cover the distance indicated by the scale bar in this startling image. The close-up of the icy world's rugged equatorial terrain was captured when the New Horizons spacecraft was about 47,800 miles (77,000 kilometers) from the surface, 1.5 hours before its closest approach. Rising to an estimated 11,000 feet (3,500 meters) the mountains are likely composed of water ice. Suggesting surprising geological activity, they are also likely young with an estimated age of 100 million years or so based on the apparent absence of craters. The region pictured is near the base of Pluto's broad, bright, heart-shaped feature.",
   "date": "2015-07-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1507/nh-plutosurface.png",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1507/nh-pluto-surface-scale1024.jpg"
 }

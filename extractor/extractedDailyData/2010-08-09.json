@@ -1,14 +1,10 @@
 {
   "title": "IRAS 05437+2502: An Enigmatic Star Cloud from Hubble",
-  "credit": [
-    "Credit: ESA, Hubble, R. Sahai (JPL), NASA Explanation",
-    "ESA, Hubble, R. Sahai (JPL), NASA"
-  ],
+  "credit": "ESA, Hubble, R. Sahai (JPL), NASA",
   "explanation": "What's lighting up nebula IRAS 05437+2502? No one is sure. Particularly enigmatic is the bright upside-down V that defines the upper edge of this floating mountain of interstellar dust, visible near the image center. In general, this ghost-like nebula involves a small star forming region filled with dark dust that was first noted in images taken by the IRAS satellite in infrared light in 1983. Shown above is a spectacular, recently released image from the Hubble Space Telescope that, although showing many new details, has not uncovered a clear cause of the bright sharp arc. One hypothesis holds that the glowing arc was created by a massive star that somehow attained a high velocity and has now left the nebula. Small, faint IRAS 05437+2502 spans only 1/18th of a full moon toward the constellation of the Bull (Taurus).",
   "date": "2010-08-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1008/irasghost_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1008/irasghost_hst.jpg"
 }

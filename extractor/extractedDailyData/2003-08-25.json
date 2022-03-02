@@ -1,12 +1,8 @@
 {
   "title": "The Northern Milky Way",
-  "credit": [],
   "explanation": "Many of the stars in our home Milky Way Galaxy appear together as a dim band on the sky that passes nearly over the Earth's north and south poles. Pictured above is the part of our Galaxy that passes closest over the north pole. Placing your cursor over the image will bring up the names of several constellations and bright stars. The diffuse white Galaxy glow is created by billions of stars, while red patches are large emission nebulas, usually marking areas where bright stars have recently formed. In the north, all of the lights visible at night and all lights that created this image were emitted within the past few thousand years from within the Milky Way Galaxy -- except one. On the upper right is a small faint patch designated M31, the Andromeda Galaxy. M31 is a spiral galaxy similar to our Milky Way but so distant it emits the oldest light distinguishable by the unaided eye -- light that takes over two million years to reach us.",
   "date": "2003-08-25",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jerry Lodriguss (Astropix.com) Explanation",
-    "Jerry Lodriguss (Astropix.com)"
-  ],
+  "copyright": "Jerry Lodriguss (Astropix.com)",
   "media_type": "other"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Star Colors in Orion",
-  "credit": [],
   "explanation": "What determines a star's color? Its temperature. Red stars are cool, with surface temperatures of around 3,000 kelvins (K), while blue stars are hotter and can have temperatures over 30,000 K. Our own lovely \"yellow\" Sun's temperature is a comforting 6,000 K. Differences in star colors are particularly easy to see in this intriguing composite view of the constellation Orion, made while experimenting with a star trail step-focus technique. In it, a series of 35 consecutive exposures were combined to produce trails of stars moving left to right through the frame, while changing focus in steps. Beginning and ending with the camera out of focus produced a sharply focused exposure near the middle of the series and blurs the star trails into a bow tie shape. For the brighter stars, blurring produces more saturated colors in the images. At the upper left, Orion's cool red supergiant Betelgeuse stands out from the other, hotter, bluish stars composing the body of the constellation. Not a star at all, the Orion Nebula contributes a pinkish tint below center. Also remarkable in the field, the fainter step focus trail of cool, deep red carbon star W Orionis is near the center right edge, its red hue enhanced by a carbon-rich composition.",
   "date": "2011-02-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1102/OrionColors_hackmann.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jens Hackmann Explanation",
-    "Jens Hackmann"
-  ],
+  "copyright": "Jens Hackmann",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1102/OrionColors_hackmann900h.jpg"
 }

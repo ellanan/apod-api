@@ -1,14 +1,10 @@
 {
   "title": "A Year at Saturn",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Arriving at Saturn in July of 2004, the Cassini spacecraft has now spent a year and a half exploring the magnificent rings and moons of the distant gas giant. The year 2005 began with Cassini's Huygens probe landing on Saturn's large moon Titan. Cassini's continuing series of close flybys also revealed details and discoveries across the surface of the smog shrouded moon. In fact, with a ringside seat throughout 2005, Cassini's cameras have made spectacular pictures of Titan along with Saturn's other moons and rings almost common place. But often, Saturn itself provided the most dramatic backdrop. In this view, Saturn's moon Dione lies in front of edge-on rings and the gas giant's cloud tops draped with broad ring shadows. Dione is 1,118 kilometers across and lies about 300,000 kilometers from the ring's edge.",
   "date": "2005-12-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0512/dione_PIA07771.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0512/dione_PIA07771_c74.jpg"
 }

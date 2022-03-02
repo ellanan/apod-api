@@ -1,14 +1,10 @@
 {
   "title": "Moonbow Beach",
-  "credit": [],
   "explanation": "Like a rainbow at night, a beautiful moonbow shines above the western horizon in this deserted beach scene from Molokai Island, Hawaii, USA, planet Earth. Captured last June 17 in early morning hours, the lights along the horizon are from Honolulu and cities on the island of Oahu some 30 miles away. So where was the Moon? A rainbow is produced by sunlight internally reflected in rain drops from the direction opposite the Sun back toward the observer. As the light passes from air to water and back to air again, longer wavelengths are refracted (bent) less than shorter ones resulting in the separation of colors. And so the moonbow is produced as raindrops reflect moonlight from the direction opposite the Moon. That puts the Moon directly behind the photographer, still low and rising over the eastern horizon, a few days past its full phase.",
   "date": "2014-09-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1409/PapohakuBeach1_CropBow.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rogelio Bernal Andreo (Deep Sky Colors) Explanation",
-    "Rogelio Bernal Andreo (Deep Sky Colors)"
-  ],
+  "copyright": "Rogelio Bernal Andreo (Deep Sky Colors)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1409/PapohakuBeach1_CropBow600h.jpg"
 }

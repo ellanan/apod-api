@@ -1,14 +1,10 @@
 {
   "title": "Millennium Annular Solar Eclipse",
-  "credit": [],
   "explanation": "The Moon's shadow raced across planet Earth on January 15. Observers within the central shadow track were able to witness an annular solar eclipse as the Moon's apparent size was too small to completely cover the Sun. A visually dramatic ring of fire, the annular phase lasted up to 11 minutes and 8 seconds depending on location, the longest annular solar eclipse for the next 1,000 years. This picture of the Moon's silhouette just before mid-eclipse was taken within the eclipse path from the city of Kanyakumari at the southern tip of India. The telescopic image was made through a filter that blocks most visible light, but still transmits light from hydrogen atoms. As a result, detailed mottling, or granulation, caused by heat convection in the Sun's atmosphere can be seen around the dark lunar disk.",
   "date": "2010-01-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1001/aseJan2010_svalgaard.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mikael Svalgaard Explanation",
-    "Mikael Svalgaard"
-  ],
+  "copyright": "Mikael Svalgaard",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1001/aseJan2010_svalgaard800c.jpg"
 }

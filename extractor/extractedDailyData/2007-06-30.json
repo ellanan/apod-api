@@ -1,14 +1,10 @@
 {
   "title": "Jumbled Galaxy Centaurus A",
-  "credit": [],
   "explanation": "At the center of this sharp skyscape, Centaurus A seems to be a fantastic jumble of old yellow stars, young blue star clusters, and imposing dark dust lanes. Spanning over 60,000 light-years, the peculiar elliptical galaxy is apparently the result of a collision of two otherwise normal galaxies. The left over cosmic debris is steadily being consumed by a black hole with a billion times the mass of the Sun which lies at the center of Centaurus A. It's likely that such black hole central engines generate the radio, X-ray, and gamma-ray energy radiated by Centaurus A and other active galaxies. For an active galaxy Centaurus A is close, a mere 10 million light-years away, and is well-studied by earthbound astronomers.",
   "date": "2007-06-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0706/CentaurusASGL_gendler.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler and Stephane Guisard Explanation",
-    "Robert Gendler and Stephane Guisard"
-  ],
+  "copyright": "Robert Gendler and Stephane Guisard",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0706/CentaurusASGL_gendler_c720.jpg"
 }

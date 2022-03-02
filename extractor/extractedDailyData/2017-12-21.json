@@ -1,14 +1,10 @@
 {
   "title": "Solstice Sun and Milky Way",
-  "credit": [],
   "explanation": "Welcome to December's solstice, first day of winter in the north and summer for the southern hemisphere. Astronomical markers of the seasons, solstice and equinox dates are based on the Sun's place in its annual journey along the ecliptic, through planet Earth's sky. At this solstice, the Sun reaches its maximum southern declination of -23.5 degrees today at 16:28 UTC, while its right ascension coordinate on the celestial sphere is 18 hours. That puts the Sun in the constellation Sagittarius in a direction near the center of our Milky Way galaxy. In fact, if you could see today's Solstice Sun against faint background stars and nebulae (that's really hard to do, especially in the daytime ...) your view might look something like this composited panorama. To make it, images of our fair galaxy were taken under dark Namibian night skies, then stitched together in a panoramic view. From a snapshot made on December 21, 2015, the Sun was digitally overlayed as a brilliant star at today's northern winter solstice position, close to the center of the Milky Way.",
   "date": "2017-12-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1712/WinterSolsticeMW_Seip.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip (TWAN) Explanation",
-    "Stefan Seip (TWAN)"
-  ],
+  "copyright": "Stefan Seip (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1712/WinterSolsticeMW_Seip1100c.jpg"
 }

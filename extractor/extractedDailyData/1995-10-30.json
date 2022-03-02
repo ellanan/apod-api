@@ -1,14 +1,10 @@
 {
   "title": "Comet Hale-Bopp Update",
-  "credit": [
-    "Credit: NASA, HST, H.A. Weaver (ARC) and P.D. Feldman (JHU). Explanation",
-    "NASA, HST, H.A. Weaver (ARC) and P.D. Feldman (JHU)."
-  ],
+  "credit": "NASA, HST, H.A. Weaver (ARC) and P.D. Feldman (JHU).",
   "explanation": "",
   "date": "1995-10-30",
   "hdurl": "https://apod.nasa.gov/apod/image/halebopp_hst1.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/halebopp_hst1.gif"
 }

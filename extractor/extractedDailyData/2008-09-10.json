@@ -1,14 +1,10 @@
 {
   "title": "The Anthe Arc around Saturn",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What created this unusual partial ring around Saturn? Discovered last year, the arc was captured in clear detail only two months ago by the Saturn-orbiting Cassini spacecraft. Since the arc occupies the same orbit as the small moon Anthe, a leading hypothesis holds that the arc was created by, and is replenished by, meteor impacts on Anthe. Similar arcs have been previously discovered, including an arc associated with the small Saturnian moon Methone, one arc related to Saturn's G ring, and several arcs orbiting Neptune. Pictured above, Anthe, only two kilometers across, is seen as the bright point near the top of the Anthe arc. The Anthe arc was imaged by the robotic space probe as it swooped to within 1.5 million kilometers of the small moon.",
   "date": "2008-09-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0809/anthearc_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0809/anthearc_cassini.jpg"
 }

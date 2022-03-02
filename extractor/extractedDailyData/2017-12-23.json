@@ -1,14 +1,10 @@
 {
   "title": "Phaethon's Brood",
-  "credit": [],
   "explanation": "Based on its well-measured orbit, 3200 Phaethon (sounds like FAY-eh-thon) is recognized as the source of the meteroid stream responsible for the annual Geminid meteor shower. Even though most meteor showers' parents are comets, 3200 Phaethon is a known and closely tracked near-Earth asteroid with a 1.4 year orbital period. Rocky and sun-baked, its perihelion or closest approach to the Sun is well within the orbit of innermost planet Mercury. In this telescopic field of view, the asteroid's rapid motion against faint background stars of the heroic constellation Perseus left a short trail during the two minute total exposure time. The parallel streaks of its meteoric children flashed much more quickly across the scene. The family portrait was recorded near the Geminid meteor shower's very active peak on December 13. That was just before 3200 Phaethon's historic December 16 closest approach to planet Earth.",
   "date": "2017-12-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1712/MSato_Phaethon-and-Geminids-small.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mikiya Sato (Nippon Meteor Society) Explanation",
-    "Mikiya Sato (Nippon Meteor Society)"
-  ],
+  "copyright": "Mikiya Sato (Nippon Meteor Society)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1712/MSato_Phaethon-and-Geminids-1100.jpg"
 }

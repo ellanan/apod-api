@@ -1,14 +1,10 @@
 {
   "title": "The El Gordo Massive Galaxy Cluster",
-  "credit": [
-    "Credit: NASA, ESA, J. Jee (UC Davis) et al. Explanation",
-    "NASA, ESA, J. Jee (UC Davis) et al."
-  ],
+  "credit": "NASA, ESA, J. Jee (UC Davis) et al.",
   "explanation": "It is bigger than a bread box. In fact, it is much bigger than all bread boxes put together. Galaxy cluster ACT-CL J0102-4915 is one of the largest and most massive objects known. Dubbed \"El Gordo\", the seven billion light years (z = 0.87) distant galaxy cluster spans about seven million light years and holds the mass of a million billion Suns. The above image of El Gordo is a composite of a visible light image from the Hubble Space Telescope, an X-ray image from the Chandra Observatory showing the hot gas in pink, and a computer generated map showing the most probable distribution of dark matter in blue, computed from gravitational lens distortions of background galaxies. Almost all of the bright spots are galaxies. The blue dark matter distribution indicates that the cluster is in the middle stages of a collision between two large galaxy clusters. A careful inspection of the image will reveal a nearly vertical galaxy that appears unusually long. That galaxy is actually far in the background and has its image stretched by the gravitational lens action of the massive cluster.",
   "date": "2014-04-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1404/elgordo_chandrahubble_3600.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1404/elgordo_chandrahubble_960.jpg"
 }

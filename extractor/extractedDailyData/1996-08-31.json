@@ -1,14 +1,10 @@
 {
   "title": "Kepler Discovers How Planets Move",
-  "credit": [
-    "Credit: Johnnes Kepler Gesammelte Werke , C. H. Beck, 1937 Explanation",
-    "Johnnes Kepler Gesammelte Werke , C. H. Beck, 1937"
-  ],
+  "credit": "Johnnes Kepler Gesammelte Werke , C. H. Beck, 1937",
   "explanation": "",
   "date": "1996-08-31",
   "hdurl": "https://apod.nasa.gov/apod/image/kepler_hist_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/kepler_hist.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Calm, Crescent Moon, and Venus",
-  "credit": [],
   "explanation": "Last weekend, the Moon and Venus formed a beautiful close pair in the west after sunset, a scene enjoyed by skygazers all over the world. In this lovely view of the conjunction from Sweden, a calm lake Vallentuna lies in the foreground with sunset colors still fading behind the treeline on the far shore. The young Moon's sunlit crescent is bright, but its entire outline can be seen by Earthshine, light reflected from planet Earth itself. For well-placed skygazers, on Sunday, May 16 the Moon actually occulted (passed in front of) brilliant Venus. For many, the occultation was visible during daylight hours.",
   "date": "2010-05-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1005/MoonVenus_heden.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P-M Hedén (Clear Skies, TWAN) Explanation",
-    "P-M Hedén (Clear Skies, TWAN)"
-  ],
+  "copyright": "P-M Hedén (Clear Skies, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1005/MoonVenus_heden600.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Saturn's Rings from the Inside Out",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, Space Science Institute Explanation",
-    "NASA, JPL-Caltech, Space Science Institute"
-  ],
+  "credit": "NASA, JPL-Caltech, Space Science Institute",
   "explanation": "What do Saturn's rings look like from Saturn? Images from the robotic spacecraft Cassini are providing humanity with this unprecedented vantage point as it nears the completion of its mission. Previous to Cassini's Grand Finale orbits, all images of Saturn's majestic ring system were taken from outside of the rings looking in. Pictured in the inset is the remarkable video, while the spacecraft's positions are depicted in the surrounding animation. Details of the complex rings are evident as the short time-lapse sequence begins, while the paper-thin thickness of the rings becomes apparent near the video's end. The featured images were taken on August 20. Cassini has only a few more orbits around Saturn left before it is directed to dive into the giant planet on September 15.",
   "date": "2017-09-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1709/InsideSaturnsRings_Cassini_1280.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1709/InsideSaturnsRings_Cassini_1080.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Auroras Over Both Earth Poles",
-  "credit": [
-    "Credit: Polar VIS, JPL, NASA Explanation",
-    "Polar VIS, JPL, NASA"
-  ],
+  "credit": "Polar VIS, JPL, NASA",
   "explanation": "Auroras in the north and south can be nearly mirror images of each other. Such mirroring had been suspected for centuries but dramatically confirmed only last month by detailed images from NASA's orbiting Polar spacecraft. Pictured above, a time-lapse movie shows simultaneous changes in aurora borealis, at the top, and aurora australis, at the bottom. A cloud of electrons and ions moving out from the Sun on October 22 created the auroras. The solar explosion that released the particles occurred about three days earlier.",
   "date": "2001-11-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0111/nsauroras_polar_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0111/nsauroras_polar.gif"
 }

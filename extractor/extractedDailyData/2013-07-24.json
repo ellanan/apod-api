@@ -1,13 +1,9 @@
 {
   "title": "A Year of Sky on Earth",
-  "credit": [],
   "explanation": "Each panel shows one day. With 360 movie panels, the sky over (almost) an entire year is shown in time lapse format as recorded by a video camera on the roof of the Exploratorium museum in San Francisco, California. The camera recorded an image every 10 seconds from before sunrise to after sunset and from mid-2009 to mid-2010. A time stamp showing the local time of day is provided on the lower right. The videos are arranged chronologically, with July 28 shown on the upper left, and January 1 located about about half way down. Although every day lasts 24 hours, daylight lasts longest in the northern hemisphere in June and the surrounding summer months, a fact which can be seen here as the bottom (and soon top) videos are the first to light up with dawn. The initial darkness in the middle depicts the delayed dawn and fewer daylight hours of winter. In the videos, darkness indicates night, blue depicts clear day, while gray portrays pervasive daytime cloud cover. Many videos show complex patterns of clouds moving across the camera's wide field as that day progresses. As the videos collectively end, sunset and then darkness descend first on the winter days just above the middle, and last on the mid-summer near the bottom.",
   "date": "2013-07-24",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ken Murphy (MurphLab); Music Ariel (Moby) Explanation",
-    "Ken Murphy (MurphLab); Music Ariel (Moby)"
-  ],
+  "copyright": "Ken Murphy (MurphLab); Music Ariel (Moby)",
   "media_type": "video",
   "url": "https://player.vimeo.com/video/32095756?title=0&byline=0&portrait=0"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Comet Hale-Bopp Outbound",
-  "credit": [
-    "Credit: STS-85 Crew, SWUIS Team, NASA Explanation",
-    "STS-85 Crew, SWUIS Team, NASA"
-  ],
+  "credit": "STS-85 Crew, SWUIS Team, NASA",
   "explanation": "Hale-Bopp, the Comet of the Century, is leaving the inner Solar System. Outbound at about 12 miles per second it is presently nearing the main asteroid belt between Mars and Jupiter. This false-color image represents a recent view from low Earth orbit showing the comet surrounded by its shrinking coma against a background of stars. It was constructed from a fraction of the data taken aboard the Space Shuttle Discovery in August by a small innovative telescopic camera known as the Southwest Ultraviolet Imaging System or SWUIS. SWUIS (sounds like \"swiss\") images will be particularly interesting to astronomers who wish to continue to follow the Great Comet's interaction with the Solar Wind. The once bright Hale-Bopp has faded below 4th magnitude but is still visible to Earthbound observers south of 35 degrees north latitude.",
   "date": "1997-09-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9709/halebopp_swuis.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9709/halebopp_swuis.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Meteor, Comet, and Seagull (Nebula)",
-  "credit": [],
   "explanation": "A meteor, a comet, and a photogenic nebula have all been captured in this single image. The closest and most fleeting is the streaking meteor on the upper right -- it was visible for less than a second. The meteor, which disintegrated in Earth's atmosphere, was likely a small bit of debris from the nucleus of Comet 21P/Giacobini-Zinner, coincidentally the comet captured in the same image. Comet 21P, pictured across the inner Solar System from Earth, is distinctive for its long dust tail spread horizontally across the image center. This comet has been visible with binoculars for the past few months but is now fading as it heads back out to the orbit of Jupiter. Farthest out at 3,500 light years distant is the IC 2177, the Seagull Nebula, visible on the left. The comparatively vast Seagull Nebula, with a wingspan on order 250 light-years, will likely remain visible for hundreds of thousands of years. Long exposures, taken about two weeks ago from Iwaki-City in Japan, were combined to capture the image's faintest elements. You, too, could see a meteor like this -- and perhaps sooner than you might think: tonight is the peak of the Orionids meteor shower.",
   "date": "2018-10-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1810/CometMeteorNebula_TSam_5310.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Takao Sambommatsu Explanation",
-    "Takao Sambommatsu"
-  ],
+  "copyright": "Takao Sambommatsu",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1810/CometMeteorNebula_TSam_1080.jpg"
 }

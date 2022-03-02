@@ -1,13 +1,9 @@
 {
   "title": "Mercury Crosses a Quiet Sun",
-  "credit": [
-    "Credit: NASA, SDO, NASA's Science Visualization Studio; Music: Gustav Sting (Kevin MacLeod) via YouTube Explanation",
-    "NASA, SDO, NASA's Science Visualization Studio; Music: Gustav Sting (Kevin MacLeod) via YouTube"
-  ],
+  "credit": "NASA, SDO, NASA's Science Visualization Studio; Music: Gustav Sting (Kevin MacLeod) via YouTube",
   "explanation": "What's that black dot crossing the Sun? The planet Mercury. Mercury usually passes over or under the Sun, as seen from Earth, but last month the Solar System's innermost planet appeared to go just about straight across the middle. Although witnessed by planet admirers across the globe, a particularly clear view was captured by the Solar Dynamics Observatory (SDO) in Earth orbit. The featured video was captured by the SDO's HMI instrument in a broad range of visible light, and compresses the 5 1/2 hour transit into about 13 seconds. The background Sun was unusually quiet -- even for being near Solar Minimum -- and showed no sunspots. The next solar transit by Mercury will occur in 2032.",
   "date": "2019-12-02",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/ofZTOxC9JQ4?rel=0"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Radioactive Clouds in the Milky Way",
-  "credit": [
-    "Credit: NASA, Compton Gamma Ray Observatory, COMPTEL Collaboration, Explanation",
-    "NASA, Compton Gamma Ray Observatory, COMPTEL Collaboration,"
-  ],
+  "credit": "NASA, Compton Gamma Ray Observatory, COMPTEL Collaboration,",
   "explanation": "",
   "date": "1995-10-29",
   "hdurl": "https://apod.nasa.gov/apod/image/al26_comptel.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/al26_comptel.gif"
 }

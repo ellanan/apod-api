@@ -1,14 +1,10 @@
 {
   "title": "A Supernova through Galaxy Dust",
-  "credit": [
-    "Credit: NASA, ESA, and the Hubble Heritage (STScI/AURA); Inset Image: Howard Hedlund & Dave Jurasevich, Las Campanas Obs. Explanation",
-    "NASA, ESA, and the Hubble Heritage (STScI/AURA); Inset Image: Howard Hedlund & Dave Jurasevich, Las Campanas Obs."
-  ],
+  "credit": "NASA, ESA, and the Hubble Heritage (STScI/AURA); Inset Image: Howard Hedlund & Dave Jurasevich, Las Campanas Obs.",
   "explanation": "Telescopes around the world are tracking a bright supernova that occurred in a nearby dusty galaxy. The powerful stellar explosion was first noted earlier this month. The nearby galaxy is the photogenic Centaurus A, visible with binoculars and known for impressive filaments of light-absorbing dust that cross its center. Cen A is featured here in a high-resolution archival Hubble Space Telescope image, with an inset image featuring the supernova taken from the ground only two days after discovery. Designated SN2016adj, the supernova is highlighted with crosshairs in the inset, appearing just to the left of a bright foreground star in our Milky Way Galaxy. This supernova is currently thought to be of Type IIb, a stellar-core-collapse supernova, and is of high interest because it occurred so nearby and because it is being seen through a known dust filament. Current and future observations of this supernova may give us new clues about the fates of massive stars and how some elements found on our Earth were formed.",
   "date": "2016-02-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1602/CenAsupernova2_hubble_960.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1602/CenAsupernova2_hubble_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Lasers in Eta Carinae",
-  "credit": [
-    "Credit: NASA, J. Gitlin (StScI) Explanation",
-    "NASA, J. Gitlin (StScI)"
-  ],
+  "credit": "NASA, J. Gitlin (StScI)",
   "explanation": "",
   "date": "1996-01-11",
   "hdurl": "https://apod.nasa.gov/apod/image/eta_laser_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/eta_laser.gif"
 }

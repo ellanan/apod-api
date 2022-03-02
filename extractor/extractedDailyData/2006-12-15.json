@@ -1,14 +1,10 @@
 {
   "title": "NGC 1055 and M77",
-  "credit": [],
   "explanation": "Large spiral galaxy NGC 1055 (top left) joins spiral M77 in this lovely cosmic view toward the constellation Cetus. The narrowed, dusty appearance of edge-on spiral NGC 1055 contrasts nicely with the face-on view of M77's bright nucleus and spiral arms. Both over 100,000 light-years across, the pair are dominant members of a small galaxy group about 60 million light-years away. At that estimated distance, M77 is one of the most remote objects in Charles Messier's catalog and is separated from fellow island universe NGC 1055 by at least 500,000 light-years. The mosaicked field is about the size of the full Moon on the sky and includes colorful foreground Milky Way stars (with diffraction spikes) along with more distant background galaxies.",
   "date": "2006-12-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0612/ngc1055m77_gendler_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0612/ngc1055m77_gendler_c720.jpg"
 }

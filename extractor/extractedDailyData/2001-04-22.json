@@ -1,14 +1,10 @@
 {
   "title": "Globular Cluster 47 Tucanae",
-  "credit": [
-    "Credit: W. Keel (U. Alabama in Tuscaloosa) et al., 1.54-m Telescope, Chile Explanation",
-    "W. Keel (U. Alabama in Tuscaloosa) et al., 1.54-m Telescope, Chile"
-  ],
+  "credit": "W. Keel (U. Alabama in Tuscaloosa) et al., 1.54-m Telescope, Chile",
   "explanation": "Stars come in bunches. Of the over 200 globular star clusters that orbit the center of our Milky Way Galaxy, 47 Tucanae is the second brightest globular cluster (behind Omega Centauri). Known to some affectionately as 47 Tuc or NGC 104, it is only visible from the Southern Hemisphere. Light takes about 20,000 years to reach us from 47 Tuc which can be seen near the SMC in the constellation of Tucana. Red Giant stars are particularly easy to see in this picture. The dynamics of stars near the center of 47 Tuc are not well understood, particularly why there are so few binary systems there.",
   "date": "2001-04-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0104/47tuc_wc_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0104/47tuc_wc.jpg"
 }

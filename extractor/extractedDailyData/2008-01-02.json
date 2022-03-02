@@ -1,14 +1,10 @@
 {
   "title": "A Galaxy is not a Comet",
-  "credit": [],
   "explanation": "This gorgeous galaxy and comet portrait was recorded on December 30th, in the skies over Hoogeveen, The Netherlands. The combined series of 60 x 60 second exposures finds the lovely green coma of Comet 8P/Tuttle near its predicted conjunction with the Triangulum Galaxy. Aligning each exposure with the stars shows the comet as a streak, slowly moving against the background stars and galaxy. An alternative composition with exposures centered on the comet, shows the background stars and galaxy as streaks. The alluring celestial scene would also have been a rewarding one for the influential 18th century comet hunter Charles Messier. While Messier scanned French skies for comets, he carefully cataloged positions of things which were fuzzy and comet-like in appearance but did not move against the background stars and so were definitely not comets. The Triangulum Galaxy, also known as M33, is the 33rd object in his famous not-a-comet catalog. The modern understanding holds that the Triangulum Galaxy is a large spiral galaxy some 3 million light-years distant. Comet 8P/Tuttle, just bright enough to be visible to the unaided eye in dark, northern skies, is about 40 million kilometers (2 light-minutes) away.",
   "date": "2008-01-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0801/M33tuttle_kempenStar.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Emiel Kempen Explanation",
-    "Emiel Kempen"
-  ],
+  "copyright": "Emiel Kempen",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0801/M33tuttle_kempenStar800.jpg"
 }

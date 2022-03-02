@@ -1,14 +1,10 @@
 {
   "title": "NGC 7822 in Cepheus",
-  "credit": [],
   "explanation": "Pillars of gas, dust, and young, hot stars seem to fill the gaping maw of NGC 7822. At the edge of a giant molecular cloud toward the northern constellation Cepheus, the glowing star forming region lies about 3,000 light-years away. Within the nebula, bright edges and dark shapes are highlighted in this colorful skyscape. The image includes data from both broadband and narrowband filters, mapping emission from atomic oxygen, hydrogen, and sulfur into blue, green, and red hues. The atomic emission is powered by the energetic radiation from the hot stars, whose powerful winds and radiation also sculpt and erode the denser pillar shapes. Stars could still be forming inside the pillars by gravitational collapse, but as the pillars are eroded away, any forming stars will ultimately be cutoff from their reservoir of star stuff. This field spans around 60 light-years at the estimated distance of NGC 7822.",
   "date": "2010-10-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1010/NGC7822_H2cFleming50pct.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Neil Fleming Explanation",
-    "Neil Fleming"
-  ],
+  "copyright": "Neil Fleming",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1010/NGC7822_H2cFleming750.jpg"
 }

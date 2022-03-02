@@ -1,17 +1,11 @@
 {
   "title": "M1: The Exploding Crab Nebula",
-  "credit": [
-    "Credit: Hale 5 Meter Telescope Copyright: AATB, Caltech, David Malin, Jay Pasachoff Explanation",
-    "Hale 5 Meter Telescope Copyright: AATB, Caltech, David Malin, Jay Pasachoff"
-  ],
+  "credit": "Hale 5 Meter Telescope Copyright: AATB, Caltech, David Malin, Jay Pasachoff",
   "explanation": "",
   "date": "1995-11-22",
   "hdurl": "https://apod.nasa.gov/apod/image/crab_h5m.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: AATB, Caltech, David Malin, Jay Pasachoff Explanation",
-    "AATB, Caltech, David Malin, Jay Pasachoff"
-  ],
+  "copyright": "AATB, Caltech, David Malin, Jay Pasachoff",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/crab_h5m.gif"
 }

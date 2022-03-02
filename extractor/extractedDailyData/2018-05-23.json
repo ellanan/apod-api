@@ -1,17 +1,11 @@
 {
   "title": "Spiral Galaxy NGC 4038 in Collision",
-  "credit": [
-    "Credit: NASA, ESA, Hubble, HLA; Processing & Copyright: Domingo Pestana Explanation",
-    "NASA, ESA, Hubble, HLA; Processing & Copyright: Domingo Pestana"
-  ],
+  "credit": "NASA, ESA, Hubble, HLA; Processing & Copyright: Domingo Pestana",
   "explanation": "This galaxy is having a bad millennium. In fact, the past 100 million years haven't been so good, and probably the next billion or so will be quite tumultuous. Visible toward the lower right, NGC 4038 used to be a normal spiral galaxy, minding its own business, until NGC 4039, to its upper left, crashed into it. The evolving wreckage, known famously as the Antennae, is featured here. As gravity restructures each galaxy, clouds of gas slam into each other, bright blue knots of stars form, massive stars form and explode, and brown filaments of dust are strewn about. Eventually the two galaxies will converge into one larger spiral galaxy. Such collisions are not unusual, and even our own Milky Way Galaxy has undergone several in the past and is predicted to collide with our neighboring Andromeda Galaxy in a few billion years. The frames that compose this image were taken by the orbiting Hubble Space Telescope by professional astronomers to better understand galaxy collisions. These frames -- and many other deep space images from Hubble -- have since been made public, allowing interested amateurs to download and process them into, for example, this visually stunning composite.",
   "date": "2018-05-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1805/Antennae_HubblePestana_4081.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Domingo Pestana Explanation",
-    "Domingo Pestana"
-  ],
+  "copyright": "Domingo Pestana",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1805/Antennae_HubblePestana_960.jpg"
 }

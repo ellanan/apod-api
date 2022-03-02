@@ -1,14 +1,10 @@
 {
   "title": "LkHa101: The Hole in the Doughnut",
-  "credit": [
-    "Credit: Peter Tuthill (Sydney University Physics Department) et al., W.M. Keck Observatory Explanation",
-    "Peter Tuthill (Sydney University Physics Department) et al., W.M. Keck Observatory"
-  ],
+  "credit": "Peter Tuthill (Sydney University Physics Department) et al., W.M. Keck Observatory",
   "explanation": "You'd need a really big cup of coffee with this doughnut ... because the hole in the middle is about a billion kilometers across. Centered on the Sun, a circle that size would lie between the orbits of Mars and Jupiter. In fact, this doughnut is known to surround a massive newborn star cataloged as LkHa 101 which lies in the constellation Perseus. Imaged in infrared light, the tantalizing torus-shaped cloud of gas and dust is slightly tilted to our view. The cloud's material may well be the ingredients for the formation of a distant solar system. A bright source of ultraviolet light, the hot young star itself is much fainter in the infrared and so not visible in this picture. Still, the star's presence is indicated as its intense stellar wind and radiation has apparently carved out the doughnut's hole. This premier close-up of a stellar system in formation was accomplished by adapting a powerful observational technique called interferometry to planet Earth's largest single mirror telescope, the 10 meter Keck.",
   "date": "2001-03-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0103/lkha101_tuthill_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0103/lkha101_tuthill.jpg"
 }

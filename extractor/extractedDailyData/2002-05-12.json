@@ -1,14 +1,10 @@
 {
   "title": "At the Edge of the Helix Nebula",
-  "credit": [
-    "Credit: R. O'Dell and K. Handron (Rice University), NASA Explanation",
-    "R. O'Dell and K. Handron (Rice University), NASA"
-  ],
+  "credit": "R. O'Dell and K. Handron (Rice University), NASA",
   "explanation": "While exploring the inner edge of the Helix Nebula with the Hubble Space Telescope's Wide Field Planetary Camera 2, astronomers were able to produce this striking image - rich in details of an exotic environment. This planetary nebula, created near the final phase of a sun-like star's life, is composed of tenuous shells of gas ejected by the hot central star. The atoms of gas, stripped of electrons by ultraviolet radiation from the central star, radiate light at characteristic energies allowing specific chemical elements to be identified. In this image, emission from nitrogen is represented as red, hydrogen emission as green, and oxygen as blue. The inner edge of the Helix Nebula, also known as NGC 7293, is in the direction toward the central star, which is toward the upper right. Clearly visible near the inner edge are finger shaped cometary knots.",
   "date": "2002-05-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0205/helixedge_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0205/helixedge_hst.jpg"
 }

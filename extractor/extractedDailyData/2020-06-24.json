@@ -1,14 +1,10 @@
 {
   "title": "Inverted City Beneath Clouds",
-  "credit": [],
   "explanation": "How could that city be upside-down? The city, Chicago, was actually perfectly right-side up. The long shadows it projected onto nearby Lake Michigan near sunset, however, when seen in reflection, made the buildings appear inverted. This fascinating, puzzling, yet beautiful image was captured by a photographer in 2014 on an airplane on approach to Chicago's O'Hare International Airport. The Sun can be seen both above and below the cloud deck, with the latter reflected in the calm lake. As a bonus, if you look really closely -- and this is quite a challenge -- you can find another airplane in the image, likely also on approach to the same airport.",
   "date": "2020-06-24",
   "hdurl": "https://apod.nasa.gov/apod/image/2006/ChicagoClouds_Hersch_3600.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mark Hersch Explanation",
-    "Mark Hersch"
-  ],
+  "copyright": "Mark Hersch",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2006/ChicagoClouds_Hersch_960.jpg"
 }

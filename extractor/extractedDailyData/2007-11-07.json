@@ -1,14 +1,10 @@
 {
   "title": "The Sloan Great Wall: Largest Known Structure?",
-  "credit": [],
   "explanation": "What is the largest structure known? The answer might depend on how one defines \"structure.\" A grouping of galaxies known as the Sloan Great Wall was discovered in the Sloan Digital Sky Survey and is a leading candidate. The Sloan Great Wall can be seen in this digitally recast contour map of galaxies in the Two Degree Field galaxy survey. Galaxies within one billion light years, a redshift of about 0.1, are depicted. The labeled Sloan Great Wall spans over one billion light years, longer than any structure ever measured. Critics worry that the Sloan Great Wall should not itself be characterized as a coherent structure because it is not currently gravitationally bound together and parts of it might never become gravitationally bound. Regardless, the beauty of the local universe of galaxies is evident in the image where several huge superclusters of galaxies -- clusters of galaxy clusters -- can also be seen. These include the Shapley Supercluster of galaxies, part of the Pisces-Cetus Supercluster, and part of the Horologium-Reticulum Supercluster.",
   "date": "2007-11-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/2df3d_schaap_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: W. Schaap (Kapteyn Institute, U. Groningen) et al., 2dF Galaxy Redshift Survey Explanation",
-    "W. Schaap (Kapteyn Institute, U. Groningen) et al., 2dF Galaxy Redshift Survey"
-  ],
+  "copyright": "W. Schaap (Kapteyn Institute, U. Groningen) et al., 2dF Galaxy Redshift Survey",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/2df3d_schaap.jpg"
 }

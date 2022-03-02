@@ -1,14 +1,10 @@
 {
   "title": "A Graceful Arc",
-  "credit": [],
   "explanation": "The graceful arc of the Milky Way begins and ends at two mountain peaks in this solemn night sky panorama. The view was created from a 24 frame mosaic, with exposures tracking Earth and sky separately. In the final composition, northern California's Mount Lassen was positioned at the left and Mount Shasta at the far right, just below the star and dust clouds of the galactic center. Lassen and Shasta are volcanoes in the Cascade Mountain Range of North America, an arc of the volcanic Pacific Ring of Fire. In the dim, snow-capped peaks, planet Earth seems to echo the subtle glow of the Milky Way's own faint, unresolved starlight.",
   "date": "2009-12-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0912/ArcMW_hallas_alt.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tony Hallas Explanation",
-    "Tony Hallas"
-  ],
+  "copyright": "Tony Hallas",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0912/ArcMW_hallas_alt445h.jpg"
 }

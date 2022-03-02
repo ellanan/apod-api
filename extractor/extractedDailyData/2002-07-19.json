@@ -1,14 +1,10 @@
 {
   "title": "Counting Stars in the Infrared Sky",
-  "credit": [
-    "Credit: J. Carpenter, M. Skrutskie, R. Hurt, 2MASS Project, NSF, NASA Explanation",
-    "J. Carpenter, M. Skrutskie, R. Hurt, 2MASS Project, NSF, NASA"
-  ],
+  "credit": "J. Carpenter, M. Skrutskie, R. Hurt, 2MASS Project, NSF, NASA",
   "explanation": "The bulging center of our Milky Way Galaxy, dark cosmic clouds, the thin galactic plane, and even nearby galaxies are easy to spot in this sky view. But each pixel in the digital image is actually based on star counts alone -- as derived from the Two Micron All Sky Survey (2MASS) database. In 2001, the 2MASS project completed a ground-based survey of the entire sky and cataloged upwards of 250 million stars. Their full all-sky picture assigns a brightness and color to individual pixels based on corresponding star counts in each of the survey's three near-infrared bands. In this cropped image, the star-packed galactic center is toward the upper left, with the bright plane of our Galaxy running horizontally through it. Dense regions of interstellar dust clouds, still opaque to penetrating near-infrared light, appear dark by reducing the 2MASS star counts. Our fuzzy neighboring galaxies, the large and small Magellanic Clouds, are at the lower right, while scattered single bright spots correspond to the intense concentrations of stars in the Milky Way's large globular star clusters.",
   "date": "2002-07-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/allsky_2massstars_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/allsky_2massstars_c.jpg"
 }

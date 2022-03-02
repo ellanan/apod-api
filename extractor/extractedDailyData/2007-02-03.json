@@ -1,14 +1,10 @@
 {
   "title": "Alborz Mountains in Moonlight",
-  "credit": [],
   "explanation": "",
   "date": "2007-02-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0702/alborzmountains_tafreshi.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Babak Tafreshi Explanation",
-    "Babak Tafreshi"
-  ],
+  "copyright": "Babak Tafreshi",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0702/alborzmountains_tafreshi_63.jpg"
 }

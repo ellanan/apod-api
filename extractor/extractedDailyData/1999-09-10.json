@@ -1,14 +1,10 @@
 {
   "title": "Cassini Images The Moon",
-  "credit": [
-    "Credit: Cassini Imaging Team, University of Arizona, JPL, NASA Explanation",
-    "Cassini Imaging Team, University of Arizona, JPL, NASA"
-  ],
+  "credit": "Cassini Imaging Team, University of Arizona, JPL, NASA",
   "explanation": "On August 18, the Cassini spacecraft flew by the Earth and Moon, then continued on its way to the outer solar system. Near its closest approach to the Moon, a distance of about 377,000 kilometers, controllers tested Cassini's imaging systems on this most familiar celestial body. This composite picture shows three resulting lunar images from the green, blue, and ultraviolet regions of the spectrum (left to right). Prominant in the upper right of each image is the dark, round Mare Crisium (Sea of Crises) at the eastern edge of the Moon's near side. With its cameras clearly functioning well, Cassini's next way-point will be Jupiter in December 2000. It is expected to arrive at its final destination, the Saturnian system, in 2004.",
   "date": "1999-09-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9909/moon3_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9909/moon3_cassini.jpg"
 }

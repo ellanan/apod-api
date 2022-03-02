@@ -1,14 +1,10 @@
 {
   "title": "A Dust Devil of Mars",
-  "credit": [
-    "Credit: HiRISE, MRO, LPL (U. Arizona), NASA Explanation",
-    "HiRISE, MRO, LPL (U. Arizona), NASA"
-  ],
+  "credit": "HiRISE, MRO, LPL (U. Arizona), NASA",
   "explanation": "It was late in the northern martian spring when the HiRISE camera onboard the Mars Reconnaissance Orbiter spied this local denizen. Tracking south and east (down and right) across the flat, dust-covered Amazonis Planitia the core of the whirling dust devil is about 30 meters in diameter. Lofting dust into the thin martian atmosphere, its plume reaches more than 800 meters above the surface. Not following the path of the dust devil, the plume is blown toward the east by a westerly breeze. Common in this region, dust devils occur as the surface is heated by the Sun, generating warm, rising air currents that begin to rotate. Tangential wind speeds of up to 110 kilometers per hour are reported for dust devils in other HiRISE images.",
   "date": "2012-04-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1204/ESP_026051_2160-2.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1204/ESP_026051_2160_900.jpg"
 }

@@ -1,13 +1,9 @@
 {
   "title": "Phobos 360",
-  "credit": [
-    "Credit: Mars Express, ESA Explanation",
-    "Mars Express, ESA"
-  ],
+  "credit": "Mars Express, ESA",
   "explanation": "What does the Martian moon Phobos look like? To better visualize this unusual object, images from ESA's Mars Express orbiter have been combined into a virtual rotation movie. The rotation is actually a digital illusion -- tidally-locked Phobos always keeps the same face toward its home planet, as does Earth's moon. The above video highlights Phobos' chunky shape and an unusually dark surface covered with craters and grooves. What lies beneath the surface is a topic of research since the moon is not dense enough to be filled with solid rock. Phobos is losing about of centimeter of altitude a year and is expected to break up and crash onto Mars within the next 50 million years. To better understand this unusual world, Mars Express is on course to make the closest flyby ever on Sunday.",
   "date": "2013-12-25",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "//www.youtube.com/embed/7MMOCw21D4w?rel=0"
 }

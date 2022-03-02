@@ -1,14 +1,10 @@
 {
   "title": "Phoenix and the Snow Queen",
-  "credit": [
-    "Credit: Kenneth Kremer, Marco Di Lorenzo, Phoenix Mission, NASA, JPL, UA, Max Planck Inst., Aviation Week and Space Technology Explanation",
-    "Kenneth Kremer, Marco Di Lorenzo, Phoenix Mission, NASA, JPL, UA, Max Planck Inst., Aviation Week and Space Technology"
-  ],
+  "credit": "Kenneth Kremer, Marco Di Lorenzo, Phoenix Mission, NASA, JPL, UA, Max Planck Inst., Aviation Week and Space Technology",
   "explanation": "A flat, smooth, shiny feature dubbed the Snow Queen is near the top of this color mosaic of the surface beneath the Phoenix Mars Lander. Recorded with the lander's robotic arm camera as it was maneuvered to look under the lander, the region also includes a leg and plate-sized footpad. An intriguing detail near the footpad at about the 2 o'clock position, is a metal spring partially buried in martian soil, a piece of the arm's now opened biobarrier. The smooth Snow Queen feature is strongly suspected to be ice originally just under the soil, uncovered by the thruster rockets as Phoenix set down on the north polar plains of Mars. In fact, the apparent holes or depressions in the Snow Queen's otherwise flat surface are located just under the thrusters.",
   "date": "2008-06-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0806/PhoenixMosaic_h_9Jun08.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0806/PhoenixMosaic_h_9Jun08_c800.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Trifid Pillars and Jets",
-  "credit": [
-    "Credit: J. Hester (Arizona St. U) et al., WFPC2, HST, NASA Explanation",
-    "J. Hester (Arizona St. U) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "J. Hester (Arizona St. U) et al., WFPC2, HST, NASA",
   "explanation": "Dust pillars are like interstellar mountains. They survive because they are more dense than their surroundings, but they are being slowly eroded away by a hostile environment. Visible in the above picture is the end of a huge gas and dust pillar in the Trifid Nebula, punctuated by a smaller pillar pointing up and an unusual jet pointing to the left. The pink dots are newly formed low-mass stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the above picture to the upper right. The jet extends nearly a light-year and would not be visible without external illumination. As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.",
   "date": "2007-12-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0712/trifidpillars_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0712/trifidpillars_hst.jpg"
 }

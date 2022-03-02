@@ -1,14 +1,10 @@
 {
   "title": "Polar Ring Galaxy NGC 4650A",
-  "credit": [
-    "Credit: J. Gallagher (UW-M) et al. & the Hubble Heritage Team (AURA/ STScI/ NASA) Explanation",
-    "J. Gallagher (UW-M) et al. & the Hubble Heritage Team (AURA/ STScI/ NASA)"
-  ],
+  "credit": "J. Gallagher (UW-M) et al. & the Hubble Heritage Team (AURA/ STScI/ NASA)",
   "explanation": "",
   "date": "1999-05-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9905/ngc4650a_heritage_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9905/ngc4650a_heritage.jpg"
 }

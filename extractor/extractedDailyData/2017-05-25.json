@@ -1,14 +1,10 @@
 {
   "title": "Star Cluster, Spiral Galaxy, Supernova",
-  "credit": [],
   "explanation": "A cosmic snapshot from May 19, this colorful telescopic field of view spans about 1 degree or 2 full moons on the sky. Spiky in appearance, foreground Milky Way stars are scattered toward the royal constellation Cepheus while stars of open cluster NGC 6939 gather about 5 thousand light-years in the distance near the top of the frame. Face-on spiral galaxy NGC 6946 is toward the lower left nearly 22 million light-years away. The helpful red lines identify recently discovered supernova SN 2017eaw, the death explosion of a massive star nestled in the galaxy's bluish spiral arms. In fact in the last 100 years, 10 supernovae have been discovered in NGC 6946. By comparison, the average rate of supernovae in our Milky Way is about 1 every 100 years or so. Of course, NGC 6946 is also known as The Fireworks Galaxy.",
   "date": "2017-05-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1705/NGC_6946_sn_elab_2_fin.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Paolo Demaria Explanation",
-    "Paolo Demaria"
-  ],
+  "copyright": "Paolo Demaria",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1705/NGC_6946_sn_elab_2_fin1024.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Home from Above",
-  "credit": [
-    "Credit: Expedition 18 Crew, NASA Explanation",
-    "Expedition 18 Crew, NASA"
-  ],
+  "credit": "Expedition 18 Crew, NASA",
   "explanation": "There's no place like home. Peering out of the window of the International Space Station (ISS), astronaut Greg Chamitoff takes in the planet on which we were all born. About 350 kilometers up, the ISS is high enough so that the Earth's horizon appears clearly curved. Astronaut Chamitoff's window shows some of Earth's complex clouds, in white, and life giving atmosphere and oceans, in blue. The space station orbits the Earth about once every 90 minutes. It is not difficult for people living below to look back toward the ISS. The ISS can frequently be seen as a bright point of light drifting overhead just after sunset. Telescopes can even resolve the overall structure of the space station. The above image was taken early last month from the ISS's Kibo laboratory.",
   "date": "2008-12-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0812/exp18home_nasa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0812/exp18home_nasa.jpg"
 }

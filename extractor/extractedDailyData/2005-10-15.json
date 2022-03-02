@@ -1,14 +1,10 @@
 {
   "title": "Dusty Environs of Eta Carinae",
-  "credit": [
-    "Credit: MSX, IPAC, NASA Explanation",
-    "MSX, IPAC, NASA"
-  ],
+  "credit": "MSX, IPAC, NASA",
   "explanation": "Eta Car is a massive star, but it's not as bright as it used to be. Now only easily visible in binoculars or a small telescope, Eta Carinae has a history of spectacular flaring and fading behavior. In fact, in April of 1843 Eta Car briefly became second only to Sirius as the brightest star in planet Earth's night sky, even though at a distance of about 7,500 light-years, it is about 800 times farther away. Surrounded by a complex and evolving nebula, Eta Carinae is seen near the center of this false-color infrared image, constructed using data from the Midcourse Space Experiment (MSX). The MSX satellite mapped the galactic plane in 1996. In the picture, wispy, convoluted filaments are clouds of dust glowing at infrared wavelengths. Astronomers hypothesize that Eta Car itself will explode as a supernova in the next million years or so. Massive Eta Car has even been considered a candidate for a hypernova explosion and the potential source of a future gamma-ray burst.",
   "date": "2005-10-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0510/etacar_msx_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0510/etacar_msx.jpg"
 }

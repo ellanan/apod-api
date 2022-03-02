@@ -1,14 +1,10 @@
 {
   "title": "Solstice: Sunrises Around the Year",
-  "credit": [],
   "explanation": "Does the Sun always rise in the same direction? No. As the months change, the direction toward the rising Sun changes, too. The featured image shows the direction of sunrise every month during 2019 as seen from near the city of Amman, Jordan. The camera in the image is always facing due east, with north toward the left and south toward the right. Although the Sun always rises in the east in general, it rises furthest to the south of east on the December solstice, and furthest north of east on the June solstice. Today is the December solstice, the day of least sunlight in the Northern Hemisphere and of most sunlight in the Southern Hemisphere. In many countries, the December Solstice is considered an official change in season: for example the first day of winter in the North. Solar heating and stored energy in the Earth's surface and atmosphere are near their lowest during winter, making the winter months usually the coldest of the year. On the brighter side, in the north, daylight hours will now increase every day from until June.",
   "date": "2020-12-21",
   "hdurl": "https://apod.nasa.gov/apod/image/2012/SunRiseYear_Abbadi_2017.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Zaid M. Al-Abbadi Explanation",
-    "Zaid M. Al-Abbadi"
-  ],
+  "copyright": "Zaid M. Al-Abbadi",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2012/SunRiseYear_Abbadi_960.jpg"
 }

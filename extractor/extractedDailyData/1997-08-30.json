@@ -1,14 +1,10 @@
 {
   "title": "The United States at Night",
-  "credit": [],
   "explanation": "This is what the United States of America looks like at night! Can you find your favorite US city on this image? Surprisingly, city lights make this task quite possible. The above picture is actually a composite of over 200 images made by satellites orbiting the Earth. Scans were made by the USAF Defense Meteorological Satellite Program (DMSP) Operational Linescan System. The DMSP satellites continue to help in the understanding and prediction of weather phenomena as well as provide key information about population patterns, city light levels, and even rural forest fires.",
   "date": "1997-08-30",
   "hdurl": "https://apod.nasa.gov/apod/image/usanight_dmsp_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: NOAA/ NGDC, DMSP Digital Archive Explanation",
-    "NOAA/ NGDC, DMSP Digital Archive"
-  ],
+  "copyright": "NOAA/ NGDC, DMSP Digital Archive",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/usanight_dmsp.gif"
 }

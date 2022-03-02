@@ -1,14 +1,10 @@
 {
   "title": "A Double Star Cluster",
-  "credit": [],
   "explanation": "Few star clusters are seen to be so close to each other. Some 7,000 light-years away, though, this pair of open or galactic star clusters is an easy binocular target, a lovely starfield in the northern constellation Perseus. Also visible to the unaided eye from dark sky areas, it was cataloged in 130 BC by Greek astronomer Hipparchus. Now known as h and chi Persei, or NGC 869 (above right) and NGC 884, the clusters themselves are separated by only a few hundred light-years and contain stars much younger and hotter than the Sun. In addition to being physically close together, the clusters' ages based on their individual stars are similar - evidence that both clusters were likely a product of the same star-forming region.",
   "date": "2013-01-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1301/doublecluster_astrobrallo_2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: F. Antonucci, M. Angelini, & F. Tagliani, ADARA Astrobrallo Explanation",
-    "F. Antonucci, M. Angelini, & F. Tagliani, ADARA Astrobrallo"
-  ],
+  "copyright": "F. Antonucci, M. Angelini, & F. Tagliani, ADARA Astrobrallo",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1301/doublecluster_astrobrallo_960.jpg"
 }

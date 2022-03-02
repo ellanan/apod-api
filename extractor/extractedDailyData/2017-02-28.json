@@ -1,14 +1,10 @@
 {
   "title": "A White Oval Cloud on Jupiter from Juno",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, SwRI, MSSS; Processing: Roman Tkachenko Explanation",
-    "NASA, JPL-Caltech, SwRI, MSSS; Processing: Roman Tkachenko"
-  ],
+  "credit": "NASA, JPL-Caltech, SwRI, MSSS; Processing: Roman Tkachenko",
   "explanation": "This storm cloud on Jupiter is almost as large as the Earth. Known as a white oval, the swirling cloud is a high pressure system equivalent to an Earthly anticyclone. The cloud is one of a \"string of pearls\" ovals south of Jupiter's famous Great Red Spot. Possibly, the Great Red Spot is just a really large white oval that turned red. Surrounding clouds show interesting turbulence as they flow around and past the oval. The featured image was captured on February 2 as NASA's robotic spacecraft Juno made a new pass just above the cloud tops of the Jovian world. Over the next few years, Juno will continue to orbit and probe Jupiter, determine atmospheric water abundance, and attempt to determine if Jupiter has a solid surface beneath its thick clouds.",
   "date": "2017-02-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1702/WhiteOval_Juno_640.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1702/WhiteOval_Juno_960.jpg"
 }

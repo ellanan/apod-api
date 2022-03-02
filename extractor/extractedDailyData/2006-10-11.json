@@ -1,14 +1,10 @@
 {
   "title": "Markarian's Chain of Galaxies",
-  "credit": [],
   "explanation": "Across the heart of the Virgo Cluster of Galaxies lies a striking string of galaxies known as Markarian's Chain. The chain, pictured above, is highlighted on the lower right with two large but featureless lenticular galaxies, M84 and M86, and connects through several large spiral to the upper left, including M88. The home Virgo Cluster is the nearest cluster of galaxies, contains over 2,000 galaxies, and has a noticeable gravitational pull on the galaxies of the Local Group of Galaxies surrounding our Milky Way Galaxy. The center of the Virgo Cluster is located about 70 million light years away toward the constellation of Virgo. At least seven galaxies in the chain appear to move coherently, although others appear to be superposed by chance. The above image is just a small part of a mosaic dubbed the Big Picture taken by the Samuel Oschin Telescope at Palomar Observatory, in California, USA. A mural of the Big Picture will be displayed at the newly renovated Griffith Observatory near Los Angeles, California.",
   "date": "2006-10-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0610/virgo_bigpic_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: The Palomar-Quest Survey Team, CalTech Explanation",
-    "The Palomar-Quest Survey Team, CalTech"
-  ],
+  "copyright": "The Palomar-Quest Survey Team, CalTech",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0610/virgo_bigpic.jpg"
 }

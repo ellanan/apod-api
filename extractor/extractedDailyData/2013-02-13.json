@@ -1,14 +1,10 @@
 {
   "title": "Infrared Orion from WISE",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, UCLA Explanation",
-    "NASA, JPL-Caltech, UCLA"
-  ],
+  "credit": "NASA, JPL-Caltech, UCLA",
   "explanation": "The Great Nebula in Orion is a intriguing place. Visible to the unaided eye, it appears as a small fuzzy patch in the constellation of Orion. But this image, an illusory-color composite of four colors of infrared light taken with the Earth orbiting WISE observatory, shows the Orion Nebula to be a bustling neighborhood or recently formed stars, hot gas, and dark dust. The power behind much of the Orion Nebula (M42) is the stars of the Trapezium star cluster, seen near the center of the above wide field image. The eerie green glow surrounding the bright stars pictured here is their own starlight reflected by intricate dust filaments that cover much of the region. The current Orion Nebula cloud complex, which includes the Horsehead Nebula, will slowly disperse over the next 100,000 years.",
   "date": "2013-02-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1302/orion_wise_5401.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1302/orion_wise_960.jpg"
 }

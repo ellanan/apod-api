@@ -1,14 +1,10 @@
 {
   "title": "A Newly Active Volcano on Jupiter's Io",
-  "credit": [
-    "Credit: University of Arizona, JPL, NASA Explanation",
-    "University of Arizona, JPL, NASA"
-  ],
+  "credit": "University of Arizona, JPL, NASA",
   "explanation": "Would a volcano plume discovered in January above Jupiter's Moon Io still be active months later? To answer this question, the robot spacecraft Galileo currently in orbit around Jupiter was maneuvered to image the plume site during its recent flyby of Io in August. What was found was the highest volcano plume yet discovered -- but above a completely different and previously undocumented volcano! The original plume, above the Tvashtar Catena volcanic area, was not even visible. A picture taken in January of the area surrounding the Tvashtar Catena eruption is shown above in enhanced color, with a new picture taken in August shown in the inset. Careful inspection of the two images will show a newly prominent dark volcano surrounded by a light-colored ring visible only in the smaller, more recent image.",
   "date": "2001-10-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0110/IoNewVolcano_galileo.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0110/IoNewVolcano_galileo.jpg"
 }

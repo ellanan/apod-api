@@ -1,14 +1,10 @@
 {
   "title": "The Nearby Milky Way in Cold Dust",
-  "credit": [
-    "Credit: ESA, Planck HFI Consortium, IRAS Explanation",
-    "ESA, Planck HFI Consortium, IRAS"
-  ],
+  "credit": "ESA, Planck HFI Consortium, IRAS",
   "explanation": "What shapes the remarkable dust tapestry of the nearby Milky Way Galaxy? No one knows for sure. The intricate structures, shown above, were resolved in new detail recently in a wide region of the sky imaged in far infrared light by the European Space Agency's Planck satellite. The above image is a digital fusion of three infrared colors: two taken at high resolution by Planck, while the other is an older image taken by the now defunct IRAS satellite. At these colors, the sky is dominated by the faint glow of very cold gas within only 500 light years of Earth. In the above image, red corresponds to temperatures as cold as 10 degrees Kelvin above absolute zero, while white corresponds to gas as warm at 40 Kelvins. The pink band across the lower part of the image is warm gas confined to the plane of our Galaxy. The bright regions typically hold dense molecular clouds that are slowly collapsing to form stars, whereas the dimmer regions are most usually diffuse interstellar gas and dust known as cirrus. Why these regions have intricate filamentary shapes shared on both large and small scales remains a topic of research. Future study of the origin and evolution of dust may help in the understanding the recent history of our Galaxy as well as how planetary systems such as our Solar System came to be born.",
   "date": "2010-03-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1003/colddust_planck_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1003/colddust_planck.jpg"
 }

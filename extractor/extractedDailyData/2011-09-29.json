@@ -1,14 +1,10 @@
 {
   "title": "Cocoon Nebula Wide Field",
-  "credit": [],
   "explanation": "In this crowded starfield spanning some 3 degrees within the high flying constellation Cygnus, the eye is drawn to the Cocoon Nebula. A compact star forming region, the cosmic Cocoon punctuates a long trail of obscuring interstellar dust clouds. Cataloged as IC 5146, the nebula is nearly 15 light-years wide, located some 4,000 light years away. Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by the young, hot stars and blue, dust-reflected starlight at the edge of an otherwise invisible molecular cloud. In fact, the bright star near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. But the long dusty filaments that appear dark in this visible light image are themselves hiding stars in the process of formation, seen at infrared wavelengths.",
   "date": "2011-09-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1109/IC5146BORG_hallas.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tony Hallas Explanation",
-    "Tony Hallas"
-  ],
+  "copyright": "Tony Hallas",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1109/IC5146BORG_hallas900.jpg"
 }

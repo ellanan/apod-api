@@ -1,14 +1,10 @@
 {
   "title": "The Magnificent Horsehead Nebula",
-  "credit": [],
   "explanation": "Sculpted by stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this recognizable shape. Fittingly named the Horsehead Nebula, it is some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years \"tall\", the dark cloud is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the glowing red emission nebula IC 434. Stars are forming within the dark cloud. Contrasting blue reflection nebula NGC 2023, surrounding a hot, young star, is at the lower left. The gorgeous featured image combines both narrowband and broadband images.",
   "date": "2015-05-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1505/Horsehead_Colombari_2035.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Data: Giuseppe Carmine Iaffaldano; Processing: Roberto Colombari Explanation",
-    "Data: Giuseppe Carmine Iaffaldano; Processing: Roberto Colombari"
-  ],
+  "copyright": "Data: Giuseppe Carmine Iaffaldano; Processing: Roberto Colombari",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1505/Horsehead_Colombari_960.jpg"
 }

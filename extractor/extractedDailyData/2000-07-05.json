@@ -1,14 +1,10 @@
 {
   "title": "The Galactic Center Across the Infrared",
-  "credit": [
-    "Credit: 2MASS Project, Umass, IPAC/Caltech, NSF, NASA Explanation",
-    "2MASS Project, Umass, IPAC/Caltech, NSF, NASA"
-  ],
+  "credit": "2MASS Project, Umass, IPAC/Caltech, NSF, NASA",
   "explanation": "The center of our Galaxy is obscured in visible light by dark dust that rotates with the stars in the Galactic Plane. In this century, however, sensors have been developed that can detect light more red that humans can see - light called infrared. The above picture shows what the Galactic Center looks like in three increasingly red bands of near-infrared light. The picture results from a digital combination of data recently taken by the 2MASS and MSX Galactic surveys. In near-infrared light (shown in blue) the dust is less opaque and many previously shrouded red giant stars become visible. In the mid-infrared (shown in red) the dust itself glows brightly, but allows us a view very close to our tumultuous and mysterious Galactic Center.",
   "date": "2000-07-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0007/gcatlas_2mass_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0007/gcatlas_2mass.jpg"
 }

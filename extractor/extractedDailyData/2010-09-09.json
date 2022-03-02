@@ -1,14 +1,10 @@
 {
   "title": "Cepheus: Trunk to Bubble",
-  "credit": [],
   "explanation": "Star clusters, glowing nebulae and dark dust clouds abound in Cepheus, royal constellation of the northern hemisphere. You can follow them in amazing detail across this broad skyscape, a mosaic of telescopic images spanning about 17 degrees. Beginning at the lower left, the large emission nebula is cataloged as IC 1396. Hundreds of light-years across and about 3,000 light-years distant, it contains a dark, winding, tendril-shaped feature popularly known as the Elephant's Trunk. Near the top middle, the bright nebula with an embedded star cluster is NGC 7380. At the upper right lies NGC 7635 (the Bubble Nebula) and star cluster M52. Put your cursor over the picture to see a labeled version of the field. Many of the objects highlighted have a designation from the second version of the Sharpless catalog (Sh2) and the Barnard catalog (B) of dark nebulae. Associated with star formation, the sites are telltale markers along the region's complex of giant molecular clouds.",
   "date": "2010-09-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1009/BubblesTrunk_andreo.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rogelio Bernal Andreo Explanation",
-    "Rogelio Bernal Andreo"
-  ],
+  "copyright": "Rogelio Bernal Andreo",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1009/BubblesTrunk_andreo600h.jpg"
 }

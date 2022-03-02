@@ -1,14 +1,10 @@
 {
   "title": "A Perfect Spiral",
-  "credit": [
-    "Credit: NASA, ESA, Hubble, HLA; Processing: Mehmet Hakan Ozsarac Explanation",
-    "NASA, ESA, Hubble, HLA; Processing: Mehmet Hakan Ozsarac"
-  ],
+  "credit": "NASA, ESA, Hubble, HLA; Processing: Mehmet Hakan Ozsarac",
   "explanation": "If not perfect then this spiral galaxy is at least one of the most photogenic. An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view. Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes. This sharp composite was constructed from image data recorded by the Hubble Space Telescope's Advanced Camera for Surveys. Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions. With a lower surface brightness than most galaxies in the Messier catalog, M74 is sometimes known as the Phantom Galaxy.",
   "date": "2021-08-13",
   "hdurl": "https://apod.nasa.gov/apod/image/2108/m74_APOD.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2108/m74_APOD1024.jpg"
 }

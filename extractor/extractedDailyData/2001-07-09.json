@@ -1,14 +1,10 @@
 {
   "title": "Air Pollution Earth",
-  "credit": [
-    "Credit: MOPITT, Terra, NCAR CSA, NASA Explanation",
-    "MOPITT, Terra, NCAR CSA, NASA"
-  ],
+  "credit": "MOPITT, Terra, NCAR CSA, NASA",
   "explanation": "Where on Earth is the air most polluted? Recently released images from the Terra satellite show not only areas of high pollution, but also how polluted air moves. In the above image, locations of higher air pollution are shown in red. The pollutant tracked is carbon monoxide (CO) at a height of about 5 kilometers. Clearly, Earth's Northern Hemisphere shows much more CO than the south. The new data indicate, however, that pollution moves on a global scale. About half of all CO emission is of human origin, and much of this is created in large fires.",
   "date": "2001-07-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0107/globeCO_terra.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0107/globeCO_terra.gif"
 }

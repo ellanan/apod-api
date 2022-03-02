@@ -1,14 +1,10 @@
 {
   "title": "Amazing Comet Holmes",
-  "credit": [],
   "explanation": "One year ago, Comet 17P/Holmes amazed sky watchers across planet Earth. A stunningly rapid outburst transformed it from a faint comet quietly orbiting the Sun with a period of about 7 years to a naked-eye comet rivaling the brighter stars in the constellation Perseus. Its largely tail-less shape, as in this wide-angle view recorded on November 11, 2007, became well-known to astronomers trying to unravel the mystery of the comet's surprising outburst . Still, Comet Holmes had a dim ion tail that was seen to separate from the bright coma. In this image, the separated tail creates the illusion of a reflection nebula. It appears as a faint bluish haze right of center against a background of stars in the loosely grouped Alpha Persei Moving Cluster.",
   "date": "2008-10-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0810/17P-Holmes_cook.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tony Cook Explanation",
-    "Tony Cook"
-  ],
+  "copyright": "Tony Cook",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0810/17P-Holmes_cook_c800.jpg"
 }

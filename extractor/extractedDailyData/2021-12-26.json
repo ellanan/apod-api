@@ -1,14 +1,10 @@
 {
   "title": "James Webb Space Telescope over Earth",
-  "credit": [
-    "Credit: Arianespace, ESA, NASA, CSA, CNES Explanation",
-    "Arianespace, ESA, NASA, CSA, CNES"
-  ],
+  "credit": "Arianespace, ESA, NASA, CSA, CNES",
   "explanation": "There's a big new telescope in space. This one, the James Webb Space Telescope (JWST), not only has a mirror over five times larger than Hubble's in area, but can see better in infrared light. The featured picture shows JWST high above the Earth just after being released by the upper stage of an Ariane V rocket, launched yesterday from French Guiana. Over the next month, JWST will move out near the Sun-Earth L2 point where it will co-orbit the Sun with the Earth. During this time and for the next five months, JWST will unravel its segmented mirror and an array of sophisticated scientific instruments -- and test them. If all goes well, JWST will start examining galaxies across the universe and planets orbiting stars across our Milky Way Galaxy in the summer of 2022.",
   "date": "2021-12-26",
   "hdurl": "https://apod.nasa.gov/apod/image/2112/JwstLaunch_Arianespace_1920.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2112/JwstLaunch_Arianespace_1080.jpg"
 }

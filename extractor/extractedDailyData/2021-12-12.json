@@ -1,14 +1,10 @@
 {
   "title": "Comet Leonard Before Star Cluster M3",
-  "credit": [],
   "explanation": "Comet Leonard is now visible to the unaided eye -- but just barely. Passing nearest to the Earth today, the comet is best seen this week soon after sunset, toward the west, low on the horizon. Currently best visible in the north, by late December the comet will best be seen from south of Earth's equator. The featured image of Comet C/2021 A1 (Leonard) was taken a week ago from California, USA. The deep exposure shows in great detail the comet's green gas coma and developing dust tail. The comet -- across our inner Solar System and only light-minutes away -- was captured passing nearly in front of globular star cluster M3. In contrast, M3 is about 35,000 light-years away. In a week, Comet Leonard will pass unusually close to Venus, but will continue on and be at its closest to the Sun in early January.",
   "date": "2021-12-12",
   "hdurl": "https://apod.nasa.gov/apod/image/2112/M3Leonard_Bartlett_3843.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dan Bartlett Explanation",
-    "Dan Bartlett"
-  ],
+  "copyright": "Dan Bartlett",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2112/M3Leonard_Bartlett_960.jpg"
 }

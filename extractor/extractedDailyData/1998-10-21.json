@@ -1,14 +1,10 @@
 {
   "title": "The Case of the Missing Aurora",
-  "credit": [
-    "Credit: J. P. Dwyer Explanation",
-    "J. P. Dwyer"
-  ],
+  "credit": "J. P. Dwyer",
   "explanation": "Sometimes, near midnight, auroras suddenly stop. Nobody knows why. This nightside gap in aurora was confirmed recently by D. Chua (U. Washington) and colleagues in data from the Ultraviolet Imager onboard the Polar spacecraft. The gap appears from space as a slight break in a more full auroral arc surrounding a magnetic pole of the Earth. Pictured above are clouds and auroras occurring last August near Wildcat Mountain in Wisconsin.",
   "date": "1998-10-21",
   "hdurl": "https://apod.nasa.gov/apod/image/9810/aurora1_jpd.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9810/aurora1_jpd_big.jpg"
 }

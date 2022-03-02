@@ -1,14 +1,10 @@
 {
   "title": "S is for Venus",
-  "credit": [],
   "explanation": "Planet Venus traced out this S shape in Earth's sky during 2004. Following the second planet from the Sun in a series of 29 images recorded from April 3rd through August 7th (top right to bottom left) of that year, astronomer Tunc Tezel constructed this composite illustrating the wandering planet's path against the background stars. The series reveals Venus' apparent retrograde motion transporting it from a brilliant evening star to morning's celestial beacon. Of course, in 2004, after sinking into the evening twilight but before rising above the predawn horizon, Venus was seen in silhouette against the Sun (near center) - the first transit of Venus since 1882. The next time Venus will wander across the solar disk is in 2012.",
   "date": "2005-01-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0501/Ve2004_tezel_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tun� Tezel Explanation",
-    "Tun� Tezel"
-  ],
+  "copyright": "Tun� Tezel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0501/Ve2004_tezel_c22.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Solar System Object Larger than Pluto Discovered",
-  "credit": [
-    "Credit: M. Brown (Caltech), C. Trujillo (Gemini), D. Rabinowitz (Yale), NSF, NASA Explanation",
-    "M. Brown (Caltech), C. Trujillo (Gemini), D. Rabinowitz (Yale), NSF, NASA"
-  ],
+  "credit": "M. Brown (Caltech), C. Trujillo (Gemini), D. Rabinowitz (Yale), NSF, NASA",
   "explanation": "Is that a tenth planet? A faint, slowly moving dot discovered by computer shows clear signs of being a deep Solar System object at least as large as Pluto. The object, designated 2003 UB313, is currently situated nearly 100 times the Earth-Sun distance -- over twice the average Pluto-Sun distance. That far out, the only way a single round object could be as bright as 2003 UB313 would be if it is at least as large as Pluto and completely reflective. Since 2003 UB313 is surely not completely reflective, it could be substantially larger. One of the discovery frames is shown above digitally expanded and artificially brightened. 2003 UB313 was identified initially on frames taken by the automated 1.2-meter Samuel Oschin Telescope at Palomar Observatory in California, USA.",
   "date": "2005-07-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0507/2003ub313_palomar.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0507/2003ub313_palomar_big.jpg"
 }

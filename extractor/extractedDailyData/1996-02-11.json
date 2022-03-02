@@ -1,14 +1,10 @@
 {
   "title": "Sputnik: The Traveling Companion",
-  "credit": [
-    "Credit: MSFC Historical Archives Explanation",
-    "MSFC Historical Archives"
-  ],
+  "credit": "MSFC Historical Archives",
   "explanation": "",
   "date": "1996-02-11",
   "hdurl": "https://apod.nasa.gov/apod/image/sput.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/sput.gif"
 }

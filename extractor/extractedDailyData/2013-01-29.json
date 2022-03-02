@@ -1,13 +1,9 @@
 {
   "title": "Apollo 16: Driving on the Moon",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "What would it be like to drive on the Moon? You don't have to guess -- humans have actually done it. Pictured above, Apollo 16 astronauts John Young and Charles Duke recorded video during one such drive in 1972, with a digital version now available on the web. No matter which direction it headed, the Lunar Rover traveled a path literally covered with rocks and craters. The first half of the above video shows the rover zipping about a moonscape near 10 kilometers per hour, while the second half shows a dash-cam like view. The Lunar Rover was deployed on the later Apollo missions as a way for astronauts to reach and explore terrain further from the Lunar Module basecamp than was possible by walking in cumbersome spacesuits. Possible future lunar missions that might deploy robotic rovers capable of beaming back similar videos include those by China, Russia, India, and Google X-Prize contestants.",
   "date": "2013-01-29",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/7o3Oi9JWsyM?rel=0"
 }

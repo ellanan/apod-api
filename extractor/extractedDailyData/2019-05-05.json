@@ -1,14 +1,10 @@
 {
   "title": "Saturn, Titan, Rings, and Haze",
-  "credit": [
-    "Credit: NASA, ESA, JPL, SSI, Cassini Imaging Team Explanation",
-    "NASA, ESA, JPL, SSI, Cassini Imaging Team"
-  ],
+  "credit": "NASA, ESA, JPL, SSI, Cassini Imaging Team",
   "explanation": "This is not a solar eclipse. Pictured here is a busy vista of moons and rings taken at Saturn. The large circular object in the center of the image is Titan, the largest moon of Saturn and one of the most intriguing objects in the entire Solar System. The dark spot in the center is the main solid part of the moon. The bright surrounding ring is atmospheric haze above Titan, gas that is scattering sunlight to a camera operating onboard the robotic Cassini spacecraft. Cutting horizontally across the image are the rings of Saturn, seen nearly edge on. At the lower right of Titan is Enceladus, a small moon of Saturn. Since the image was taken pointing nearly at the Sun, the surfaces of Titan and Enceladus appear in silhouette, and the rings of Saturn appear similar to a photographic negative. Now if you look really really closely at Enceladus, you can see a hint of icy jets shooting out toward the bottom of the image. It is these jets that inspired future proposals to land on Enceladus, burrow into the ice, and search for signs of extraterrestrial life.",
   "date": "2019-05-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1905/TitanBusy_Cassini_1080.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1905/TitanBusy_Cassini_1080.jpg"
 }

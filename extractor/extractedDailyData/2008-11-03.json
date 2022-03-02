@@ -1,14 +1,10 @@
 {
   "title": "A Spectacular Rayed Crater on Mercury",
-  "credit": [
-    "Credit: MESSENGER, NASA, JHU APL, CIW Explanation",
-    "MESSENGER, NASA, JHU APL, CIW"
-  ],
+  "credit": "MESSENGER, NASA, JHU APL, CIW",
   "explanation": "Why does Mercury have so many rayed craters? No one is sure. The robotic MESSENGER spacecraft that is taking unprecedented images as it swoops past the innermost planet has provided dramatic confirmation that Mercury has more rayed craters than Earth's Moon. Pictured above, a particularly spectacular rayed crater spanning approximately 80 kilometers was imaged by MESSENGER during last month's flyby from about 20,000 kilometers up. The rays prevalence is a mystery because space weathering effects such as dust accumulation and solar wind attenuation should be greater on Mercury than on the Moon. Hypothesized solutions currently include the optical properties of Mercurian dust, and that Mercury's high mass and proximity to the Sun cause more violent impacts, thus typically raising more light material. MESSENGER will buzz past Mercury again next year before entering orbit in 2011.",
   "date": "2008-11-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/mercuryrays_messenger_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/mercuryrays_messenger.jpg"
 }

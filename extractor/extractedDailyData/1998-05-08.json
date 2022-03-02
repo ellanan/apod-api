@@ -1,14 +1,10 @@
 {
   "title": "A Gamma-Ray Burst Supernova?",
-  "credit": [
-    "Credit: T. Galama et al. (U. Amsterdam), NTT Telescope, ESO Explanation",
-    "T. Galama et al. (U. Amsterdam), NTT Telescope, ESO"
-  ],
+  "credit": "T. Galama et al. (U. Amsterdam), NTT Telescope, ESO",
   "explanation": "Did a gamma-ray burst precede this supernova? This intriguing suggestion came to light yesterday with the discovery of an evolving supernova that is potentially coincident with the position of gamma-ray burst GRB 980425, which occurred just two weeks ago. If true, this would tie together the two most violent phenomena known in the universe. The supernova, indicated by the arrow, appears to be somewhat unusual, for one reason because of its extremely bright radio emission. The host galaxy has a redshift of 0.0085, placing it at the relatively close distance of about 125 million light years away. Today it remains undetermined whether the two events are related - perhaps the evolution of the supernova over the next few weeks will provide some clues.",
   "date": "1998-05-08",
   "hdurl": "https://apod.nasa.gov/apod/image/9805/snorgrb_ntt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9805/snorgrb_ntt.jpg"
 }

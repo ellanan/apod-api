@@ -1,14 +1,10 @@
 {
   "title": "Saturn from Earth",
-  "credit": [],
   "explanation": "Saturn is the second largest planet in our Solar System. Saturn has been easily visible in the sky since history has been recorded. Galileo used one of the first telescopes in 1610 to discover Saturn's rings, which he first thought were moons. Maxwell showed in 1856 that Saturn's rings couldn't be a single solid, since Saturn's own gravity would break it up. Were Saturn's rings assembled into a single body, it would measure less than 100 kilometers across. The origin of Saturn's rings, and of unusual radial patterns that appear on them called spokes, are still unknown. The above representative-color picture was taken from Earth in infrared light. A robot spacecraft Cassini launched in 1997 will reach Saturn in 2004.",
   "date": "1998-09-02",
   "hdurl": "https://apod.nasa.gov/apod/image/9809/saturn_not_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Nordic Optical Telescope Explanation",
-    "Nordic Optical Telescope"
-  ],
+  "copyright": "Nordic Optical Telescope",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9809/saturn_not.jpg"
 }

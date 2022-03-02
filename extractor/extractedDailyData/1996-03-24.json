@@ -1,14 +1,10 @@
 {
   "title": "Comet Hyakutake's Closest Approach",
-  "credit": [],
   "explanation": "",
   "date": "1996-03-24",
   "hdurl": "https://apod.nasa.gov/apod/image/hyakutake_21Mar_cvo_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Herman Mikuz, Crni Vrh Observatory, Slovenia Explanation",
-    "Herman Mikuz, Crni Vrh Observatory, Slovenia"
-  ],
+  "copyright": "Herman Mikuz, Crni Vrh Observatory, Slovenia",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hyakutake_21Mar_cvo.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Forest and Sky",
-  "credit": [],
   "explanation": "With pine trees in dim silhouette, this skyscape from Breil-sur-Roya in southern France was captured on November 11. In the early evening scene, a satellite seems to streak through the branches, while bright, round, fuzzy Comet Holmes appears to lie just beyond them, near the stars of the constellation Perseus. Mirfak, alpha star of Perseus, is the brightest star above the comet and to the right. Next Monday (November 19), Holmes will be close enough to Mirfak to view the star through the remarkable comet's expanding coma. Recent measurements place the dusty coma's diameter at about 1.4 million kilometers, even larger than the Sun.",
   "date": "2007-11-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/forestSky_jacques.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Vincent Jacques Explanation",
-    "Vincent Jacques"
-  ],
+  "copyright": "Vincent Jacques",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/forestSky_jacques800.jpg"
 }

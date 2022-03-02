@@ -1,14 +1,10 @@
 {
   "title": "Delphinid Meteor Mystery",
-  "credit": [],
   "explanation": "Over a five hour period last Tuesday morning, exposures captured this tantalizing view of meteor streaks and the Milky Way in dark skies above Las Campanas Observatory in Chile. During that time, astronomers had hoped to see an outburst from the gamma Delphinid meteor shower as Earth swept through the dust trail left by an unknown comet. Named for the shower's radiant point in the constellation Delphinus, a brief but strong outburst was reported in bright, moonlit skies on June 10, 1930. While no strong Delphinid meteor activity was reported since, an outburst was tentatively predicted to occur again in 2013. But even though Tuesday's skies were dark, the overall rate of meteors in this field is low, and only the three lower meteor streaks seem to point back to the shower's estimated radiant.",
   "date": "2013-06-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1306/delphinids_lcBeletsky.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Yuri Beletsky (Las Campanas Observatory, Carnegie Institution) Explanation",
-    "Yuri Beletsky (Las Campanas Observatory, Carnegie Institution)"
-  ],
+  "copyright": "Yuri Beletsky (Las Campanas Observatory, Carnegie Institution)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1306/delphinids_lcBeletsky900.jpg"
 }

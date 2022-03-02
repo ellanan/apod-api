@@ -1,14 +1,10 @@
 {
   "title": "The Chameleon's Dark Nebulae",
-  "credit": [],
   "explanation": "The Chameleon is a small constellation near the south celestial pole. Boasting no bright stars, it blends inconspicuously with the starry southern sky. But, taken in dark skies over Namibia, this image reveals a stunning aspect of the shy constellation -- a field of dusty nebulae and colorful stars. Blue reflection nebulae are scattered through the scene, but most eye-catching is the complex of silvery dust clouds that only faintly reflect starlight, punctuated by dense dark nebulae. The dark nebulae stand out because they block out background stars. This view of the cosmic dust clouds spans about 4 degrees on the sky.",
   "date": "2009-07-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0907/chameleontis_kuznetsov1024.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Andrey Kuznetsov Explanation",
-    "Andrey Kuznetsov"
-  ],
+  "copyright": "Andrey Kuznetsov",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0907/chameleontis_kuznetsov_c800.jpg"
 }

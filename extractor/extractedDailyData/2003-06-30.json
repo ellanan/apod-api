@@ -1,14 +1,10 @@
 {
   "title": "Disappearing Clouds in Carina",
-  "credit": [
-    "Credit: Hubble Heritage Team (STScI/AURA), N. Walborn (STScI) & R. Barb� (La Plata Obs.), NASA Explanation",
-    "Hubble Heritage Team (STScI/AURA), N. Walborn (STScI) & R. Barb� (La Plata Obs.), NASA"
-  ],
+  "credit": "Hubble Heritage Team (STScI/AURA), N. Walborn (STScI) & R. Barb� (La Plata Obs.), NASA",
   "explanation": "This dense cloud of gas and dust is being deleted. Likely, within a few million years, the intense light from bright stars will have boiled it away completely. Stars not yet formed in the molecular cloud's interior will then stop growing. The cloud has broken off of part of the greater Carina Nebula, a star forming region about 8000 light years away. Newly formed stars are visible nearby, their images reddened by blue light being preferentially scattered by the pervasive dust. This unusually-colored image spans about two light years and was taken by the orbiting Hubble Space Telescope in 1999. This Carina sub-cloud is particularly striking partly because its clear definition stimulates the human imagination (e.g. it could be perceived as a superhero flying through a cloud, arm up, with a saved person in tow below).",
   "date": "2003-06-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0306/carina_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0306/carina_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Atlantis' Last Approach",
-  "credit": [
-    "Credit: ISS Expedition 28 Crew, NASA Explanation",
-    "ISS Expedition 28 Crew, NASA"
-  ],
+  "credit": "ISS Expedition 28 Crew, NASA",
   "explanation": "For the last time, the US Space Shuttle has approached the International Space Station (ISS). Following a dramatic launch from Cape Canaveral last week that was witnessed by an estimated one million people, Space Shuttle Atlantis on STS-135 lifted a small crew to a welcome rendezvous three days ago with the orbiting station. Although NASA is discontinuing the aging shuttle fleet, NASA astronauts in the near future will be able to visit the ISS on Russian space flights. Pictured above, Atlantis rises toward the ISS with its cargo bay doors open, showing a gleaming metallic Raffaello Multi-Purpose Logistics Module. Over 200 kilometers below lie the cool blue waters of planet Earth. The much-anticipated last glide back to Earth for the Space Shuttle is currently scheduled for next Thursday, July 21.",
   "date": "2011-07-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1107/atlantisapproach_nasa_4288.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1107/atlantisapproach_nasa_900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Crescent Neptune and Triton",
-  "credit": [
-    "Credit: NASA, Voyager 2 Explanation",
-    "NASA, Voyager 2"
-  ],
+  "credit": "NASA, Voyager 2",
   "explanation": "Gliding silently through the outer Solar System, the Voyager 2 spacecraft camera captured Neptune and Triton together in crescent phase. The elegant picture of the ice-giant planet and its cloudy moon was taken from behind just after closest approach in 1989. It could not have been taken from Earth because Neptune never shows a crescent phase to sunward Earth. The unusual vantage point also robs Neptune of its familiar blue hue, as sunlight seen from here is scattered forward, and so is reddened like the setting Sun. Neptune is smaller but more massive than Uranus, has several dark rings, and emits more light than it receives from the Sun.",
   "date": "2021-07-25",
   "hdurl": "https://apod.nasa.gov/apod/image/2107/neptunetriton_voyager_960.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2107/neptunetriton_voyager_960.jpg"
 }

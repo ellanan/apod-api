@@ -1,14 +1,10 @@
 {
   "title": "Help Search for Interstellar Dust",
-  "credit": [],
   "explanation": "What caused that hole? The hole in question appears as a small dark circle on the far right. If the above image of aerogel seems dull and uninteresting, then welcome to one aspect of real world science. The interesting part is that something created that dark hole, and it might well be one of the first pieces of matter ever captured from outside our Solar System. Whatever created that hole was captured by the aerogel of the robotic Stardust spacecraft that flew across our Solar System for years and then returned a capsule to Earth. Scientists are now poring over the aerogel, looking to see what particles have become trapped. Many particles are surely from local Comet Wild 2, which Stardust flew past in 2004. Just a few particles, though, perhaps 10 or less, are expected to be from outside our Solar System. It is so difficult to find them that the Stardust team has created a downloadable interactive microscope program to allow anyone with a standard computer to help inspect aerogel slices and look for interstellar dust tracks. Good candidate tracks will later be inspected in great detail by members of the Stardust team.",
   "date": "2006-10-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0610/isgrain_stardust.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stardust@Home Project, Space Science Lab., U. C. Berkeley, NASA Explanation",
-    "Stardust@Home Project, Space Science Lab., U. C. Berkeley, NASA"
-  ],
+  "copyright": "Stardust@Home Project, Space Science Lab., U. C. Berkeley, NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0610/isgrain_stardust_big.jpg"
 }

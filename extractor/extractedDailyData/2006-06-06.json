@@ -1,14 +1,10 @@
 {
   "title": "NGC 6164: A Bipolar Emission Nebula",
-  "credit": [],
   "explanation": "How did a star form this beautiful nebula? In the middle of emission nebula NGC 6164-5 is an unusually massive star nearing the end of its life. The star, visible in the center of the above image and catalogued as HD 148937, is so hot that the ultraviolet light it emits heats up gas that surrounds it. That gas was likely thrown off from the star, possibly by its fast rotation, like a rotating lawn sprinkler. Expelled material might have been further channeled by the magnetic field of the star, creating the symmetric shape of the bipolar nebula. Several cometary knots of gas are also visible on the lower left. NGC 6164-5 spans about four light years and is located about 4,000 light years away toward the southern constellation Norma.",
   "date": "2006-06-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0606/ngc6164_gemini_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Gemini Obs., AURA, NSF Explanation",
-    "Gemini Obs., AURA, NSF"
-  ],
+  "copyright": "Gemini Obs., AURA, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0606/ngc6164_gemini.jpg"
 }

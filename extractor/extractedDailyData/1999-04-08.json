@@ -1,14 +1,10 @@
 {
   "title": "Apollo 12: Surveyor 3 and Intrepid",
-  "credit": [
-    "Credit: Apollo 12, NASA (Image scanned by Kipp Teague) Explanation",
-    "Apollo 12, NASA (Image scanned by Kipp Teague)"
-  ],
+  "credit": "Apollo 12, NASA (Image scanned by Kipp Teague)",
   "explanation": "On April 20, 1967, NASA's robot spacecraft Surveyor 3 landed on the moon, touching down on the inside slope of a small lunar crater in the Ocean of Storms. Over 2 1/2 years later, on November 19, 1969, the lunar module Intrepid, piloted by Apollo 12 astronauts Pete Conrad and Alan Bean, flew overhead and landed nearby in the second visit by humans to the lunar surface. Intrepid touched down about 600 feet away and the moon walking astronauts were easily able to reach the Surveyor and examine the remote explorer that had preceded them. Intrepid is seen in the background of this striking high resolution picture of Surveyor 3. Surveyor's leftmost foot pad appears dug in while its foreground foot pad has made two distinct imprints in the powdery lunar soil - clear indications that the Surveyor slid and bounced on landing. Using bolt cutters, the astronauts removed Surveyor's TV camera (the cylinder shape at the right of the tall solar panel mast) and its sampling scoop (on the arm extended to the right), returning them to Earth for study.",
   "date": "1999-04-08",
   "hdurl": "https://apod.nasa.gov/apod/image/9904/surv3_apollo12_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9904/surv3_apollo12_c1.jpg"
 }

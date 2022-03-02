@@ -1,14 +1,10 @@
 {
   "title": "The Earth and Moon from Mars",
-  "credit": [
-    "Credit: MSSS, JPL, NASA Explanation",
-    "MSSS, JPL, NASA"
-  ],
+  "credit": "MSSS, JPL, NASA",
   "explanation": "What does Earth look like from Mars? The first image of Earth from the red planet was captured earlier this month by the camera onboard the Mars Global Surveyor spacecraft currently orbiting Mars. Features visible on Earth include the Pacific Ocean, clouds, much of South America, and part of North America. Earth's Moon is visible on the upper right, with the crater Tycho brightening the lower part. Previously, Earth has been imaged from the Moon and spacecraft across the Solar System.",
   "date": "2003-05-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0305/earthmoon_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0305/earthmoon_mgs.jpg"
 }

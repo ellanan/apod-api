@@ -1,13 +1,9 @@
 {
   "title": "Time-Lapse: A Total Solar Eclipse",
-  "credit": [],
   "explanation": "Have you ever experienced a total eclipse of the Sun? This time-lapse movie depicts such an eclipse in dramatic detail, seen from Australia in 2012. As the video begins, a slight dimming of the Sun and the surrounding Earth is barely perceptible. As the Moon moves to cover nearly the entire Sun, darkness sweeps in from the left -- the fully blocked part of the Sun. At totality, only the bright solar corona extends past the edges of the Moon, and darkness surrounds you. Distant horizons are still bright, though, as they are not in the darkest part of the shadow. At mid-totality the darkness dips to the horizon below the eclipsed Sun, created by the shadow cone -- a corridor of shadow that traces back to the Moon. As the total solar eclipse ends -- usually after a few minutes -- the process reverses and Moon's shadow moves off to the other side. Tomorrow afternoon's total solar eclipse -- visible as at least a partial eclipse over all of North America -- can be experienced at social gatherings, some of which are being organized by local libraries.",
   "date": "2017-08-20",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Colin Legg Explanation",
-    "Colin Legg"
-  ],
+  "copyright": "Colin Legg",
   "media_type": "video",
   "url": "https://player.vimeo.com/video/53641212?color=000000&title=0&byline=0&portrait=0"
 }

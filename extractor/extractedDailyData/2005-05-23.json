@@ -1,14 +1,10 @@
 {
   "title": "A Wave Maker Moon in Saturn's Rings",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What causes small waves in Saturn's rings? Observations of rings bordering the Keeler gap in Saturn's rings showed unusual waves. Such waves were first noticed last July and are shown above in clear detail. The picture is a digitally foreshortened image mosaic taken earlier this month by the robot Cassini spacecraft now orbiting Saturn. The rings, made of many small particles, were somehow not orbiting Saturn in their usual manner. Close inspection of the image shows the reason - a small moon is orbiting in the Keeler gap. The previously unknown moon is estimated to span about seven kilometers and appears to have the same brightness as nearby ring particles. The gravity of the small moon likely perturbs the orbits of ring particles that come near it, causing them to shimmy back and forth after the moon passes. Since inner particles orbit more quickly than outer particles, only the leading particles of the inner rings and the trailing particles of the outer rings show the wave effect.",
   "date": "2005-05-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0505/wavemaker_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0505/wavemaker_cassini.jpg"
 }

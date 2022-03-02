@@ -1,14 +1,10 @@
 {
   "title": "The Comet Hartley 2 Cruise",
-  "credit": [],
   "explanation": "Early last November, small but active Comet Hartley 2 (103/P Hartley) became the fifth comet imaged close-up by a spacecraft from planet Earth. Still cruising through the solar system with a 6 year orbital period, Hartley 2 is making astronomical headlines again. New Herschel Space Observatory measurements indicate that the water found in this comet's thin atmosphere or coma has the same ratio of the hydrogen isotope deuterium (in heavy water) as the oceans of our fair planet. Hartley 2 originated in the distant Kuiper Belt, a region beyond the orbit of Neptune that is a reservoir of icy cometary bodies and dwarf planets. Since the ratio of deuterium is related to the solar system environment where the comet formed, the Herschel results indicate that Kuiper Belt comets could have contributed substantial amounts of water to Earth's oceans. Comet Hartley 2 appears in this starry skyscape from last November sporting a tantalizing greenish coma appropriately sailing through the nautical constellation Puppis. Below the comet are open star clusters M47 (right) and M46 (left).",
   "date": "2011-10-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1110/103P_101127ligustri.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rolando Ligustri (CARA Project, CAST) Explanation",
-    "Rolando Ligustri (CARA Project, CAST)"
-  ],
+  "copyright": "Rolando Ligustri (CARA Project, CAST)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1110/103P_101127ligustri900c.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Eclipse on the Beach",
-  "credit": [],
   "explanation": "As the New Moon's shadow slid across the southern Pacific on July 11, people gathered along the white, sandy Anakena Beach on the north side of Easter Island to watch a total solar eclipse. The experience was captured in this tantalizing composite image, constructed from a sequence of 50 consecutive exposures. At their center is the totally eclipsed Sun surrounded by a shimmering solar corona. From the well chosen viewpoint, palm trees appear in silhouette against a darkened sky and the faint light reflected in the water. Of course, towering above the onlookers, at the boundaries of land, ocean, and sky are Moai, the island's mysterious monolithic statues.",
   "date": "2010-07-30",
   "hdurl": "https://apod.nasa.gov/apod/image/1007/TSERapaNui_blanchardCopyright.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Guillaume Blanchard Explanation",
-    "Guillaume Blanchard"
-  ],
+  "copyright": "Guillaume Blanchard",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1007/TSERapaNui_blanchard900h.jpg"
 }

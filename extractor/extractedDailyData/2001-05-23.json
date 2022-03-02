@@ -1,14 +1,10 @@
 {
   "title": "Strange Orange Soil on the Moon",
-  "credit": [
-    "Credit: Apollo 17 Crew, NASA Explanation",
-    "Apollo 17 Crew, NASA"
-  ],
+  "credit": "Apollo 17 Crew, NASA",
   "explanation": "How did orange soil appear on the Moon? This mystery began when astronaut Harrison Schmidt noticed the off-color patch near Apollo 17's Taurus-Littrow landing site in 1972. Schmidt and fellow astronaut Eugene Cernan scooped up some of the unusual orange soil for detailed inspection back on Earth. Pictured above is a return sample shown greatly magnified, with its discovery location shown in the inset. The orange soil contains particles less than 0.1 millimeter across, some of the smallest particles yet found on the Moon. Lunar geologists now think that the orange soil was created during an ancient fire-fountain. Detailed chemical and dating analyses indicate that during an explosive volcanic eruption 3.64 billion years ago, small drops of molten rock cooled rapidly into the nearly spherical colored grains. The origin of some of the unusual elements found in the soil, however, remains unknown.",
   "date": "2001-05-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0105/lunarsoil_apollo17_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0105/lunarsoil_apollo17.jpg"
 }

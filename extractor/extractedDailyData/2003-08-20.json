@@ -1,14 +1,10 @@
 {
   "title": "The E Nebula in Aquila",
-  "credit": [],
   "explanation": "Several unusual strands of darkness are prominent toward the constellation of Aquila. This particular dark nebula is known as the E Nebula, for its evocative shape, or B142 and B143, for its position(s) on a list of such nebula compiled by Barnard. The E Nebula spans roughly the angle of a full Moon and lies about 2000 light years distant. The nebula can be seen with binoculars and is particularly visible during the summer months in Earth's northern hemisphere. Other names for dark nebula include absorption nebula, as they efficiently absorb visible light emitted behind them, and molecular clouds, as they frequently attain temperatures low enough so that several different types of stable molecules can exist. The low temperatures of these interstellar clouds facilitate the formation of dense knots of gas that may then collapse into bright stars.",
   "date": "2003-08-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0308/eneb_cook_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Chris Cook Explanation",
-    "Chris Cook"
-  ],
+  "copyright": "Chris Cook",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0308/eneb_cook.jpg"
 }

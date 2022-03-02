@@ -1,14 +1,10 @@
 {
   "title": "Inside a Daya Bay Antineutrino Detector",
-  "credit": [],
   "explanation": "Why is there more matter than antimatter in the Universe? To better understand this facet of basic physics, energy departments in China and the USA led in the creation of the Daya Bay Reactor Neutrino Experiment. Located under thick rock about 50 kilometers northeast of Hong Kong, China, eight Daya Bay detectors monitor antineutrinos emitted by six nearby nuclear reactors. Featured here, a camera looks along one of the Daya Bay detectors, imaging photon sensors that pick up faint light emitted by antineutrinos interacting with fluids in the detector. Early results indicate an unexpectedly high rate of one type of antineutrino changing into another, a rate which, if confirmed, could imply the existence of a previously undetected type of neutrino as well as impact humanity's comprehension of fundamental particle reactions that occurred within the first few seconds of the Big Bang.",
   "date": "2016-05-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1605/Inside_DayaBay_1000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: DOE, Berkeley Lab - Roy Kaltschmidt, photographer Explanation",
-    "DOE, Berkeley Lab - Roy Kaltschmidt, photographer"
-  ],
+  "copyright": "DOE, Berkeley Lab - Roy Kaltschmidt, photographer",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1605/Inside_DayaBay_960.jpg"
 }

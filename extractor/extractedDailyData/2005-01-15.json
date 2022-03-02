@@ -1,14 +1,10 @@
 {
   "title": "Huygens Images Titan's Surface",
-  "credit": [
-    "Credit: ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL) Explanation",
-    "ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL)"
-  ],
+  "credit": "ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL)",
   "explanation": "After a seven year interplanetary voyage on board the the Cassini spacecraft, the European Space Agency's Huygens probe parachuted to a historic landing on Saturn's moon Titan on January 14. Above are two of the first raw images Huygens recorded of the mystery moon's surface - a view from an altitude of 16 kilometers (left), and surface level. The altitude image resolves features as small as about 40 meters. In the dramatic surface level vista, the light toned rock-like object below and left of center is only about 15 centimeters across and lies 85 centimeters from the probe. Remarkably, the views of Titan's surface suggest a similarity to eroded surfaces on Earth and Mars.",
   "date": "2005-01-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0501/landing_huygens_03_h3.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0501/landing_huygens_03_h3.jpg"
 }

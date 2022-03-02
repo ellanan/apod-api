@@ -1,14 +1,10 @@
 {
   "title": "The First Lunar Observatory",
-  "credit": [
-    "Credit: NASA, Apollo 16 Explanation",
-    "NASA, Apollo 16"
-  ],
+  "credit": "NASA, Apollo 16",
   "explanation": "The first, and so far only, lunar astronomical observatory was deployed by the Apollo 16 crew in 1972. The Far Ultraviolet Camera / Spectrograph used a 3-inch diameter Schmidt telescope to photograph the Earth, nebulae, star clusters, and the Large Magellanic Cloud. The tripod mounted astronomical equipment is seen above, placed in the shadow of the Lunar Module (right) so it would not overheat. Also in the shadow is astronaut Charles Duke with the lunar rover in the background. The Far Ultraviolet Camera took pictures in ultraviolet light which would normally be blocked by the Earth's atmosphere. It was created by George Carruthers (NRL), had a field of view of twenty degrees, and could detect stars having visual magnitude brighter than eleven. One hundred seventy-eight images were recorded in a film cartridge which the astronauts returned to Earth. The observatory still stands on the Moon today.",
   "date": "2000-11-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0011/lunartel_apollo16_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0011/lunartel_apollo16.jpg"
 }

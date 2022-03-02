@@ -1,14 +1,10 @@
 {
   "title": "Moonless Perseid Sky",
-  "credit": [],
   "explanation": "Last weekend, dark, moonless night skies brought many sightings of Perseid meteors to skygazers all over planet Earth. Early Sunday morning astronomer John Chumack's camera captured this Perseid meteor streak with a flare near the end of its track over Yellow Springs, Ohio. The single, four minute long exposure looks toward the constellation of Taurus and the eastern horizon. The meteor streak points back to the annual meteor shower's radiant in Perseus off the upper left corner of the picture. Of course, the view includes the well-known Pleiades Star cluster (near top center) with a bright yellowish planet Mars below it. Also seen with a yellowish tint but not quite as bright as Mars, the giant star Aldebaran anchors the V-shaped Hyades star cluster left of center, above the trees.",
   "date": "2007-08-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0708/Perseid2007_M45_Mars_Chumack.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: John Chumack Explanation",
-    "John Chumack"
-  ],
+  "copyright": "John Chumack",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0708/Perseid2007_M45_Mars_Chumack720.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Mars in Taurus",
-  "credit": [],
   "explanation": "You can spot Mars in the evening sky tonight. Now home to the Perseverance rover, the Red Planet is presently wandering through the constellation Taurus, close on the sky to the Seven Sisters or Pleiades star cluster. In fact this deep, widefield view of the region captures Mars near its closest conjunction to the Pleiades on March 3. Below center, Mars is the bright yellowish celestial beacon only about 3 degrees from the pretty blue star cluster. Competing with Mars in color and brightness, Aldebaran is the alpha star of Taurus. The red giant star is toward the lower left edge of the frame, a foreground star along the line-of-sight to the more distant Hyades star cluster. Otherwise too faint for your eye to see, the dark, dusty nebulae lie along the edge of the massive Perseus molecular cloud, with the striking reddish glow of NGC 1499, the California Nebula, at the upper right.",
   "date": "2021-03-04",
   "hdurl": "https://apod.nasa.gov/apod/image/2103/2021_03_02_Mars_Taurus_1800px.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Petr Horalek / Institute of Physics in Opava Explanation",
-    "Petr Horalek / Institute of Physics in Opava"
-  ],
+  "copyright": "Petr Horalek / Institute of Physics in Opava",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2103/2021_03_02_Mars_Taurus_1024px.jpg"
 }

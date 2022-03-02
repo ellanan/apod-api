@@ -1,14 +1,10 @@
 {
   "title": "IC 4406: A Seemingly Square Nebula",
-  "credit": [
-    "Credit: H. Bond (STScI), R. Ciardullo (PSU), WFPC2, HST, NASA Explanation",
-    "H. Bond (STScI), R. Ciardullo (PSU), WFPC2, HST, NASA"
-  ],
+  "credit": "H. Bond (STScI), R. Ciardullo (PSU), WFPC2, HST, NASA",
   "explanation": "How can a round star make a square nebula? This conundrum came to light with the discovery of planetary nebulae like IC 4406. IC 4406 is most probably cylindrical, with its square appearance the result of our vantage point in viewing the cylinder. Hot gas is known to be flowing out the ends of the cylinder, while filaments of dark dust and molecular gas lace the bounding walls. The star primarily responsible for this interstellar sculpture can be found in the planetary nebula's center. In a few million years, the only thing left visible in IC 4406 will be a fading white dwarf star.",
   "date": "2000-04-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0004/ic4406_hst.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0004/ic4406_hst_big.jpg"
 }

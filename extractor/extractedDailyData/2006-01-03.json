@@ -1,14 +1,10 @@
 {
   "title": "Dark Terrain on Saturn's Iapetus",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Why are vast sections of Iapetus as dark as coal? No one knows for sure. Iapetus, the third largest moon of Saturn, was inspected again as the Saturn-orbiting robot Cassini spacecraft swooped past the enigmatic world again late last year. The dark material covers most of the surface visible in the above image, while the small portion near the top that appears almost white is of a color and reflectance more typical of Saturn's other moons. The unknown material covers about half of the 1,500 kilometer wide moon. The material is so dark that it reflects less than five percent of incident sunlight, yet overlays craters indicating that it was spread after the craters were formed. Iapetus has other unexplained features. The bright part of Iapetus is covered with unexplained long thin streaks. The orbit of Iapetus is also unusual, being tilted to the plane of Saturn's orbit by an unusually high fifteen degrees. A strange ridge about 13 kilometers high crosses much of Iapetus near the equator and is visible near the bottom. Oddly, this ridge is almost exactly parallel with Iapetus' equator. The exact shape of Iapetus remains undetermined, but images indicate that it is quite strange -- something like a walnut. Research into the formation and history of mysterious Iapetus is active and ongoing.",
   "date": "2006-01-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0601/iapetus3_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0601/iapetus3_cassini.jpg"
 }

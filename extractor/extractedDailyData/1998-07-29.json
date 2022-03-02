@@ -1,14 +1,10 @@
 {
   "title": "The High Energy Heart Of The Milky Way",
-  "credit": [
-    "Credit: SIGMA Team (SAp, Saclay; CESR, Toulouse; IKI, Moscow) Explanation",
-    "SIGMA Team (SAp, Saclay; CESR, Toulouse; IKI, Moscow)"
-  ],
+  "credit": "SIGMA Team (SAp, Saclay; CESR, Toulouse; IKI, Moscow)",
   "explanation": "These high resolution false color pictures of the Galactic center region in high energy X-ray and gamma-ray light result from a very long exposure of roughly 3,000 hours performed from 1990 to 1997 by the French SIGMA telescope onboard the Russian GRANAT spacecraft. Each image covers a 14x14 degree field which includes most of the central bulge of our Milky Way Galaxy. The X-ray picture (left) reveals a cluster of sources releasing enormous amounts of energy. They are probably binary star systems where matter accretes onto a collapsed object, either a neutron star or a black hole. But according to recent theories, only those binary systems with black holes can radiate above X-ray energies -- in the gamma-ray regime. In that case, the SIGMA sources also shining in the gamma-ray picture (right) betray the presence of accreting stellar black holes! Surprisingly, no high energy source seems to coincide exactly with the Galactic center itself, located near the brightest source at the bottom of both pictures. This indicates that the large black hole thought to be lurking there is unexpectedly quiet at these energies.",
   "date": "1998-07-29",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/galcen_sigma2.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/galcen_sigma2.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Supernova Factory NGC 2770",
-  "credit": [
-    "Credit: A. de Ugarte Postigo (ESO) et al., Dark Cosmology Centre (NBI, KU), Instituto de Astrofísica de Andalucía (CSIC), University of Hertfordshire Explanation",
-    "A. de Ugarte Postigo (ESO) et al., Dark Cosmology Centre (NBI, KU), Instituto de Astrofísica de Andalucía (CSIC), University of Hertfordshire"
-  ],
+  "credit": "A. de Ugarte Postigo (ESO) et al., Dark Cosmology Centre (NBI, KU), Instituto de Astrofísica de Andalucía (CSIC), University of Hertfordshire",
   "explanation": "The stellar explosions known as supernovae are among the most powerful events in the universe. Triggered by the collapsing core of a massive star or the nuclear demise of a white dwarf, supernovae occur in average spiral galaxies only about once every century. But the remarkable spiral galaxy NGC 2770 has lately produced more than its fair share. Two still bright supernovae and the location of a third, originally spotted in 1999 but now faded from view, are indicated in this image of the edge-on spiral. All three supernovae are now thought to be of the core-collapse variety, but the most recent of the trio, SN2008D, was first detected by the Swift satellite at more extreme energies as an X-ray flash (XRF) or possibly a low-energy version of a gamma-ray burst on January 9th. Located a mere 90 million light-years away in the northern constellation Lynx, NGC 2770 is now the closest galaxy known to host such a powerful supernova event.",
   "date": "2008-01-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0801/ngc2770sne_malesani.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0801/ngc2770sne_malesani_c800.jpg"
 }

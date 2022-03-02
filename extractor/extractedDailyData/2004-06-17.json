@@ -1,14 +1,10 @@
 {
   "title": "Comet NEAT and the Beehive Cluster",
-  "credit": [],
   "explanation": "To the unaided eye, they appeared as similar fuzzy patches. But when a bright comet passed in front of a bright star cluster last month, binoculars and cameras were able to show off their marked differences in dramatic fashion. Pictured above, the bright comet, C/2001 Q4 (NEAT) shows many details of its coma and tail, while far in the distance the Beehive open cluster, M44, shows many of its stars. Comet Q4 has now faded to the edge of unaided visibility and can best be found with a sky map and binoculars from the Northern Hemisphere well into June. Star cluster M44 will remain an impressive star cluster toward the constellation of Cancer indefinitely.",
   "date": "2004-06-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0406/q4m44_westlake_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jimmy Westlake (Colorado Mountain College) Explanation",
-    "Jimmy Westlake (Colorado Mountain College)"
-  ],
+  "copyright": "Jimmy Westlake (Colorado Mountain College)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0406/q4m44_westlake.jpg"
 }

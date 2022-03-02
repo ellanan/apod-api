@@ -1,14 +1,10 @@
 {
   "title": "A Lonely Neutron Star",
-  "credit": [
-    "Credit: F. Walter (SUNY Stony Brook), WFPC2, HST, NASA Explanation",
-    "F. Walter (SUNY Stony Brook), WFPC2, HST, NASA"
-  ],
+  "credit": "F. Walter (SUNY Stony Brook), WFPC2, HST, NASA",
   "explanation": "How massive can a star get without imploding into a black hole? These limits are being tested by the discovery of a lone neutron star in space. Observations by the Hubble Space Telescope have been combined with previous observations by the X-ray ROSAT observatory and ultraviolet EUVE observatory for the isolated star at the location of the arrow. Astronomers are able to directly infer the star's size from measurements of its unblended brightness, temperature, and an upper limit on the distance. Assuming that the object is a neutron star of typical mass, some previous theories of neutron star structure would have predicted an implosion that would have created a black hole. That this neutron star even exists therefore allows a window to the extreme conditions that exist in the interiors of neutron stars.",
   "date": "1998-11-28",
   "hdurl": "https://apod.nasa.gov/apod/image/9709/nslonely_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9709/nslonely_hst.jpg"
 }

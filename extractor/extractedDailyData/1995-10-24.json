@@ -1,17 +1,11 @@
 {
   "title": "A Total Solar Eclipse",
-  "credit": [
-    "Credit: Steve Albers, Dennis di Cicco (S&T Magazine), Gary Emerson (E. E. Barnard Obs.) Copyright: Steve Albers Explanation",
-    "Steve Albers, Dennis di Cicco (S&T Magazine), Gary Emerson (E. E. Barnard Obs.) Copyright: Steve Albers"
-  ],
+  "credit": "Steve Albers, Dennis di Cicco (S&T Magazine), Gary Emerson (E. E. Barnard Obs.) Copyright: Steve Albers",
   "explanation": "",
   "date": "1995-10-24",
   "hdurl": "https://apod.nasa.gov/apod/image/eclipse_albers.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Albers Explanation",
-    "Steve Albers"
-  ],
+  "copyright": "Steve Albers",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/eclipse_albers.gif"
 }

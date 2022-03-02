@@ -1,14 +1,10 @@
 {
   "title": "Solar Cycle 25 Has Begun",
-  "credit": [
-    "Credit: NASA, SDO Explanation",
-    "NASA, SDO"
-  ],
+  "credit": "NASA, SDO",
   "explanation": "The general trend of monthly sunspot data now confirms that the minimum of the approximately 11 year cycle of solar activity occurred in December 2019, marking the start of Solar Cycle 25. That quiet Sun, at minimum activity, appears on the right of this split hemispherical view. In contrast, the left side shows the active Sun at the recognized maximum of Solar Cycle 24, captured in April 2014. The extreme ultraviolet images from the orbiting Solar Dynamics Observatory highlight coronal loops and active regions in the light of highly ionized iron atoms. Driving the space weather around our fair planet, Solar Cycle 24 was a relatively calm one and predictions are that cycle 25 will be calm too. The cycle 25 activity maximum is expected in July 2025. Solar Cycle 1, the first solar cycle determined from early records of sunspot data, is considered to begin with a minimum in February 1755.",
   "date": "2020-09-17",
   "hdurl": "https://apod.nasa.gov/apod/image/2009/ig_maxmin.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2009/ig_maxmin.jpg"
 }

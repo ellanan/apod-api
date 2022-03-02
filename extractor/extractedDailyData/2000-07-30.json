@@ -1,14 +1,10 @@
 {
   "title": "NGC 2440: Cocoon of a New White Dwarf",
-  "credit": [
-    "Credit: H. Bond (STScI), R. Ciardullo (PSU), WFPC2, HST, NASA Explanation",
-    "H. Bond (STScI), R. Ciardullo (PSU), WFPC2, HST, NASA"
-  ],
+  "credit": "H. Bond (STScI), R. Ciardullo (PSU), WFPC2, HST, NASA",
   "explanation": "Like a butterfly, a white dwarf star begins its life by casting off a cocoon that enclosed its former self. In this analogy, however, the Sun would be a caterpillar and the ejected shell of gas would become the prettiest of all! The above cocoon, the planetary nebula designated NGC 2440, contains one of the hottest white dwarf stars known. The white dwarf can be seen as the bright dot near the photo's center. Our Sun will eventually become a \"white dwarf butterfly\", but not for another 5 billion years. The above false color image and was post-processed by Forrest Hamilton.",
   "date": "2000-07-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0007/ngc2440_hst3_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0007/ngc2440_hst3.jpg"
 }

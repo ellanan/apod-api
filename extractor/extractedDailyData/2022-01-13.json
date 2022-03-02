@@ -1,14 +1,10 @@
 {
   "title": "Supernova Remnant Simeis 147",
-  "credit": [],
   "explanation": "It's easy to get lost following the intricate, looping, twisting filaments in this detailed image of supernova remnant Simeis 147. Also cataloged as Sharpless 2-240 it goes by the popular nickname, the Spaghetti Nebula. Seen toward the boundary of the constellations Taurus and Auriga, it covers nearly 3 degrees or 6 full moons on the sky. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years. This composite includes image data taken through narrow-band filters where reddish emission from ionized hydrogen atoms and doubly ionized oxygen atoms in faint blue-green hues trace the shocked, glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from the massive stellar explosion first reached Earth 40,000 years ago. But the expanding remnant is not the only aftermath. The cosmic catastrophe also left behind a spinning neutron star or pulsar, all that remains of the original star's core.",
   "date": "2022-01-13",
   "hdurl": "https://apod.nasa.gov/apod/image/2201/HOOClassicBinned_ps2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jason Dain Explanation",
-    "Jason Dain"
-  ],
+  "copyright": "Jason Dain",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2201/HOOClassicBinned_ps1024.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "APOD is 15 Years Old Today",
-  "credit": [],
   "explanation": "Welcome to the quindecennial year of the Astronomy Picture of the Day! Perhaps a source of web consistency for some, APOD is still here. As during each of the 15 years of selecting images, writing text, and editing the APOD web pages, the occasionally industrious Robert Nemiroff (left) and frequently persistent Jerry Bonnell (right) are pictured above plotting to highlight yet another unsuspecting image of our cosmos. Although the above image may appear similar to the whimsical Vermeer composite that ran on APOD's fifth anniversary, a perceptive eye might catch that this year it has been digitally re-pixelated using many of the over 5,000 APOD images that have appeared over APOD's tenure. (Can you find any notable APOD images?) Once again, we at APOD would like to offer a sincere thank you to our readership for continued interest, support, and many gracious communications.",
   "date": "2010-06-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1006/vermeer_stevenson_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Apologies to: Vermeer's Astronomer and Geographer; Image Pixelation: Rob Stevenson Explanation",
-    "Apologies to: Vermeer's Astronomer and Geographer; Image Pixelation: Rob Stevenson"
-  ],
+  "copyright": "Apologies to: Vermeer's Astronomer and Geographer; Image Pixelation: Rob Stevenson",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1006/vermeer_stevenson.jpg"
 }

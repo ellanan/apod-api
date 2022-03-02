@@ -1,14 +1,10 @@
 {
   "title": "Gomez's Hamburger: A Proto-Planetary Nebula",
-  "credit": [
-    "Credit: Arturo Gomez (CTIO/ NOAO), Hubble Heritage Team, NASA Explanation",
-    "Arturo Gomez (CTIO/ NOAO), Hubble Heritage Team, NASA"
-  ],
+  "credit": "Arturo Gomez (CTIO/ NOAO), Hubble Heritage Team, NASA",
   "explanation": "What, in heaven, is that? Sometimes astronomers see things on the sky they don't immediately understand. In 1985 this happened to Arturo Gomez, and the object became known as Gomez's Hamburger for its distinctive yet familiar shape. After some investigation, the object was identified as a proto-planetary nebula, a gas cloud emitted by a Sun-like star just after its central hydrogen fuel has all been fused to helium. Gomez's Hamburger is on its way to becoming a full-fledged planetary nebula in a few thousand years. The light seen (the bun) is reflected by dust from the central star, although the star itself is obscured by a thick dust disk that runs across the middle (the patty). Gomez's Hamburger, pictured above in a recent image from the Hubble Space Telescope, is only a fraction of a light year across but located approximately 10,000 light years away towards the constellation of Sagittarius.",
   "date": "2002-08-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0208/hamburger_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0208/hamburger_hst.jpg"
 }

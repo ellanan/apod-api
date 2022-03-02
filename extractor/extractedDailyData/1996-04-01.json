@@ -1,14 +1,10 @@
 {
   "title": "Hyakutake, Big Dipper, and Observatory Dome",
-  "credit": [],
   "explanation": "",
   "date": "1996-04-01",
   "hdurl": "https://apod.nasa.gov/apod/image/hyakutake_26Mar_vw_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Vic Winter, Courtesy ICSTARS Explanation",
-    "Vic Winter, Courtesy ICSTARS"
-  ],
+  "copyright": "Vic Winter, Courtesy ICSTARS",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hyakutake_26Mar_vw.gif"
 }

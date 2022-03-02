@@ -1,14 +1,10 @@
 {
   "title": "The Swarm",
-  "credit": [
-    "Credit: M. P. Muno (UCLA) et al., CXC, NASA Explanation",
-    "M. P. Muno (UCLA) et al., CXC, NASA"
-  ],
+  "credit": "M. P. Muno (UCLA) et al., CXC, NASA",
   "explanation": "What do you call a group of black holes ... a flock, a brace, a swarm? Monitoring a region around the center of our Galaxy, astronomers have indeed found evidence for a surprisingly large number of variable x-ray sources - likely black holes or neutron stars in binary star systems - swarming around the Milky Way's own central supermassive black hole. Chandra Observatory combined x-ray image data from their monitoring program is shown above, with four variable sources circled and labeled A-D. While four sources may not make a swarm, these all lie within only three light-years of the central supermassive black hole known as Sgr A* (the bright source just above C). Their detection implies that a much larger concentration of black hole systems is present. Repeated gravitational interactions with other stars are thought to cause the black hole systems to spiral inward toward the Galactic Center region.",
   "date": "2005-01-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0501/swarm_cxc_labelf.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0501/swarm_cxc_labelc.jpg"
 }

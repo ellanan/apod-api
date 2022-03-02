@@ -1,14 +1,10 @@
 {
   "title": "Pluto: The Frozen Planet",
-  "credit": [
-    "Credit: R. Albrecht (ESA/ESO), Hubble Space Telescope, NASA Explanation",
-    "R. Albrecht (ESA/ESO), Hubble Space Telescope, NASA"
-  ],
+  "credit": "R. Albrecht (ESA/ESO), Hubble Space Telescope, NASA",
   "explanation": "The Hubble Space Telescope imaged Pluto and its moon Charon in 1994. Pluto is usually the most distant planet from the Sun but because of its elliptic orbit Pluto crossed inside of Neptune's orbit in 1979 and will cross back out again in 1999. Compared to the other planets, very little is known about Pluto. Pluto is smaller than any other planet and even smaller than several other planet's moons. From Pluto, the Sun is just a tiny point of light. Pluto is probably composed of frozen rock and ice, much like Neptune's moon Triton. Pluto has not yet been visited by a spacecraft, but a mission is being planned for the next decade.",
   "date": "1997-12-28",
   "hdurl": "https://apod.nasa.gov/apod/image/pluto_hst.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/pluto_hst.gif"
 }

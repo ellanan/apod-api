@@ -1,14 +1,10 @@
 {
   "title": "Corona from Svalbard",
-  "credit": [],
   "explanation": "During a total solar eclipse, the Sun's extensive outer atmosphere, or corona, is an inspirational sight. Streamers and shimmering features that engage the eye span a brightness range of over 10,000 to 1, making them notoriously difficult to capture in a single photograph. But this composite of 29 telescopic images covers a wide range of exposure times to reveal the crown of the Sun in all its glory. The aligned and stacked digital frames were recorded in the cold, clear skies above the Arctic archipelago of Svalbard, Norway during the Sun's total eclipse on March 20 and also show solar prominences extending just beyond the edge of the solar disk. Remarkably, even small details on the dark night side of the New Moon can be made out, illuminated by sunlight reflected from a Full Earth. Of course, fortunes will be reversed on April 4 as a Full Moon plunges into the shadow of a New Earth, during a total lunar eclipse.",
   "date": "2015-03-31",
   "hdurl": "https://apod.nasa.gov/apod/image/1503/Tse_2015_Svalbard_800mm_Nikon_D810-small.png",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Miloslav Druckmüller, Shadia Habbal, Peter Aniol, Pavel Starha Explanation",
-    "Miloslav Druckmüller, Shadia Habbal, Peter Aniol, Pavel Starha"
-  ],
+  "copyright": "Miloslav Druckmüller, Shadia Habbal, Peter Aniol, Pavel Starha",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1503/Tse_2015_Svalbard_800mm_Nikon_D810-small.jpg"
 }

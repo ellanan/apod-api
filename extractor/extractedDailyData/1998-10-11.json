@@ -1,14 +1,10 @@
 {
   "title": "Resolving Mira",
-  "credit": [
-    "Credit: M. Karovska (Harvard-Smithsonian CfA) et al., FOC, ESA, NASA Explanation",
-    "M. Karovska (Harvard-Smithsonian CfA) et al., FOC, ESA, NASA"
-  ],
+  "credit": "M. Karovska (Harvard-Smithsonian CfA) et al., FOC, ESA, NASA",
   "explanation": "Most stars appear only as points of light. Early last year, Betelgeuse became the second star, after our Sun, to have it surface resolved. Later last year, Mira was added to the list. Mira A is a red giant star undergoing dramatic pulsations, causing it to become more than 100 times brighter over the course of a year. Mira was discovered to be the first variable star 401 years ago today by David Fabricus. Mira can extend to over 700 times the size of our Sun, and is only 400 light-years away. The above photograph taken by the Hubble Space Telescope shows the true face of Mira. But what are we seeing? The unusual extended feature off the lower left of the star remains somewhat mysterious. Possible explanations include gravitational perturbation and/or heating from Mira's white dwarf star companion",
   "date": "1998-10-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9708/mira_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9708/mira_hst.jpg"
 }

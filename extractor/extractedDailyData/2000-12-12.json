@@ -1,14 +1,10 @@
 {
   "title": "Jupiter Eyes Ganymede",
-  "credit": [
-    "Credit: Cassini Imaging Team, Cassini Project, NASA Explanation",
-    "Cassini Imaging Team, Cassini Project, NASA"
-  ],
+  "credit": "Cassini Imaging Team, Cassini Project, NASA",
   "explanation": "Who keeps an eye on the largest moon in the Solar System? This moon, visible on the lower right, is Ganymede, and the planet it orbits, Jupiter, seems to be keeping a watchful eye, as its Great Red Spot appears serendipitously nearby. This recently released enhanced-contrast image from the robot spacecraft Cassini captures new details of the incredible intricacies of Jupiter's complex cloud patterns. Features as small as 250 kilometers can be seen. Counter-clockwise rotating high-pressure white ovals that are similar to the Great Red Spot appear in the red band below the spot. Between these spots are darker low-pressure systems that rotate clockwise. The hydrogen and helium that compose most of Jupiter's clouds is nearly invisible - the trace chemicals that give Jupiter these colors remain unknown. The Cassini spacecraft is using Jupiter to pull it toward Saturn, where it is scheduled to arrive in 2004.",
   "date": "2000-12-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0012/jupiterganymede_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0012/jupiterganymede_cassini.jpg"
 }

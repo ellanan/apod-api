@@ -1,14 +1,10 @@
 {
   "title": "Cape York Annular Eclipse",
-  "credit": [],
   "explanation": "This week the shadow of the New Moon fell on planet Earth, crossing Queensland's Cape York in northern Australia ... for the second time in six months. On the morning of May 10, the Moon's apparent size was too small to completely cover the Sun though, revealing a \"ring of fire\" along the central path of the annular solar eclipse. Near mid-eclipse from Coen, Australia, a webcast team captured this telescopic snapshot of the annular phase. Taken with a hydrogen-alpha filter, the dramatic image finds the Moon's silhouette just within the solar disk, and the limb of the active Sun spiked with solar prominences. Still, after hosting back-to-back solar eclipses, northern Australia will miss the next and final solar eclipse of 2013. This November, a rare hybrid eclipse will track across the North Atlantic and equatorial Africa.",
   "date": "2013-05-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1305/ASE_McCarty3-3.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Cameron McCarty, Matthew Bartow, Michael Johnson - MWV Observatory, Coca-Cola Space Science Center, Columbus State University Eclipse Team Explanation",
-    "Cameron McCarty, Matthew Bartow, Michael Johnson - MWV Observatory, Coca-Cola Space Science Center, Columbus State University Eclipse Team"
-  ],
+  "copyright": "Cameron McCarty, Matthew Bartow, Michael Johnson - MWV Observatory, Coca-Cola Space Science Center, Columbus State University Eclipse Team",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1305/ASE_McCarty3-3sc900.jpg"
 }

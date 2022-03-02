@@ -1,14 +1,10 @@
 {
   "title": "Cartwheel Of Fortune",
-  "credit": [
-    "Credit: Kirk Borne (STScI), NASA Explanation",
-    "Kirk Borne (STScI), NASA"
-  ],
+  "credit": "Kirk Borne (STScI), NASA",
   "explanation": "By chance, a collision of two galaxies has created a surprisingly recognizable shape on a cosmic scale - \"The Cartwheel Galaxy\". The Cartwheel is part of a group of galaxies about 500 million light years away in the constellation Sculptor (two smaller galaxies in the group are visible on the right). Its rim is an immense ring-like structure 100,000 light years in diameter composed of newly formed, extremely bright, massive stars. When galaxies collide they pass through each other, their individual stars rarely coming into contact. However, the galaxies' gravitational fields are seriously distorted by the collision. In fact, the ring-like shape is the result of the gravitational disruption caused by a small intruder galaxy passing through a large one, compressing the interstellar gas and dust and causing a a star formation wave to move out from the impact point like a ripple across the surface of a pond. In this case the large galaxy may have originally been a spiral, not unlike our own Milky Way, transformed into the wheel shape by the collision. But ... what happened to the small intruder galaxy?",
   "date": "1998-12-19",
   "hdurl": "https://apod.nasa.gov/apod/image/9702/cartwheel1_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9702/cartwheel1_hst.jpg"
 }

@@ -1,17 +1,11 @@
 {
   "title": "Rings Around the Ring Nebula",
-  "credit": [
-    "Credit: Hubble, Large Binocular Telescope, Subaru Telescope; Composition & Copyright: Robert Gendler Explanation",
-    "Hubble, Large Binocular Telescope, Subaru Telescope; Composition & Copyright: Robert Gendler"
-  ],
+  "credit": "Hubble, Large Binocular Telescope, Subaru Telescope; Composition & Copyright: Robert Gendler",
   "explanation": "There is much more to the familiar Ring Nebula (M57), however, than can be seen through a small telescope. The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula's central star. This remarkable composite image includes narrowband hydrogen image, visible light emission, and infrared light emission. Of course, in this well-studied example of a planetary nebula, the glowing material does not come from planets. Instead, the gaseous shroud represents outer layers expelled from a dying, sun-like star. The Ring Nebula is about 2,000 light-years away toward the musical constellation Lyra.",
   "date": "2018-07-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1807/M57Ring_HubbleGendler_3000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1807/M57Ring_HubbleGendler_960.jpg"
 }

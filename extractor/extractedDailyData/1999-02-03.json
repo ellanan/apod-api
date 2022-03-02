@@ -1,14 +1,10 @@
 {
   "title": "A Galactic Mushroom Cloud",
-  "credit": [],
   "explanation": "",
   "date": "1999-02-03",
   "hdurl": "https://apod.nasa.gov/apod/image/9902/mushroom_cgps_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jayanne English (STScI) et al., CGPS/RCPG, DRAO Explanation",
-    "Jayanne English (STScI) et al., CGPS/RCPG, DRAO"
-  ],
+  "copyright": "Jayanne English (STScI) et al., CGPS/RCPG, DRAO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9902/mushroom_cgps.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Deep Field",
-  "credit": [
-    "Credit: R. Williams, The HDF Team (STScI), NASA, Explanation",
-    "R. Williams, The HDF Team (STScI), NASA,"
-  ],
+  "credit": "R. Williams, The HDF Team (STScI), NASA,",
   "explanation": "",
   "date": "1996-01-24",
   "hdurl": "https://apod.nasa.gov/apod/image/hst_deep_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hst_deep.gif"
 }

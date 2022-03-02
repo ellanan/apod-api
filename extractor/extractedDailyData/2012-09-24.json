@@ -1,14 +1,10 @@
 {
   "title": "NGC 2736: The Pencil Nebula",
-  "credit": [
-    "Credit: ESO Explanation",
-    "ESO"
-  ],
+  "credit": "ESO",
   "explanation": "This shock wave plows through space at over 500,000 kilometers per hour. Moving toward to bottom of this beautifully detailed color composite, the thin, braided filaments are actually long ripples in a sheet of glowing gas seen almost edge on. Cataloged as NGC 2736, its narrow appearance suggests its popular name, the Pencil Nebula. About 5 light-years long and a mere 800 light-years away, the Pencil Nebula is only a small part of the Vela supernova remnant. The Vela remnant itself is around 100 light-years in diameter and is the expanding debris cloud of a star that was seen to explode about 11,000 years ago. Initially, the shock wave was moving at millions of kilometers per hour but has slowed considerably, sweeping up surrounding interstellar gas.",
   "date": "2012-09-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1209/pencil_eso_4000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1209/pencil_eso_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "STS-1: First Shuttle Launch",
-  "credit": [
-    "Credit: KSC, NASA Explanation",
-    "KSC, NASA"
-  ],
+  "credit": "KSC, NASA",
   "explanation": "On April 12, 1981, twenty years ago today, the space shuttle orbiter Columbia became the first shuttle to orbit the Earth. In this gorgeous time exposure, flood lights play on the Columbia and service structures (left) as it rests atop Complex 39's Pad A at Kennedy Space Center in preparation for first launch. Flown by Commander John W. Young and Pilot Robert L. Crippen, Columbia spent 2 days aloft on its check-out mission, STS-1, which ended in a smooth landing, airplane-style, at Edwards Air Force Base in California. Ferried back to Kennedy by a modified Boeing 747, Columbia was launched again seven months later on STS-2, becoming the first piloted reuseable orbiter. The oldest operating shuttle orbiter, Columbia's 1981 debut was followed by Challenger in 1982 (destroyed in 1986), Discovery in 1983, Atlantis in 1985, and Challenger's replacement Endeavour in 1991. This shuttle orbiter fleet has now accomplished over 100 orbital missions. Today also marks the 40th anniversary of the first human in space, Yuri Gagarin.",
   "date": "2001-04-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0104/columbia_sts1_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0104/columbia_sts1.jpg"
 }

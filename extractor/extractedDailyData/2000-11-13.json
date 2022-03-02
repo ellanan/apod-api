@@ -1,14 +1,10 @@
 {
   "title": "Disorder in Stephan's Quintet",
-  "credit": [
-    "Credit: Jane C. Charlton (Penn State) et al., HST, ESA, NASA Explanation",
-    "Jane C. Charlton (Penn State) et al., HST, ESA, NASA"
-  ],
+  "credit": "Jane C. Charlton (Penn State) et al., HST, ESA, NASA",
   "explanation": "What are four closely grouped galaxies doing in this image? The grouping composes a majority of the large galaxies in Stephan's Quintet, with the fifth prominent galaxy located off the above image to the lower right. Three of these four galaxies show nearly the same redshift, indicating that they reside at the same distance from us. These three galaxies are in the midst a titanic collision, each ripping the others apart with gravitational tidal forces. The large bluish spiral below and left of center is a foreground galaxy much closer than the others and hence not involved in the cosmic battle. Most of Stephan's Quintet lies about 300 million light-years away towards the constellation of Pegasus.",
   "date": "2000-11-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0011/quintet_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0011/quintet_hst.jpg"
 }

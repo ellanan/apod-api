@@ -1,14 +1,10 @@
 {
   "title": "Rumors of a Strange Universe",
-  "credit": [
-    "Credit: P. Garnavich (CfA) et al., WFPC2, HST, NASA Explanation",
-    "P. Garnavich (CfA) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "P. Garnavich (CfA) et al., WFPC2, HST, NASA",
   "explanation": "In a meeting in California two weeks ago, unpublished results were presented indicating that most of the energy in our universe is not in stars or galaxies but is tied to space itself. In the language of cosmologists, a large cosmological constant is directly implied by new distant supernovae observations. Suggestions of a cosmological constant (lambda) are not new -- they have existed since the advent of modern relativistic cosmology. Such claims are not usually popular with astronomers, though, because lambda is so unlike known universe components, because lambda's value appears limited by observations, and because less-strange cosmologies without lambda have historically done well in explaining the data. Therefore most lamdba claims do not make the News Summary in a prestigious journal like Science. What is noteworthy here is the seemingly direct and reliable method of the observations, and the good reputations of the scientists conducting the investigation. The above picture of a supernova at redshift 0.5 in a spiral galaxy, was taken by this collaboration. However, two teams of scientists are independently studying distant supernovae, and the last official word from the other team was a result consistent with no cosmological constant, reported just two months ago. Extraordinary claims require extraordinary evidence, and so cosmologists the world over eagerly await peer-reviewed results, further details, and more data.",
   "date": "1998-03-02",
   "hdurl": "https://apod.nasa.gov/apod/image/9803/snhighz_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9803/snhighz_hst.jpg"
 }

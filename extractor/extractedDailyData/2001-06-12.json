@@ -1,14 +1,10 @@
 {
   "title": "The Cartwheel Galaxy",
-  "credit": [],
   "explanation": "By chance, a collision of two galaxies has created a surprisingly recognizable shape on a cosmic scale. The Cartwheel Galaxy is part of a group of galaxies about 500 million light years away in the constellation Sculptor. Two smaller galaxies in the group are visible on the left of the above photograph. The Cartwheel's rim is an immense ring-like structure 100,000 light years in diameter composed of newly formed, extremely bright, massive stars. When galaxies collide, they pass through each other -- their individual stars rarely come into contact. The galaxies' gravitational fields, however, may be greatly distorted by the collision. In fact, the ring-like shape is the result of the gravitational disruption caused by a small intruder galaxy passing through a large one, compressing the interstellar gas and dust, and causing a wave of star formation wave to move out from the impact point like a ripple across the surface of a pond. In this case, the large galaxy may have originally been a spiral, not unlike our own Milky Way Galaxy, transformed by the collision. Recent astronomical detective work has indicated what has become of the intruder.",
   "date": "2001-06-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0106/cartwheel_aao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: S. Lee & D. F. Malin, AAO Explanation",
-    "S. Lee & D. F. Malin, AAO"
-  ],
+  "copyright": "S. Lee & D. F. Malin, AAO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0106/cartwheel_aao.jpg"
 }

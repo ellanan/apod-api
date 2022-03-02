@@ -1,14 +1,10 @@
 {
   "title": "GK Per: Nova of 1901",
-  "credit": [],
   "explanation": "Early in the 20th century, GK Persei briefly became one of the brightest stars in planet Earth's sky, an event known as Nova Persei 1901. Documented in this modern day composite of two images from 2003 and 2011 the ejecta from the explosion, popularly called the Firework Nebula, continues to expand into space. These images are part of a time lapse video tracking the nebula's expansion over the last 17 years. About 1500 light-years away, the nebula is still just under a light-year in diameter. GK Per and similar cataclysmic variable stars known as classical novae are understood to be binary systems consisting of a compact white dwarf star and swollen cool giant star in a close orbit. The build up of mass transferred to the surface of the white dwarf from the giant star through an accretion disk eventually triggers a thermonuclear outburst, blasting the stellar material into space without destroying the white dwarf star. With a 2 day orbital period, the GK Per system has produced much smaller outbursts in recent years.",
   "date": "2011-11-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1111/gkper_block.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mt. Lemmon SkyCenter, University of Arizona Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, University of Arizona"
-  ],
+  "copyright": "Adam Block, Mt. Lemmon SkyCenter, University of Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1111/gkper_block900c.jpg"
 }

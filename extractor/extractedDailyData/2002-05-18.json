@@ -1,14 +1,10 @@
 {
   "title": "Andromeda Island Universe",
-  "credit": [],
   "explanation": "How far can you see? The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy some two million light-years away. Without a telescope, even this immense spiral galaxy appears as an unremarkable, faint, nebulous cloud in the constellation Andromeda. But a bright yellow nucleus, dark winding dust lanes, gorgeous blue spiral arms and star clusters are recorded in this stunning telescopic digital mosaic of the nearby island universe. While even casual skygazers are now inspired by the knowledge that there are many distant galaxies like M31, astronomers seriously debated this fundamental concept only 80 years ago. Were these \"spiral nebulae\" simply outlying components of our own Milky Way Galaxy or were they instead \"island universes\" -- distant systems of stars comparable to the Milky Way itself? This question was central to the famous Shapley-Curtis debate of 1920, which was later resolved by observations of M31 in favor of Andromeda, island universe.",
   "date": "2002-05-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0205/m31_gendler_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0205/m31_gendler.jpg"
 }

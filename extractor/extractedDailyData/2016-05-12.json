@@ -1,14 +1,10 @@
 {
   "title": "A Transit of Mercury",
-  "credit": [],
   "explanation": "On May 9, the diminutive disk of Mercury spent about seven and a half hours crossing in front of the Sun as viewed from the general vicinity of Earth. It was the third of 14 transits of the Solar System's innermost planet in the 21st century. Captured from Fulham, London, England, planet Earth the tiny silhouette shares the enormous solar disk with prominences, filaments, and active regions in this sharp image. But Mercury's round disk (left of center) appears to be the only dark spot, despite the planet-sized sunspots scattered across the Sun. Made with an H-alpha filter that narrowly transmits the red light from hydrogen atoms, the image emphasizes the chromosphere, stretching above the photosphere or normally visible solar surface. In H-alpha pictures of the chromosphere, normally dark sunspot regions are dominated by bright splotches called plages.",
   "date": "2016-05-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1605/HB-G-1254amToM.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Howard Brown-Greaves Explanation",
-    "Howard Brown-Greaves"
-  ],
+  "copyright": "Howard Brown-Greaves",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1605/HB-G-1254amToMcrop1024h.jpg"
 }

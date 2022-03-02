@@ -1,14 +1,10 @@
 {
   "title": "Wisps Surrounding the Horsehead Nebula",
-  "credit": [],
   "explanation": "The famous Horsehead Nebula in Orion is not alone. A deep exposure shows that the dark familiar shaped indentation, visible just below center, is part of a vast complex of absorbing dust and glowing gas. To bring out details of the Horsehead's pasture, an amateur astronomer used a backyard telescope in Austria to accumulate and artistically combine 7.5 hours of images in the light of Hydrogen (red), Oxygen (green), and Sulfur (blue). The resulting spectacular picture details an intricate tapestry of gaseous wisps and dust-laden filaments that were created and sculpted over eons by stellar winds and ancient supernovas. The Flame Nebula is visible just to the left of the Horsehead, while the bright star on the upper left is Alnilam, the central star in Orion's Belt. The Horsehead Nebula lies 1,500 light years distant towards the constellation of Orion.",
   "date": "2019-04-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1904/HorseheadFlame_Zauner_4404.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mario Zauner Explanation",
-    "Mario Zauner"
-  ],
+  "copyright": "Mario Zauner",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1904/HorseheadFlame_Zauner_960.jpg"
 }

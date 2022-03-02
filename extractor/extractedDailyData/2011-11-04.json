@@ -1,14 +1,10 @@
 {
   "title": "Edge-on NGC 3628",
-  "credit": [],
   "explanation": "Sharp telescopic views of magnificent edge-on spiral galaxy NGC 3628 show a puffy galactic disk divided by dark dust lanes. The tantalizing scene puts many astronomers in mind of its popular moniker, The Hamburger Galaxy. About 100,000 light-years across and 35 million light-years away in the constellation Leo, NGC 3628 shares its neighborhood in the local Universe with two other large spirals, a grouping otherwise known as the Leo Triplet. Gravitational interactions with its cosmic neighbors are likely responsible for the extended flare and warp of this spiral's disk, populated by the galaxy's young blue star clusters and tell tale pinkish star forming regions. Also a result of past close encounters, a faint tidal tail of material is just visible extending upward and left in this deep galaxy portrait.",
   "date": "2011-11-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1111/NGC3628_LRGBleshin.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephen Leshin Explanation",
-    "Stephen Leshin"
-  ],
+  "copyright": "Stephen Leshin",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1111/NGC3628_LRGBleshin900c.jpg"
 }

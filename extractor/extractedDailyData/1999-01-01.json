@@ -1,14 +1,10 @@
 {
   "title": "ESO202-G23: Merging Galaxies",
-  "credit": [
-    "Credit: ISAAC, 8.2-meter VLT, ESO Explanation",
-    "ISAAC, 8.2-meter VLT, ESO"
-  ],
+  "credit": "ISAAC, 8.2-meter VLT, ESO",
   "explanation": "ESO202-G23 is a colorful mess. It is a collision between two galaxies taking place over hundreds of millions of years. The representative colors give astronomers some idea of what is going on. Visible in this jumble is an active nucleus spewing ultraviolet radiation which lights up surrounding gas (blue); galactic arms contorted by the gravity of the collision (green); a star forming complex left of center (blue); and dust (red). In billions of years this mess might settle into a relatively normal looking galaxy.",
   "date": "1999-01-01",
   "hdurl": "https://apod.nasa.gov/apod/image/9901/merger_vlt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9901/merger_vlt.jpg"
 }

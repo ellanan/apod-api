@@ -1,14 +1,10 @@
 {
   "title": "The Sombrero Galaxy from Hubble",
-  "credit": [
-    "Credit: NASA, ESA, and the Hubble Heritage Team (STScI / AURA) Explanation",
-    "NASA, ESA, and the Hubble Heritage Team (STScI / AURA)"
-  ],
+  "credit": "NASA, ESA, and the Hubble Heritage Team (STScI / AURA)",
   "explanation": "What's going on in the center of this spiral galaxy? Named the Sombrero Galaxy for its hat-like resemblance, M104 features a prominent dust lane and a bright halo of stars and globular clusters. Reasons for the Sombrero's hat-like appearance include an unusually large and extended central bulge of stars, and dark prominent dust lanes that appear in a disk that we see nearly edge-on. Billions of old stars cause the diffuse glow of the extended central bulge. Close inspection of the bulge in the above photograph shows many points of light that are actually globular clusters. M104's spectacular dust rings harbor many younger and brighter stars, and show intricate details astronomers don't yet fully understand. The very center of the Sombrero glows across the electromagnetic spectrum, and is thought to house a large black hole. Fifty million-year-old light from the Sombrero Galaxy can be seen with a small telescope towards the constellation of Virgo.",
   "date": "2011-05-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1105/sombrero_hst_3215.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1105/sombrero_hst_1071.jpg"
 }

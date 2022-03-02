@@ -1,14 +1,10 @@
 {
   "title": "A Milestone Quasar",
-  "credit": [
-    "Credit: C. Steidel (Caltech), HST, NASA Explanation",
-    "C. Steidel (Caltech), HST, NASA"
-  ],
+  "credit": "C. Steidel (Caltech), HST, NASA",
   "explanation": "",
   "date": "1996-08-18",
   "hdurl": "https://apod.nasa.gov/apod/image/qsomile_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/qsomile_hst.gif"
 }

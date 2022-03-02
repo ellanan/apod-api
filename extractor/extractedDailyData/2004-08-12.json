@@ -1,14 +1,10 @@
 {
   "title": "The Spectrum of a Meteor",
-  "credit": [],
   "explanation": "Chasing the brief flash of a meteor trail across the sky with a very large telescope is a nearly impossible task. But on May 12, 2002, astronomers got lucky, as a bright meteor chanced across the narrow slit of their spectrograph at the Paranal Observatory. At the time, the spectrograph was being used to study the light from a supernova, separating and recording the many near-infrared emission lines produced by atoms in the distant stellar explosion. Below this artistic montage of a meteor streak and Very Large Telescope units at Paranal, panel a shows the near-infrared sky background spectrum and the May 12 meteor combined. Panel b shows the emission spectrum of the meteor alone, after subtracting away the background contributions. The meteor emission is due to colliding oxygen and nitrogen atoms and molecules in the superheated air along the glowing trail at an altitude of about 100 kilometers.",
   "date": "2004-08-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0408/meteorspect_eso_montf.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P. Jenniskens (SETI Inst.), E. Jehin (ESO) et al., FORS1/VLT, ESO Explanation",
-    "P. Jenniskens (SETI Inst.), E. Jehin (ESO) et al., FORS1/VLT, ESO"
-  ],
+  "copyright": "P. Jenniskens (SETI Inst.), E. Jehin (ESO) et al., FORS1/VLT, ESO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0408/meteorspect_eso_mont2.jpg"
 }

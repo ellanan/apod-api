@@ -1,14 +1,10 @@
 {
   "title": "A Panorama from Mauna Kea",
-  "credit": [],
   "explanation": "Typically, views from Mauna Kea are up and dark. That's because the famous dormant volcano in Hawaii is arguably Earth's premier observing platform of the complex and ever changing night sky. However, this daytime view is across and bright. White snow and white clouds seem to blend together to make an alien landscape. Cinder cones from extinct volcanic outbursts dominate the foreground. Scrolling right will reveal structures visually incongruous even here: an armada of the largest optical telescopes on Earth. The observatories seen include Subaru and Keck. In the distance on the far left is Mauna Loa, Earth's largest volcano.",
   "date": "2005-07-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0507/maunakea_cfht_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT Explanation",
-    "Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT"
-  ],
+  "copyright": "Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0507/maunakea_cfht.jpg"
 }

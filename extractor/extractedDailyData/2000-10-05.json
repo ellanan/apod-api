@@ -1,14 +1,10 @@
 {
   "title": "N81: Star Cradle in the SMC",
-  "credit": [
-    "Credit: M. Heydari-Malayeri (Paris Obs.) et al., Hubble Heritage Team, NASA Explanation",
-    "M. Heydari-Malayeri (Paris Obs.) et al., Hubble Heritage Team, NASA"
-  ],
+  "credit": "M. Heydari-Malayeri (Paris Obs.) et al., Hubble Heritage Team, NASA",
   "explanation": "This dramatic Hubble Space Telescope image captures the birth of a cluster of massive stars. The newborn stars are seen just as they emerge from their natal nebula. Only 12 light-years across, the nebula is cataloged as N81 and lies some 200,000 light-years away within a neighboring galaxy known as the Small Magellanic Cloud (SMC). Other nebulae which surround massive star clusters can be a thousand or more light-years across. But, prior to the Hubble observations, it was unknown whether N81 and similar, compact emission nebulae were cradles of single stars or star clusters. In the case of N81, the Hubble data clearly reveal multiple hot stars, some nearly 300,000 times as luminous as the Sun. The colorful image emphasizes graceful arcs of dark interstellar dust and fluorescing gas sculpted by the young stars' energetic winds and radiation.",
   "date": "2000-10-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0010/n81_heritage_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0010/n81_heritage.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Mercury on the Horizon",
-  "credit": [],
   "explanation": "Have you ever seen the planet Mercury? Because Mercury orbits so close to the Sun, it never wanders far from the Sun in Earth's sky. If trailing the Sun, Mercury will be visible low on the horizon for only a short while after sunset. If leading the Sun, Mercury will be visible only shortly before sunrise. So at certain times of the year, informed skygazers with a little determination can usually pick Mercury out from a site with an unobscured horizon. Above, a lot of determination has been combined with a little digital manipulation to show Mercury's successive positions during March of 2000. Each picture was taken from the same location in Spain when the Sun itself was 10 degrees below the horizon and superposed on the single most photogenic sunset. Currently, Mercury is rising higher above the horizon with each passing sunset, and just now is angularly very close to the brighter planet Venus.",
   "date": "2016-07-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1607/mercurysky_casado_800.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Juan Carlos Casado Explanation",
-    "Juan Carlos Casado"
-  ],
+  "copyright": "Juan Carlos Casado",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1607/mercurysky_casado_960.jpg"
 }

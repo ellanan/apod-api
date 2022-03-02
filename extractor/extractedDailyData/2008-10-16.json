@@ -1,14 +1,10 @@
 {
   "title": "48 Years of Space Flight",
-  "credit": [],
   "explanation": "This year, NASA celebrated its 50th anniversary. Inspired to make his own contribution, astronomer Ralf Vandebergh set out to record images of some historic spacecraft in Earth orbit -- captured with his own modest equipment and a hand-guided, 10-inch, Newtonian reflecting telescope. One result is this intriguing composite effectively spanning 48 years of space flight! From a 1960 launch, on the left is the TIROS 2 satellite, one of the first successful weather satellites. While this TIROS (Television InfraRed Observation System) satellite stopped functioning in 1961, Vandebergh notes that if we could visit it now, we would still find video cameras and magnetic tape recorders. On the right, of course, is the ISS (International Space Station) including its recent addition, the Progress M-65 cargo vehicle, launched to the ISS just last month.",
   "date": "2008-10-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0810/Tiros2-ISS_20080929t.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ralf Vandebergh Explanation",
-    "Ralf Vandebergh"
-  ],
+  "copyright": "Ralf Vandebergh",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0810/Tiros2-ISS_20080929t_c800.jpg"
 }

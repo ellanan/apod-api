@@ -1,14 +1,10 @@
 {
   "title": "Bright Venus",
-  "credit": [],
   "explanation": "",
   "date": "2001-03-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0103/mvm_vsoske_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Thad K. V'Soske Explanation",
-    "Thad K. V'Soske"
-  ],
+  "copyright": "Thad K. V'Soske",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0103/mvm_vsoske.jpg"
 }

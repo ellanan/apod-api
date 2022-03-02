@@ -1,14 +1,10 @@
 {
   "title": "COBE Hotspots: The Oldest Structures Known",
-  "credit": [
-    "Credit: NASA, COBE, DMR, Four Year Sky Map Explanation",
-    "NASA, COBE, DMR, Four Year Sky Map"
-  ],
+  "credit": "NASA, COBE, DMR, Four Year Sky Map",
   "explanation": "",
   "date": "1996-02-06",
   "hdurl": "https://apod.nasa.gov/apod/image/4yr_cobe_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/4yr_cobe.gif"
 }

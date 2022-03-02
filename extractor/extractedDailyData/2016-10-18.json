@@ -1,14 +1,10 @@
 {
   "title": "The Antlia Cluster of Galaxies",
-  "credit": [],
   "explanation": "Galaxies dot the sky in this impressively wide and deep image of the Antlia Cluster. The third closest cluster of galaxies to Earth after Virgo and Fornax, the Antlia cluster is known for its compactness and its high fraction of elliptical galaxies over (spirals. Antlia, cataloged as Abell S0636, spans about 2 million light years and lies about 130 million light years away toward the constellation of the Air Pump (Antlia). The cluster has two prominent galaxy groups - bottom center and upper left -- among its over 200 galactic members, but no single central dominant galaxy. The vertical red ribbon of gas on the left is thought related to the foreground Antlia supernova remnant and not associated with the cluster. The featured image composite, taken from New Zealand, resulted from 150+ hours of exposures taken over six months.",
   "date": "2016-10-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1610/AntliaGalaxies_Olsen_3326.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rolf Olsen Explanation",
-    "Rolf Olsen"
-  ],
+  "copyright": "Rolf Olsen",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1610/AntliaGalaxies_Olsen_960.jpg"
 }

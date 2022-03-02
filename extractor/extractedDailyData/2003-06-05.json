@@ -1,14 +1,10 @@
 {
   "title": "Ring of Fire from Cape Wrath",
-  "credit": [],
   "explanation": "If the Moon's apparent diameter is not quite large enough to cover the Sun during a solar eclipse, an annular eclipse can be the result -- a spectacle of silhouetted Moon surrounded by a solar \"ring of fire\". Just such a view was possible for observers in the far northern hemisphere as the new Moon slid across the solar disk on May 31st. Still, for astronomical adventurers at Cape Wrath on the northwestern coast of Scotland, the eastern sky was cloudy on eclipse day. But fortunately the Sun became visible a few minutes prior to the annular phase and determined astronomer Hans Coeckelberghs was able to capture this dramatic telescopic image of the eclipsed Sun's ring of fire looming through a reddened, cloud-streaked sky. Not to be outdone by the north, the far southern hemisphere will host the next solar eclipse, with the path of totality racing across Antarctica on November 23rd.",
   "date": "2003-06-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0306/Eclips310503_coeckelberghs_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Hans Coeckelberghs Explanation",
-    "Hans Coeckelberghs"
-  ],
+  "copyright": "Hans Coeckelberghs",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0306/Eclips310503_coeckelberghs_c1.jpg"
 }

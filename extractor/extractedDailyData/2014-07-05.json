@@ -1,14 +1,10 @@
 {
   "title": "M106 Across the Spectrum",
-  "credit": [
-    "Credit: X-ray - NASA / CXC / Caltech / P.Ogle et al., Optical - NASA/STScI, IR - NASA/JPL-Caltech, Radio - NSF/NRAO/VLA Explanation",
-    "X-ray - NASA / CXC / Caltech / P.Ogle et al., Optical - NASA/STScI, IR - NASA/JPL-Caltech, Radio - NSF/NRAO/VLA"
-  ],
+  "credit": "X-ray - NASA / CXC / Caltech / P.Ogle et al., Optical - NASA/STScI, IR - NASA/JPL-Caltech, Radio - NSF/NRAO/VLA",
   "explanation": "The spiral arms of bright, active galaxy M106 sprawl through this remarkable multiwavelength portrait, composed of image data from radio to X-rays, across the electromagnetic spectrum. Also known as NGC 4258, M106 can be found toward the northern constellation Canes Venatici. The well-measured distance to M106 is 23.5 million light-years, making this cosmic scene about 60,000 light-years across. Typical in grand spiral galaxies, dark dust lanes, youthful star clusters, and star forming regions trace spiral arms that converge on a bright nucleus. But this composite highlights two anomalous arms in radio (purple) and X-ray (blue) that seem to arise in the central region of M106, evidence of energetic jets of material blasting into the galaxy's disk. The jets are likely powered by matter falling into a massive central black hole.",
   "date": "2014-07-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1407/m106_lg2048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1407/m106.jpg"
 }

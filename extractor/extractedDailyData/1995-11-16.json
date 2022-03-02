@@ -1,14 +1,10 @@
 {
   "title": "Repairing Hubble",
-  "credit": [
-    "Credit: NASA, STS-61 Crew. Explanation",
-    "NASA, STS-61 Crew."
-  ],
+  "credit": "NASA, STS-61 Crew.",
   "explanation": "",
   "date": "1995-11-16",
   "hdurl": "https://apod.nasa.gov/apod/image/astronaut_hst_sts61.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/astronaut_hst_sts61.gif"
 }

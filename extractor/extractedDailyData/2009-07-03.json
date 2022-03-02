@@ -1,14 +1,10 @@
 {
   "title": "Perihelion and Aphelion",
-  "credit": [],
   "explanation": "This year Aphelion, the point in Earth's elliptical orbit when it is farthest from the Sun, occurs tomorrow, July 4th. Of course, that doesn't affect the seasons on our fair planet. Those are determined by the tilt of Earth's axis of rotation and not Earth's distance from the Sun, so July is still winter in the south and summer in northern hemisphere. But it does mean that on July 4th the Sun will be at its smallest apparent size. This composite neatly compares two pictures of the Sun taken with the same telescope and camera on the dates of Perihelion (closest approach) and Aphelion in 2008. The image labels include Earth's distance in kilometers from the Sun on the two dates. Otherwise difficult to notice, the change in the Sun's apparent diameter between Perihelion and Aphelion is clear. The difference amounts to a little over 3 percent.",
   "date": "2009-07-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0907/PerihelionAphelion_cervignon.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Enrique Luque Cervigón Explanation",
-    "Enrique Luque Cervigón"
-  ],
+  "copyright": "Enrique Luque Cervigón",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0907/PerihelionAphelion_cervignon800.jpg"
 }

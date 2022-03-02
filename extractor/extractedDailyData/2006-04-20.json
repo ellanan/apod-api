@@ -1,14 +1,10 @@
 {
   "title": "A Dust Cloud in NGC 281",
-  "credit": [
-    "Credit: NASA, ESA, The Hubble Heritage Team, (STScI / AURA) and P. McCullough (STScI) Explanation",
-    "NASA, ESA, The Hubble Heritage Team, (STScI / AURA) and P. McCullough (STScI)"
-  ],
+  "credit": "NASA, ESA, The Hubble Heritage Team, (STScI / AURA) and P. McCullough (STScI)",
   "explanation": "Stars themselves can create huge and intricate dust sculptures from the dense and dark molecular clouds from which they are born. The tools the stars use to carve their detailed works are high energy light and fast stellar winds. The heat they generate evaporates the dark molecular dust as well as causing ambient hydrogen gas to disperse and glow red. Pictured above, a new open cluster of stars designated IC 1590 is nearing completion around the intricate interstellar mountain named NGC 281. The dust cloud NGC 281, dubbed the Pacman nebula because of its overall shape, is classified as a dense Bok Globule that lies about 10,000 light years distant.",
   "date": "2006-04-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0604/n281_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0604/n281_hst.jpg"
 }

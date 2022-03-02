@@ -1,14 +1,10 @@
 {
   "title": "Retrograde Mars",
-  "credit": [],
   "explanation": "Why would Mars appear to move backwards? Most of the time, the apparent motion of Mars in Earth's sky is in one direction, slow but steady in front of the far distant stars. About every two years, however, the Earth passes Mars as they orbit around the Sun. During the most recent such pass over the last year, the proximity of Mars made the red planet appear larger and brighter than usual. Also during this time, Mars appeared to move backwards in the sky, a phenomenon called retrograde motion. Pictured above is a series of images digitally stacked so that all of the stars images coincide. Here, Mars appears to trace out a loop in the sky. Near the top of the loop, Earth passed Mars and the retrograde motion was the highest. Retrograde motion can also be seen for other Solar System planets.",
   "date": "2008-05-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0805/retrogrademars_tezel_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tunç Tezel (TWAN) Explanation",
-    "Tunç Tezel (TWAN)"
-  ],
+  "copyright": "Tunç Tezel (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0805/retrogrademars_tezel.jpg"
 }

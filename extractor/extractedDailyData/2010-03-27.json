@@ -1,14 +1,10 @@
 {
   "title": "Hesiodus Sunrise Ray",
-  "credit": [],
   "explanation": "Stark shadows of mountains and crater walls stand out along the lunar terminator, or shadow line between night and day, in this telescopic image. Of course, if viewed from the lunar surface near the terminator line, the Sun would be rising and still close to the lunar horizon. But the picture's inset at the left highlights a more elusive lunar sunrise phenomenon. Streaming through a gap in the eastern wall of 45 kilometer wide Hesiodus crater, the low-angle sunlight produces a long sunrise ray playing along the otherwise shadowed crater floor. Sunrise rays are short-lived and can be rewarding to spot for Moon enthusiasts with telescopes. Seen in Hesiodus and other craters, the ray timing can be calculated based on the observer's location. This picture of a first quarter Moon was recorded at 23:45 UT on February 22nd from Stuttgart, Germany. In the inset, the larger crater Pitatus is at the right. For location, Hesiodus and Pitatus are circled at the bottom of the picture.",
   "date": "2010-03-27",
   "hdurl": "https://apod.nasa.gov/apod/image/1003/HesiodusSunriseRay_seip.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip (TWAN) Explanation",
-    "Stefan Seip (TWAN)"
-  ],
+  "copyright": "Stefan Seip (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1003/HesiodusSunriseRay_seipC900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Young Martian Terrain",
-  "credit": [
-    "Credit: MOC, MGS, USGS, NASA Explanation",
-    "MOC, MGS, USGS, NASA"
-  ],
+  "credit": "MOC, MGS, USGS, NASA",
   "explanation": "What caused the pits, ridges, and gullies on otherwise smooth Martian terrain? One hypothesis is water. The lack of craters at this mid-latitude location indicates that the terrain is quite young by geological standards, perhaps only 100,000 years old. Were the terrain since saturated by water ice, that ice would soon evaporate into the thin Martian air. Left over, however, might be fragile cake-like sand that can be broken up by wind into pits and ridges. Consequences of this hypothesis include that even the Martian equator undergoes epochs of relative wet and dry, and that future spacefarers might be able to find water (ice) in a relatively mild climate near the Martian equator. Pictured above is young-ridged terrain that also shows evidence of a downhill flow.",
   "date": "2001-08-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0108/marsflow_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0108/marsflow_mgs.jpg"
 }

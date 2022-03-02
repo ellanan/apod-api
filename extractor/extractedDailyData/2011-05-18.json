@@ -1,14 +1,10 @@
 {
   "title": "The Last Launch of Space Shuttle Endeavour",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "Two days ago, powerful yet controlled explosions rocketed the Space Shuttle Endeavour on its final trip into Earth orbit. The above image was taken seconds after liftoff as the massive orbiter and six astronauts began a climb to a height where the atmosphere is so thin it is unbreathable. The shuttle, on mission STS-134, is expected to dock with the International Space Station (ISS) today. The Endeavour will deliver to the ISS, among other things, an ambitious detector called the Alpha Magnetic Spectrometer 2 (AMS), a detector that over the next few years could detect a significant abundance of specific types of dark matter, charged antimatter, and even a strangely possible variation of familiar matter called strangelets. The very last trip for any space shuttle is currently planned for mid-July when Atlantis will also visit the space station.",
   "date": "2011-05-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1105/endeavourlaunch_nasa_3000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1105/endeavourlaunch_nasa_900.jpg"
 }

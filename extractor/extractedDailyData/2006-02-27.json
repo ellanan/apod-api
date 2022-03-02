@@ -1,14 +1,10 @@
 {
   "title": "GRB 060218: A Mysterious Transient",
-  "credit": [
-    "Credit: SDSS Collaboration, Swift Collaboration, Sloan Foundation, NSF, NASA Explanation",
-    "SDSS Collaboration, Swift Collaboration, Sloan Foundation, NSF, NASA"
-  ],
+  "credit": "SDSS Collaboration, Swift Collaboration, Sloan Foundation, NSF, NASA",
   "explanation": "What is it? Something is happening in a small portion of the sky toward the constellation of Aries. Telescopes around the globe are tracking an unusual transient there as it changes day by day. No one is sure what it will do next. The entire space mystery began on February 18 when the Earth-orbiting robot Swift satellite noticed an unusual transient began to glow dimly in gamma rays. Dubbed GRB 060218, the object is a type of gamma ray burst (GRB) but the way its brightness changes is very unusual. Since detection, GRB 060218 has been found to emit light across the electromagnetic spectrum, including radio waves and visible light. Pictured above, the Sloan Digital Sky Survey (SDSS) image of the field of GRB 060218 well prior to its Swift trigger is shown on the left, while the same field, taken by the orbiting Swift satellites' ultraviolet telescope after the Swift trigger, is shown on the right. The oddball GRB is visible in the center of the right image. Subsequent observations found a redshift for the transient of z=0.033, showing it to be only about 440 million light years away, relatively nearby compared to typical GRBs. Whether GRB 060218 represents a new type of gamma ray burst, a new type of supernova, or an unusual link between the GRBs and supernovas has become an instant topic of research.",
   "date": "2006-02-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0602/grb060218_sdssswift_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0602/grb060218_sdssswift.jpg"
 }

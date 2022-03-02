@@ -1,14 +1,10 @@
 {
   "title": "The Sun in Three Dimensions",
-  "credit": [
-    "Credit: STEREO Project, NASA Explanation",
-    "STEREO Project, NASA"
-  ],
+  "credit": "STEREO Project, NASA",
   "explanation": "What does the Sun look like in all three spatial dimensions? To find out, NASA launched two STEREO satellites to perceive three dimensions on the Sun much like two eyes allow humans to perceive three dimensions on the Earth. Such a perspective is designed to allow new insight into the surface of the rapidly changing Sun, allowing humans to better understand and predict things like Coronal Mass Ejections and solar flares that affect the Earth as well as satellites and astronauts orbiting the Earth. Pictured above are two simultaneous images of the Sun taken by STEREO A and STEREO B, now digitally combined to give one of the first 3-D pictures of the Sun ever taken. To fully appreciate the image, one should view it with 3-D red-blue glasses. The teeming and bubbling solar surface can be seen sporting a prominent solar prominence near the top of the image.",
   "date": "2007-04-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0704/sun3d_stereo_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0704/sun3d_stereo.jpg"
 }

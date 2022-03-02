@@ -1,14 +1,10 @@
 {
   "title": "Discovery Orbiter Anaglyph",
-  "credit": [
-    "Credit: ISS Expedition 13 Crew, NASA - Stereo Anaglyph: Patrick Vantuyne Explanation",
-    "ISS Expedition 13 Crew, NASA - Stereo Anaglyph: Patrick Vantuyne"
-  ],
+  "credit": "ISS Expedition 13 Crew, NASA - Stereo Anaglyph: Patrick Vantuyne",
   "explanation": "Approaching the International Space Station on STS-121 in July, the Shuttle Orbiter Discovery posed for a series of photographs. The process was part of an inspection to check for damage to the orbiter, but against the backdrop of planet Earth 300 kilometers below, the pictures themselves are stunning. Stereo artist Patrick Vantuyne has combined two of them (ISS013e48787 and ISS013e48788) to produce this dramatic 3D image. The stereo anaglyph is intended to be viewed with red/blue glasses. Details visible along the forward fuselage include high temperature (black) and low temperature (white) insulation tiles, thrusters used for steering and attitude control, and crew compartment windows.",
   "date": "2006-09-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/discovery_pava_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/discovery_pava_c75.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The North America Nebula",
-  "credit": [],
   "explanation": "",
   "date": "2008-10-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0810/northamerica_gualda_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ignacio Rico Gualda Explanation",
-    "Ignacio Rico Gualda"
-  ],
+  "copyright": "Ignacio Rico Gualda",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0810/northamerica_gualda.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Analemma over Ancient Nemea",
-  "credit": [],
   "explanation": "An analemma is that figure-8 curve that you get when you mark the position of the Sun at the same time each day throughout planet Earth's year. Above, 44 separate exposures (plus one foreground exposure) were recorded on a single piece of film to illustrate the regular solar motion -- a Herculean task performed during the calendar year 2003. Appropriately, in the foreground are the ruins at Ancient Nemea where the hero of Greek Mythology pursued the first of his twelve labours. Solstices, like the one that occurred at 0057 UT on June 21, correspond to the top and bottom of the figure-8 or the northern and southernmost excursions of the Sun in the sky. The tilt of planet Earth's axis and the variation in speed as it moves around its orbit combine to produce the graceful analemma curve.",
   "date": "2004-06-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0406/analemma2003_ayiomamitis.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anthony Ayiomamitis Explanation",
-    "Anthony Ayiomamitis"
-  ],
+  "copyright": "Anthony Ayiomamitis",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0406/analemma2003_ayiomamitis.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "NGC 2392 from the Newly Fixed Hubble",
-  "credit": [
-    "Credit: Andrew Fruchter (STScI) et al., WFPC2, HST, NASA Explanation",
-    "Andrew Fruchter (STScI) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "Andrew Fruchter (STScI) et al., WFPC2, HST, NASA",
   "explanation": "In 1787, astronomer William Herschel discovered NGC 2392. From the ground, NGC 2392 resembles a person's head surrounded by a parka hood. In 2000, just after being fixed, the Hubble Space Telescope imaged NGC 2392. From space, the nebula displays gas clouds so complex they are not fully understood. NGC 2392 is clearly a planetary nebula, and the gas seen above composed the outer layers of a Sun-like star only 10,000 years ago. The inner filaments visible above are being ejected by strong wind of particles from the central star. The outer disk contains unusual light-year long orange filaments. NGC 2392 lies about 5000 light-years away and is visible with a small telescope in the constellation of Gemini.",
   "date": "2000-01-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0001/ngc2392_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0001/ngc2392_hst.jpg"
 }

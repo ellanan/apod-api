@@ -1,14 +1,10 @@
 {
   "title": "The Broad Tail of PanSTARRS",
-  "credit": [],
   "explanation": "For northern hemisphere skygazers, fading Comet PanSTARRS (C/2011 L4) still hangs above the western horzion, after sunset but before moonrise in the coming days. Its perspective from planet Earth continues to reveal the comet's broad dust tail. This long exposure tracking the comet, made on March 21, has been enhanced to show remarkable, subtle striations in PanSTARRS' tail. Place your cursor over the image (or click here) to show an overlay of the dust tail with a model network of synchrones and syndynes. Synchrones (long dashed lines) trace the location of dust grains released from the comet nucleus at the same time and with zero velocity. The successive synchrone lines shown are separated by 1 day and start at the bottom, 10 days before the comet's March 10 perihelion passage. Syndynes (solid lines) show the location of dust grains of the same size, also released with zero velocity. Dust grains 1 micron wide lie along the upper syndyne. The grain width increases counterclockwise to 500 micron wide grains along the syndyne nearly parallel to the comet's orbit (short dashed line through the nucleus location). In the model, forces acting on the dust grains were assumed to be gravity and the pressure of sunlight. The periodic striations in PanSTARRS' tail seem to closely follow the model synchrone lines. Image Scale: On March 21 Comet PanSTARRS was about 180 million kilometers away. At that distance, this picture would be almost 4 million kilometers wide.",
   "date": "2013-03-30",
   "hdurl": "https://apod.nasa.gov/apod/image/1303/com38h+NOmodel.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Lorenzo Comolli - Model Overlay: Marco Fulle (INAF) Explanation",
-    "Lorenzo Comolli - Model Overlay: Marco Fulle (INAF)"
-  ],
+  "copyright": "Lorenzo Comolli - Model Overlay: Marco Fulle (INAF)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1303/com38h+NOmodel_900.jpg"
 }

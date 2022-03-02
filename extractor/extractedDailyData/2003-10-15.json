@@ -1,14 +1,10 @@
 {
   "title": "Space Rock SQ222 Noticed After Pass",
-  "credit": [],
   "explanation": "Why didn't we see it? An undetected asteroid zipped past the Earth undetected last month in the closest near miss yet recorded -- within a quarter of the distance to the Moon. Such a close call is actually quite common -- what was new was that we did see it, although the detection occurred hours after it happened. In fact, a rock this size strikes the Earth roughly once a year and smaller rocks strike the Earth daily. The global danger from the bus-sized space rock was minimal. Robert Cash of Minor Planet Research Inc. discovered asteroid 2003 SQ222 in data from the sky-scanning Lowell Observatory Near Earth Object Search (LONEOS). Pictured above is the discovery image sequence of SQ222, shown stretched vertically to be more easily viewable. Objects like SQ222 are hard to detect because they are so faint and move so fast. An ability to scan the sky to detect, catalog, and analyze such objects has been increasing notably in recent years.",
   "date": "2003-10-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0310/sq222_loneos_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: LONEOS, Lowell Observatory Explanation",
-    "LONEOS, Lowell Observatory"
-  ],
+  "copyright": "LONEOS, Lowell Observatory",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0310/sq222_loneos.gif"
 }

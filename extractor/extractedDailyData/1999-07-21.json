@@ -1,14 +1,10 @@
 {
   "title": "Galactic Supernova Remnant IC 443",
-  "credit": [
-    "Credit: 2MASS Collaboration, U. Mass., IPAC Explanation",
-    "2MASS Collaboration, U. Mass., IPAC"
-  ],
+  "credit": "2MASS Collaboration, U. Mass., IPAC",
   "explanation": "About 8000 years ago, a star in our Galaxy exploded. Ancient humans might have noticed the supernova as a temporary star, but modern humans can see the expanding shell of gas even today. In the above false-color infrared image of supernova remnant IC 443, blue denotes expanding gas where emission is dominated by excited iron atoms. Of particular interest, though, are the wisps of IC 443 colored red, as they are impacting an otherwise normal molecular cloud. Here emission from shock-excited molecular hydrogen is allowing astronomers to study how fast moving supernova gas affects star formation in the cloud. Additionally, astronomers theorize that the impact accelerates some particles to velocities near the speed of light. The horizontal line across the image is not part of the nebula.",
   "date": "1999-07-21",
   "hdurl": "https://apod.nasa.gov/apod/image/9907/ic443_2mass_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9907/ic443_2mass.jpg"
 }

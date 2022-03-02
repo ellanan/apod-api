@@ -1,14 +1,10 @@
 {
   "title": "The Blue Horsehead Nebula in Infrared",
-  "credit": [
-    "Credit: WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci Explanation",
-    "WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci"
-  ],
+  "credit": "WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci",
   "explanation": "The Blue Horsehead Nebula looks quite different in infrared light. In visible light, the reflecting dust of the nebula appears blue and shaped like a horse's head. In infrared light, however, a complex labyrinth of filaments, caverns, and cocoons of glowing dust and gas emerges, making it hard to even identify the equine icon. The featured image of the nebula was created in three infrared colors (R=22, G=12, B=4.6 microns) from data taken by NASA's orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. The nebula is cataloged as IC 4592 and spans about 40 light years, lying about 400 light years away toward the constellation Scorpius along the plane of our Milky Way Galaxy. IC 4592 is fainter but covers an angularly greater region than the better known Horsehead Nebula of Orion. The star that predominantly illuminates and heats the dust is Nu Scorpii, visible as the reddened star left of center.",
   "date": "2018-04-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1804/IC4592_WiseAntonucciR_5000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1804/IC4592_WiseAntonucciR_960.jpg"
 }

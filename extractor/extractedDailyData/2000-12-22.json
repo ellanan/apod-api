@@ -1,14 +1,10 @@
 {
   "title": "Simulated Supergiant Star",
-  "credit": [
-    "Credit: B. Freytag, (Institute for Astronomy and Space Physics, Univ. Uppsala) Explanation",
-    "B. Freytag, (Institute for Astronomy and Space Physics, Univ. Uppsala)"
-  ],
+  "credit": "B. Freytag, (Institute for Astronomy and Space Physics, Univ. Uppsala)",
   "explanation": "Looking for that perfect holiday gift for an astronomer? Consider this \"star in a box\". Of course, the box is actually a computational box consisting of a three dimensional grid of points, and the star is a virtual one whose physical properties and internal dynamics are numerically simulated at the points on the grid. While computers and software capable of a totally realistic numerical simulation of a complete star don't presently exist, researchers have been making progress. This picture is a movie frame from a recent numerical simulation of a supergiant star with properties intended to approximate the real star Betelgeuse. The single frame shows large convection cells and bright spots mottling the virtual supergiant's surface. Simulation movies show these surface features changing substantially with time. Encouragingly, telescopic observations indicate that the surface of Betelgeuse does indeed have prominent large scale features and the well-known star's brightness variations are detectable with the unaided eye. The real supergiant Betelgeuse is some 2,500 degrees cooler than, and 620 times the size of the Sun.",
   "date": "2000-12-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0012/supergiantsim_freytag.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0012/supergiantsim_freytag.jpg"
 }

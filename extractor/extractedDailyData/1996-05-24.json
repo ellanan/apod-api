@@ -1,14 +1,10 @@
 {
   "title": "In the Center of 30 Doradus",
-  "credit": [
-    "Credit: WFPC 2, Hubble Space Telescope Explanation",
-    "WFPC 2, Hubble Space Telescope"
-  ],
+  "credit": "WFPC 2, Hubble Space Telescope",
   "explanation": "",
   "date": "1996-05-24",
   "hdurl": "https://apod.nasa.gov/apod/image/30doradus_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/30doradus_hst.gif"
 }

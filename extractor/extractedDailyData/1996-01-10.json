@@ -1,14 +1,10 @@
 {
   "title": "The Cepheids of M100",
-  "credit": [
-    "Credit: NASA, HST, W. Freedman (CIW), R. Kennicutt (U. Arizona), J. Mould (ANU) Explanation",
-    "NASA, HST, W. Freedman (CIW), R. Kennicutt (U. Arizona), J. Mould (ANU)"
-  ],
+  "credit": "NASA, HST, W. Freedman (CIW), R. Kennicutt (U. Arizona), J. Mould (ANU)",
   "explanation": "",
   "date": "1996-01-10",
   "hdurl": "https://apod.nasa.gov/apod/image/m100c_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/m100c_hst.gif"
 }

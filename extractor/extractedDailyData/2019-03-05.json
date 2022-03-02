@@ -1,14 +1,10 @@
 {
   "title": "X-Ray Superbubbles in Galaxy NGC 3079",
-  "credit": [
-    "Credit: X-ray: NASA, CXC, U. Michigan, J-T Li et al.; Optical: NASA, STScI Explanation",
-    "X-ray: NASA, CXC, U. Michigan, J-T Li et al.; Optical: NASA, STScI"
-  ],
+  "credit": "X-ray: NASA, CXC, U. Michigan, J-T Li et al.; Optical: NASA, STScI",
   "explanation": "What created these huge galactic superbubbles? Two of these unusual bubbles, each spanning thousands of light-years, were recently discovered near the center of spiral galaxy NGC 3079. The superbubbles, shown in purple on the image right, are so hot they emit X-rays detected by NASA's Earth-orbiting Chandra X-Ray Observatory. Since the bubbles straddle the center of NGC 3079, a leading hypothesis is that they were somehow created by the interaction of the central supermassive black hole with surrounding gas. Alternatively, the superbubbles might have been created primarily by the energetic winds from many young and hot stars near that galaxy's center. The only similar known phenomenon is the gamma-ray emitting Fermi bubbles emanating from the center of our Milky Way Galaxy, discovered 10 years ago in images taken by NASA's Fermi satellite. Research into the nature of the NGC 3079 superbubbles will surely continue, as well as searches for high-energy superbubbles in other galaxies.",
   "date": "2019-03-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1903/ngc3079Superbubbles_chandra_1080.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1903/ngc3079Superbubbles_chandra_1080.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Star Streams of NGC 4216",
-  "credit": [],
   "explanation": "Some 40 million light-years distant, edge-on spiral galaxy NGC 4216 is nearly 100,000 light-years across, about the size of our own Milky Way. Found in the dense Virgo Galaxy Cluster, NGC 4216 is centered in this deep telescopic portrait flanked by fellow Virgo cluster members NGC 4206 (right) and NGC 4222. Like other large spirals, including the Milky Way, NGC 4216 has grown by cannibalizing smaller satellite galaxies. In fact, this view has caught it in the act, with still distinct satellite galaxies showing faint star streams extending for thousands of light-years into the halo of NGC 4216. Taken as part of a survey hunting for star streams in nearby spirals, the image was recorded with a small telescope and camera able to convincingly detect faint, extended features. Having trouble spotting the star streams? Slide your cursor over the image to see a composite negative view. The streams should more easily stand out as dark swaths against a white background.",
   "date": "2010-11-27",
   "hdurl": "https://apod.nasa.gov/apod/image/1011/NGC4216_crawford.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ken Crawford (Rancho Del Sol Obs.), Collaboration: David Martinez-Delgado (MPIA, IAC), et al. Explanation",
-    "Ken Crawford (Rancho Del Sol Obs.), Collaboration: David Martinez-Delgado (MPIA, IAC), et al."
-  ],
+  "copyright": "Ken Crawford (Rancho Del Sol Obs.), Collaboration: David Martinez-Delgado (MPIA, IAC), et al.",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1011/NGC4216_crawford900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Castle Eye View",
-  "credit": [],
   "explanation": "The best known asterism in northern skies, The Big Dipper is easy to recognize, even when viewed upside down, though some might see a plough or wagon. The star names and the familiar outlines appear framed in the ruined tower walls of the French Chateau du Morimont if you just slide your cursor over the image or follow this link. Dubhe, alpha star of the dipper's parent constellation Ursa Major is at the lower left. Together with beta star Merak the two form a line pointing the way to Polaris and the North Celestial Pole, hidden from view by the stones. Since the image was captured on March 30, you can follow a line from dipper stars Phecda and Megrez to spot the faint greenish glow of Comet 41P/Tuttle-Giacobini-Kresak below center, still within the castle eye view. The periodic comet made a remarkable close approach to planet Earth on April 1.",
   "date": "2017-04-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1704/MVC1500vetter.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephane Vetter (Nuits sacrees, TWAN) Explanation",
-    "Stephane Vetter (Nuits sacrees, TWAN)"
-  ],
+  "copyright": "Stephane Vetter (Nuits sacrees, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1704/MVC1000vetter.jpg"
 }

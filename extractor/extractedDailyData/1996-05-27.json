@@ -1,14 +1,10 @@
 {
   "title": "Aurora Crown the Earth",
-  "credit": [
-    "Credit: G. E. Parks ( University of Washington) and the UVI Team, Polar, NASA Explanation",
-    "G. E. Parks ( University of Washington) and the UVI Team, Polar, NASA"
-  ],
+  "credit": "G. E. Parks ( University of Washington) and the UVI Team, Polar, NASA",
   "explanation": "",
   "date": "1996-05-27",
   "hdurl": "https://apod.nasa.gov/apod/image/aurora_polar_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/aurora_polar.gif"
 }

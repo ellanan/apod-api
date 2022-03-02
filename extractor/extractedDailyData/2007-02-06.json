@@ -1,14 +1,10 @@
 {
   "title": "Sun Storm: A Coronal Mass Ejection",
-  "credit": [
-    "Credit: SOHO Consortium, ESA, NASA Explanation",
-    "SOHO Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO Consortium, ESA, NASA",
   "explanation": "What's happening to our Sun? Another Coronal Mass Ejection (CME)! The Sun-orbiting SOHO spacecraft has imaged many erupting filaments lifting off the active solar surface and blasting enormous bubbles of magnetic plasma into space. Direct light from the sun is blocked in the inner part of the above image, taken in 2002, and replaced by a simultaneous image of the Sun in ultraviolet light. The field of view extends over two million kilometers from the solar surface. While hints of these explosive events, called coronal mass ejections or CMEs, were discovered by spacecraft in the early 70s, this dramatic image is part of a detailed record of this CME's development from the presently operating SOHO spacecraft. Near the minimum of the solar activity cycle CMEs occur about once a week, but near solar maximum rates of two or more per day are typical. Strong CMEs may profoundly influence space weather. Those directed toward our planet can have serious effects.",
   "date": "2007-02-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0702/cmesun_soho_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0702/cmesun_soho.jpg"
 }

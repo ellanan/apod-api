@@ -1,14 +1,10 @@
 {
   "title": "The Dark Horsehead Nebula",
-  "credit": [
-    "Credit: Arne Henden (US Naval Observatory, Flagstaff) Image Processed by Al Kelly Explanation",
-    "Arne Henden (US Naval Observatory, Flagstaff) Image Processed by Al Kelly"
-  ],
+  "credit": "Arne Henden (US Naval Observatory, Flagstaff) Image Processed by Al Kelly",
   "explanation": "While drifting through the cosmos this magnificent interstellar dust cloud, sculpted by stellar winds and radiation, has chanced to assume a recognizable shape. Fittingly named The Horsehead Nebula it is embedded in the immense complex of star forming gas and dust surrounding the Orion Nebula some 1,500 light-years distant. The dark nebula is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the bright emission nebulae which lie behind it. In fact, the prominent horse head portion of the nebula is really just part of a larger cloud of dust which can be seen extending off the bottom of the picture. A potentially rewarding but difficult object to view with a small instrument, this gorgeous color image is a composite of exposures made with a digital camera and astronomical BVR filters using a 1-meter diameter telescope.",
   "date": "2000-12-29",
   "hdurl": "https://apod.nasa.gov/apod/image/0012/kellyhenden_horsehead_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0012/kellyhenden_horsehead_c.jpg"
 }

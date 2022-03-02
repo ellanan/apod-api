@@ -1,14 +1,10 @@
 {
   "title": "The Whale Galaxy",
-  "credit": [],
   "explanation": "NGC 4631 is a big beautiful spiral galaxy. Seen edge-on, it lies only 25 million light-years away in the well-trained northern constellation Canes Venatici. The galaxy's slightly distorted wedge shape suggests to some a cosmic herring and to others its popular moniker, The Whale Galaxy. Either way, it is similar in size to our own Milky Way. In this gorgeous color image, the galaxy's yellowish core, dark dust clouds, bright blue star clusters, and red star forming regions are easy to spot. A companion galaxy, the small elliptical NGC 4627, is just above the Whale Galaxy. Out of view, off the lower edge of the picture lies another distorted galaxy, hockey stick-shaped NGC 4656. The distortions and mingling trails of gas and dust detected at other wavelengths suggest that all three galaxies have had close encounters with each other in their past. The Whale Galaxy is also known to have spouted a halo of hot gas glowing in x-rays.",
   "date": "2009-05-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0905/n4631_block.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mt. Lemmon SkyCenter, U. Arizona Guest Astronomers: Tom Bash and Craig Gates Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, U. Arizona Guest Astronomers: Tom Bash and Craig Gates"
-  ],
+  "copyright": "Adam Block, Mt. Lemmon SkyCenter, U. Arizona Guest Astronomers: Tom Bash and Craig Gates",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0905/n4631_block_c800.jpg"
 }

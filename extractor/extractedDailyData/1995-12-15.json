@@ -1,14 +1,10 @@
 {
   "title": "M64: The Sleeping Beauty Galaxy",
-  "credit": [
-    "Credit: Bill Keel, U. Alabama Explanation",
-    "Bill Keel, U. Alabama"
-  ],
+  "credit": "Bill Keel, U. Alabama",
   "explanation": "",
   "date": "1995-12-15",
   "hdurl": "https://apod.nasa.gov/apod/image/m64_keel.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/m64_keel.gif"
 }

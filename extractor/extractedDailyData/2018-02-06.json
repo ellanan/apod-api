@@ -1,14 +1,10 @@
 {
   "title": "Galaxy NGC 474: Shells and Star Streams",
-  "credit": [
-    "Credit: CFHT, Coelum, MegaCam, J.-C. Cuillandre (CFHT) & G. A. Anselmi (Coelum) Explanation",
-    "CFHT, Coelum, MegaCam, J.-C. Cuillandre (CFHT) & G. A. Anselmi (Coelum)"
-  ],
+  "credit": "CFHT, Coelum, MegaCam, J.-C. Cuillandre (CFHT) & G. A. Anselmi (Coelum)",
   "explanation": "What's happening to galaxy NGC 474? The multiple layers of emission appear strangely complex and unexpected given the relatively featureless appearance of the elliptical galaxy in less deep images. The cause of the shells is currently unknown, but possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years. Alternatively the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just above NGC 474 is causing density waves to ripple through the galactic giant. Regardless of the actual cause, the featured image dramatically highlights the increasing consensus that at least some elliptical galaxies have formed in the recent past, and that the outer halos of most large galaxies are not really smooth but have complexities induced by frequent interactions with -- and accretions of -- smaller nearby galaxies. The halo of our own Milky Way Galaxy is one example of such unexpected complexity. NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces).",
   "date": "2018-02-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1802/NGC474_CfhtCoelum_1500.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1802/NGC474_CfhtCoelum_960.jpg"
 }

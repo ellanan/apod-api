@@ -1,14 +1,10 @@
 {
   "title": "Bright Cliffs Across Saturn's Moon Dione",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What causes the bright streaks on Dione? Recent images of this unusual moon by the robot Cassini spacecraft now orbiting Saturn are helping to crack the mystery. Close inspection of Dione's trailing hemisphere, pictured above, indicates that the white wisps are composed of deep ice cliffs dropping hundreds of meters. The cliffs may indicate that Dione has undergone some sort of tectonic surface displacements in its past. The bright ice-cliffs run across some of Dione's many craters, indicating that the process that created them occurred later than the impacts that created those craters. Dione is made of mostly water ice but its relatively high density indicates that it contains much rock inside. Giovanni Cassini discovered Dione in 1684. The above image was taken at the end of July from a distance of about 263,000 kilometers. Other high resolution images of Dione were taken by the passing Voyager spacecraft in 1980.",
   "date": "2006-09-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/dione_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/dione_cassini.jpg"
 }

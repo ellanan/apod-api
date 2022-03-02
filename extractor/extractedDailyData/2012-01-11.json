@@ -1,14 +1,10 @@
 {
   "title": "Little Planet Lovejoy",
-  "credit": [],
   "explanation": "Once a bright apparition in the southern hemisphere dawn Comet Lovejoy is fading, but its long tail still stretches across skies near the south celestial pole. Captured on the morning of December 30th, the comet appears near edge of this little planet as well. Of course, the little planet is actually planet Earth and the image was created from a 12 frame mosaic used to construct a spherical panorama. The type of stereographic projection used to map the image pixels is centered directly below the camera and is known as the little planet projection. Stars surrounding this little planet were above the photographer's cloudy horizon near the Bay of Islands on the Great Ocean Road in southern Victoria, Australia. Running alongside the Milky Way the comet can be identified, with other celestial highlights, by putting your cursor over the picture. Very bright stars Canopus and Sirius are right of the little planet.",
   "date": "2012-01-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1201/Cherney_PlanetLovejoy.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alex Cherney (Terrastro, TWAN) Explanation",
-    "Alex Cherney (Terrastro, TWAN)"
-  ],
+  "copyright": "Alex Cherney (Terrastro, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1201/Cherney_PlanetLovejoy800.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "International Space Station in Transit",
-  "credit": [],
   "explanation": "A stunning telescopic image of the International Space Station crossing in front of an eight day old Moon, this picture was captured on April 11th. But while Wednesday's leisurely transit of Mercury across the Sun entertained observers all over the dayside of planet Earth, the audience for this lunar transit was more restricted. Like other satellites in low Earth orbit, the space station moves quickly through the sky. Glinting in the sunlight near sunset and sunrise, its path strongly depends on the observer's longitude and latitude. So, well-placed astronomer Tom Laskowski tracked the orbiting space station from a site near South Bend, Indiana, USA and recorded a digital movie of the fleeting, dramatic event. This single frame from the movie has been enhanced to bring out detail in the space station. Seen below the lunar terminator at the lower left, the International Space Station appears here at a distance of just over 400 kilometers, with the Moon nearly 400,000 kilometers away.",
   "date": "2003-05-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0305/isstrans_laskowski.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tom Laskowski Explanation",
-    "Tom Laskowski"
-  ],
+  "copyright": "Tom Laskowski",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0305/isstrans_laskowski.jpg"
 }

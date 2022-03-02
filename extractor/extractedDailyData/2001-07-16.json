@@ -1,14 +1,10 @@
 {
   "title": "Water Found Around Nearby Star CW Leonis",
-  "credit": [
-    "Credit: SWAS, Harvard SAO, NASA Explanation",
-    "SWAS, Harvard SAO, NASA"
-  ],
+  "credit": "SWAS, Harvard SAO, NASA",
   "explanation": "Do worlds outside our Solar System have oceans of water like Earth? An indication that such worlds might exist was bolstered recently by new evidence that nearby star system CW Leonis harbors water. Recent observations with the Submillimeter Wave Astronomy Satellite (SWAS) found significant detections of light at specific colors emitted by water. A hypothesis quickly arose that the activity of the central star is vaporizing water from a cloud of comets that surrounds the star -- a cloud that may be similar to the Kuiper Belt of comets that surrounds our own Sun. The above drawing depicts the CW Leonis system with its hypothesized cloud of water-bearing comets situated to a ring. The closest comets are depicted as showing tails rich in water vapor pointing away from the star. Far from the central star, however, comets should not show significant tails and should be more sparsely spaced. The central star, also known as IRC+10216, is an aging giant star located about 500 light-years away toward the constellation of Leo.",
   "date": "2001-07-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0107/cwleonis_swas_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0107/cwleonis_swas.jpg"
 }

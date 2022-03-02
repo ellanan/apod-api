@@ -1,14 +1,10 @@
 {
   "title": "Mars Polar Lander Target Ellipse",
-  "credit": [
-    "Credit: Malin Space Science Systems, MGS, JPL, NASA Explanation",
-    "Malin Space Science Systems, MGS, JPL, NASA"
-  ],
+  "credit": "Malin Space Science Systems, MGS, JPL, NASA",
   "explanation": "",
   "date": "1999-12-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/mplellipse_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/mplellipse_mgs.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Falcon 9 Nebula",
-  "credit": [],
   "explanation": "Not the Hubble Space Telescope's latest view of a distant galactic nebula, this illuminated cloud of gas and dust dazzled early morning spacecoast skygazers on August 29. The snapshot was taken at 3:17am from Space View Park in Titusville, Florida. That's about 3 minutes after the launch of a SpaceX Falcon 9 rocket on the CRS-23 mission to resupply the International Space Station. It captures drifting plumes and exhaust from the separated first and second stage of the rocket rising through still dark skies. The lower bright dot is the second stage continuing on to low Earth orbit. The upper one is the rocket's first stage performing a boostback burn. Of course the first stage booster returned to make the first landing on the latest autonomous spaceport drone ship to arrive in the Atlantic, A Shortfall of Gravitas.",
   "date": "2021-09-04",
   "hdurl": "https://apod.nasa.gov/apod/image/2109/DSC06988copy2.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dennis Huff Explanation",
-    "Dennis Huff"
-  ],
+  "copyright": "Dennis Huff",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2109/DSC06988copy2_1024.jpg"
 }

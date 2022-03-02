@@ -1,14 +1,10 @@
 {
   "title": "A High Energy Fleet",
-  "credit": [
-    "Credit: NASA, MSFC Historical Archive. Explanation",
-    "NASA, MSFC Historical Archive."
-  ],
+  "credit": "NASA, MSFC Historical Archive.",
   "explanation": "",
   "date": "1996-02-25",
   "hdurl": "https://apod.nasa.gov/apod/image/heao_fleet_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/heao_fleet.gif"
 }

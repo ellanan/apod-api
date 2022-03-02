@@ -1,14 +1,10 @@
 {
   "title": "Infrared Trifid",
-  "credit": [
-    "Credit: J. Rho (SSC/Caltech), JPL-Caltech, NASA Explanation",
-    "J. Rho (SSC/Caltech), JPL-Caltech, NASA"
-  ],
+  "credit": "J. Rho (SSC/Caltech), JPL-Caltech, NASA",
   "explanation": "The Trifid Nebula, also known as Messier 20, is easy to find with a small telescope, a well known stop in the nebula rich constellation Sagittarius. But where visible light pictures show the nebula divided into three parts by dark, obscuring dust lanes, this penetrating infrared image reveals filaments of glowing dust clouds and newborn stars. The spectacular false-color view is courtesy of the Spitzer Space Telescope. Astronomers have used the Spitzer infrared image data to count newborn and embryonic stars which otherwise can lie hidden in the natal dust and gas clouds of this intriguing stellar nursery. As seen here, the Trifid is about 30 light-years across and lies only 5,500 light-years away.",
   "date": "2016-12-31",
   "hdurl": "https://apod.nasa.gov/apod/image/1612/trifid_spitzerR.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1612/trifid_spitzerR1024.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Road to Mars",
-  "credit": [],
   "explanation": "What's that light at the end of the road? Mars. This is a good month to point out Mars to your friends and family because our neighboring planet will not only be its brightest in 15 years, it will be visible for much of night. During this month, Mars will be about 180 degrees around from the Sun, and near the closest it ever gets to planet Earth. In terms of orbits, Mars is also nearing the closest point to the Sun in its elliptical orbit, just as Earth moves nearly between it and the Sun -- an alignment known as perihelic opposition. In terms of viewing, orange Mars will rise in the east just as the Sun sets in the west, on the opposite side of the sky. Mars will climb in the sky during the night, reach its highest near midnight, and then set in the west just as the Sun begins to rise in the east. The red planet was captured setting beyond a stretch of road in Arches National Park in mid-May near Moab, Utah, USA.",
   "date": "2018-07-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1807/Road2Mars_Chumack_1800.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: John Chumack Explanation",
-    "John Chumack"
-  ],
+  "copyright": "John Chumack",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1807/Road2Mars_Chumack_1080.jpg"
 }

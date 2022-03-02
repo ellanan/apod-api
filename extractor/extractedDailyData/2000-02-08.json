@@ -1,14 +1,10 @@
 {
   "title": "Rings Around Beta Pictoris",
-  "credit": [
-    "Credit: Paul Kalas (STScI) et al., WFPC2, HST, NASA Explanation",
-    "Paul Kalas (STScI) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "Paul Kalas (STScI) et al., WFPC2, HST, NASA",
   "explanation": "",
   "date": "2000-02-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0002/betapic2_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0002/betapic2_hst.jpg"
 }

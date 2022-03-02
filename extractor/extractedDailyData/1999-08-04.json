@@ -1,14 +1,10 @@
 {
   "title": "The Surface of Titan",
-  "credit": [
-    "Credit: S. G. Gibbard et al. (IGPP, LLNL) Explanation",
-    "S. G. Gibbard et al. (IGPP, LLNL)"
-  ],
+  "credit": "S. G. Gibbard et al. (IGPP, LLNL)",
   "explanation": "If sailing the hydrocarbon seas of Titan, beware of gasoline rain. Such might be a travel advisory issued next millennium for adventurers visiting Titan, the largest moon of Saturn. Images of Titan's surface were released last week from the Keck 10-meter telescope featuring the finest details yet resolved. Peering into Titan's thick smog atmosphere with infrared light, complex features interpreted as oceans, glaciers, and rock became visible. The high-resolution infrared image pictured above was made possible using an unblurring technique called speckle interferometry. The interplanetary probe Cassini will reach Saturn and Titan in 2004 to better explore this unusual world.",
   "date": "1999-08-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9908/titan1_llnl_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9908/titan1_llnl.jpg"
 }

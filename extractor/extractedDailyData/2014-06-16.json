@@ -1,13 +1,9 @@
 {
   "title": "APOD Heatmap",
-  "credit": [
-    "Credit: Stuart Lowe, LCOGT/Virtual Sky Explanation",
-    "Stuart Lowe, LCOGT/Virtual Sky"
-  ],
+  "credit": "Stuart Lowe, LCOGT/Virtual Sky",
   "explanation": "The first APOD appeared 19 years ago today. To help celebrate, APOD brings you today an all-sky heatmap of (nearly) 19 years of APOD entries. The brighter a region appears on the above heatmap, the more APODs that occur in that region. Clicking anywhere on the map will bring up a link to all APODs, if any, that appear nearby. We at APOD again thank our readers, NASA, astrophotographers, volunteers who translate APOD daily into over 20 languages, volunteers who run APOD's over 20 mirror sites, volunteers who answer questions and administer APOD's main discussion board, and volunteers who run and update APOD's social media sites and smartphone applications for their continued support.",
   "date": "2014-06-16",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "http://apod.it/mapfull.shtml"
 }

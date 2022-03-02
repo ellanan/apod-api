@@ -1,14 +1,10 @@
 {
   "title": "Cosmic Collision Forges Galactic Ring",
-  "credit": [
-    "Credit: X-ray: Chandra (NASA, CXC, INAF, A. Wolter et al.); Optical: Hubble (NASA, STScI) Explanation",
-    "X-ray: Chandra (NASA, CXC, INAF, A. Wolter et al.); Optical: Hubble (NASA, STScI)"
-  ],
+  "credit": "X-ray: Chandra (NASA, CXC, INAF, A. Wolter et al.); Optical: Hubble (NASA, STScI)",
   "explanation": "How could a galaxy become shaped like a ring? The rim of the blue galaxy pictured on the right is an immense ring-like structure 150,000 light years in diameter composed of newly formed, extremely bright, massive stars. That galaxy, AM 0644-741, is known as a ring galaxy and was caused by an immense galaxy collision. When galaxies collide, they pass through each other -- their individual stars rarely come into contact. The ring-like shape is the result of the gravitational disruption caused by an entire small intruder galaxy passing through a large one. When this happens, interstellar gas and dust become condensed, causing a wave of star formation to move out from the impact point like a ripple across the surface of a pond. The likely intruder galaxy is on the left of this combined image from Hubble (visible) and Chandra (X-ray) space telescopes. X-ray light is shown in pink and depicts places where energetic black holes or neutron stars, likely formed shortly after the galaxy collision, reside.",
   "date": "2018-09-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1809/Ring0644_HubbleChandra_3348.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1809/Ring0644_HubbleChandra_960.jpg"
 }

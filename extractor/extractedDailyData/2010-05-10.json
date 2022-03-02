@@ -1,12 +1,8 @@
 {
   "title": "Large Eruptive Prominence Movie from SDO",
-  "credit": [
-    "Credit: NASA/Goddard/SDO AIA Team Explanation",
-    "NASA/Goddard/SDO AIA Team"
-  ],
+  "credit": "NASA/Goddard/SDO AIA Team",
   "explanation": "Sometimes part of the Sun can just explode into space. These explosions might occur as powerful solar flares, coronal mass ejections, or comparatively tame eruptive solar prominences. Pictured above is one of the largest solar prominence eruptions yet observed, one associated with a subsequent coronal mass ejection. The prominence erupted last month and was recorded by several Sun-sensing instruments, including the recently launched Solar Dynamics Observatory (SDO). The above time lapse sequence was captured by SDO and occurred over a few hours. In recent months, our Sun has becoming increasingly active, following a few years of an unusually dormant solar minimum. Over the next few years our Sun is expected to reach solar maximum and exhibit a dramatic increase in sunspots and all types of solar explosions.",
   "date": "2010-05-10",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "other"
 }

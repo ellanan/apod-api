@@ -1,14 +1,10 @@
 {
   "title": "An Atlas Centaur Rocket Launches",
-  "credit": [
-    "Credit: NASA, LeRC Explanation",
-    "NASA, LeRC"
-  ],
+  "credit": "NASA, LeRC",
   "explanation": "",
   "date": "1995-12-14",
   "hdurl": "https://apod.nasa.gov/apod/image/atlas_centaur_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/atlas_centaur.gif"
 }

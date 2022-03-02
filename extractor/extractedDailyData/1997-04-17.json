@@ -1,14 +1,10 @@
 {
   "title": "Pwyll: Icy Crater of Europa",
-  "credit": [
-    "Credit: Galileo Project, JPL, NASA Explanation",
-    "Galileo Project, JPL, NASA"
-  ],
+  "credit": "Galileo Project, JPL, NASA",
   "explanation": "The impact crater Pwyll (a name from Celtic Mythology) is thought to represent one of the youngest features on the surface of Jupiter's moon Europa. A combination of color and high resolution black and white data from NASA's Galileo spacecraft was used to produce this view looking down on the crater with the sun illuminating the scene from the right. Pwyll's visible dark central region is about 24 miles in diameter, while brilliant white rays of debris blasted from the impact site extend outward for hundreds of miles. The white debris or ejecta clearly overlays everything else on the surface - indicating that this formation is younger than all surrounding features. Interestingly, the bright white color suggests a composition of fresh water ice particles. Does water in liquid form exist below Europa's icy surface?",
   "date": "1997-04-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9704/pwyll_gal_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9704/pwyll_gal.jpg"
 }

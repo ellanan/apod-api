@@ -1,14 +1,10 @@
 {
   "title": "Zodiacal Light Vs. Milky Way",
-  "credit": [],
   "explanation": "Two fundamental planes of planet Earth's sky compete for attention in this remarkable wide-angle vista, recorded on January 23rd. Arcing above the horizon and into the night at the left is a beautiful band of Zodiacal Light - sunlight scattered by dust in the solar system's ecliptic plane. Its opponent on the right is composed of the faint stars, dust clouds, and nebulae along the plane of our Milky Way Galaxy. Both celestial bands stand above the domes and towers of the Teide Observatory on the island of Tenerife. Also out to play in the pristine, dark skies over the Canary Islands, are brilliant Venus (lower left), the distant Andromeda Galaxy (near center), and the lovely Pleiades star cluster (top center). Of course, seasoned skygazers might even spot M33, the California Nebula, IC1805, and the double star cluster of Perseus. (Need some help? Just slide your cursor over the picture.)",
   "date": "2009-02-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0902/zodiMilky_lopez.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Daniel López, IAC Explanation",
-    "Daniel López, IAC"
-  ],
+  "copyright": "Daniel López, IAC",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0902/zodiMilky_lopezH600.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Iron Sun",
-  "credit": [
-    "Credit: SOHO - EIT Consortium, ESA, NASA Explanation",
-    "SOHO - EIT Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - EIT Consortium, ESA, NASA",
   "explanation": "The ultraviolet light emitted by eleven times ionized iron at temperatures over 2 million degrees Farenheit was used to record the above picture of the Sun on September 22, 2001, the date of that year's autumnal equinox. The image was made by the EIT camera onboard the SOHO spacecraft, a space observatory which can continuously observe the Sun. Eleven times ionized iron is atomic iron with eleven of its electrons stripped away. Here the electrons are stripped by the frantic collisions with other atoms and electrons which occur at the extreme temperatures in the Solar Corona. Since electrons are negatively charged, the resulting ionized iron atom is highly positively charged. Astronomer's \"shorthand\" for eleven times ionized iron is written \"Fe XII\", the chemical symbol for iron followed by a Roman numeral 12 (Fe I is neutral iron).",
   "date": "2004-09-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0409/feii_eit010922_1812_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0409/feii_eit010922_1812.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Perijove Passage",
-  "credit": [
-    "Credit: NASA, Juno, SwRI, MSSS; Processing & License: Gerald Eichstadt, Sean Doran Explanation",
-    "NASA, Juno, SwRI, MSSS; Processing & License: Gerald Eichstadt, Sean Doran"
-  ],
+  "credit": "NASA, Juno, SwRI, MSSS; Processing & License: Gerald Eichstadt, Sean Doran",
   "explanation": "On May 19, the Juno spacecraft once again swung by Jupiter in its looping 53 day orbit around the Solar System's ruling gas gaint. Beginning at the top, this vertical 14 frame sequence of enhanced-color JunoCam images follows the spacecraft's rapidly changing perspective during its two hour passage. They look down on Jupiter's north polar region, equatorial, and south polar region (bottom images). With the field-of-view shrinking, the seventh and eighth images in the sequence are close-up. Taken only 4 minutes apart above Jupiter's equator they were captured just before the spacecraft reached perijove 6, its closest approach to Jupiter on this orbit. Final images in the sequence pick up white oval storm systems, Jupiter's \"String of Pearls\", and the south polar region from the outward bound spacecraft.",
   "date": "2017-06-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1706/PIA21645_1024r.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1706/PIA21645_1024r.jpg"
 }

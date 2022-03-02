@@ -1,14 +1,10 @@
 {
   "title": "The International Ultraviolet Explorer",
-  "credit": [
-    "Credit: NASA/ Goddard Space Flight Center (GSFC) Explanation",
-    "NASA/ Goddard Space Flight Center (GSFC)"
-  ],
+  "credit": "NASA/ Goddard Space Flight Center (GSFC)",
   "explanation": "",
   "date": "1995-09-29",
   "hdurl": "https://apod.nasa.gov/apod/image/iue_logo.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/iue_logo.gif"
 }

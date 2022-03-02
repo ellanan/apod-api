@@ -1,14 +1,10 @@
 {
   "title": "Watch Galaxies Form",
-  "credit": [
-    "Credit: S. Pascarell, R. Windhorst and S. Odewahn (Arizona State U.), W. Keel (U. Alabama), HST Explanation",
-    "S. Pascarell, R. Windhorst and S. Odewahn (Arizona State U.), W. Keel (U. Alabama), HST"
-  ],
+  "credit": "S. Pascarell, R. Windhorst and S. Odewahn (Arizona State U.), W. Keel (U. Alabama), HST",
   "explanation": "",
   "date": "1996-09-05",
   "hdurl": "https://apod.nasa.gov/apod/image/cluster_bk_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/cluster_bk.gif"
 }

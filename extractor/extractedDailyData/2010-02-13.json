@@ -1,14 +1,10 @@
 {
   "title": "Waterway to Orbit",
-  "credit": [],
   "explanation": "The 32nd shuttle mission to the International Space Station, STS-130, left planet Earth on February 8. Its early morning launch to orbit from Kennedy Space Center's pad 39A followed the long, graceful, eastward arc seen in this 2 minute time exposure. Well composed, the dramatic picture also shows the arc's watery reflection from the Intracoastal Waterway Bridge, in Ponte Vedra, Florida, about 115 miles north of the launch site. In the celestial background a waning crescent Moon and stars left their own short trails against the still dark sky. The brightest star trail near the moon was made by red supergiant Antares, alpha star of the constellation Scorpius.",
   "date": "2010-02-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1002/launch_vernacotola_s.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: James Vernacotola Explanation",
-    "James Vernacotola"
-  ],
+  "copyright": "James Vernacotola",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1002/launch_vernacotola900_s.jpg"
 }

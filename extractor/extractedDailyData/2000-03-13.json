@@ -1,14 +1,10 @@
 {
   "title": "A Panorama of Oddities in Orion A",
-  "credit": [
-    "Credit: T. A. Rector, B. Wolpa, G. Jacoby, AURA, NOAO, NSF Explanation",
-    "T. A. Rector, B. Wolpa, G. Jacoby, AURA, NOAO, NSF"
-  ],
+  "credit": "T. A. Rector, B. Wolpa, G. Jacoby, AURA, NOAO, NSF",
   "explanation": "New stars, fast jets, and shocked gas clouds all occupy Orion A, a giant molecular cloud just south of the Orion Nebula. The bright object visible below and slightly left of center of this recently released picture is the reflection nebula NGC 1999. Wind from NGC 1999's central star, V380 Orionis, appears to have created the surrounding billows of red and brown gas. Several bright young stars illuminate reflecting dust at the top right of the image. Jets shoot from dozens of young stars creating glowing compressed shocked waves known Herbig-Haro objects. One such shock is the unusual Waterfall, the bright streak on the upper right, which is a source of unusual radio waves. The cone-shaped shock to the Waterfall's lower right may result from a jet emitted HH1 and HH2, located 10 light-years away below NGC 1999. The unusual and energetic oddities that occur and interact in star forming regions are often as complex as they are beautiful.",
   "date": "2000-03-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0003/orionA_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0003/orionA_noao.jpg"
 }

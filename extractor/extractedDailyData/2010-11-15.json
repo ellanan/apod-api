@@ -1,14 +1,10 @@
 {
   "title": "Home from Above",
-  "credit": [
-    "Credit: Expedition 24 Crew, NASA Explanation",
-    "Expedition 24 Crew, NASA"
-  ],
+  "credit": "Expedition 24 Crew, NASA",
   "explanation": "There's no place like home. Peering out of the windows of the International Space Station (ISS), astronaut Tracy Caldwell Dyson takes in the planet on which we were all born, and to which she would soon return. About 350 kilometers up, the ISS is high enough so that the Earth's horizon appears clearly curved. Astronaut Dyson's windows show some of Earth's complex clouds, in white, and life giving atmosphere and oceans, in blue. The space station orbits the Earth about once every 90 minutes. It is not difficult for people living below to look back toward the ISS. The ISS can frequently be seen as a bright point of light drifting overhead just after sunset. Telescopes can even resolve the overall structure of the space station. The above image was taken in late September from the ISS's Cupola window bay. Dr. Dyson is a lead vocalist in the band Max Q.",
   "date": "2010-11-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1011/cupolaview_iss14_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1011/cupolaview_iss14.jpg"
 }

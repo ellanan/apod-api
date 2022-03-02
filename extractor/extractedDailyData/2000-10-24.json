@@ -1,14 +1,10 @@
 {
   "title": "Io Rotating",
-  "credit": [],
   "explanation": "The surface of Io is continually changing. Jupiter's moon is the home to many powerful volcanoes so active they are effectively turning the moon inside out. The above time-lapse sequence is a composite of images taken during two space missions that approached the violent moon: Voyager and Galileo. The sequence shows Io during a complete rotation, which corresponds to a complete revolution around Jupiter since Io always keeps the same face toward the giant planet. The rampant volcanism is thought to be caused by Jupiter's more distant Galilean Moons (Europa, Ganymede, and Callisto) pulling on Io and continually distorting its shape, causing internal frictional heating. Io is composed mostly of rock, with the yellow color originating from sulfur. The causes of many of the other colors remain a topic of research.",
   "date": "2000-10-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0010/iorotmovie_gal.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Calvin J. Hamilton, Voyager Team, Galileo Team, NASA Explanation",
-    "Calvin J. Hamilton, Voyager Team, Galileo Team, NASA"
-  ],
+  "copyright": "Calvin J. Hamilton, Voyager Team, Galileo Team, NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0010/iorotmovie_gal.gif"
 }

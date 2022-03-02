@@ -1,14 +1,10 @@
 {
   "title": "The Snowflake Cluster versus the Cone Nebula",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, P. S. Teixeira (CfA) Explanation",
-    "NASA, JPL-Caltech, P. S. Teixeira (CfA)"
-  ],
+  "credit": "NASA, JPL-Caltech, P. S. Teixeira (CfA)",
   "explanation": "Strange shapes and textures can be found in the neighborhood of the Cone Nebula. These patterns result from the tumultuous unrest that accompanies the formation of the open cluster of stars known as NGC 2264, the Snowflake cluster. To better understand this process, a detailed image of this region was taken in two colors of infrared light by the orbiting Spitzer Space Telescope. Bright stars from the Snowflake cluster dot the field. These stars soon heat up and destroy the gas and dust mountains in which they formed. One such dust mountain is the famous Cone Nebula, visible in the above image on the left, pointing toward a bright star near the center of the field. The entire NGC 2264 region is located about 2,500 light years away toward the constellation of the Unicorn (Monoceros).",
   "date": "2007-05-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0705/ngc2264_spitzer_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0705/ngc2264_spitzer.jpg"
 }

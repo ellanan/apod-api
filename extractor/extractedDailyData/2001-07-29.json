@@ -1,14 +1,10 @@
 {
   "title": "M57: The Ring Nebula",
-  "credit": [
-    "Credit: H. Bond et al., Hubble Heritage Team (STScI /AURA), NASA Explanation",
-    "H. Bond et al., Hubble Heritage Team (STScI /AURA), NASA"
-  ],
+  "credit": "H. Bond et al., Hubble Heritage Team (STScI /AURA), NASA",
   "explanation": "Except for the rings of Saturn, the Ring Nebula (M57) is probably the most famous celestial band. This planetary nebula's simple, graceful appearance is thought to be due to perspective -- our view from planet Earth looking straight into what is actually a barrel-shaped cloud of gas shrugged off by a dying central star. Astronomers of the Hubble Heritage Project produced this strikingly sharp image from Hubble Space Telescope observations using natural appearing colors to indicate the temperature of the stellar gas shroud. Hot blue gas near the energizing central star gives way to progressively cooler green and yellow gas at greater distances with the coolest red gas along the outer boundary. Dark, elongated structures can also be seen near the nebula's edge. The Ring Nebula is about one light-year across and 2,000 light-years away in the northern constellation Lyra.",
   "date": "2001-07-29",
   "hdurl": "https://apod.nasa.gov/apod/image/0007/m57ring_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0007/m57ring_hst.jpg"
 }

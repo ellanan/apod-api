@@ -1,14 +1,10 @@
 {
   "title": "The Flight Of Helios",
-  "credit": [
-    "Credit: Carla Thomas, courtesy DFRC, NASA Explanation",
-    "Carla Thomas, courtesy DFRC, NASA"
-  ],
+  "credit": "Carla Thomas, courtesy DFRC, NASA",
   "explanation": "Solar-powered, remotely piloted, and flying at about 25 miles per hour, NASA's Helios aircraft, is pictured above at 10,000 feet in skies northwest of Kauai, Hawaii on August 13. This ultralight propeller driven aircraft, essentially a flying wing with 14 electric engines, was built by AeroVironment Inc. Covered with solar cells, Helios' impressive 247 foot wide wing exceeds the wing span and even overall length of a Boeing 747 jet airliner. Climbing during daylight hours, the prototype aircraft ultimately reached an altitude just short of 100,000 feet, breaking records for non-rocket powered flight. Helios is intended as a technology demonstrator, but regular, long-duration flights at that altitude could be used for environmental monitoring missions and, communications relays. In the extremely thin air 100,000 feet above Earth's surface, the flight of Helios also simulates conditions for winged flight in the atmosphere of Mars.",
   "date": "2001-08-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0108/helios_cthomas_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0108/helios_cthomas.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Moon Rocket",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "On July 20, 1969, only four days after leaving planet Earth 250,000 miles behind them, Apollo 11 astronauts landed on the moon - the first humans to reach another celestial body. But the Saturn V rocket which took them there actually \"began\" the journey two months before traveling at a blinding speed of one mile per hour. Seen here in a dramatic aerial view, the giant moon rocket rides on top of a slow moving crawler-transporter vehicle toward Kennedy Space Center's launch complex 39 pad A. The NASA History Office's new Apollo web site celebrates the 30th anniversary of the first moon landing with this and other images, documents, and collections of links commemorating this profound achievement and the people who made it possible.",
   "date": "1999-07-20",
   "hdurl": "https://apod.nasa.gov/apod/image/9907/saturnv_nasa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9907/saturnv_nasa.jpg"
 }

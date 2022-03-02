@@ -1,14 +1,10 @@
 {
   "title": "McNaught's Matinee",
-  "credit": [],
   "explanation": "Comets grow bright when they're close to the Sun, basking in the intense solar radiation. Of course, they're also usually impossible to see against the overwhelming scattered sunlight. But surprising Comet McNaught - whose January 12 closest approach to the Sun (perihelion passage) was well inside the orbit of Mercury - gave an enjoyable performance in bright blue daytime skies. In fact, comet expert David Levy captured this remarkable inset (upper left) telescopic view of McNaught within an hour of perihelion, with the comet in broad daylight only about 7 degrees away from the Sun's position. Stefan Seip's wider daytime view of the comet and fluffy clouds was recorded approximately a day later. Seip used a polarizing filter and a telescope/camera set up near Stuttgart, Germany. No longer visible in broad daylight, Comet McNaught is now touring twilight southern skies.",
   "date": "2007-01-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0701/CometMcNaught2_seip.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip - Inset: David Levy Explanation",
-    "Stefan Seip - Inset: David Levy"
-  ],
+  "copyright": "Stefan Seip - Inset: David Levy",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0701/CometMcNaught_SeipLevy_inset.jpg"
 }

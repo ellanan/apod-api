@@ -1,14 +1,10 @@
 {
   "title": "Partial Eclipse, Cloudy Day",
-  "credit": [],
   "explanation": "Welcome to the December Solstice, first day of winter in the north and summer in the southern hemisphere of planet Earth. Today the Sun reaches its southernmost declination in the sky at 19:21 Universal Time. Just a short week ago, as the Sun approached the end of its annual journey south, it was eclipsed by the Moon. Observers in Costa Rica witnessed a fleeting annular eclipse with the Moon surrounded by a dramatic bright ring as it covered about 96 percent of the visible solar surface during the maximum phase. But from most of the Americas this eclipse was partial ... and skies were often partially cloudy! Public Television Engineer Stan Richard captured this view near Des Moines, Iowa, USA. Taken close to eclipse maximum for his location, the sharp, silhouetted edge of the Moon is visible through the clouds in the lower left quadrant of the solar disk.",
   "date": "2001-12-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0112/parteclipse_richard_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stan Richard Explanation",
-    "Stan Richard"
-  ],
+  "copyright": "Stan Richard",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0112/parteclipse_richard.jpg"
 }

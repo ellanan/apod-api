@@ -1,14 +1,10 @@
 {
   "title": "Shuttle Reentry Streak from Orbit",
-  "credit": [
-    "Credit: ISS Expedition 28 Crew, STS-135 Mission, NASA Explanation",
-    "ISS Expedition 28 Crew, STS-135 Mission, NASA"
-  ],
+  "credit": "ISS Expedition 28 Crew, STS-135 Mission, NASA",
   "explanation": "What's that strange bright streak? It is the last image ever of a space shuttle from orbit. A week and a half ago, after decoupling from the International Space Station, the Space Shuttle Atlantis fired its rockets for the last time, lost its orbital speed, and plummeted back to Earth. Within the next hour, however, the sophisticated space machine dropped its landing gear and did what used to be unprecedented -- landed like an airplane on a runway. Although the future of human space flight from the USA will enter a temporary lull, many robotic spacecraft continue to explore our Solar System and peer into our universe, including Cassini, Chandra, Chang'e 2, Dawn, Fermi, Hubble, Kepler, LRO, Mars Express, Messenger, MRO, New Horizons, Opportunity, Planck, Rosetta, SDO, SOHO, Spitzer, STEREO, Swift, Venus-Express, and WISE.",
   "date": "2011-08-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1108/atlantisfalloff_nasa_4256.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1108/atlantisfalloff_nasa_900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Exploring the Ring",
-  "credit": [],
   "explanation": "A familiar sight for northern hemisphere astronomers, the Ring Nebula (M57) is some 2,000 light-years away in the musical constellation Lyra. The central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from two different telescopes - explores the looping filaments of glowing gas extending much farther from the nebula's central star. Of course, in this well-studied example of a planetary nebula, the glowing material does not come from planets. Instead, the gaseous shroud represents outer layers expelled from a dying, sun-like star. This composite image includes over 16 hours of narrow-band data intended to record the red emission from hydrogen atoms, but the pronounced blue/green color is due to emission from oxygen atoms at higher temperatures within the ring. The much more distant spiral galaxy IC 1296 is also visible at the upper right.",
   "date": "2008-09-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0809/m57_18z_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Astro-Cooperation - Stefan Heutz/Wolfgang Ries Explanation",
-    "Astro-Cooperation - Stefan Heutz/Wolfgang Ries"
-  ],
+  "copyright": "Astro-Cooperation - Stefan Heutz/Wolfgang Ries",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0809/m57_18z_800.jpg"
 }

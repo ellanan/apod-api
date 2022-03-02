@@ -1,14 +1,10 @@
 {
   "title": "M104 Hubble Remix",
-  "credit": [],
   "explanation": "The striking spiral galaxy M104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust. Seen in silhouette against a bright bulge of stars, the swath of cosmic dust lanes lends a hat-like appearance to the galaxy in optical images suggesting the more popular moniker, The Sombrero Galaxy. Here, Hubble Space Telescope archival image data has been reprocessed to create this alternative look at the well-known galaxy. The newly developed processing improves the visibility of details otherwise lost in overwhelming glare, in this case allowing features of the galaxy's dust lanes to be followed well into the bright central region. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster.",
   "date": "2008-03-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0803/M104b_peris2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Vicent Peris (OAUV / PTeam), MAST, STScI, AURA, NASA Explanation",
-    "Vicent Peris (OAUV / PTeam), MAST, STScI, AURA, NASA"
-  ],
+  "copyright": "Vicent Peris (OAUV / PTeam), MAST, STScI, AURA, NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0803/M104b_peris800.jpg"
 }

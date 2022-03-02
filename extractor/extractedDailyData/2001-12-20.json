@@ -1,14 +1,10 @@
 {
   "title": "Jupiter and Saturn Pas de Deux",
-  "credit": [],
   "explanation": "Viewed from Earth, the solar system's planets do a cosmic dance that is hard to appreciate on any single night. But consider this well planned animated sequence combining 23 pictures taken at approximately 2 week intervals from June 2000 through May 2001. It reveals the graceful looping or retrograde motion of bright wanderers Jupiter (leftmost) and Saturn. Loitering among the background stars are the familiar Pleiades (above right) and V-shaped Hyades (below left) star clusters. The planets didn't actually loop by reversing the direction of their orbits, though. Their apparent retrograde motion is a reflection of the motion of the Earth itself. Retrograde motion can be seen each time Earth overtakes and laps planets orbiting farther from the Sun, Earth moving more rapidly through its own relatively close-in orbit. Astronomer Tunc Tezel captured Jupiter and Saturn's \"paired\" retrograde loop in this remarkable series made after the close alignment of these gas giants in May 2000. The next opportunity to see these two planets dance such a pas de deux will be in the year 2020.",
   "date": "2001-12-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0112/JuSa2000_tezel.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tunc Tezel Explanation",
-    "Tunc Tezel"
-  ],
+  "copyright": "Tunc Tezel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0112/JuSa2000_tezel_c.gif"
 }

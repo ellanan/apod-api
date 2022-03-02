@@ -1,14 +1,10 @@
 {
   "title": "Curiosity Drops In",
-  "credit": [
-    "Credit: NASA/ JPL-Caltech/ Univ. of Arizona, HiRise-LPL Explanation",
-    "NASA/ JPL-Caltech/ Univ. of Arizona, HiRise-LPL"
-  ],
+  "credit": "NASA/ JPL-Caltech/ Univ. of Arizona, HiRise-LPL",
   "explanation": "Just as it captured the Phoenix lander parachuting to Mars in 2008, the HiRise camera onboard the Mars Reconnaissance Orbiter (MRO) snapped this picture of the Curiosity rover's spectacular descent toward its landing site on August 5 (PDT). The nearly 16 meter (51 foot) wide parachute and its payload are caught dropping through the thin martian atmosphere above plains just north of the sand dune field that borders the 5 kilometer high Mt. Sharp in Gale Crater. The MRO spacecraft was about 340 kilometers away when the image was made. From MRO's perspective the parachute is flying at an angle to the surface so the landing site itself does not appear below it. Dangling from tethers and still about 3 kilometers above Mars, Curiosity and its rocket powered sky crane have not yet been deployed.",
   "date": "2012-08-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1208/ESP_028256_9022-1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1208/ESP_028256_9022-1sc950.jpg"
 }

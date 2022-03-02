@@ -1,14 +1,10 @@
 {
   "title": "M13: A Great Globular Cluster of Stars",
-  "credit": [],
   "explanation": "M13 is one of the most prominent and best known globular clusters. Visible with binoculars in the constellation of Hercules, M13 is frequently one of the first objects found by curious sky gazers seeking celestials wonders beyond normal human vision. M13 is a colossal home to over 100,000 stars, spans over 150 light years across, lies over 20,000 light years distant, and is over 12 billion years old. At the 1974 dedication of Arecibo Observatory, a radio message about Earth was sent in the direction of M13. The featured image in HDR, taken through a small telescope, spans an angular size just larger than a full Moon, whereas the inset image, taken by Hubble Space Telescope, zooms in on the central 0.04 degrees.",
   "date": "2016-07-27",
   "hdurl": "https://apod.nasa.gov/apod/image/1607/M13_Fournier_1824.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dean Fournier; Inset: ESA/Hubble & NASA Explanation",
-    "Dean Fournier; Inset: ESA/Hubble & NASA"
-  ],
+  "copyright": "Dean Fournier; Inset: ESA/Hubble & NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1607/M13_Fournier_960.jpg"
 }

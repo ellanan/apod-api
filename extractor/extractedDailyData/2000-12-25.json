@@ -1,14 +1,10 @@
 {
   "title": "The Eclipse Tree",
-  "credit": [],
   "explanation": "If you look closely at the shadow of this tree, you will see something quite unusual: it is composed of hundreds of images of a partially eclipsed Sun. Early today, trees across North America will be casting similar shadows as a partial eclipse of the Sun takes place. In a partial eclipse, the Moon does not cover the entire Sun. The above effect is created by small spaces between leaves and branches acting as pinhole lenses. Looking at shadows involving eclipse light is relatively safe - looking directly at the Sun, even during an eclipse, is dangerous and proper precautions should be taken. The above picture was taken in 1994 on the campus of Northwestern University.",
   "date": "2000-12-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0012/eclipsetree_ejisrael_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: E. Israel Explanation",
-    "E. Israel"
-  ],
+  "copyright": "E. Israel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0012/eclipsetree_ejisrael.jpg"
 }

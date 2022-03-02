@@ -1,14 +1,10 @@
 {
   "title": "Rocket Trails in the Milky Way",
-  "credit": [],
   "explanation": "On March 27, five sounding rockets leapt into early morning skies from NASA's Wallops Flight Facility in Virginia. Part of the Anomalous Transport Rocket EXperiment (ATREX), begining at 4:58 am EDT the rockets launched consecutively at 80 second intervals. Releasing a chemical tracer they created luminous white clouds within Earth's ionosphere at altitudes above 60 to 65 miles, swept along by the poorly understood high-altitude jet stream. (Not the same jet stream that airliners fly through at altitudes of 5 to 6 miles.) Seen along the mid-atlantic region of the United States, the clouds drifted through starry skies, captured in this clear photograph from East Point, New Jersey. Looking south toward the launch site, the tantalizing celestial background includes the stars of Sagittarius, Scorpius, and the more permanent faint, white, luminous clouds of the Milky Way.",
   "date": "2012-03-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1203/ATREX1_lodriguss1200.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jerry Lodriguss (Catching the Light) Explanation",
-    "Jerry Lodriguss (Catching the Light)"
-  ],
+  "copyright": "Jerry Lodriguss (Catching the Light)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1203/ATREX1_lodriguss900.jpg"
 }

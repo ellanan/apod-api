@@ -1,14 +1,10 @@
 {
   "title": "Global Dust Storms Threaten Mars Rovers",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, Cornell, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, Cornell, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, Cornell, JPL, NASA",
   "explanation": "Will global dust storms terminate the robotic Martian rovers? Over the past month, windy dust storms have blocked much needed sunlight from reaching the solar panels of both the Spirit and Opportunity rovers exploring Mars. At times, as much as 99 percent of direct sunlight has been obscured, causing worry that the batteries might run out of energy before the storms end -- which may be as long as weeks. In an effort to weather these storms, Earth controllers have programmed the rovers to restrict movements and to use as little power as possible. Although the rovers have been working for a remarkable three years past their planned three month lifetimes, their immediate future is now uncertain. Pictured above, the Opportunity rover perched on the edge of Victoria Crater peered for a month into the distance as dust made the Martian air increasingly opaque.",
   "date": "2007-07-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0707/marsdust_opportunity_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0707/marsdust_opportunity.jpg"
 }

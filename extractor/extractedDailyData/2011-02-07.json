@@ -1,14 +1,10 @@
 {
   "title": "Sun 360: STEREO Captures Views of the Entire Sun",
-  "credit": [
-    "Credit: STEREO Project, NASA Explanation",
-    "STEREO Project, NASA"
-  ],
+  "credit": "STEREO Project, NASA",
   "explanation": "For the first time, the entire Sun is being imaged all at once. This has become possible because the two STEREO satellites orbiting and monitoring the Sun are now on opposite sides of the Sun. The two satellites have been drifting apart, as expected, since their launch in 2006, since one satellite orbits slightly closer to the Sun than the other. The above image shows nearly the entire Sun as it appeared one day last week, a few days before maximum exposure. Yesterday, the dark gap in the center closed completely, and STEREO was able to beam back to Earth full 360 degree images of the closest star. Full solar images are useful scientifically for a number of reasons, including catching rapidly evolving flares, coronal mass ejections, tsunamis, and filaments, no matter where they occur on the Sun, as well as monitoring days-long sunspots and active regions without losing them as they rotate out of view. Even though the STEREO satellites will continue to drift apart at about 44 degrees per year, Sun-staring instruments on or near the Earth will augment them to provide a full view of the Sun for the next several years.",
   "date": "2011-02-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1102/sun360_stereo_1280.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1102/sun360_stereo_900.jpg"
 }

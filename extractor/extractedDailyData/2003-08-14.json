@@ -1,14 +1,10 @@
 {
   "title": "Dark Matter Map",
-  "credit": [
-    "Credit: J.-P. Kneib (Observatoire Midi-Pyrenees, Caltech) et al., ESA, NASA Explanation",
-    "J.-P. Kneib (Observatoire Midi-Pyrenees, Caltech) et al., ESA, NASA"
-  ],
+  "credit": "J.-P. Kneib (Observatoire Midi-Pyrenees, Caltech) et al., ESA, NASA",
   "explanation": "The total mass within giant galaxy cluster CL0025+1654, about 4.5 billion light-years away, produces a cosmic gravitational lens -- bending light as predicted by Einstein's theory of gravity and forming detectable images of even more distant background galaxies. Of course, the total cluster mass is the sum of the galaxies themselves, seen as ordinary luminous matter, plus the cluster's invisible dark matter whose nature remains unknown. But by analyzing the distribution of luminous matter and the properties of the gravitational lensing due to total cluster mass, researchers have solved the problem of tracing the dark matter layout. Their resulting map shows the otherwise invisible dark matter in blue, and the positions of the cluster galaxies in yellow. The work, based on extensive Hubble Space Telescope observations, reveals that the cluster's dark matter is not evenly distributed, but follows the clumps of luminous matter closely.",
   "date": "2003-08-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0308/cl0024_hstcomp_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0308/cl0024_hstcomp_c2.jpg"
 }

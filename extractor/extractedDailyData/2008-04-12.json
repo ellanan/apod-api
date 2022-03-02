@@ -1,14 +1,10 @@
 {
   "title": "Yuri's Planet",
-  "credit": [
-    "Credit: ISS Expedition 7 Crew, EOL, NASA (Image record from Gateway to Astronaut Photography of Earth) Explanation",
-    "ISS Expedition 7 Crew, EOL, NASA (Image record from Gateway to Astronaut Photography of Earth)"
-  ],
+  "credit": "ISS Expedition 7 Crew, EOL, NASA (Image record from Gateway to Astronaut Photography of Earth)",
   "explanation": "On April 12th, 1961, Soviet cosmonaut Yuri Alexseyevich Gagarin became the first human in space. His remotely controlled Vostok 1 spacecraft lofted him to an altitude of 200 miles and carried him once around planet Earth. Commenting on the first view from space he reported, \"The sky is very dark; the Earth is bluish. Everything is seen very clearly\". Alan Shepard, the first US astronaut, would not be launched until almost a month later and then on a comparatively short suborbital flight. Born on March 9, 1934, Gagarin was a military pilot before being chosen for the first group of cosmonauts in 1960. As a result of his historic flight he became an international hero and legend. Killed when his MIG jet crashed during a training flight on March 27, 1968, Gagarin was given a hero's funeral, his ashes interred in the Kremlin Wall. On yet another April 12th, in 1981, NASA launched the first space shuttle.",
   "date": "2008-04-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0804/ISS007-E-10807_highres.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0804/ISS007-E-10807_800.jpg"
 }

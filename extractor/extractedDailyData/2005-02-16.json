@@ -1,14 +1,10 @@
 {
   "title": "Sunspot Metamorphosis: From Bottom to Top",
-  "credit": [
-    "Credit: Dutch Open Telescope, Sterrekundig Instituut Utrecht Explanation",
-    "Dutch Open Telescope, Sterrekundig Instituut Utrecht"
-  ],
+  "credit": "Dutch Open Telescope, Sterrekundig Instituut Utrecht",
   "explanation": "Sunspots -- magnets the size of the Earth -- are normally seen flat on the Sun. The above digital metamorphosis, however, shows a sunspot as it appears at increasing heights, effectively in three dimensions. The above false-colored image sequence of solar active region AR 10675 was taken in three very specific colors that effectively isolate different layers above the solar surface. The first images show the Sun's photospheric surface as it normally appears, covered with granules. The large dark sunspot sports a clear dark umbra in the center surrounded by a lighter penumbra. Images appearing toward the middle of the sequence show the Sun as in light predominantly emitted a few hundred kilometers above the photosphere. At this height, the continent sized bubbling granules appear reversed, and long lines of constant magnetic force begin to appear. The last images show the Sun at a few thousand kilometers into the chromosphere. Here magnetic field lines can be clearly followed outward from the sunspot to distant regions.",
   "date": "2005-02-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0502/spotmorph_dot_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0502/spotmorph_dot.gif"
 }

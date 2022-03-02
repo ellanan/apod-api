@@ -1,14 +1,10 @@
 {
   "title": "XMM Launched",
-  "credit": [
-    "Credit: D. Ducros, XMM Team, ESA Explanation",
-    "D. Ducros, XMM Team, ESA"
-  ],
+  "credit": "D. Ducros, XMM Team, ESA",
   "explanation": "X-ray astronomy entered a golden age earlier this month with the successful launch of the X-ray Multi-Mirror (XMM) satellite. XMM's three huge telescope barrels each hold 58 concentric cylindrical mirrors, together totaling a surface area rivaling a tennis court. Each mirror has been gold plated to less than one-millimeter thickness to reflect normally penetrating X-rays. ESA's XMM joins NASA's Chandra X-ray Observatory as leading observatories in X-ray astronomy. The XMM satellite also carries a small optical and ultraviolet telescope. XMM's unusually elliptical orbit around the Earth peaks nearly one-third of the way to the Moon. XMM's observing program during its planned two-year mission includes monitoring the hot surroundings of black holes, the fiery regions surrounding the centers of galaxies, the mysterious X-ray background light that appears to come from all directions, and the hot gas that glows between galaxies and stars.",
   "date": "1999-12-21",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/xmm_esa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/xmm_esa.jpg"
 }

@@ -1,13 +1,9 @@
 {
   "title": "Touchdown on Asteroid Ryugu",
-  "credit": [
-    "Credit: JAXA Explanation",
-    "JAXA"
-  ],
+  "credit": "JAXA",
   "explanation": "Last month, humanity bounced a robot off an asteroid. The main reason was to collect a surface sample. Despite concern over finding a safely reboundable touchdown spot, Japan's robotic Hayabusa2 spacecraft successfully touched down -- and bounced right back from -- asteroid Ryugu. Before impact, Hayabusa2 fired a small bullet into 162173 Ryugu to scattered surface material and increase the chance that Hayabusa2 would be able to capture some. Next month, Hayabusa2 will fire a much larger bullet into Ryugu in an effort to capture sub-surface material. Near the end of this year, Hayabusa2 is scheduled to depart Ryugu and begin a looping trip back to Earth, hopefully returning small pieces of this near-Earth asteroid in late 2020. Studying Ryugu could tell humanity not only about the minor planet's surface and interior, but about what materials were available in the early Solar System for the development of life.",
   "date": "2019-03-12",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/-3hO58HFa1M?start=15"
 }

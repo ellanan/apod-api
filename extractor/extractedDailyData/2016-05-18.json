@@ -1,14 +1,10 @@
 {
   "title": "Halo from Atacama",
-  "credit": [],
   "explanation": "Influenced by the strong Pacific El Nino, cloudy skies have more often come to Chile's high Atacama Desert this season, despite its reputation as an astronomer's paradise. Located in one of the driest, darkest places on planet Earth, domes of the region's twin 6.5 meter Magellan telescopes of Carnegie Las Campanas Observatory were closed on May 13. Still, a first quarter Moon and bright stars shine through in this panoramic night skyscape, the lunar disk surrounded by a beautiful, bright halo. The angular radius of the halo is 22 degrees. Not determined by the brightness or phase of the Moon itself, the angle is set by the hexagonal geometry of atmospheric ice crystals that reflect and refract the moonlight. On that night, the brilliant star just inside the halo's radius was really planet Jupiter. The brightest star flanking the halo to the far left is Canopus, with Arcturus on the halo's right.",
   "date": "2016-05-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1605/halo_pano_beletsky.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Yuri Beletsky (Carnegie Las Campanas Observatory, TWAN) Explanation",
-    "Yuri Beletsky (Carnegie Las Campanas Observatory, TWAN)"
-  ],
+  "copyright": "Yuri Beletsky (Carnegie Las Campanas Observatory, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1605/halo_pano_beletsky.jpg"
 }

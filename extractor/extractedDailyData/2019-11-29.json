@@ -1,14 +1,10 @@
 {
   "title": "Galileo's Europa Remastered",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, SETI Institute, Cynthia Phillips, Marty Valenti Explanation",
-    "NASA, JPL-Caltech, SETI Institute, Cynthia Phillips, Marty Valenti"
-  ],
+  "credit": "NASA, JPL-Caltech, SETI Institute, Cynthia Phillips, Marty Valenti",
   "explanation": "Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, using improved new calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water. The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. What kind of life could thrive in a deep, dark, subsurface ocean? Consider planet Earth's own extreme shrimp.",
   "date": "2019-11-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1911/PIA19048europa.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1911/PIA19048europa1024.jpg"
 }

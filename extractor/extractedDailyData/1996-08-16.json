@@ -1,14 +1,10 @@
 {
   "title": "NGC 604: Giant Stellar Nursery in M33",
-  "credit": [
-    "Credit: H. Yang (UIUC), J. Hester (ASU), NASA Explanation",
-    "H. Yang (UIUC), J. Hester (ASU), NASA"
-  ],
+  "credit": "H. Yang (UIUC), J. Hester (ASU), NASA",
   "explanation": "",
   "date": "1996-08-16",
   "hdurl": "https://apod.nasa.gov/apod/image/ngc604_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/ngc604_hst.gif"
 }

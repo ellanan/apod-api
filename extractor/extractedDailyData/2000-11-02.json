@@ -1,14 +1,10 @@
 {
   "title": "A Galaxy Collision in NGC 6745",
-  "credit": [
-    "Credit: Roger Lynds (KPNO/NOAO) et al., Hubble Heritage Team, NASA Explanation",
-    "Roger Lynds (KPNO/NOAO) et al., Hubble Heritage Team, NASA"
-  ],
+  "credit": "Roger Lynds (KPNO/NOAO) et al., Hubble Heritage Team, NASA",
   "explanation": "Galaxies don't normally look like this. NGC 6745 actually shows the results of two galaxies that have been colliding for only hundreds of millions of years. Just off the above photograph to the lower right is the smaller galaxy, moving away. The larger galaxy, pictured above, used to be a spiral galaxy but now is damaged and appears peculiar. Gravity has distorted the shapes of the galaxies. Although it is likely that no stars in the two galaxies directly collided, the gas, dust, and ambient magnetic fields do interact directly. In fact, a knot of gas pulled off the larger galaxy on the lower right has now begun to form stars. NGC 6745 spans about 80 thousand light-years across and is located about 200 million light-years away.",
   "date": "2000-11-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0011/ngc6745_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0011/ngc6745_hst.jpg"
 }

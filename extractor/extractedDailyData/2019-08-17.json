@@ -1,14 +1,10 @@
 {
   "title": "1901 Photograph: The Orion Nebula",
-  "credit": [
-    "Credit: George Ritchey, Yerkes Observatory - Digitization Project: W. Cerny, R. Kron, Y. Liang, J. Lin, M. Martinez, E. Medina, B. Moss, B. Ogonor, M. Ransom, J. Sanchez (Univ. of Chicago) Explanation",
-    "George Ritchey, Yerkes Observatory - Digitization Project: W. Cerny, R. Kron, Y. Liang, J. Lin, M. Martinez, E. Medina, B. Moss, B. Ogonor, M. Ransom, J. Sanchez (Univ. of Chicago)"
-  ],
+  "credit": "George Ritchey, Yerkes Observatory - Digitization Project: W. Cerny, R. Kron, Y. Liang, J. Lin, M. Martinez, E. Medina, B. Moss, B. Ogonor, M. Ransom, J. Sanchez (Univ. of Chicago)",
   "explanation": "By the turn of the 20th century advances in photography contributed an important tool for astronomers. Improving photographic materials, long exposures, and new telescope designs produced astronomical images with details not visible at the telescopic eyepiece alone. Remarkably recognizable to astrophotographers today, this stunning image of the star forming Orion Nebula was captured in 1901 by American astronomer and telescope designer George Ritchey. The original glass photographic plate, sensitive to green and blue wavelengths, has been digitized and light-to-dark inverted to produce a positive image. His hand written notes indicate a 50 minute long exposure that ended at dawn and a reflecting telescope aperture of 24 inches masked to 18 inches to improve the sharpness of the recorded image. Ritchey's plates from over a hundred years ago preserve astronomical data and can still be used for exploring astrophysical processes.",
   "date": "2019-08-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1908/orion1901_ritchey.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1908/orion1901_ritchey1024.jpg"
 }

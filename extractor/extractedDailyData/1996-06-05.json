@@ -1,14 +1,10 @@
 {
   "title": "Sagittarius and the Central Milky Way",
-  "credit": [],
   "explanation": "",
   "date": "1996-06-05",
   "hdurl": "https://apod.nasa.gov/apod/image/SagSumMW_dp_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dave Palmer Explanation",
-    "Dave Palmer"
-  ],
+  "copyright": "Dave Palmer",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/SagSumMW_dp.gif"
 }

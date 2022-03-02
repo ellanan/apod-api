@@ -1,14 +1,10 @@
 {
   "title": "Kepler-78b: Earth-Sized Planet Discovered",
-  "credit": [
-    "Credit: David A. Aguilar (CfA) Explanation",
-    "David A. Aguilar (CfA)"
-  ],
+  "credit": "David A. Aguilar (CfA)",
   "explanation": "Even though Kepler-78b is only slightly larger than the Earth, it should not exist. Its size is extraordinary only in the sense that it is the most similar in size to the Earth of any exoplanet yet directly discovered. Its orbit, however, is extraordinary in the sense that it circles a Sun-like star 40 times closer than planet Mercury. At such a scathing distance, even rock is liquid. Models of planet formation predict that no planet can form in such a close orbit, and models of planet evolution predict that Kepler-78b's orbit should decay -- dooming the planet to eventually merge with its parent star. Illustrated above in comparison with the Earth, Kepler-78b was discovered by eclipse with the Earth-trailing Kepler spacecraft and further monitored for subtle wobbles by the HARPS- North, a spectrograph attached to the 3.6-meter Telescopio Nazionale Galileo in the Canary Islands.",
   "date": "2013-11-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1311/kepler78b_cfa_2400.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1311/kepler78b_cfa_960.jpg"
 }

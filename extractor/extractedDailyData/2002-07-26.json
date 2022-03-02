@@ -1,14 +1,10 @@
 {
   "title": "Clearing Skies",
-  "credit": [],
   "explanation": "Clear evening skies are a welcome sight for stargazers worldwide, but clearing skies are good too. Just such a glorious occasion was recorded in this dramatic photo taken by Dominic Cantin during a recent gathering of Canadian astronomers at St-N�r�e Observatory, located about 60 kilometers southeast of the city of Quebec. Looking toward the west on July 13th, the exposure captured a distant lightning flash from a passing thunderstorm at the far left. On the right, the storm clouds' retreat has uncovered an overexposed crescent Moon sharing the evening twilight with bright Venus only a few degrees away (below and far right). In the darkening sky above the young Moon is a familiar right triangle of stars in the constellation Leo. Cantin reports that clear skies followed, all night long.",
   "date": "2002-07-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/skies_cantin_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dominic Cantin Explanation",
-    "Dominic Cantin"
-  ],
+  "copyright": "Dominic Cantin",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/skies_cantin.jpg"
 }

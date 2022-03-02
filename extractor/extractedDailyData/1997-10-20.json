@@ -1,14 +1,10 @@
 {
   "title": "Spiral Eddies On Planet Earth",
-  "credit": [
-    "Credit: STS 41G Crew, NASA Explanation",
-    "STS 41G Crew, NASA"
-  ],
+  "credit": "STS 41G Crew, NASA",
   "explanation": "Can you identify this stellar nebula? How many light-years from Earth did you say? Looking like a twisting cloud of gas and dust between the stars this wispy nebulosity is actually close by - a spiral eddy formed near the North Atlantic Gulf Stream off the East coast of the US. Tens of miles across, spiral eddies are an ocean current phenomenon discovered by observations from manned spacecraft. Imaged by the Challenger space shuttle crew during the STS 41G mission this eddy is dramatically visible due to the low sun angle and strong reflection of sunlight. The reflection is caused by a very thin biologically produced oily film on the surface of the swirling water. Prior to STS 41G these eddies were thought to be rare but are now understood to be a significant dynamic feature of ocean currents. However, no good explanation of their origin or persistence exists.",
   "date": "1997-10-20",
   "hdurl": "https://apod.nasa.gov/apod/image/9710/eddies_sts41g_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9710/eddies_sts41g.jpg"
 }

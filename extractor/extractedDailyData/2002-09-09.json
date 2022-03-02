@@ -1,14 +1,10 @@
 {
   "title": "Hoag's Object: A Strange Ring Galaxy",
-  "credit": [
-    "Credit: R. Lucas (STScI/AURA), Hubble Heritage Team, NASA Explanation",
-    "R. Lucas (STScI/AURA), Hubble Heritage Team, NASA"
-  ],
+  "credit": "R. Lucas (STScI/AURA), Hubble Heritage Team, NASA",
   "explanation": "Is this one galaxy or two? This question came to light in 1950 when astronomer Art Hoag chanced upon this unusual extragalactic object. On the outside is a ring dominated by bright blue stars, while near the center lies a ball of much redder stars that are likely much older. Between the two is a gap that appears almost completely dark. How Hoag's Object formed remains unknown, although similar objects have now been identified and collectively labeled as a form of ring galaxy. Genesis hypotheses include a galaxy collision billions of years ago and perturbative gravitational interactions involving an unusually shaped core. The above photo taken by the Hubble Space Telescope in July 2001 reveals unprecedented details of Hoag's Object and may yield a better understanding. Hoag's Object spans about 100,000 light years and lies about 600 million light years away toward the constellation of Serpens. Coincidentally, visible in the gap (at about one o'clock) is yet another ring galaxy that likely lies far in the distance.",
   "date": "2002-09-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0209/hoag_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0209/hoag_hst.jpg"
 }

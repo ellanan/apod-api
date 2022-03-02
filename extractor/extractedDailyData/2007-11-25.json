@@ -1,14 +1,10 @@
 {
   "title": "An Iridescent Cloud Over Colorado",
-  "credit": [],
   "explanation": "Why would a cloud appear to be different colors? A relatively rare phenomenon known as iridescent clouds can show unusual colors vividly or a whole spectrum of colors simultaneously. These clouds are formed of small water droplets of nearly uniform size. When the Sun is in the right position and mostly hidden by thick clouds, these thinner clouds significantly diffract sunlight in a nearly coherent manner, with different colors being deflected by different amounts. Therefore, different colors will come to the observer from slightly different directions. Many clouds start with uniform regions that could show iridescence but quickly become too thick, too mixed, or too far from the Sun to exhibit striking colors. This iridescent cloud was photographed above Boulder, Colorado last week.",
   "date": "2007-11-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/iridescent_allen_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: August Allen Explanation",
-    "August Allen"
-  ],
+  "copyright": "August Allen",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/iridescent_allen.jpg"
 }

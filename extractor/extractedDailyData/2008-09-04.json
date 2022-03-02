@@ -1,14 +1,10 @@
 {
   "title": "Spokes in the Helix Nebula",
-  "credit": [],
   "explanation": "At first glance, the Helix Nebula (aka NGC 7293), looks simple and round. But this well-studied example of a planetary nebula, produced near the end of the life of a sun-like star, is now understood to have a surprisingly complex geometry. Its extended loops and comet-shaped features have been explored in Hubble Space Telescope images. Still, a 16-inch diameter telescope and camera with broad and narrow band filters was used to create this sharp view of the Helix. The color composite also reveals the nebula's intriguing details, including light-year long, bluegreen radial stripes or spokes that give it the appearance of a cosmic bicycle wheel. The spoke features seem to indicate that the Helix Nebula is itself an old and evolved planetary nebula. The Helix is a mere seven hundred light years from Earth, in the constellation Aquarius.",
   "date": "2008-09-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0809/HelixNB3RWeb2_goldman.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Don Goldman, Sierra Remote Observatories Explanation",
-    "Don Goldman, Sierra Remote Observatories"
-  ],
+  "copyright": "Don Goldman, Sierra Remote Observatories",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0809/HelixNB3RWeb2_goldmanc800.jpg"
 }

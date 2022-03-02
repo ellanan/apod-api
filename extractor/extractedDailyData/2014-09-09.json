@@ -1,14 +1,10 @@
 {
   "title": "An Aurora Cupcake with a Milky Way Topping",
-  "credit": [],
   "explanation": "This sky looked delicious. Double auroral ovals were captured above the town lights of �stersund, Sweden, last week. Pictured above, the green ovals occurred lower to the ground than violet aurora rays above, making the whole display look a bit like a cupcake. To top it off, far in the distance, the central band or our Milky Way Galaxy slants down from the upper left. The auroras were caused by our Sun ejecting plasma clouds into the Solar System just a few days before, ionized particles that subsequently impacted the magnetosphere of the Earth. Aurora displays may continue this week as an active sunspot group rotated into view just a few days ago.",
   "date": "2014-09-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1409/auroramilkyway_strand_910.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Göran Strand Explanation",
-    "Göran Strand"
-  ],
+  "copyright": "Göran Strand",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1409/auroramilkyway_strand_910.jpg"
 }

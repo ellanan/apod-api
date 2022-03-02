@@ -1,14 +1,10 @@
 {
   "title": "All-Sky Milky Way Panorama",
-  "credit": [],
   "explanation": "If you could go far away from the Earth and look around the entire sky -- what would you see? Such was the goal of the All-Sky Milky Way Panorama 2.0 project of Axel Mellinger. Presented above is the result: a digital compilation of over 3,000 images comprising the highest resolution digital panorama of the entire night sky yet created. An interactive zoom version, featuring over 500 million pixels, can be found here. Every fixed astronomical object visible to the unaided eye has been imaged, including every constellation, every nebula, and every star cluster. Moreover, millions of individual stars are also visible, all in our Milky Way Galaxy, and many a thousand times fainter than a human can see. Dark filaments of dust lace the central band of our Milky Way Galaxy, visible across the image center. The satellite galaxies Large and Small Magellanic Clouds are visible on the lower right. This was not the first time Dr. Mellinger has embarked on such a project: the results of his first All-Sky Milky Way Panorama Project, taken using photographic film, are visible here.",
   "date": "2009-11-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0911/mwpan_mellinger_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Axel Mellinger (Central Mich. U) Explanation",
-    "Axel Mellinger (Central Mich. U)"
-  ],
+  "copyright": "Axel Mellinger (Central Mich. U)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0911/mwpan_mellinger.jpg"
 }

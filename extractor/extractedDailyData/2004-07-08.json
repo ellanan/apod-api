@@ -1,14 +1,10 @@
 {
   "title": "Southern Cross Star Colors",
-  "credit": [],
   "explanation": "Fix your camera to a tripod, lock the shutter open, and you can easily record an image of star trails, the graceful concentric arcs traced by the stars as planet Earth rotates on its axis. Gradually change the focus of the camera lens during the exposure, and you could end up with a dramatic picture like this one where the out-of-focus portion of the trail shows off the star's color. In this case, the subject is one of the most famous constellations in the night sky, Crux, the Southern Cross. Gacrux or gamma Crucis is the bright red giant star only 88 light-years distant that forms the top of the Cross seen here near top center. Acrux, the hot blue star at the bottom of the Cross is about 320 light-years distant. Actually a binary star system, Acrux is the alpha star of the compact Southern Cross and lies along a line pointing from Gacrux to the South Celestial Pole, off the lower right edge of the picture. Adding a separate short exposure to the end of the step-focussed trails to better show the positions of the stars themselves, astronomer Stefan Seip recorded this remarkable image last May in the dark night skies above Namibia.",
   "date": "2004-07-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0407/040523cruxa_seip_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip Explanation",
-    "Stefan Seip"
-  ],
+  "copyright": "Stefan Seip",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0407/040523cruxa_seip_c1.jpg"
 }

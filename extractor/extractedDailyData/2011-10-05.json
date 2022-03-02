@@ -1,13 +1,9 @@
 {
   "title": "Comet and CME on the Sun",
-  "credit": [
-    "Credit: SOHO, SDO, NASA, ESA Explanation",
-    "SOHO, SDO, NASA, ESA"
-  ],
+  "credit": "SOHO, SDO, NASA, ESA",
   "explanation": "Did a sun-diving comet just cause a solar explosion? Probably not. This past weekend a comet dove toward the Sun and was followed very quickly by a Coronal Mass Ejection (CMEs) from the other side of the Sun. The first two sequences in the above video shows the spectacular unfolding of events as seen by the Sun-orbiting SOHO satellite, while the same events were also captured by both Sun-orbiting STEREO satellites. Now sungrazer comets that break up as they pass near the Sun are not all that rare -- hundreds have been cataloged over the past few years. CMEs are even more common, with perhaps three lesser events occurring even during the eight hours of the above time-lapse movie. Therefore, the best bet of solar scientists is that the two events were unrelated. Another basis for this judgment is that CMEs are caused by rapid changes in the Sun's magnetic field, changes that a small comet seem unlikely to make. Such coincidences are even more likely during periods of high activity on the Sun's surface -- like now.",
   "date": "2011-10-05",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/6N_tgA92M64?rel=0"
 }

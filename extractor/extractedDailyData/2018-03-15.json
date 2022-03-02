@@ -1,14 +1,10 @@
 {
   "title": "Catalog Entry Number 1",
-  "credit": [],
   "explanation": "Every journey has a first step and every catalog a first entry. First entries in six well-known deep sky catalogs appear in these panels, from upper left to lower right in chronological order of original catalog publication. From 1774, Charles Messier's catalog entry number 1 is M1, famous cosmic crustacean and supernova remnant the Crab Nebula. J.L.E. Dreyer's (not so new) New General Catalog was published in 1888. A spiral galaxy in Pegasus, his NGC 1 is centered in the next panel. Just below it in the frame is another spiral galaxy cataloged as NGC 2. In Dreyer's follow-on Index Catalog (next panel), IC 1 is actually a faint double star, though. Now recognized as part of the Perseus molecular cloud complex, dark nebula Barnard 1 begins the bottom row from Dark Markings of the Sky, a 1919 catalog by E.E. Barnard. Abell 1 is a distant galaxy cluster in Pegasus, from George Abell's 1958 catalog of Rich Clusters of Galaxies. The final panel is centered on vdB 1, from Sidney van den Bergh's 1966 study. The pretty, blue galactic reflection nebula is found in the constellation Cassiopeia.",
   "date": "2018-03-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1803/M001-2Hubl_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Bernhard Hubl (CEDIC) Explanation",
-    "Bernhard Hubl (CEDIC)"
-  ],
+  "copyright": "Bernhard Hubl (CEDIC)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1803/M001-2Hubl_1024.jpg"
 }

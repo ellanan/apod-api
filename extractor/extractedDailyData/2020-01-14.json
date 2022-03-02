@@ -1,14 +1,10 @@
 {
   "title": "Evidence of an Active Volcano on Venus",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, ESA, Venus Express: VIRTIS, USRA, LPI Explanation",
-    "NASA, JPL-Caltech, ESA, Venus Express: VIRTIS, USRA, LPI"
-  ],
+  "credit": "NASA, JPL-Caltech, ESA, Venus Express: VIRTIS, USRA, LPI",
   "explanation": "Are volcanoes still active on Venus? More volcanoes are known on Venus than Earth, but when Venusian volcanoes last erupted is not directly known. Evidence bolstering very recent volcanism on Venus has recently been uncovered, though, right here on Earth. Lab results showed that images of surface lava would become dim in the infrared in only months in the dense Venusian atmosphere, a dimming not seen in ESA's Venus Express images. Venus Express entered orbit around Venus in 2006 and remained in contact with Earth until 2014. Therefore, the infrared glow (shown in false-color red) recorded by Venus Express for Idunn Mons and featured here on a NASA Magellan image indicates that this volcano erupted very recently -- and is still active today. Understanding the volcanics of Venus might lead to insight about the volcanics on Earth, as well as elsewhere in our Solar System.",
   "date": "2020-01-14",
   "hdurl": "https://apod.nasa.gov/apod/image/2001/IdunnMons_VenusExpress_800.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2001/IdunnMons_VenusExpress_1080.jpg"
 }

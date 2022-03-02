@@ -1,14 +1,10 @@
 {
   "title": "The Far Side of the Moon",
-  "credit": [
-    "Credit: Apollo 16 Crew, NASA Explanation",
-    "Apollo 16 Crew, NASA"
-  ],
+  "credit": "Apollo 16 Crew, NASA",
   "explanation": "Does this moon look familiar? Possibly not, even though it is Earth's Moon. Locked in synchronous rotation, the Moon always presents its well-known near side to Earth. But from lunar orbit, Apollo astronauts also grew to know the Moon's far side. This sharp picture from Apollo 16's mapping camera shows the eastern edge of the familiar near side (top) and the strange and heavily cratered far side of the Moon. Surprisingly, the rough and battered surface of the far side looks very different from the near side which is covered with smooth dark lunar maria. The likely explanation is that the far side crust is thicker, making it harder for molten material from the interior to flow to the surface and form the smooth maria.",
   "date": "2007-02-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0702/farside_apollo16_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0702/farside_apollo16.jpg"
 }

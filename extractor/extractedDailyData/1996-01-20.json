@@ -1,14 +1,10 @@
 {
   "title": "Mercury's Caloris Basin",
-  "credit": [
-    "Credit: NASA, JPL, Mariner 10 Explanation",
-    "NASA, JPL, Mariner 10"
-  ],
+  "credit": "NASA, JPL, Mariner 10",
   "explanation": "",
   "date": "1996-01-20",
   "hdurl": "https://apod.nasa.gov/apod/image/caloris_m10_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/caloris_m10.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Bright Bolide",
-  "credit": [],
   "explanation": "On September 30, a spectacular bolide or fireball meteor surprised a group of amateur astronomers enjoying dark night skies over the Oklahoma panhandle's Black Mesa State Park in the Midwestern US. Flashing past familiar constellations Taurus (top) and Orion, the extremely bright meteor was captured by a hillside camera overlooking the 2008 Okie-Tex Star Party. Astronomy enthusiast Howard Edin reports that he was looking in the opposite direction at the time, but saw the whole observing field light up and at first thought someone had turned on their car headlights. So far the sighting of a such a bright bolide meteor, produced as a space rock is vaporized hurtling through Earth's atmosphere, really is a matter of luck. But that could change. Earlier this week the discovery and follow-up tracking of tiny asteroid 2008 TC3 allowed astronomers to predict the time and location of its impact with the atmosphere. While no ground-based sightings of the fireball seem to have been reported, this first ever impact prediction was confirmed by at least some detections of an air burst and bright flash on October 7th over northern Sudan.",
   "date": "2008-10-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0810/20080930bolide_edin.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Howard Edin (Oklahoma City Astronomy Club) Explanation",
-    "Howard Edin (Oklahoma City Astronomy Club)"
-  ],
+  "copyright": "Howard Edin (Oklahoma City Astronomy Club)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0810/20080930bolide_edin_small.jpg"
 }

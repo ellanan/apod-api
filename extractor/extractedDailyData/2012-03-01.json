@@ -1,14 +1,10 @@
 {
   "title": "Multicolor Venus",
-  "credit": [],
   "explanation": "Brilliant Venus now shines in western skies at twilight. Seen as the prominent evening star, the planet is a tantalizing celestial beacon even for casual skygazers. Venus can offer less than satisfying telescopic views though. The planet is shrouded in reflective clouds that appear bright but featureless at the eyepiece. Still, careful imaging with a series of color filters, as used in these composite images, can reveal subtle cloud patterns. Captured early last month from a backyard observatory in Manchester, New Hampshire, USA, the images are based on video camera frames. The data was recorded through near-ultraviolet, green, and near-infrared filters (left), and red, green, and blue filters while Venus stood high above the western horizon just before sunset. This season's evening apparition of Venus is the best one for northern hemisphere observers in 7 years. It will ultimately end with a solar transit of the planet, the last one to occur in your lifetime, on June 5/6.",
   "date": "2012-03-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1203/Venus2-5-2012uvbgrirWalker.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Sean Walker (SkyandTelescope.com, MASIL Astro-Imaging) Explanation",
-    "Sean Walker (SkyandTelescope.com, MASIL Astro-Imaging)"
-  ],
+  "copyright": "Sean Walker (SkyandTelescope.com, MASIL Astro-Imaging)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1203/Venus2-5-2012uvbgrirWalker.jpg"
 }

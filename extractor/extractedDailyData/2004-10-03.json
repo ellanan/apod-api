@@ -1,14 +1,10 @@
 {
   "title": "Comet Hale-Bopp and the North America Nebula",
-  "credit": [],
   "explanation": "Comet Hale-Bopp's 1997 encounter with the inner Solar System allowed many breath-taking pictures. Above, Comet Hale-Bopp was photographed crossing the constellation of Cygnus, sporting spectacular yellow dust and blue ion tails. Visible on the right in red is the North America Nebula, a bright emission nebula observable from a dark location with binoculars. The North America Nebula is about 1500 light-years away, much farther than the comet, which was only about 8 light minutes away. Several bright blue stars from the open cluster M39 are visible just above the comet's blue ion tail.",
   "date": "2004-10-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0410/hbnortham_jc_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Juan Carlos Casado Explanation",
-    "Juan Carlos Casado"
-  ],
+  "copyright": "Juan Carlos Casado",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0410/hbnortham_jc.jpg"
 }

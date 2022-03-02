@@ -1,14 +1,10 @@
 {
   "title": "Apollo 17 Lunarscape: A Magnificent Desolation",
-  "credit": [
-    "Credit: Apollo 17, NASA Explanation",
-    "Apollo 17, NASA"
-  ],
+  "credit": "Apollo 17, NASA",
   "explanation": "",
   "date": "1996-04-20",
   "hdurl": "https://apod.nasa.gov/apod/image/lunarscape_apollo17_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/lunarscape_apollo17.gif"
 }

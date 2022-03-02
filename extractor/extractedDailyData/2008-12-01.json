@@ -1,14 +1,10 @@
 {
   "title": "Massive Stars Resolved in the Carina Nebula",
-  "credit": [
-    "Credit: NASA, ESA, and J. Ma�z Apell�niz (Instituto de Astrof�sica de Andaluc�a, Spain) Explanation",
-    "NASA, ESA, and J. Ma�z Apell�niz (Instituto de Astrof�sica de Andaluc�a, Spain)"
-  ],
+  "credit": "NASA, ESA, and J. Ma�z Apell�niz (Instituto de Astrof�sica de Andaluc�a, Spain)",
   "explanation": "How massive can stars be? Big, hefty stars live short violent lives that can profoundly affect their environments. Isolating a massive star can be problematic, however, since what seems to be a single bright star might actually turn out to be several stars close together. Such was the case for two of the brightest objects visible in the open star cluster Trumpler 16, located in the southern Carina Nebula. Upon close inspection by the Hubble Space Telescope, WR 25, the brightest object in the above image, was confirmed to consist of at least two separate stars. Additionally, Tr16 -244, just to the upper right of WR 25, was resolved for the first time to be at least three individual stars. Even so, the brightest star in WR 25 appears to be about 50 times the mass of our Sun, making it one of the more massive stars known. Winds from these stars are likely significant contributers to the large bubble that the star cluster sits in. The Carina Nebula, home to unusually shaped dust clouds and the famous variable star Eta Carina, lies about 7,500 light years away toward the constellation of Ship's Keel (Carina).",
   "date": "2008-12-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0812/trumpler16b_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0812/trumpler16b_hst.jpg"
 }

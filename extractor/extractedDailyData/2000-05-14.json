@@ -1,14 +1,10 @@
 {
   "title": "A Presidential Panorama of Mars",
-  "credit": [
-    "Credit: IMP Team, JPL, NASA Explanation",
-    "IMP Team, JPL, NASA"
-  ],
+  "credit": "IMP Team, JPL, NASA",
   "explanation": "Scroll right to unfold one of the great panoramas ever taken on the surface of Mars. For best viewing, click and hold the right arrow icon at the bottom of your browser window. This image, dubbed a \"presidential panorama\" by the Mars Pathfinder team, shows in colorful detail the surroundings of the Sagan Memorial Station. Now look closely at the big rock midway through the scrolling picture. That rock is called Yogi and just to its left is the robot Sojourner Rover taking measurements of it. Other now-famous rocks are also visible including Barnacle Bill and Flat Top. After this picture was taken Sojourner went on to analyze a rock named Scooby Doo. The Mars Pathfinder mission landed on 1997 July 4 and collected data for about three months. Analysis indicates that the Pathfinder site was likely awash in water in the distant past, but has been dry for the last two billion years.",
   "date": "2000-05-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0005/marspan3_pf_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0005/marspan3_pf.jpg"
 }

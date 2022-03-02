@@ -1,14 +1,10 @@
 {
   "title": "Europa: Ridges and Rafts on a Frozen Moon",
-  "credit": [
-    "Credit: Galileo Project, University of Arizona, JPL, NASA Explanation",
-    "Galileo Project, University of Arizona, JPL, NASA"
-  ],
+  "credit": "Galileo Project, University of Arizona, JPL, NASA",
   "explanation": "The large Jovian moon Europa may harbor liquid water beneath its frozen crust. Controversy surrounding this idea has been recently fueled by dramatic images of Europa's surface from the Galileo spacecraft. This alluring color image was produced by combining low resolution color data with higher resolution mosaics recorded during three separate flybys and covers about 120 by 150 miles. The eerie terrain of grooved linear ridges and crustal plates which seem to have broken apart and rafted into new positions could indicate subsurface water or slush. Blue tints represent relatively old ice surfaces while reddish regions may contain material from more recent internal geological activity. White splotches are bright material blasted from the young impact crater Pwyll located about 600 miles south (to the right) of this area. Many believe that large reservoirs of water hold out the tantalizing possibility of organisms living on this dim, distant world.",
   "date": "1998-09-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9809/europacolor_gal_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9809/europacolor_gal.jpg"
 }

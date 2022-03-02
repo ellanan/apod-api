@@ -1,14 +1,10 @@
 {
   "title": "A Wheel on Mars",
-  "credit": [
-    "Credit: NASA/ JPL-Caltech/Mars Science Laboratory Explanation",
-    "NASA/ JPL-Caltech/Mars Science Laboratory"
-  ],
+  "credit": "NASA/ JPL-Caltech/Mars Science Laboratory",
   "explanation": "A wheel attached to NASA's Curiosity rover is firmly on the martian surface in this early picture from the Mars Science Laboratory mission, captured after a successful landing on August 5, 2012 at 10:32pm (PDT). Seen at the lower right of a Hazard Avoidance Camera fisheye wide-angle image, the rover's left rear wheel is 50 centimeters (about 20 inches) in diameter. Part of a spring hinge for the camera's dust cover is just visible in the right corner, while at the upper left is part of the rover's RTG power source. Looking into the Sun across the rock stewn surface of Mars, distant hills on the right are the rim of Gale Crater, about 20 kilometers from the compact car-sized rover's current resting place.",
   "date": "2012-08-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1208/PIA15973MSL700.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1208/PIA15973MSL700.jpg"
 }

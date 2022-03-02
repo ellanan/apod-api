@@ -1,14 +1,10 @@
 {
   "title": "Solar Wind And Milky Way",
-  "credit": [
-    "Credit: LASCO, SOHO Consortium, NRL, ESA, NASA Explanation",
-    "LASCO, SOHO Consortium, NRL, ESA, NASA"
-  ],
+  "credit": "LASCO, SOHO Consortium, NRL, ESA, NASA",
   "explanation": "The Sun is bright, so bright that it overwhelms the light from other stars even for most satellite-borne telescopes. But LASCO, a coronograph onboard the space-based SOHO Observatory, uses occulting disks to block the intense solar light and examine the tenuous, hot gases millions of miles above the Sun's surface. In this LASCO image from December 24, 1996, an occulting disk (center) and mechanical support (extending from the lower left) are visible along with the billowing Solar Wind. Appearing in the background are faint stars and obscuring dust clouds toward the center of our Milky Way Galaxy! The field of view covers about 16 degrees, corresponding to 28 million miles at the distance of the Sun - just under half the diameter of Mercury's orbit. A prominent dark interstellar dust cloud cuts through the Milky Way starfield running approximately south (lower right) to north. Blemishes on the image are camera streaks caused by charged particles.",
   "date": "1997-03-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9703/milkyway1_lasco_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9703/milkyway2_lasco.jpg"
 }

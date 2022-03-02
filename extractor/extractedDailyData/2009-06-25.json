@@ -1,14 +1,10 @@
 {
   "title": "Sarychev Peak Volcano in Stereo",
-  "credit": [
-    "Credit: Expedition 20 Crew, Crew Earth Observations Team, NASA Stereo Image: Patrick Vantuyne Explanation",
-    "Expedition 20 Crew, Crew Earth Observations Team, NASA Stereo Image: Patrick Vantuyne"
-  ],
+  "credit": "Expedition 20 Crew, Crew Earth Observations Team, NASA Stereo Image: Patrick Vantuyne",
   "explanation": "From 400 kilometers above planet Earth, the Expedition 20 Crew onboard the International Space Station (ISS) was able to witness a remarkable event from a remarkable vantage point -- the June 12 eruption of the Sarychev Peak Volcano. The active volcano is located in Russia's Kuril Island chain, stretching to the northeast of Japan. Emphasizing the orbital perspective, this stunning color stereo view was made by combining two images from the ISS and is intended to be viewed with red/blue glasses (red for the left eye). Punching upwards into the atmosphere at an early stage of the eruption, the volcanic plume features a brown column of ash topped with a smooth, bubble-like, white cloud that is likely water condensation. Below, a cloud of denser grey ash slides down the volcanic slope. About 1.5 kilometers of the island coastline is visible at ground level. The evolving ash plume posed no danger to the Expedition 20 crew, but commercial airline flights were diverted away from the region to minimize the danger of engine failures from ash intake.",
   "date": "2009-06-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0906/ISS020-E-9050_52ana_public.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0906/ISS020-E-9050_52ana_public800.jpg"
 }

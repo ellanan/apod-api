@@ -1,14 +1,10 @@
 {
   "title": "Stephan's Quintet from Hubble",
-  "credit": [
-    "Credit: NASA, ESA, Hubble; Processing: Daniel Nobre Explanation",
-    "NASA, ESA, Hubble; Processing: Daniel Nobre"
-  ],
+  "credit": "NASA, ESA, Hubble; Processing: Daniel Nobre",
   "explanation": "When did these big galaxies first begin to dance? Really only four of the five of Stephan's Quintet are locked in a cosmic tango of repeated close encounters taking place some 300 million light-years away. The odd galaxy out is easy to spot in this recently reprocessed image by the Hubble Space Telescope -- the interacting galaxies, NGC 7319, 7318B, 7318A, and 7317 (left to right), have a more dominant yellowish cast. They also tend to have distorted loops and tails, grown under the influence of disruptive gravitational tides. The mostly bluish galaxy, large NGC 7320 on the lower left, is in the foreground at about 40 million light-years distant, and so is not part of the interacting group. Data and modeling indicate that NGC 7318B is a relatively new intruder. A recently-discovered halo of old red stars surrounding Stephan's Quintet indicate that at least some of these galaxies started tangling over a billion years. Stephan's Quintet is visible with a moderate sized-telescope toward the constellation of Winged Horse (Pegasus).",
   "date": "2019-06-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1906/StephansQuintet_HubbleNobre_1824.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1906/StephansQuintet_HubbleNobre_960.jpg"
 }

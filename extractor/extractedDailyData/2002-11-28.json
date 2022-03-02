@@ -1,14 +1,10 @@
 {
   "title": "The Supermassive Black Holes of NGC 6240",
-  "credit": [
-    "Credit: Optical: R.P.van der Marel & J.Gerssen (STScI), NASA; X-ray: S.Komossa & G.Hasinger (MPE) et al., CXC, NASA Explanation",
-    "Optical: R.P.van der Marel & J.Gerssen (STScI), NASA; X-ray: S.Komossa & G.Hasinger (MPE) et al., CXC, NASA"
-  ],
+  "credit": "Optical: R.P.van der Marel & J.Gerssen (STScI), NASA; X-ray: S.Komossa & G.Hasinger (MPE) et al., CXC, NASA",
   "explanation": "The Hubble optical image on the left shows NGC 6240 in the throes of a titanic galaxy - galaxy collision 400 million light-years away. As the cosmic catastrophe plays out, the merging galaxies spew forth distorted tidal tails of stars, gas, and dust and undergo frantic bursts of star formation. Using the orbiting Chandra Observatory's x-ray vision to peer within the bright central regions of NGC 6240 astronomers believe they have uncovered, for the first time, not one but two enormous orbiting black holes, by detecting the characteristic x-ray radiation from the interstellar debris swirling toward them. In the false-color close-up view at right, the x-ray data clearly show the black hole sources (shaded blue) separated by about 3,000 light-years. Einstein's theory of gravity predicts that such a pair of black holes must spiral closer together, and ultimately coalesce into a single, even more massive black hole after several hundred million years. In the final moments the merging supermassive black holes will produce an extremely powerful burst of gravitational radiation.",
   "date": "2002-11-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0211/ngc6240_chandra_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0211/ngc6240_composite.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "M94: A New Perspective",
-  "credit": [],
   "explanation": "Beautiful island universe M94 lies a mere 15 million light-years distant in the northern constellation of the hunting dogs, Canes Venatici. A popular target for astronomers, the brighter inner part of the face-on spiral galaxy is about 30,000 light-years across. Traditionally, deep images have been interpreted as showing M94's inner spiral region surrounded by a faint, broad ring of stars. But a new multi-wavelength investigation has revealed previously undetected spiral arms sweeping across the outskirts of the galaxy's disk, an outer disk actively engaged in star formation. At optical wavelengths, M94's outer spiral arms are followed in this remarkable discovery image, processed to enhance the outer disk structure. Background galaxies are visible through the faint outer arms, while the three spiky foreground stars are in our own Milky Way galaxy.",
   "date": "2010-01-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1001/lrg_gabany_m94.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: R Jay Gabany (Blackbird Obs.) Collaboration: I. Trujillo, I. Martinez-Valpuesta, D. Martinez-Delgado ( IAC); J. Penarrubia (IoA Cambridge); M. Pohlen (Cardiff) Explanation",
-    "R Jay Gabany (Blackbird Obs.) Collaboration: I. Trujillo, I. Martinez-Valpuesta, D. Martinez-Delgado ( IAC); J. Penarrubia (IoA Cambridge); M. Pohlen (Cardiff)"
-  ],
+  "copyright": "R Jay Gabany (Blackbird Obs.) Collaboration: I. Trujillo, I. Martinez-Valpuesta, D. Martinez-Delgado ( IAC); J. Penarrubia (IoA Cambridge); M. Pohlen (Cardiff)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1001/small_gabany_m94.jpg"
 }

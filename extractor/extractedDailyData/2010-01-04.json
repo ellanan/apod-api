@@ -1,14 +1,10 @@
 {
   "title": "Comet Halley's Nucleus: An Orbiting Iceberg",
-  "credit": [],
   "explanation": "What does a comet nucleus look like? Formed from the primordial stuff of the Solar System, comet nuclei were thought to resemble very dirty icebergs. But ground-based telescopes revealed only the surrounding cloud of gas and dust of active comets nearing the Sun, clearly resolving only the comet's coma, and the characteristic cometary tails. In 1986, however, the European spacecraft Giotto became one of the first group of spacecraft ever to encounter and photograph the nucleus of a comet, passing and imaging Halley's nucleus as it approached the sun. Data from Giotto's camera were used to generate this enhanced image of the potato shaped nucleus that measures roughly 15 kilometers across. Some surface features on the dark nucleus are on the right, while gas and dust flowing into Halley's coma are on the left. Every 76 years Comet Halley returns to the inner Solar System and each time the nucleus sheds about a 6-meter deep layer of its ice and rock into space. This debris shed from Halley's nucleus eventually disperses into an orbiting trail responsible for the Orionids meteor shower, in October of every year, and the Eta Aquariids meteor shower every May.",
   "date": "2010-01-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1001/halley_giotto_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Halley Multicolor Camera Team, Giotto Project, ESA Explanation",
-    "Halley Multicolor Camera Team, Giotto Project, ESA"
-  ],
+  "copyright": "Halley Multicolor Camera Team, Giotto Project, ESA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1001/halley_giotto.jpg"
 }

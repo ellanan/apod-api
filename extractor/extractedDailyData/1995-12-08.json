@@ -1,14 +1,10 @@
 {
   "title": "Descent To Jupiter",
-  "credit": [
-    "Credit: NASA, Galileo Project Explanation",
-    "NASA, Galileo Project"
-  ],
+  "credit": "NASA, Galileo Project",
   "explanation": "",
   "date": "1995-12-08",
   "hdurl": "https://apod.nasa.gov/apod/image/galprobe_art.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/galprobe_art.gif"
 }

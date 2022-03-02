@@ -1,14 +1,10 @@
 {
   "title": "The Hooker Telescope on Mt. Wilson",
-  "credit": [
-    "Credit: Mount Wilson Observatory Explanation",
-    "Mount Wilson Observatory"
-  ],
+  "credit": "Mount Wilson Observatory",
   "explanation": "",
   "date": "1995-07-01",
   "hdurl": "https://apod.nasa.gov/apod/image/hooker.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hooker.gif"
 }

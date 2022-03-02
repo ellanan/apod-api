@@ -1,14 +1,10 @@
 {
   "title": "WIRO at Jupiter",
-  "credit": [
-    "Credit: A. Kutyrev (SSAI/GSFC), D. Rapchun(GST/GSFC), J. Norris(NASA/GSFC) R. Canterna & R. Martin (U Wyoming) Explanation",
-    "A. Kutyrev (SSAI/GSFC), D. Rapchun(GST/GSFC), J. Norris(NASA/GSFC) R. Canterna & R. Martin (U Wyoming)"
-  ],
+  "credit": "A. Kutyrev (SSAI/GSFC), D. Rapchun(GST/GSFC), J. Norris(NASA/GSFC) R. Canterna & R. Martin (U Wyoming)",
   "explanation": "Gazing out over the mountaintops from the Wyoming InfraRed Observatory (WIRO), astronomers recently recorded this bizarre looking image of the solar system's ruling planet, gas giant Jupiter. The false-color picture is a composite of images taken to test a sophisticated digital camera operating at liquid helium temperatures and sensitive to wavelengths about three times longer than visible red light. At those infrared wavelengths (near 2.1 microns) the molecular hydrogen and methane gas in Jupiter's dense lower atmosphere strongly absorb sunlight, so the normally bright, banded planet looks very dark. But particles and haze over the equator and poles rise above the absorbing layers into Jupiter's stratosphere and reflect the infrared sunlight. Also clearly extending into the Jovian stratosphere is the famous Great Red Spot seen here in yellow just under the equatorial band at the right. North is up in this view and Jupiter's rapid 10 hour rotation will soon carry the Great Red Spot behind the planet's right limb.",
   "date": "2003-03-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0303/jupiter_wiro8_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0303/jupiter_wiro8_full.jpg"
 }

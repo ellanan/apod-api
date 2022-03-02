@@ -1,14 +1,10 @@
 {
   "title": "Launch of a Delta IV Heavy",
-  "credit": [],
   "explanation": "It is the tallest rocket in active use. The Delta IV Heavy is the largest of the Delta series, packing the punch of three rocket boosters instead of the usual one. The resulting rocket, the most powerful in use by the US Air Force, is capable of lifting over 23,000 kilograms into low Earth orbit, comparable to NASA's Space Shuttle. Pictured above is the second launch of the Delta IV Heavy from Cape Canaveral, Florida, USA in 2007, and the first night launch. Complex service towers are visible to each side of the soaring rocket. The rocket successfully lifted a reconnaissance satellite to low Earth orbit. The Delta IV Heavy has since completed several more successful lift-offs, while its next launch is currently planned from Vandenberg Air Force Base, California, USA, next month.",
   "date": "2010-12-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1012/deltalaunch_cooper_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ben Cooper (Launch Photography) Explanation",
-    "Ben Cooper (Launch Photography)"
-  ],
+  "copyright": "Ben Cooper (Launch Photography)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1012/deltalaunch_cooper.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Comet McNaught-Hartley",
-  "credit": [],
   "explanation": "Outbound and climbing above the plane of our solar system, comet McNaught-Hartley (C/1999 T1) is presently soaring through northern skies. This telescopic picture, a composite of many 30 second exposures made through three color filters, recorded the delicate colors in its diminutive coma and faint tail on February 26th. Combining the exposures to produce the final image registered on the comet causes stars to appear as \"dotted trails\", evidence of the comet's motion relative to the distant stellar background. Discovered by southern hemisphere observers, this comet's closest approach to the Sun occurred in December last year as it passed just outside planet Earth's orbit. For now the brightest comet in the sky, this primordial chunk of solar system is crossing from the constellation Hercules to Draco and will continue to fade. Never visible to the unaided eye, McNaught-Hartley is still at about 10th magnitude and can be viewed by comet seekers using small telescopes.",
   "date": "2001-03-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0103/cometmh_lula_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Brian Lula Explanation",
-    "Brian Lula"
-  ],
+  "copyright": "Brian Lula",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0103/cometmh_lula.jpg"
 }

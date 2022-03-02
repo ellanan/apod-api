@@ -1,13 +1,9 @@
 {
   "title": "Flying Over Planet Earth",
-  "credit": [
-    "Credit: NASA; Acknowledgement: Infinity Imagined Explanation",
-    "NASA; Acknowledgement: Infinity Imagined"
-  ],
+  "credit": "NASA; Acknowledgement: Infinity Imagined",
   "explanation": "Have you ever dreamed of flying high above the Earth? Astronauts visiting the International Space Station do this every day, circling our restless planet twice every three hours. A dramatic example of their view was compiled in the above time-lapse video from images taken earlier this month. As the ISS speeds into the nighttime half of the globe, familiar constellations of stars remain visible above. An aerosol haze of Earth's thin atmosphere is visible on the horizon as an thin multi-colored ring. Many wonders whiz by below, including vast banks of white clouds, large stretches of deep blue sea, land lit up by the lights of big cities and small towns, and storm clouds flashing with lightning. The video starts over the northern Pacific Ocean and then passes from western North America to western South America, ending near Antarctica as daylight finally approaches.",
   "date": "2011-09-27",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/74mhQyuyELQ?rel=0"
 }

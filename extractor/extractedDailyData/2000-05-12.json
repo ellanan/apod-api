@@ -1,14 +1,10 @@
 {
   "title": "X-Ray Ring Around SN1987A",
-  "credit": [
-    "Credit: X-ray: D.Burrows (PSU) et al., Optical: P.Challis (CfA) et al., NASA Explanation",
-    "X-ray: D.Burrows (PSU) et al., Optical: P.Challis (CfA) et al., NASA"
-  ],
+  "credit": "X-ray: D.Burrows (PSU) et al., Optical: P.Challis (CfA) et al., NASA",
   "explanation": "This false-color image from the Chandra X-ray Observatory reveals a one light-year diameter ring of hot, ten million degree plasma. It is one of the most detailed X-ray images of the expanding blast wave from supernova 1987A (SN1987A). At visible wavelengths SN1987A is famous for its evolving rings, and superposed on this image are white contour lines which outline the innermost optical ring as seen by the Hubble Space Telescope. The composite picture clearly shows that the X-ray emitting shocked material lies just inside the optical ring. In fact, the X-ray emission seems to peak (whitest color) close to where the optical emission peaks (closely spaced contours), a persuasive demonstration that the optical light is produced as the blast wave plows into surrounding material. What will SN1987A look like in the future? According to a popular model, in coming years the expanding supernova blast wave should hit and light up even more material while the violent impacts send reverse shocks back towards the site of the explosion and light up the ejected stellar debris. In any event, astronomers will watch eagerly from a ringside seat as a new supernova remnant emerges.",
   "date": "2000-05-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0005/sn1987a_cxo_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0005/sn1987a_cxo_hst.jpg"
 }

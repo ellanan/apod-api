@@ -1,14 +1,10 @@
 {
   "title": "The Magnificent Tail of Comet McNaught",
-  "credit": [],
   "explanation": "Comet McNaught, the Great Comet of 2007, has grown a long and filamentary tail. The spectacular tail spreads across the sky and is visible to Southern Hemisphere observers just after sunset. The head of the comet remains quite bright and easily visible to even city observers without any optical aide. The amazing tail is visible on long exposures and even to the unaided eye from a dark location. Reports even have the tail visible just above the horizon after sunset for many northern observers as well. Comet McNaught, estimated at magnitude -2 (minus two), was caught by the comet's discoverer in the above image just after sunset last Friday from Siding Spring Observatory in Australia. Comet McNaught, the brightest comet in decades, is now fading as it moves further into southern skies and away from the Sun and Earth.",
   "date": "2007-01-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0701/comet_mcnaught_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert H. McNaught Explanation",
-    "Robert H. McNaught"
-  ],
+  "copyright": "Robert H. McNaught",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0701/comet_mcnaught.jpg"
 }

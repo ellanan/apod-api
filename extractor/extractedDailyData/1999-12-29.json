@@ -1,14 +1,10 @@
 {
   "title": "The Decade that Defined Star System",
-  "credit": [],
   "explanation": "As the 1990s began, the only planetary star system known was our own Solar System. The first extra-solar star system was discovered orbiting a pulsar in 1991. Slight changes in the precise arrival times of the pulses from the central small dense neutron star gave evidence of orbiting planets. By mid-decade Jupiter-like planets around Sun-like stars were being found by a slight wobble detected in the motion of these stars. Pictured above is an artist's sketch of a planet discovered orbiting HD217107. As the decade comes to a close, over two dozen planetary star systems have been identified, one recently confirmed by the detection of a slight eclipse by the planet itself. An unambiguous discovery of Sun-like star systems containing Earth-like planets still remains a goal.",
   "date": "1999-12-29",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/hd217107_cook.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Lynette Cook Explanation",
-    "Lynette Cook"
-  ],
+  "copyright": "Lynette Cook",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/hd217107_cook_big.jpg"
 }

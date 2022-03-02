@@ -1,14 +1,10 @@
 {
   "title": "Giant Dust Ring Discovered Around Saturn",
-  "credit": [
-    "Credit: NASA/JPL-Caltech/Univ. of Virginia Explanation",
-    "NASA/JPL-Caltech/Univ. of Virginia"
-  ],
+  "credit": "NASA/JPL-Caltech/Univ. of Virginia",
   "explanation": "What has created a large dust ring around Saturn? At over 200 times the radius of Saturn and over 50 times the radius of Saturn's expansive E ring, the newly discovered dust ring is the largest planetary ring yet imaged. The ring was found in infrared light by the Earth-trailing Spitzer Space Telescope. A leading hypothesis for its origin is impact material ejected from Saturn's moon Phoebe, which orbits right through the dust ring's middle. An additional possibility is that the dust ring supplies the mysterious material that coats part of Saturn's moon Iapetus, which orbits near the dust ring's inner edge. Pictured above in the inset, part of the dust ring appears as false-color orange in front of numerous background stars.",
   "date": "2009-10-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0910/saturndustring_spitzer_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0910/saturndustring_spitzer.jpg"
 }

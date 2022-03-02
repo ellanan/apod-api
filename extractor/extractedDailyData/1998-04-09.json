@@ -1,14 +1,10 @@
 {
   "title": "Quasar in an Elliptical Galaxy",
-  "credit": [
-    "Credit: J. S. Dunlop, R. J. McLure (U. Edinburgh), HST, NASA Explanation",
-    "J. S. Dunlop, R. J. McLure (U. Edinburgh), HST, NASA"
-  ],
+  "credit": "J. S. Dunlop, R. J. McLure (U. Edinburgh), HST, NASA",
   "explanation": "Where do quasars live? Quasars are the brightest objects in the universe, so bright they can be seen from across the universe. Observations continue to show that most quasars are surrounded by a relatively faint nebulous patch. Astronomers are trying to identify the nature of these patches. The above false-color picture shows a central quasar embedded in an unusual elliptical galaxy. The galaxy is being gravitationally distorted by a neighboring galaxy. Recent evidence indicates that most quasars live near the centers of large, elliptical galaxies - even those quasars where no host galaxy could be found before. Quasars themselves are thought to result from matter falling toward supermassive black-holes.",
   "date": "1998-04-09",
   "hdurl": "https://apod.nasa.gov/apod/image/9804/qso0157_hst.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9804/qso0157_hst_big.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Alpha Centauri: The Closest Star System",
-  "credit": [],
   "explanation": "",
   "date": "1996-05-26",
   "hdurl": "https://apod.nasa.gov/apod/image/alpha_cen_poss_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: STSci Digitized Sky Survey, Anglo-Australian Observatory Explanation",
-    "STSci Digitized Sky Survey, Anglo-Australian Observatory"
-  ],
+  "copyright": "STSci Digitized Sky Survey, Anglo-Australian Observatory",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/alpha_cen_poss.gif"
 }

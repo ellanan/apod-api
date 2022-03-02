@@ -1,14 +1,10 @@
 {
   "title": "Fly Me to the Moons",
-  "credit": [],
   "explanation": "Sometimes the Moon is a busy direction. Last week, for example, our very Moon passed in front of the planet Jupiter. While capturing this unusual spectacle from New South Wales, Australia, a quick-thinking astrophotographer realized that a nearby plane might itself pass in front of the Moon, and so quickly reset his camera to take a continuous series of short duration shots. As hoped, for a brief instant, that airplane, the Moon, and Jupiter were all visible in a single exposure, which is shown above. But the project was not complete -- a longer exposure was then taken to bring up three of the Jupiter's own moons: Io, Callisto, and Europa (from left to right). Unfortunately, this triple spectacle soon disappeared. Less than a second later, the plane flew away from the Moon. A few seconds after that, the Moon moved to cover all of Jupiter. A few minutes after that, Jupiter reappeared on the other side of the Moon, and even a few minutes after that the Moon moved completely away from Jupiter. Although hard to catch, planes cross in front of the Moon quite frequently, but the Moon won't eclipse Jupiter again for another three years.",
   "date": "2013-02-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1302/moonjupitermoons_gibbs_2000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Greg Gibbs (Capturing the Night Explanation",
-    "Greg Gibbs (Capturing the Night"
-  ],
+  "copyright": "Greg Gibbs (Capturing the Night",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1302/moonjupitermoons_gibbs_960.jpg"
 }

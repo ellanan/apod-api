@@ -1,14 +1,10 @@
 {
   "title": "A GRB 000301C Symphony",
-  "credit": [
-    "Credit: Andrew Fruchter (STScI) et al., STIS, HST, NASA Explanation",
-    "Andrew Fruchter (STScI) et al., STIS, HST, NASA"
-  ],
+  "credit": "Andrew Fruchter (STScI) et al., STIS, HST, NASA",
   "explanation": "Telescopic instruments in Earth and space are still tracking a tremendous explosion that occurred across the universe. A nearly unprecedented symphony of international observations began abruptly on March 1 when Earth-orbiting RXTE, Sun-orbiting Ulysses, and asteroid-orbiting NEAR all detected a 10-second burst of high-frequency gamma radiation. Within 48 hours astronomers using the 2.5-meter Nordic Optical Telescope chimed in with the observation of a middle-frequency optical counterpart that was soon confirmed with the 3.5-meter Calar Alto Telescope in Spain. By the next day the explosion was picked up in low-frequency radio waves by the by the European IRAM 30-meter dish in Spain, and then by the VLA telescopes in the US. The Japanese 8-meter Subaru Telescope interrupted a maiden engineering test to trumpet in infrared observations. Major telescopes across the globe soon began playing along as GRB 000301C came into view, detailing unusual behavior. The Hubble Space Telescope captured the above image and was the first to obtain an accurate distance to the explosion, placing it near redshift 2, most of the way across the visible universe. The Keck II Telescope in Hawaii quickly confirmed and refined the redshift. Still, no one is sure what type of explosion this was. The symphony is not over - oddly no host galaxy appears near the position of this explosion. Will one appear as the din of the loud fireball fades?",
   "date": "2000-03-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0003/grb000301c_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0003/grb000301c_hst.gif"
 }

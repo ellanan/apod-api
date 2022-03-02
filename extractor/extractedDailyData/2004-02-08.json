@@ -1,14 +1,10 @@
 {
   "title": "In the Center of the Omega Nebula",
-  "credit": [
-    "Credit: ACS Science & Engineering Team, Explanation",
-    "ACS Science & Engineering Team,"
-  ],
+  "credit": "ACS Science & Engineering Team,",
   "explanation": "In the depths of the dark clouds of dust and molecular gas known as the Omega Nebula, stars continue to form. The above image from the Hubble Space Telescope's Advanced Camera for Surveys shows exquisite detail in the famous star-forming region. The dark dust filaments that lace the center of Omega Nebula were created in the atmospheres of cool giant stars and in the debris from supernova explosions. The red and blue hues arise from glowing gas heated by the radiation of massive nearby stars. The points of light are the young stars themselves, some brighter than 100 Suns. Dark globules mark even younger systems, clouds of gas and dust just now condensing to form stars and planets. The Omega Nebula lies about 5000 light years away toward the constellation of Sagittarius. The region shown spans about 3000 times the diameter of our Solar System.",
   "date": "2004-02-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0205/omega_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0205/omega_hst.jpg"
 }

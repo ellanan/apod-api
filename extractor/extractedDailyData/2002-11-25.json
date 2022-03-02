@@ -1,14 +1,10 @@
 {
   "title": "The Earth's Magnetic Field",
-  "credit": [],
   "explanation": "Why does the Earth have a magnetic field? The electrical conductivity of the molten plasma of the Earth's core should be able to damp the current magnetic field in only thousands of years. Yet our five billion year old Earth clearly causes magnets to point to (defined) north. The mystery is still being studied but recently thought related to motions in the Earth's liquid outer core. Specifically, as portions of the outer core cool and fall inward, oceans of the liquid iron-rich magma rise outward, forced into a helical motion by the spin of the Earth. This motion, many geologists now believe, regenerates Earth's magnetism. Pictured above, a computer simulation shows the resulting magnetic field lines out to two Earth radii, with blue lines directed inward and yellow lines directed outward.",
   "date": "2002-11-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0211/field_glatz_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Gary A. Glatzmaier (UCSC) Explanation",
-    "Gary A. Glatzmaier (UCSC)"
-  ],
+  "copyright": "Gary A. Glatzmaier (UCSC)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0211/field_glatz.gif"
 }

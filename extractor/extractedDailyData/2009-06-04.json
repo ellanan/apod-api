@@ -1,14 +1,10 @@
 {
   "title": "Sunspots on a Cloudy Day",
-  "credit": [],
   "explanation": "On June 2nd, clouds over Stuttgart, Germany parted to reveal what has become a relatively rare sight, spots on the Sun. In fact, the roughly 11-year solar activity cycle is still in a surprisingly deep minimum and the years 2008 and 2009 have had the lowest sunspot counts since the 1950s. Even the latest prediction is that the new cycle, Solar Cycle 24, will reach a maximum in May 2013 with a below-average sunspot count. The Solar Cycle 24 sunspots recorded here are in active region AR 1019. Previously, only two cycle 24 active regions with sunspots, AR 1018 and AR 1017, were seen in May.",
   "date": "2009-06-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0906/090602SunSpotsSeip.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip (TWAN) Explanation",
-    "Stefan Seip (TWAN)"
-  ],
+  "copyright": "Stefan Seip (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0906/090602SunSpotsSeipc900.jpg"
 }

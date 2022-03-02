@@ -1,14 +1,10 @@
 {
   "title": "Highlights of the North Winter Sky",
-  "credit": [],
   "explanation": "What can you see in the night sky this season? The featured graphic gives a few highlights for Earth's northern hemisphere. Viewed as a clock face centered at the bottom, early (northern) winter sky events fan out toward the left, while late winter events are projected toward the right. Objects relatively close to Earth are illustrated, in general, as nearer to the cartoon figure with the telescope at the bottom center -- although almost everything pictured can be seen without a telescope. As happens during any season, constellations appear the same year to year, and, as usual, the Geminids meteor shower will peak in mid-December. Also as usual, the International Space Station (ISS) can be seen, at times, as a bright spot drifting across the sky after sunset. Less usual, the Moon is expected to pass nearly in front of several planets in early January. A treat this winter is Comet 46P/Wirtanen, already bright, will pass only 36 lunar distances from the Earth in mid-December, potentially making it easily visible to the unaided eye.",
   "date": "2018-12-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1812/WinterSky1819_u2g_5000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Universe2go.com Explanation",
-    "Universe2go.com"
-  ],
+  "copyright": "Universe2go.com",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1812/WinterSky1819_u2g_960.jpg"
 }

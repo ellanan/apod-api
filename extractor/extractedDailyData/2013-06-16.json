@@ -1,14 +1,10 @@
 {
   "title": "APOD Turns Eighteen",
-  "credit": [],
   "explanation": "The first APOD appeared eighteen years ago today, on 1995 June 16. Although garnering only 14 pageviews on that day, we are proud to estimate that APOD has now served over one billion space-related images over the past eighteen years. That early beginning, along with a nearly unchanging format, has allowed APOD to be a consistent and familiar site on a web frequently filled with change. Many people don't know, though, that APOD is now translated daily into many major languages. We again thank our readers, astrophotographers, and NASA for their continued support, but ask that any potentially congratulatory e-mail go this year to the volunteers all around the world who translate APOD's captions daily, many times with considerable effort. Some APOD images are featured in the above spectacular collage visualizing APOD as a classic film reel, submitted by an APOD enthusiast skilled in digital image manipulation. How many APOD images can you identify?",
   "date": "2013-06-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1306/apod18_letian_2480.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Wang Letian Explanation",
-    "Wang Letian"
-  ],
+  "copyright": "Wang Letian",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1306/apod18_letian_960.jpg"
 }

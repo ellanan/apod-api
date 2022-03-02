@@ -1,14 +1,10 @@
 {
   "title": "Open Star Clusters M35 and NGC 2158",
-  "credit": [],
   "explanation": "Open clusters of stars can be near or far, young or old, and diffuse or compact. Found near the plane of our Milky Way galaxy, they contain from 100 to 10,000 stars, all of which formed at nearly the same time. Bright blue stars frequently distinguish younger open clusters. M35, on the upper left, is relatively nearby at 2800 light years distant, relatively young at 150 million years old, and relatively diffuse, with about 2500 stars spread out over a volume 30 light years across. An older and more compact open cluster, NGC 2158, is at the lower right. NGC 2158 is four times more distant than M35, over 10 times older, and much more compact with many more stars in roughly the same volume of space. NGC 2158's bright blue stars have self-destructed, leaving cluster light to be dominated by older and yellower stars. Both clusters are seen toward the constellation of Gemini.",
   "date": "2013-01-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1301/M35-DW.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dieter Willasch (Astro-Cabinet) Explanation",
-    "Dieter Willasch (Astro-Cabinet)"
-  ],
+  "copyright": "Dieter Willasch (Astro-Cabinet)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1301/M35-DW900.jpg"
 }

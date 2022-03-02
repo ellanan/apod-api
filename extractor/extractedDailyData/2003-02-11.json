@@ -1,14 +1,10 @@
 {
   "title": "Dumbbell Nebula Close-Up from Hubble",
-  "credit": [
-    "Credit: C. R. O'Dell (Vanderbilt) et al., Hubble Heritage Team (STScI / AURA), NASA Explanation",
-    "C. R. O'Dell (Vanderbilt) et al., Hubble Heritage Team (STScI / AURA), NASA"
-  ],
+  "credit": "C. R. O'Dell (Vanderbilt) et al., Hubble Heritage Team (STScI / AURA), NASA",
   "explanation": "What causes unusual knots of gas and dust in planetary nebulas? Seen previously in the Ring Nebula, the Helix Nebula, and NGC 2392, the knots' existence was not predicted previously and still not well understood. Pictured above is a newly released image of the Dumbbell Nebula by the Hubble Space Telescope showing details of its gaseous knots. Also visible are many bright young stars and dark sheets of interstellar dust. The Dumbbell Nebula, also known as M27, is a planetary nebula thought similar to what our Sun will become when it runs out of core fuel for nuclear fusion. Recent study of similar cometary knots indicates that they include concentrations of relatively cold molecular gas and that they change significantly as the planetary nebula ages.",
   "date": "2003-02-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0302/m27_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0302/m27_hst.jpg"
 }

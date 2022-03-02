@@ -1,14 +1,10 @@
 {
   "title": "Galaxies Away",
-  "credit": [
-    "Credit: W. Keel and R. White (U. Alabama), NASA Explanation",
-    "W. Keel and R. White (U. Alabama), NASA"
-  ],
+  "credit": "W. Keel and R. White (U. Alabama), NASA",
   "explanation": "This striking pair of galaxies is far, far away ... about 350 million light-years from Earth. Cataloged as AM0500-620, the pair is located in the southern constellation Dorado. The background elliptical and foreground spiral galaxy are representative of two of the three major classes of galaxies which inhabit our Universe. Within the disks of spiral galaxies, like our own Milky Way, gas, dust, and young blue star clusters trace out grand spiral \"arms\". The dust lanes along the arms of this particular spiral stand out dramatically in this Hubble Space Telescope image as they obligingly sweep in front of the background elliptical. Like the central bulges of spiral galaxies, elliptical galaxies tend toward spherical shapes resulting from more random motions of their stars. But while spirals produce new stars, star formation in ellipticals which lack gas and dust seems to have stopped. How do galaxies evolve with cosmic time? Evidence is growing that graceful galaxy shapes can hide a violent history.",
   "date": "1999-08-21",
   "hdurl": "https://apod.nasa.gov/apod/image/9803/am0500_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9803/am0500_hst1.jpg"
 }

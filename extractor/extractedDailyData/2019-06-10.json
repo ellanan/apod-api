@@ -1,14 +1,10 @@
 {
   "title": "Jupiter Abyss",
-  "credit": [
-    "Credit: NASA, Juno, SwRI, MSSS; Processing & License: Gerald Eichst�dt & Sean Doran Explanation",
-    "NASA, Juno, SwRI, MSSS; Processing & License: Gerald Eichst�dt & Sean Doran"
-  ],
+  "credit": "NASA, Juno, SwRI, MSSS; Processing & License: Gerald Eichst�dt & Sean Doran",
   "explanation": "What's that black spot on Jupiter? No one is sure. During the latest pass of NASA's Juno around Jupiter, the robotic spacecraft imaged an usually dark cloud feature informally dubbed the Abyss. Surrounding cloud patterns show the Abyss to be at the center of a vortex. Since dark features on Jupiter's atmosphere tend to run deeper than light features, the Abyss may really be the deep hole that it appears -- but without more evidence that remains conjecture. The Abyss is surrounded by a complex of meandering clouds and other swirling storm systems, some of which are topped by light colored, high-altitude clouds. The featured image was captured last month while Juno passed only about 15,000 kilometers above Jupiter's cloud tops. The next close pass of Juno near Jupiter will be in July.",
   "date": "2019-06-10",
   "hdurl": "https://apod.nasa.gov/apod/image/1906/JupiterAbyss_JunoEichstadt_1080.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1906/JupiterAbyss_JunoEichstadt_1080.jpg"
 }

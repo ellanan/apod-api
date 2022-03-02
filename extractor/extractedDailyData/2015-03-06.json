@@ -1,14 +1,10 @@
 {
   "title": "Cometary Globule CG4",
-  "credit": [],
   "explanation": "The faint and somehow menacing cometary globule CG4 reaches through the center of this deep southern skyscape. About 1,300 light-years from Earth toward the constellation Puppis, its head is about 1.5 light-years in diameter and its tail about 8 light-years long. That's far larger than the Solar System's comets that it seems to resemble. In fact, the dusty cloud contains enough material to form several Sun-like stars and likely has ongoing star formation within. How its distinctive form came about is still debated, but its long tail trails away from the Vela Supernova remnant near the center of the Gum Nebula, while its head could represent the rupture of an originally more spherical cloud. Still, the edge-on spiral galaxy also near picture center is not actually being threatened by CG4. The galaxy lies in the distant background more than 100 million light-years away.",
   "date": "2015-03-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1503/cg04-1_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: CEDIC Team - Processing: Christoph Kaltseis Explanation",
-    "CEDIC Team - Processing: Christoph Kaltseis"
-  ],
+  "copyright": "CEDIC Team - Processing: Christoph Kaltseis",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1503/cg04-1_1024.jpg"
 }

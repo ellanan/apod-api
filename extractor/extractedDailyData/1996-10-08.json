@@ -1,14 +1,10 @@
 {
   "title": "ROSAT Explores the X-Ray Sky",
-  "credit": [
-    "Credit: S. Digel and S. Snowden (GSFC), ROSAT Project, MPE, NASA Explanation",
-    "S. Digel and S. Snowden (GSFC), ROSAT Project, MPE, NASA"
-  ],
+  "credit": "S. Digel and S. Snowden (GSFC), ROSAT Project, MPE, NASA",
   "explanation": "",
   "date": "1996-10-08",
   "hdurl": "https://apod.nasa.gov/apod/image/xallsky_rosat_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/xallsky_rosat.gif"
 }

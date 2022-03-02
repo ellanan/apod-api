@@ -1,14 +1,10 @@
 {
   "title": "The Compton Gamma Ray Observatory",
-  "credit": [
-    "Credit: STS-37 Crew, Compton Science Support Center, NASA Explanation",
-    "STS-37 Crew, Compton Science Support Center, NASA"
-  ],
+  "credit": "STS-37 Crew, Compton Science Support Center, NASA",
   "explanation": "The Compton Gamma Ray Observatory (CGRO) was the most massive instrument ever launched by a NASA Space Shuttle in 1991 and continues to revolutionize gamma-ray astronomy. Before Compton loses more stabilizing gyroscopes, NASA is considering firing onboard rockets to bring it on a controlled reentry into the ocean. This orbiting observatory sees the sky in gamma-ray photons - light so blue humans can't see it. These photons are blocked by the Earth's atmosphere from reaching the Earth's surface. Results from CGRO, pictured above, have shown the entire universe to be a violent and rapidly changing place - when viewed in gamma-rays. Astronomers using CGRO data continue to make monumental discoveries, including identifying mysterious gamma-ray bursts that uniquely illuminate the early universe, discovery of a whole new class of QSOs, and discovery of objects so strange that astronomers can't yet figure out what they are.",
   "date": "2000-01-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0001/compton_deploy_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0001/compton_deploy.jpg"
 }

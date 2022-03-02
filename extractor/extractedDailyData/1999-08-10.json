@@ -1,14 +1,10 @@
 {
   "title": "A Total Eclipse for Europe",
-  "credit": [
-    "Credit: Fred Espenak (GSFC), NASA Explanation",
-    "Fred Espenak (GSFC), NASA"
-  ],
+  "credit": "Fred Espenak (GSFC), NASA",
   "explanation": "The last total solar eclipse of this millennium will be visible for a few minutes tomorrow from a narrow path in Europe and Asia. There, millions of sightseers will witness the Moon move directly between the Earth and Sun, covering up the Sun completely. Observers not besieged by clouds may get to see the Sun's large and flowing corona first hand. A partial eclipse of the Sun, where part of the Sun is still visible, can be witnessed throughout the rest of Europe and much of Northern Africa and Asia. Precise locations of total and partial eclipse are shown on the above map. In modern times, eclipses are precisely predicted and well understood. In fact, anyone can see this total solar eclipse live on the web. In ancient times, though, eclipses frequently startled large populations, who interpreted them in ways that changed the course of wars and empires.",
   "date": "1999-08-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9908/eartheclipse99_fe_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9908/eartheclipse99_fe.jpg"
 }

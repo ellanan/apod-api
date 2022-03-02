@@ -1,14 +1,10 @@
 {
   "title": "Dione, Rings, Shadows, Saturn",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What's happening in this strange juxtaposition of moon and planet? First and foremost, Saturn's moon Dione was captured here in a dramatic panorama by the robotic Cassini spacecraft currently orbiting the giant planet. The bright and cratered moon itself spans about 1100-km, with the large multi-ringed crater Evander visible on the lower right. Since the rings of Saturn are seen here nearly edge-on, they are directly visible only as a thin horizontal line that passes behind Dione. Arcing across the bottom of the image, however, are shadows of Saturn's rings, showing some of the rich texture that could not be seen directly. In the background, few cloud features are visible on Saturn. The featured image was taken during the last planned flyby of Dione by Cassini, as the spacecraft is scheduled to dive into Saturn's atmosphere during 2017.",
   "date": "2015-08-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1508/Dione02_Cassini_1024.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1508/Dione02_Cassini_960.jpg"
 }

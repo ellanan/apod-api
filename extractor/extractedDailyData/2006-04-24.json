@@ -1,14 +1,10 @@
 {
   "title": "Star Clouds over Arizona",
-  "credit": [],
   "explanation": "The clouds in the foreground are much different than the clouds in the background. In the foreground are a photogenic deck of Earth-based water clouds. The long exposure used to create the above photograph makes the light from the left, reflected from Phoenix, Arizona, USA, appear like a sunset. Far in the distance, however, are star clouds from the disk of our Milky Way Galaxy. Billions of stars like our Sun live there, circling our Galactic center every 200 million years. Contrast between the water clouds and the star clouds has been digitally enhanced. Between the two, visible on the upper right, is the planet Jupiter.",
   "date": "2006-04-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0604/cloudsclouds_beinert.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ulrich Beinert Explanation",
-    "Ulrich Beinert"
-  ],
+  "copyright": "Ulrich Beinert",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0604/cloudsclouds_beinert_big.jpg"
 }

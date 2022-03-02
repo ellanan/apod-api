@@ -1,14 +1,10 @@
 {
   "title": "Atlantis and Hubble Side by Side",
-  "credit": [],
   "explanation": "On Wednesday, May 13, two, tiny, fast moving spots crossed an otherwise featureless solar disk. Not sunspots though, the dark blemishes were silhouettes of the shuttle orbiter Atlantis and the Hubble Space Telescope side by side. To record this sharp picture of the orbiting pair against the face of the Sun, astronomer Thierry Legault carefully set up his camera and telescope near the center of a 5 kilometer wide path of visibility about 100 kilometers south of Kennedy Space Center in Florida. He opened the shutter for 1/8,000 second at 12:17 EDT, catching Atlantis and Hubble at a range of 600 kilometers while they were moving at 7 kilometers/second. The total duration of the transit (Sun crossing) was 0.8 seconds. Enlarged in the inset view, Atlantis (top) is approaching Hubble prior to capturing the space telescope. Thursday, astronauts began a series of spacewalks to perform the maintenance as part of the final mission to Hubble.",
   "date": "2009-05-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0905/atlantisHST_2009may13_legault.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Thierry Legault Explanation",
-    "Thierry Legault"
-  ],
+  "copyright": "Thierry Legault",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0905/atlantisHSTinset_2009may13_legault.jpg"
 }

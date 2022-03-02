@@ -1,14 +1,10 @@
 {
   "title": "Palomar at Night",
-  "credit": [],
   "explanation": "What's wrong with this picture? The summer night sky is clear, and moonlight illuminates the dome of the Hale 200-inch Telescope at Palomar Observatory, northeast of San Diego, California, USA. The familiar stars of the Teapot asterism in the constellation Sagittarius shine above the dome and to the right. In fact, the only thing wrong with the picture is that the observatory dome's two massive shutters are closed tight ... on a clear night. This extremely unusual situation is a precaution prompted by the presence of airborne ash and smoke from wildfires in the area on July 17 which could have damaged the historic mirror's aluminum coating. Amateur astronomer Greg Redfern notes that this year has been a particularly bad one for observatories and wildfires, with the Mt. Stromlo Australian Observatory disaster and fires also threatening telescopes on Mount Lemmon near Tucson, Arizona.",
   "date": "2003-08-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0308/palomar200_redfern_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Greg Redfern (2003 JPL NASA Solar System Ambassador) Explanation",
-    "Greg Redfern (2003 JPL NASA Solar System Ambassador)"
-  ],
+  "copyright": "Greg Redfern (2003 JPL NASA Solar System Ambassador)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0308/palomar200_redfern_c2.jpg"
 }

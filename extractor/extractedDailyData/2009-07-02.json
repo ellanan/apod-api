@@ -1,14 +1,10 @@
 {
   "title": "Lyman Alpha Blob",
-  "credit": [
-    "Credit: NASA / ESA, CXC, JPL-Caltech, STScI, NAOJ, J.E. Geach (Univ. Durham) et al. Illustration: NASA/CXC/M.Weiss Explanation",
-    "NASA / ESA, CXC, JPL-Caltech, STScI, NAOJ, J.E. Geach (Univ. Durham) et al. Illustration: NASA/CXC/M.Weiss"
-  ],
+  "credit": "NASA / ESA, CXC, JPL-Caltech, STScI, NAOJ, J.E. Geach (Univ. Durham) et al. Illustration: NASA/CXC/M.Weiss",
   "explanation": "Dubbed a Lyman-alpha blob, an enormous cloud of hydrogen gas spans several hundred thousand light-years in this remarkable image (left), a composite of x-ray, optical, and infrared data from space and ground based observatories. The gigantic, amoeba-like structure is seen as it was when the universe was a mere 2 billion years old (about 12 billion years ago). Lyman-alpha blobs are so called because they strongly emit radiation due to the Lyman-alpha emission line of hydrogen gas. Normally, Lyman-alpha emission is in the ultraviolet part of the spectrum, but Lyman-apha blobs are so distant, their light is redshifted to (longer) optical wavelengths. X-ray data (blue) indicates the presence of a supermassive black hole feeding at the center of an active galaxy embedded in the blob. Illustrated close up in the right hand panel, radiation and outflows from the active galaxy are thought to be a source for energizing and heating the blob's hydrogen gas. In fact, Lyman-alpha blobs could represent an early phase in galaxy formation where the heating is so great it begins to limit further rapid growth of active galaxies and their supermassive black holes.",
   "date": "2009-07-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0907/labs2048_multiCXC.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0907/labs900_multiCXC.jpg"
 }

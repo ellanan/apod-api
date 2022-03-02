@@ -1,14 +1,10 @@
 {
   "title": "The Map Of Eros",
-  "credit": [
-    "Credit: NEAR Project, JHU APL, NASA Explanation",
-    "NEAR Project, JHU APL, NASA"
-  ],
+  "credit": "NEAR Project, JHU APL, NASA",
   "explanation": "This map of Eros was constructed from a mosaic of images recorded by the NEAR Shoemaker spacecraft, currently orbiting the 40 x 14 x 14 kilometer asteroid. A simple cylindrical projection of an irregularly shaped world, the map's individual images don't always match up at the edges. Shown here, place names have been proposed to describe the geography of Eros with a fitting theme, though. They are based on romantic figures in the history and literature of the cultures of planet Earth. The largest feature, Himeros, is a depression about 10 kilometers wide. In Greek mythology, Himeros was an attendant of Eros and the personification of the longing of love. Today, after safely surveying Eros for the past eight months, NEAR Shoemaker is scheduled to make a daring close approach to the asteroid, briefly flying to within about 6 kilometers of its surface. Images returned from that distance are expected to show features less than 1 meter across.",
   "date": "2000-10-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0010/erosmap_near_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0010/erosmap_near.jpg"
 }

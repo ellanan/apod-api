@@ -1,14 +1,10 @@
 {
   "title": "NuSTAR X-Ray Telescope Launched",
-  "credit": [],
   "explanation": "What's left after a star explodes? To help find out, NASA launched the Nuclear Spectroscopic Telescope Array (NuSTAR) satellite into Earth orbit last week. NuSTAR's ability to focus hard X-rays emitted from the nuclei of atoms will be used, among other things, to inspect the surroundings of supernova remnants so as to better understand why these supernovas occurred, what types of objects resulted, and what mechanisms make their surroundings glow so hot. NuSTAR will also give humanity unprecedented looks at the hot corona of our Sun, hot gasses in clusters of galaxies, and the supermassive black hole in the center of our Galaxy. Pictured above is an artist's illustration depicting how NuSTAR works. X-rays similar to those used in your dentist's office enter the telescope on the right and skip off two sets of parallel mirrors that focus them onto the detectors on the left. A long but low-weight mast separates the two, and the whole thing is powered by solar panels on the upper left. Part of the excitement involving NuSTAR is not only what things it is expected to see, but by looking at the universe in a new way, what things that are completely unknown that might be discovered. NuSTAR has a planned two year lifetime.",
   "date": "2012-06-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1206/nustar_nasa_800.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fiona Harrison et al., Caltech, NASA Explanation",
-    "Fiona Harrison et al., Caltech, NASA"
-  ],
+  "copyright": "Fiona Harrison et al., Caltech, NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1206/nustar_nasa_960.jpg"
 }

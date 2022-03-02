@@ -1,14 +1,10 @@
 {
   "title": "Voyager Views Titan's Haze",
-  "credit": [
-    "Credit: Voyager Project, JPL, NASA Explanation",
-    "Voyager Project, JPL, NASA"
-  ],
+  "credit": "Voyager Project, JPL, NASA",
   "explanation": "Launched in 1977, 25 years ago today, the Voyager 1 spacecraft's historic tour of the outer Solar System took it past Saturn in late 1980. On November 12, 1980, Voyager 1 recorded this view looking across the edge of Titan, Saturn's largest moon, from a distance of about 22,000 kilometers. Seen in false color, the moon's hazy atmosphere appears orange with further layers of blue haze suspended above. Titan's mostly nitrogen atmosphere, denser than planet Earth's, also contains methane and is thought to be laced with more complex hydrogen and carbon compounds. The composition is likened to Earth's atmosphere before life began. Spotted by Voyager, the detached layers of haze hundreds of kilometers above the surface, along with details of Titan's atmospheric chemistry, have intrigued earth-bound researchers who have recently proposed a model that links seasonal variations in the haze, winds, and sunlight. Their model accounts for the early Voyager observations as well as subsequent studies. Further tests of the model are anticipated when the Huygens probe, carried by the saturn-bound Cassini spacecraft, enters Titan's atmosphere in 2005.",
   "date": "2002-09-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0209/titanhaze_voyager1_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0209/titanhaze_voyager1.jpg"
 }

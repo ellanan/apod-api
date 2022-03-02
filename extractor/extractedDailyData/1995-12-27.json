@@ -1,14 +1,10 @@
 {
   "title": "Nova Cygni 1992",
-  "credit": [
-    "Credit: NASA, ESA, HST, F. Paresce, R. Jedrzejewski (STScI) Explanation",
-    "NASA, ESA, HST, F. Paresce, R. Jedrzejewski (STScI)"
-  ],
+  "credit": "NASA, ESA, HST, F. Paresce, R. Jedrzejewski (STScI)",
   "explanation": "",
   "date": "1995-12-27",
   "hdurl": "https://apod.nasa.gov/apod/image/novaCygni_hst.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/novaCygni_hst.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Nearby Cepheid Variable RS Pup",
-  "credit": [
-    "Credit: NASA, ESA, Hubble Heritage Team; Acknowledgement: Howard Bond (STScI & Penn State U.) Explanation",
-    "NASA, ESA, Hubble Heritage Team; Acknowledgement: Howard Bond (STScI & Penn State U.)"
-  ],
+  "credit": "NASA, ESA, Hubble Heritage Team; Acknowledgement: Howard Bond (STScI & Penn State U.)",
   "explanation": "In the center is one of the most important stars on the sky. This is partly because, by coincidence, it is surrounded by a dazzling reflection nebula. Pulsating RS Puppis, the brightest star in the image center, is some ten times more massive than our Sun and on average 15,000 times more luminous. In fact, RS Pup is a Cepheid type variable star, a class of stars whose brightness is used to estimate distances to nearby galaxies as one of the first steps in establishing the cosmic distance scale. As RS Pup pulsates over a period of about 40 days, its regular changes in brightness are also seen along the nebula delayed in time, effectively a light echo. Using measurements of the time delay and angular size of the nebula, the known speed of light allows astronomers to geometrically determine the distance to RS Pup to be 6,500 light-years, with a remarkably small error of plus or minus 90 light-years. An impressive achievement for stellar astronomy, the echo-measured distance also more accurately establishes the true brightness of RS Pup, and by extension other Cepheid stars, improving the knowledge of distances to galaxies beyond the Milky Way. The featured image was taken by the Hubble Space Telescope.",
   "date": "2018-08-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1808/RSPup_HubbleBond_3981.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1808/RSPup_HubbleBond_960.jpg"
 }

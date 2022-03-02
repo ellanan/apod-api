@@ -1,14 +1,10 @@
 {
   "title": "An Extreme UltraViolet View of the Comet",
-  "credit": [
-    "Credit: M. Mumma (GSFC) et al., EUVE Support Team, NASA Explanation",
-    "M. Mumma (GSFC) et al., EUVE Support Team, NASA"
-  ],
+  "credit": "M. Mumma (GSFC) et al., EUVE Support Team, NASA",
   "explanation": "",
   "date": "1996-03-30",
   "hdurl": "https://apod.nasa.gov/apod/image/hyakutake_euve.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hyakutake_euve.gif"
 }

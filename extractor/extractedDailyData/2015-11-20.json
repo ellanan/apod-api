@@ -1,14 +1,10 @@
 {
   "title": "Leonids and Friends",
-  "credit": [],
   "explanation": "Leonid meteors rained down on planet Earth this week, the annual shower of dusty debris from the orbit of Comet 55P/Tempel-Tuttle. Leonids streak through this composite night skyview from a backyard observatory in southern Ontario. Recorded with camera fixed to a tripod, the individual frames capture the bright meteor activity throughout the night of November 16/17, about a day before the shower's very modest peak. The frames are registered to the fixed field of view, so the meteor trails are not all aligned to the background star field recorded that same evening when nebula-rich Orion stood above the southern horizon. As a result, the trails don't appear to point back to the shower's radiant in Leo, situated off the left edge of the star field frame. In fact, some trails could be of Taurid meteors, a shower also active in November, or even sporadic meteors, including a bright fireball with its reflection near the horizon.",
   "date": "2015-11-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1511/ParkMeteors11_16_17.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Malcolm Park (North York Astronomical Association) Explanation",
-    "Malcolm Park (North York Astronomical Association)"
-  ],
+  "copyright": "Malcolm Park (North York Astronomical Association)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1511/ParkMeteors11_16_17p1024.jpg"
 }

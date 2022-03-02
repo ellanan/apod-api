@@ -1,14 +1,10 @@
 {
   "title": "Leonid Meteor Shower Next Week",
-  "credit": [],
   "explanation": "Early next week, a spectacular meteor storm is expected: the 1998 Leonids. It is widely thought that that the meteors from the Leonids meteor shower are just small pieces of Comet Temple-Tuttle falling to Earth. During each pass near the Sun, a comet will heat up and shed pieces of ice and rock from its nucleus. This debris continues to orbit the Sun until either evaporating or being swept up by some large solar-system body. A piece of comet debris striking the Moon creates a small crater, but a piece striking the Earth usually burns up in the atmosphere causing a brief, bright streak. The streak below center in the above picture of the northern sky actually depicts a meteor from the Perseid meteor shower, a usually impressive display that peaks every year in mid-August.",
   "date": "1998-11-08",
   "hdurl": "https://apod.nasa.gov/apod/image/perseid_vw.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: V. Winter (ICSTARS) Explanation",
-    "V. Winter (ICSTARS)"
-  ],
+  "copyright": "V. Winter (ICSTARS)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/perseid_vw.gif"
 }

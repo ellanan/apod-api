@@ -1,14 +1,10 @@
 {
   "title": "X-Ray Triple Jet",
-  "credit": [
-    "Credit: ISAS, Yohkoh Project, SXT Group Explanation",
-    "ISAS, Yohkoh Project, SXT Group"
-  ],
+  "credit": "ISAS, Yohkoh Project, SXT Group",
   "explanation": "Recorded on July 7, 1998, this animation using X-ray images of the Sun shows an amazing event - three nearly simultaneous jets connected with solar active regions. The two frames were taken several hours apart by the Soft X-ray Telescope on board the orbiting Yohkoh observatory. They have a \"negative\" color scheme, the darker colors representing more intense X-rays from the corona and active regions on the solar surface. The pictures clearly show two curving jets of X-ray hot plasma appearing above the solar equator and one below. A sharp vertical stripe near the jet above center is a digital blemish while the overall shift of the image is due to solar rotation. As the Sun is now approaching the active part of its 11 year cycle, numerous single jets have been seen. But the appearance of these three widely separated jets at once is considered an unlikely coincidence and has fueled current speculations about their origins.",
   "date": "1999-07-31",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/triple_jet_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/triple_jet.gif"
 }

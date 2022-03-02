@@ -1,14 +1,10 @@
 {
   "title": "A Baby Galaxy",
-  "credit": [
-    "Credit: Arjun Dey (Johns Hopkins U.) et al., Keck 10-m Telescope Explanation",
-    "Arjun Dey (Johns Hopkins U.) et al., Keck 10-m Telescope"
-  ],
+  "credit": "Arjun Dey (Johns Hopkins U.) et al., Keck 10-m Telescope",
   "explanation": "What's the farthest galaxy known? The answer keeps changing as astronomers compete to find new galaxies which top the list. The new record holder is now the faint red smudge indicated in the above image by the arrow. Detected light left this galaxy billions of years ago, well before the Earth formed, when the universe was younger than 1/10th of its present age. Astronomers have measured a redshift of 5.34 for this galaxy, breaking the \"5 barrier\" for the first time. Young galaxies are of much interest to astronomers because many unanswered questions exist on when and how galaxies formed in the early universe. Although this galaxy's distance exceeds that of even the farthest known quasar, it is still in front of the pervasive glowing gas that is now seen as the cosmic microwave background radiation.",
   "date": "1998-03-24",
   "hdurl": "https://apod.nasa.gov/apod/image/9803/gal5p34_keck_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9803/gal5p34_keck.jpg"
 }

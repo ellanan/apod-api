@@ -1,14 +1,10 @@
 {
   "title": "CG4: A Ruptured Cometary Globule",
-  "credit": [],
   "explanation": "The odd looking \"creature\" to the right of center in the above photo is a gas cloud known as a cometary globule. This globule, however, has ruptured. Cometary globules are typically characterized by dusty heads and elongated tails. These features cause cometary globules to have visual similarities to comets, but in reality they are very much different. Cometary globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not completely known. The galaxy to the left of center is very far in the distance and is only placed near CG4 by chance superposition.",
   "date": "1996-12-28",
   "hdurl": "https://apod.nasa.gov/apod/image/cg4_aat.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: David Malin, Anglo Australian Observartory Explanation",
-    "David Malin, Anglo Australian Observartory"
-  ],
+  "copyright": "David Malin, Anglo Australian Observartory",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/cg4_aat.gif"
 }

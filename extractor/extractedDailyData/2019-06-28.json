@@ -1,14 +1,10 @@
 {
   "title": "A Solstice Night in Paris",
-  "credit": [],
   "explanation": "The night of June 21 was the shortest night for planet Earth's northern latitudes, so at latitude 48.9 degrees north, Paris was no exception. Still, the City of Light had an exceptionally luminous evening. Its skies were flooded with silvery night shining or noctilucent clouds after the solstice sunset. Hovering at the edge of space, the icy condensations on meteoric dust or volcanic ash are still in full sunlight at the extreme altitudes of the mesophere. Seen at high latitudes in summer months, stunning, wide spread displays of northern noctilucent clouds are now being reported.",
   "date": "2019-06-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1906/D7X7411-2Loic.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Loic Michel Explanation",
-    "Loic Michel"
-  ],
+  "copyright": "Loic Michel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1906/D7X7411-2Loic_1024.jpg"
 }

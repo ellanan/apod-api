@@ -1,14 +1,10 @@
 {
   "title": "Lunar Module at Taurus-Littrow",
-  "credit": [
-    "Credit: Daniel D. Durda (SwRI), Space Imagery Center, LPL, Apollo 17 Explanation",
-    "Daniel D. Durda (SwRI), Space Imagery Center, LPL, Apollo 17"
-  ],
+  "credit": "Daniel D. Durda (SwRI), Space Imagery Center, LPL, Apollo 17",
   "explanation": "Can the Hubble Space Telescope take a picture that shows the Apollo lunar modules on the Moon? With its 2.4 meter diameter mirror, the smallest object that the Hubble can resolve at the Moon's distance of around 400,000 kilometers is about 80 meters across. So, from low Earth orbit even Hubble's sharp vision can not image the Apollo lunar module descent stages, at most a few meters across, left behind at the lunar landing sites. A space telescope over ten times the size of Hubble could ... or a much smaller telescope in close lunar orbit. In fact, this picture does just resolve Apollo 17's Lunar Module, Challenger, and its shadow on the cratered floor of the Taurus-Littrow valley in the Moon's Mare Serenitatis. It was taken in 1972 from the Apollo 17 Command Module, America, orbiting about 100 kilometers above the Moon's surface and covers an area about 1.1 kilometers wide. Using a web site created by Dan Durda of Southwest Research Institute, armchair astronauts can explore orbital views of this and the 5 other Apollo lunar landing sites.",
   "date": "2002-06-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0206/lmsurface_apollo17_d.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0206/lmsurface_apollo17_d.jpg"
 }

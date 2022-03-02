@@ -1,14 +1,10 @@
 {
   "title": "Saturn: Lord of the Rings",
-  "credit": [
-    "Credit: Hubble Heritage Team, (AURA / STScI), R.G. French (Wellesley College), J. Cuzzi (NASA/Ames), L. Dones (SwRI), J. Lissauer (NASA/Ames) Explanation",
-    "Hubble Heritage Team, (AURA / STScI), R.G. French (Wellesley College), J. Cuzzi (NASA/Ames), L. Dones (SwRI), J. Lissauer (NASA/Ames)"
-  ],
+  "credit": "Hubble Heritage Team, (AURA / STScI), R.G. French (Wellesley College), J. Cuzzi (NASA/Ames), L. Dones (SwRI), J. Lissauer (NASA/Ames)",
   "explanation": "Born in 1564, Galileo used a telescope to explore the Solar System. In 1610, he became the first to be amazed by Saturn's rings, After nearly 400 years, Saturn's magnificent rings still offer one of the most stunning astronomical sights. Uniquely bright compared to the rings of the other gas giants, Saturn's ring system is around 250,000 kilometers wide but in places only a few tens of meters thick. Modern astronomers believe the rings are perhaps only a hundred million years young. Accumulating dust and dynamically interacting with Saturn's moons, the rings may eventually darken and sag toward the gas giant, losing their lustre over the next few hundred million years. Since Galileo, astronomers have subjected the entrancing rings to intense scrutiny to unlock their secrets. On December 31, 2003, Saturn made its closest approach to Earth for the next 29 years, a mere 1,200,000,000 kilometers. It will remain a tantalizing target for earthbound telescopes in the coming months.",
   "date": "2004-01-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0401/lordofrings_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0401/lordofrings_hst.jpg"
 }

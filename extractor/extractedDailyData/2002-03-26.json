@@ -1,14 +1,10 @@
 {
   "title": "Comet Ikeya-Zhang Over Tenerife",
-  "credit": [],
   "explanation": "Comet Ikeya-Zhang has become bright enough to stand out in the night sky. Discovered February 1, the comet has now just rounded the Sun and has likely attained its peak brightness. The comet appears near the Sun and over the next week moves from the evening sky (just after sunset) to the morning sky (just before sunrise). Many observers report a current brightness approaching third magnitude. The comet is actually a giant snowball created during the early days of our Solar System and pushed out by the gravitational tugs by massive planets. Comet Ikeya-Zhang has been back to the inner Solar System at least once before in 1661. Above, the comet was photographed above Tenerife, one the Canary Islands, Spain.",
   "date": "2002-03-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0203/ikeya_rodriguez_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Francisco A. Rodriguez Ramirez (AstroEduca) Explanation",
-    "Francisco A. Rodriguez Ramirez (AstroEduca)"
-  ],
+  "copyright": "Francisco A. Rodriguez Ramirez (AstroEduca)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0203/ikeya_rodriguez.jpg"
 }

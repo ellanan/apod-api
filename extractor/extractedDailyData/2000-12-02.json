@@ -1,14 +1,10 @@
 {
   "title": "SN 1006: Pieces of the Cosmic Ray Puzzle",
-  "credit": [
-    "Credit: E. Gotthelf (Columbia University), ASCA Project, NASA Explanation",
-    "E. Gotthelf (Columbia University), ASCA Project, NASA"
-  ],
+  "credit": "E. Gotthelf (Columbia University), ASCA Project, NASA",
   "explanation": "Research balloon flights conducted in 1912 by Austrian physicist Victor Hess revealed that the Earth was constantly bombarded by high energy radiation from space - which came to be called \"Cosmic Rays\". What are Cosmic Rays and where do they come from? They are now known to be mostly subatomic particles - predominantly protons and electrons - but their origin is a long standing mystery. After almost a century of study, this cosmic puzzle may have been at least partially solved by X-ray images and spectra from the ASCA satellite observatory. Pieced together to show the region around a star observed to go supernova in 1006 AD, the overlapping X-ray snapshots above (seen in false color) reveal the bright rims of the exploded star's still expanding blast wave. These ASCA observations showed for the first time that the energy spectrum of the bright regions is like that produced by extremely high energy electrons streaming through a magnetic field at nearly the speed of light. If (as expected) high energy protons are associated with these energetic electrons then supernova remnants like SN 1006 are sources of Hess' puzzling Cosmic Rays.",
   "date": "2000-12-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0012/sn1006_asca1_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0012/sn1006_asca1.jpg"
 }

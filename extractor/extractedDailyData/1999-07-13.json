@@ -1,14 +1,10 @@
 {
   "title": "The Flame Nebula in Infrared",
-  "credit": [
-    "Credit: 2MASS Collaboration, U. Mass., IPAC Explanation",
-    "2MASS Collaboration, U. Mass., IPAC"
-  ],
+  "credit": "2MASS Collaboration, U. Mass., IPAC",
   "explanation": "What lights up the Flame Nebula? Fifteen hundred light years away towards the constellation of Orion lies a nebula which, from its glow and dark dust lanes, appears like a billowing fire. But fire, the rapid acquisition of oxygen, is not what makes this Flame glow. Rather the bright star Alnitak, the easternmost star in the Belt of Orion visible to the nebula's right, shines energetic light into the Flame that knocks electrons away from the great clouds of hydrogen gas that reside there. Much of the glow results when the electrons and ionized hydrogen recombine. The above false-color picture of the Flame Nebula (NGC 2024) was taken in infrared light, where a young star cluster becomes visible. The Flame Nebula is part of the Orion Molecular Cloud Complex, a star-forming region that includes the famous Horsehead Nebula.",
   "date": "1999-07-13",
   "hdurl": "https://apod.nasa.gov/apod/image/9907/ngc2024_2mass_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9907/ngc2024_2mass.jpg"
 }

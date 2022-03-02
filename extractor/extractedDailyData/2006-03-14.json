@@ -1,14 +1,10 @@
 {
   "title": "CG4: A Ruptured Cometary Globule",
-  "credit": [],
   "explanation": "Can a gas cloud eat a galaxy? It's not even close. The odd looking \"creature\" in the center of the above photo is a gas cloud known as a cometary globule. This globule, however, has ruptured. Cometary globules are typically characterized by dusty heads and elongated tails. These features cause cometary globules to have visual similarities to comets, but in reality they are very much different. Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not completely known. The galaxy to the left of center is huge, very far in the distance, and only placed near CG4 by chance superposition.",
   "date": "2006-03-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0603/cg4_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: T. A. Rector (U. Alaska), T. Abbott, NOAO, AURA, NSF Explanation",
-    "T. A. Rector (U. Alaska), T. Abbott, NOAO, AURA, NSF"
-  ],
+  "copyright": "T. A. Rector (U. Alaska), T. Abbott, NOAO, AURA, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0603/cg4_noao.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Comet Meets Ring Nebula: Part I",
-  "credit": [],
   "explanation": "As dawn approached on May 8, astronomer Stefan Seip carefully watched Fragment C of broken comet 73P/Schwassmann-Wachmann 3 approach M57 - the Ring Nebula, and faint spiral galaxy IC 1296. Of course, even though the trio seemed to come close together in a truly cosmic photo opportunity, the comet is in the inner part of our solar system, a mere 0.5 light-minutes or so from Seip's telescope located near Stuttgart, Germany, planet Earth. The Ring Nebula (upper right) is more like 2,000 light-years distant, well within our own Milky Way Galaxy. At a distance of 200 million light-years, IC 1296 (between comet and ring) is beyond even the Milky Way's boundaries. Because the comet is so close, it appears to move relatively rapidly against the distant stars. This dramatic telescopic view was composited from two sets of images; one compensating for the comet's apparent motion and one recording the background stars and nebulae.",
   "date": "2006-05-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0605/c73pM57_seip_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip and Steffen Bruckner Explanation",
-    "Stefan Seip and Steffen Bruckner"
-  ],
+  "copyright": "Stefan Seip and Steffen Bruckner",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0605/c73pM57_seip_c53.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Complete Solar Cycle from SOHO",
-  "credit": [
-    "Credit: SOHO - EIT Consortium, ESA, NASA Explanation",
-    "SOHO - EIT Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - EIT Consortium, ESA, NASA",
   "explanation": "Every eleven years, our Sun goes through a solar cycle. A complete solar cycle has now been imaged by the sun-orbiting SOHO spacecraft, celebrating the 12th anniversary of its launch yesterday. A solar cycle is caused by the changing magnetic field of the Sun, and varies from solar maximum, when sunspot, coronal mass ejection, and flare phenomena are most frequent, to solar minimum, when such activity is relatively infrequent. Solar minimums occurred in 1996 and 2007, while the last solar maximum occurred in 2001. This picture is composed of a SOHO image of the Sun in extreme ultraviolet light for each year of the last solar cycle, with images picked to illustrate the relative activity of the Sun.",
   "date": "2007-12-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0712/solarcycle_soho_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0712/solarcycle_soho.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Tycho's Supernova Remnant in X-ray",
-  "credit": [
-    "Credit: NASA / CXC / F.J. Lu (Chinese Academy of Sciences) et al. Explanation",
-    "NASA / CXC / F.J. Lu (Chinese Academy of Sciences) et al."
-  ],
+  "credit": "NASA / CXC / F.J. Lu (Chinese Academy of Sciences) et al.",
   "explanation": "What star created this huge puffball? What's pictured is the hot expanding nebula of Tycho's supernova remnant, the result of a stellar explosion first recorded over 400 years ago by the famous astronomer Tycho Brahe. The featured image is a composite of three X-ray colors taken by the orbiting Chandra X-ray Observatory. The expanding gas cloud is extremely hot, while slightly different expansion speeds have given the cloud a puffy appearance. Although the star that created SN 1572, is likely completely gone, a star dubbed Tycho G, too dim to be discerned here, is thought to be a companion. Finding progenitor remnants of Tycho's supernova is particularly important because the supernova is of Type Ia, an important rung in the distance ladder that calibrates the scale of the visible universe. The peak brightness of Type Ia supernovas is thought to be well understood, making them quite valuable in exploring the relationship between faintness and farness in the distant universe.",
   "date": "2019-01-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1901/TychoSNR_Chandra_3600.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1901/TychoSNR_Chandra_960.jpg"
 }

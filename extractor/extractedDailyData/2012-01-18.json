@@ -1,14 +1,10 @@
 {
   "title": "Cygnus-X: The Inner Workings of a Nearby Star Factory",
-  "credit": [
-    "Credit: NASA/JPL-Caltech/Harvard-Smithsonian CfA Explanation",
-    "NASA/JPL-Caltech/Harvard-Smithsonian CfA"
-  ],
+  "credit": "NASA/JPL-Caltech/Harvard-Smithsonian CfA",
   "explanation": "How do stars form? To help study this complex issue, astronomers took a deep infrared image of Cygnus X, the largest known star forming region in the entire Milky Way Galaxy. The above recently-released image was taken in 2009 by the orbiting Spitzer Space Telescope and digitally translated into colors humans can see, with the hottest regions colored the most blue. Visible are large bubbles of hot gas inflated by the winds of massive stars soon after they form. Current models posit that these expanding bubbles sweep up gas and sometimes even collide, frequently creating regions dense enough to gravitationally collapse into yet more stars. The star factory Cygnus-X spans over 600 light years, contains over a million times the mass of our Sun, and shines prominently on wide angle infrared panoramas of the night sky. Cygnus X lies 4,500 light years away towards the constellation of the Swan (Cygnus). In a few million years, calm will likely be restored and a large open cluster of stars will remain -- which itself will disperse over the next 100 million years.",
   "date": "2012-01-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1201/cygnusx_spitzer_3000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1201/cygnusx_spitzer_900.jpg"
 }

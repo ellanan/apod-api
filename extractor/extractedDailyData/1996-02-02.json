@@ -1,14 +1,10 @@
 {
   "title": "A MACHO View of Galactic Dark Matter",
-  "credit": [
-    "Credit: OGLE Event #1, B. Paczynski, A. Udalski and the OGLE Collaboration Explanation",
-    "OGLE Event #1, B. Paczynski, A. Udalski and the OGLE Collaboration"
-  ],
+  "credit": "OGLE Event #1, B. Paczynski, A. Udalski and the OGLE Collaboration",
   "explanation": "",
   "date": "1996-02-02",
   "hdurl": "https://apod.nasa.gov/apod/image/ogle1.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/ogle1.gif"
 }

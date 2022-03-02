@@ -1,14 +1,10 @@
 {
   "title": "The Densest Galaxy",
-  "credit": [
-    "Credit: NASA, ESA, Hubble Heritage Team (STScI/AURA), Jay Strader (Michigan St. Univ.) et al. Explanation",
-    "NASA, ESA, Hubble Heritage Team (STScI/AURA), Jay Strader (Michigan St. Univ.) et al."
-  ],
+  "credit": "NASA, ESA, Hubble Heritage Team (STScI/AURA), Jay Strader (Michigan St. Univ.) et al.",
   "explanation": "The bright core and outer reaches of giant elliptical galaxy M60 (NGC 4649) loom large at the upper left of this sharp close-up from the Hubble Space Telescope. Some 54 million light-years away and 120,000 light-years across, M60 is one of the largest galaxies in the nearby Virgo Cluster. In cosmic contrast, the small, round smudge at picture center is now recognized as an ultra-compact dwarf galaxy. Cataloged as M60-UCD1, it may well be the densest galaxy in the nearby universe. Concentrating half of its total mass of 200 million suns into a radius of only 80 light-years, stars in the inner regions of M60-UCD1 are on average 25 times closer together than in planet Earth's neighborhood of the Milky Way. Exploring the nature of M60-UCD1, astronomers are trying to determine if ultra-compact dwarf galaxies are the central remnants of larger galaxies that have been tidally stripped by gravitatonal encounters, or evolved as massive globular star clusters. Recently discovered, a bright X-ray source seen at its center could be due to a supermassive black hole. If so, that would favor a remnant galaxy origin for M60-UCD1.",
   "date": "2013-10-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1310/M60UCD_hst.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1310/M60UCD_hst900crop.jpg"
 }

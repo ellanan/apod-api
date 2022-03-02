@@ -1,14 +1,10 @@
 {
   "title": "Catching Falling Stardust",
-  "credit": [
-    "Credit: ESA, NASA, Explanation",
-    "ESA, NASA,"
-  ],
+  "credit": "ESA, NASA,",
   "explanation": "",
   "date": "1996-01-25",
   "hdurl": "https://apod.nasa.gov/apod/image/dusttrk_stardust.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/dusttrk-l_sm.gif"
 }

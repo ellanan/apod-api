@@ -1,14 +1,10 @@
 {
   "title": "Iridium 52: Not A Meteor",
-  "credit": [
-    "Credit: J. W. Young ( TMO, JPL, NASA) Used With Permission Explanation",
-    "J. W. Young ( TMO, JPL, NASA) Used With Permission"
-  ],
+  "credit": "J. W. Young ( TMO, JPL, NASA) Used With Permission",
   "explanation": "",
   "date": "1999-10-22",
   "hdurl": "https://apod.nasa.gov/apod/image/9910/Iridium52_jyoung.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9910/Iridium52_jyoung2.jpg"
 }

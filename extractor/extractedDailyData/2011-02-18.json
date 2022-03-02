@@ -1,14 +1,10 @@
 {
   "title": "Planetary Nebula Project",
-  "credit": [],
   "explanation": "Cast off by dying sunlike stars, planetary nebulae are a brief but glorious final phase of stellar evolution. The gaseous shrouds are ionized by an extremely hot central source, the shrinking core of a star running out of fuel for nuclear fusion. Shining in the cosmic night, their simple symmetries are fascinating and have inspired this planetary nebula poster project. In it, nine planetaries are displayed for comparison in a 3x3 grid. Of course, planetary nebula fans should be able to pick out the bright Messier objects M27 - the Dumbbell Nebula, M76 - the Little Dumbbell, and M57 - the Ring Nebula, as well as NGC 6543, aka the Cat's Eye Nebula. Lesser known nebulae include the Medusa and the Bug. All the images were made with detailed narrow band data and are shown at the same angular scale, spanning 20 arc minutes (1/3 degree). At that scale, the grey circle represents the apparent size of the Full Moon. These planetary nebulae hint at the fate of our own Sun as its core runs out of nuclear fuel in another 5 billion years.",
   "date": "2011-02-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1102/pn912035927_metsavainio.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: J-P Metsävainio (Astro Anarchy) Explanation",
-    "J-P Metsävainio (Astro Anarchy)"
-  ],
+  "copyright": "J-P Metsävainio (Astro Anarchy)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1102/pn912035927_metsavainio900.jpg"
 }

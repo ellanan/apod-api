@@ -1,14 +1,10 @@
 {
   "title": "Venus' South Polar Vortex",
-  "credit": [
-    "Credit: ESA, Venus Express, VIRTIS, INAF-IASF, Obs. de Paris-LESIA Explanation",
-    "ESA, Venus Express, VIRTIS, INAF-IASF, Obs. de Paris-LESIA"
-  ],
+  "credit": "ESA, Venus Express, VIRTIS, INAF-IASF, Obs. de Paris-LESIA",
   "explanation": "What's happening over the South Pole of Venus? To find out, scientists have been studying images taken by the robotic Venus Express spacecraft when it passes over the lower spin axis of Earth's overheated twin. Surprisingly, recent images from Venus Express do not confirm previous sightings of a double storm system there, but rather found a single unusual swirling cloud vortex. In the above recently released image sequence taken in infrared light and digitally compressed, darker areas correspond to higher temperatures and hence lower regions of Venus' atmosphere. Also illuminating are recently released movies, which show similarities between Venus' southern vortex and the vortex that swirls over the South Pole of Saturn. Understanding the peculiar dynamics of why, at times, two eddies appear, while at other times a single peculiar eddy appears, may give insight into how hurricanes evolve on Earth, and remain a topic of research for some time. In three months, the European Venus Express spacecraft will be joined around Venus by the Japanese Akatsuki satellite.",
   "date": "2010-09-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1009/southernvortex_venusexpress_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1009/southernvortex_venusexpress.jpg"
 }

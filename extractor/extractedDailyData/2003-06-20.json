@@ -1,14 +1,10 @@
 {
   "title": "Snake in the Dark",
-  "credit": [],
   "explanation": "Dark nebulae snake across a gorgeous expanse of stars in this wide-field view toward the pronounceable constellation Ophiucus and the center of our Milky Way Galaxy. In fact, the central S-shape seen here is well known as the Snake Nebula. It is also listed as Barnard 72 (B72), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Unlike bright emission nebulae and star clusters, Barnard's nebulae are interstellar dark clouds of obscuring gas and dust. Their shapes are visible in cosmic silhouette only because they lie in the foreground along the line of sight to rich star fields and glowing stellar nurseries near the plane of our Galaxy. Many of Barnard's dark nebulae are themselves likely sites of future star formation. Barnard 72 is a few light years across and about 650 light years away.",
   "date": "2003-06-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0306/b72neb_stevens_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Gary Stevens Explanation",
-    "Gary Stevens"
-  ],
+  "copyright": "Gary Stevens",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0306/b72neb_stevens_c1.jpg"
 }

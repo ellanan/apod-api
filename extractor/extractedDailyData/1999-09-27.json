@@ -1,14 +1,10 @@
 {
   "title": "Our Galaxy in Stars, Gas, and Dust",
-  "credit": [],
   "explanation": "The disk of our Milky Way Galaxy is home to hot nebulae, cold dust, and billions of stars. The red nebulae visible in the above contrast-enhanced picture are primarily emission nebulae, glowing clouds of hydrogen gas heated by nearby, bright, young stars. The blue nebulae are primarily reflection nebulae, clouds of gas and fine dust reflecting the light of nearby bright stars. Perhaps the most striking, though, are the areas of darkness, including the Pipe Nebula visible on the image top left. These are lanes of thick dust, many times containing relatively cold molecular clouds of gas. Dust is so plentiful that it obscures the Galactic Center in visible light, hiding its true direction until discovered early this century. The diffuse glow comes from billions of older, fainter stars like our Sun, which are typically much older than any of the nebulae. Most of the mass of our Galaxy remains in a form currently unknown.",
   "date": "1999-09-27",
   "hdurl": "https://apod.nasa.gov/apod/image/9909/mw7b_gleason_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: John P. Gleason, Celestial Images Explanation",
-    "John P. Gleason, Celestial Images"
-  ],
+  "copyright": "John P. Gleason, Celestial Images",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9909/mw7b_gleason.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Apollo 17's Moonship",
-  "credit": [
-    "Credit: Apollo 17, NASA, (Image Reprocessing: Andy Saunders) Explanation",
-    "Apollo 17, NASA, (Image Reprocessing: Andy Saunders)"
-  ],
+  "credit": "Apollo 17, NASA, (Image Reprocessing: Andy Saunders)",
   "explanation": "Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the near vacuum of space. Digitally enhanced and reprocessed, this picture taken from Apollo 17's command module America shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath. The hatch allowing access to the lunar surface is seen at the front, with a round radar antenna at the top. Mission commander Gene Cernan is clearly visible through the triangular window. This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972. So where is Challenger now? Its descent stage remains at the Apollo 17 landing site in the Taurus-Littrow valley. The ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth. Apollo 17's mission came to an end 47 years ago today. It was the sixth and last time astronauts landed on the Moon.",
   "date": "2019-12-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1912/AS17-149-22859-2v2SmlWmk.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1912/AS17-149-22859-2v2SmlWmk1024.jpg"
 }

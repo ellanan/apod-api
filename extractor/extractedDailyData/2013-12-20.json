@@ -1,14 +1,10 @@
 {
   "title": "Titan's Land of Lakes",
-  "credit": [
-    "Credit: Cassini Radar Mapper, JPL, USGS, ESA, NASA Explanation",
-    "Cassini Radar Mapper, JPL, USGS, ESA, NASA"
-  ],
+  "credit": "Cassini Radar Mapper, JPL, USGS, ESA, NASA",
   "explanation": "Saturn's large moon Titan would be unique in our solar system, the only world with stable liquid lakes and seas on its surface ... except for planet Earth of course. Centered on the north pole, this colorized map shows Titan's bodies of methane and ethane in blue and black, still liquid at frigid surface temperatures of -180 degrees C (-292 degrees F). The map is based on data from the Cassini spacecraft's radar, taken during flybys between 2004 and 2013. Roughly heart-shaped, the lake above and right of the pole is Ligeia Mare, the second largest known body of liquid on Titan and larger than Lake Superior on Earth. Just below the north pole is Punga Mare. The sprawling sea below and right of Punga is the (hopefully sleeping) Kraken Mare, Titan's largest known sea. Above and left of the pole, the moon's surface is dotted with smaller lakes that range up to 50 kilometers across.",
   "date": "2013-12-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1312/PIA17655_TitanLakesCassini.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1312/PIA17655_TitanLakesCassini900c.jpg"
 }

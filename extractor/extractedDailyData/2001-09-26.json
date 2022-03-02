@@ -1,14 +1,10 @@
 {
   "title": "Comet Borrelly's Nucleus",
-  "credit": [],
   "explanation": "What does a comet nucleus look like? To answer this question, NASA controllers drove an aging probe through the hostile environs of a distant comet, expecting that even if comet fragments disabled the spacecraft, it would be worth the risk. The probe, Deep Space 1, survived. Pictured above is the most detailed image ever taken of a comet nucleus, obtained Saturday by Deep Space 1 and released yesterday by NASA. Comet Borrelly's nucleus is seen to be about 8 kilometers long with mountains, faults, grooves, smooth rolling plains, and materials of vastly different reflectance. Light colored regions are present near the center and seem to give rise to dust jets seen in Borrelly's coma, visible in distant images of the comet. Previously, the best image of a comet nucleus came from the Giotto mission to Comet Halley in 1986. Deep Space 1 images of Borrelly add welcomed bedrock to understanding Solar System history and to the accurate prediction of future brightness changes of notoriously fickle comets.",
   "date": "2001-09-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0109/borrelly_ds1_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Deep Space 1 Team, JPL, NASA Explanation",
-    "Deep Space 1 Team, JPL, NASA"
-  ],
+  "copyright": "Deep Space 1 Team, JPL, NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0109/borrelly_ds1.jpg"
 }

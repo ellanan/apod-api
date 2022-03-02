@@ -1,14 +1,10 @@
 {
   "title": "Aristarchus Plateau",
-  "credit": [],
   "explanation": "Anchored in the vast lava flows of the Moon's Oceanus Procellarum lies the Aristarchus Plateau. The bright impact crater at the corner of the plateau is Aristarchus, a young crater 42 kilometers wide and 3 kilometers deep. Only slightly smaller, lava flooded Herodotus crater is above and to the left. A valley or rille feature likely carved by rapidly flowing lava or a collapsed lava tunnel, Vallis Schroteri begins just to the right of Herodotus and winds across the plateau for about 160 kilometers, eventually turning toward the top of the picture. Aristarchus Plateau itself is like a rectangular island about 200 kilometers across, raised up to 2 kilometers or so above the smooth surface of the lunar Ocean of Storms. Recorded from a backyard observatory in Buffalo, New York, the contrast of light-colored ejecta around Aristarchus with surrounding dark, smooth, lava flooded surfaces suggests more familiar snowy scenes of planet Earth.",
   "date": "2007-11-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/aristarchus_100407friedman.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alan Friedman Explanation",
-    "Alan Friedman"
-  ],
+  "copyright": "Alan Friedman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/aristarchus_100407friedman_800c.jpg"
 }

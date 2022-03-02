@@ -1,14 +1,10 @@
 {
   "title": "Southern Annular Eclipse",
-  "credit": [],
   "explanation": "It's eclipse season, and on April 29 around 06:00 UT the shadow of the new Moon will reach out and touch planet Earth, though only just. Still, if you're standing on the continent of Antarctica within a few hundred kilometers of 79 degrees 38.7 minutes South latitude and 131 degrees 15.6 minutes East longitude you could see an annular solar eclipse with the Sun just above the horizon. Because the Moon will be approaching apogee, the most distant point in the elliptical lunar orbit, its apparent size will be too small to completely cover the solar disk. A rare, off-center eclipse, the annular phase will last at most 49 seconds. At its maximum it could look something like this \"ring of fire\" image from last May's annular solar eclipse, captured by a webcast team operating near Coen, Australia. Otherwise, a partial eclipse with the Moon covering at least some part of the Sun will be seen across a much broader region in the southern hemipshere, including Australia in the afternoon.",
   "date": "2014-04-26",
   "hdurl": "https://apod.nasa.gov/apod/image/1404/ASE_McCarty3-3.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Cameron McCarty, Matthew Bartow, Michael Johnson - MWV Observatory, Coca-Cola Space Science Center, Columbus State University Eclipse Team Explanation",
-    "Cameron McCarty, Matthew Bartow, Michael Johnson - MWV Observatory, Coca-Cola Space Science Center, Columbus State University Eclipse Team"
-  ],
+  "copyright": "Cameron McCarty, Matthew Bartow, Michael Johnson - MWV Observatory, Coca-Cola Space Science Center, Columbus State University Eclipse Team",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1404/ASE_McCarty3-3sc900.jpg"
 }

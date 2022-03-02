@@ -1,14 +1,10 @@
 {
   "title": "Sagittarius and the Central Milky Way",
-  "credit": [],
   "explanation": "What does the center of our Milky Way Galaxy look like? In visible light, no one knows! It is not possible to see the Galactic center in light our eyes are sensitive to because the thick dust in the plane of our Galaxy obscures it. If one looks in the direction of our Galaxy's center - which is toward the constellation of Sagittarius - many beautiful wonders become apparent, though. Large dust lanes and star clouds dominate the picture. As many as 30 Messier Objects are visible in the above spectacular image mosaic, including all types of nebulas and star clusters. Two notable nebula include the Lagoon Nebula (M8), a red patch just above and to the right of center, and slightly to its right is the red and blue Trifid Nebula (M20).",
   "date": "2009-05-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0905/mwcenter_gendler_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler (robgendlerastropics.com) Explanation",
-    "Robert Gendler (robgendlerastropics.com)"
-  ],
+  "copyright": "Robert Gendler (robgendlerastropics.com)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0905/mwcenter_gendler.jpg"
 }

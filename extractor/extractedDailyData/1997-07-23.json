@@ -1,14 +1,10 @@
 {
   "title": "A Hale-Bopp Triple Crown",
-  "credit": [],
   "explanation": "It was truly a busy sky. In one of the more spectacular photos yet submitted to Astronomy Picture of the Day, Don Cooke of Lyme, New Hampshire caught the Sun, Moon, Earth, night sky, Pleiades star cluster, and Comet Hale-Bopp all in one frame. The first leg of this \"triple crown\" exposure was of the Sun, taken at 6:55 pm on April 10th 1997. Through a dark filter, the Sun appears as the bright dot on the lower right of the image. A second filtered exposure was then taken after the Sun had set, one hour and 40 minutes later - this time featuring the Moon. The Moon appears as a crescent superimposed on an odd-shaped dark circle protruding into the left of the image. This shadow is actually a silhouette of a driveway reflector mounted on an aluminum rod used to block out the bright moon - so as to allow a third exposure, this time unfiltered, of the background night sky. And what a beautiful sky it is. Highlights include Comet Hale-Bopp, on the right, and the Pleiades star cluster, near the center. But what, you may wonder, is that bright light near the center of the picture? Don't worry if you can't guess: it's a porch light from a house across the river!",
   "date": "1997-07-23",
   "hdurl": "https://apod.nasa.gov/apod/image/9707/tripcrwn_dc_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: D. Cooke Explanation",
-    "D. Cooke"
-  ],
+  "copyright": "D. Cooke",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9707/tripcrwn_dc.jpg"
 }

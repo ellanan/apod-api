@@ -1,14 +1,10 @@
 {
   "title": "Ida and Dactyl: Asteroid and Moon",
-  "credit": [
-    "Credit: NASA, JPL, Galileo Project Explanation",
-    "NASA, JPL, Galileo Project"
-  ],
+  "credit": "NASA, JPL, Galileo Project",
   "explanation": "",
   "date": "1995-06-30",
   "hdurl": "https://apod.nasa.gov/apod/image/idadactyl.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/idadactyl.gif"
 }

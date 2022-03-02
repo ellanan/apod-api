@@ -1,14 +1,10 @@
 {
   "title": "Space Station over Lunar Terminator",
-  "credit": [],
   "explanation": "What's that in front of the Moon? It's the International Space Station. Using precise timing, the Earth-orbiting space platform was photographed in front of a partially lit Moon last year. The featured image was taken from Madrid, Spain with an exposure time of only 1/1000 of a second. In contrast, the duration of the transit of the ISS across the entire Moon was about half a second. The sun-glinting station can be seen just to the dark side of the day / night line known as the terminator. Numerous circular craters are visible on the distant Moon, as well as comparatively rough, light colored terrain known as highlands, and relatively smooth, dark colored areas known as maria. On-line tools can tell you when the International Space Station will be visible from your area.",
   "date": "2015-04-27",
   "hdurl": "https://apod.nasa.gov/apod/image/1504/SpaceStationTerminator_Caxete_2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dani Caxete Explanation",
-    "Dani Caxete"
-  ],
+  "copyright": "Dani Caxete",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1504/SpaceStationTerminator_Caxete_960.jpg"
 }

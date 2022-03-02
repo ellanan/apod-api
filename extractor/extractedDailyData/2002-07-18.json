@@ -1,14 +1,10 @@
 {
   "title": "Sunspot Region 30",
-  "credit": [
-    "Credit: MDI, SOHO, ESA, NASA Explanation",
-    "MDI, SOHO, ESA, NASA"
-  ],
+  "credit": "MDI, SOHO, ESA, NASA",
   "explanation": "The solar active region designated number 10030 (or simply region 30) is now appearing on the visible hemisphere of the closest star. Dwarfed by the Sun's disk, the group of sunspots which make up region 30 actually cover an enormous area -- nearly 10 times the size of Earth. The panels above were recorded July 15, 16, and 17 (top to bottom) by the MDI instrument on the space-based SOHO Observatory as the solar rotation slowly carried the large, dynamic sunspot group across the Sun's nearside. On July 15, a powerful solar flare erupted from this region followed by a coronal mass ejection. The energetic cloud of electrically charged particles swept past our fair planet yesterday, and as a result enhanced auroral activity is possible.",
   "date": "2002-07-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/ar0030_sohomdi_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/ar0030_sohomdi.jpg"
 }

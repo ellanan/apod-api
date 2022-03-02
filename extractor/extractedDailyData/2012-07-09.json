@@ -1,14 +1,10 @@
 {
   "title": "Greeley Panorama on Mars",
-  "credit": [
-    "Credit: NASA/JPL-Caltech/Cornell/Arizona State U. Explanation",
-    "NASA/JPL-Caltech/Cornell/Arizona State U."
-  ],
+  "credit": "NASA/JPL-Caltech/Cornell/Arizona State U.",
   "explanation": "What did you do over your winter vacation? If you were the Opportunity rover on Mars, you spent four months of it stationary and perched on the northern slope of Greeley Haven -- and tilted so that your solar panels could absorb as much sunlight as possible. During its winter stopover, the usually rolling robot undertook several science activities including snapping over 800 images of its surroundings, many of which have been combined into this 360-degree digitally-compressed panorama and shown in exaggerated colors to highlight different surface features. Past tracks of Opportunity can be seen toward the left, while Opportunity's dust covered solar panels cross the image bottom. Just below the horizon and right of center, an interior wall of 20-kilometer Endeavour Crater can be seen. Now that the northern Martian winter is over, Opportunity is rolling again, this time straight ahead (north). The rover is set to investigate unusual light-colored soil patches as it begins again to further explore the inside of Endeavour, a crater that may hold some of the oldest features yet visited.",
   "date": "2012-07-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1207/greeley_opportunity_5000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1207/greeley_opportunity_compressed960.jpg"
 }

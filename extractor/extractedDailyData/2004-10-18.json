@@ -1,14 +1,10 @@
 {
   "title": "Southern Saturn from Cassini",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "",
   "date": "2004-10-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0410/southsaturn_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0410/southsaturn_cassini.jpg"
 }

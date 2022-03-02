@@ -1,14 +1,10 @@
 {
   "title": "M87: Elliptical Galaxy with Jet",
-  "credit": [],
   "explanation": "In spiral galaxies, majestic winding arms of young stars, gas, and dust rotate in a flat disk around a bulging galactic nucleus. But elliptical galaxies seem to be simpler. Lacking gas and dust to form new stars, their randomly swarming older stars, give them an ellipsoidal (egg-like) shape. Still, elliptical galaxies can be very large. Centered in this telescopic view and over 120,000 light-years in diameter, larger than our own Milky Way, elliptical galaxy M87 (NGC 4486) is the dominant galaxy of the Virgo Galaxy Cluster. Some 50 million light-years away, M87 is likely home to a supermassive black hole responsible for a high-energy jet of particles emerging from the giant galaxy's central region. In this well-processed image, M87's jet is near the one o'clock position. Other galaxies are also in the field of view, including large Virgo Cluster ellipticals NGC 4478 right of center and NGC 4476 near the right edge.",
   "date": "2010-05-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1005/m87jet_block.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mt. Lemmon SkyCenter, U. Arizona Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, U. Arizona"
-  ],
+  "copyright": "Adam Block, Mt. Lemmon SkyCenter, U. Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1005/m87jet_block900.jpg"
 }

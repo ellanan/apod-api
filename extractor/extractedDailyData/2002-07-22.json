@@ -1,14 +1,10 @@
 {
   "title": "Open Cluster NGC 6520 from CFHT",
-  "credit": [],
   "explanation": "Did you ever have a day when it felt like a dark cloud was following you around? For the open cluster of stars NGC 6520, every day is like this. On the left of the above picture are many of NGC 6520's bright blue stars. They formed only millions of years ago - much more recently than our ancient Sun which formed billions of years ago. On the right is an absorption nebula, molecular cloud Barnard 86, from which the stars of NGC 6520 surely formed. This nebula contains much opaque dust that blocks light from the many stars that would have been visible in the background. Surrounding NGC 6520 is part of the tremendously dense starscape in the bulge of our Milky Way Galaxy, the extended halo of stars that surrounds the center of our Galaxy. NGC 6520 spans about 10 light years and lies about 5500 light years away toward the direction of Sagittarius.",
   "date": "2002-07-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/GCbulge_cfht_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT Explanation",
-    "Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT"
-  ],
+  "copyright": "Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/GCbulge_cfht.jpg"
 }

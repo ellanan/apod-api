@@ -1,14 +1,10 @@
 {
   "title": "Sunspot Seething",
-  "credit": [
-    "Credit: Peter Sütterlin, DOT Team, SIU Explanation",
-    "Peter Sütterlin, DOT Team, SIU"
-  ],
+  "credit": "Peter Sütterlin, DOT Team, SIU",
   "explanation": "Our Sun's surface is continually changing. This time-lapse movie shows in five seconds what happens in 20 minutes on the Sun's surface near a sunspot. Visible is boiling granulation outside the sunspot, inward motion of bright grains in the outer penumbral region toward the sunspot, and the churning of small magnetic elements between solar granules. Sunspots themselves are relatively cool regions of the solar surface depressed by magnetic fields. The dark lanes surrounding the sunspot are called penumbral filaments, and recent computer simulations have shown that their behavior is also dominated by magnetic fields. The above sequence was taken with the new Dutch Open Telescope last September and focused on a sunspot that measured about 25,000 kilometers across.",
   "date": "2000-02-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0002/sunspot_ps_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0002/sunspot_ps.gif"
 }

@@ -1,13 +1,9 @@
 {
   "title": "Virtual Flight Over Asteroid Vesta",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, UCLA, MPS, DLR, IDA; Animation: German Aerospace Center (DLR) Explanation",
-    "NASA, JPL-Caltech, UCLA, MPS, DLR, IDA; Animation: German Aerospace Center (DLR)"
-  ],
+  "credit": "NASA, JPL-Caltech, UCLA, MPS, DLR, IDA; Animation: German Aerospace Center (DLR)",
   "explanation": "What would it be like to fly over the asteroid Vesta? Animators from the German Aerospace Center recently took actual images and height data from NASA's Dawn mission currently visiting Vesta to generate such a virtual movie. The above video begins with a sequence above Divalia Fossa, an unusual pair of troughs running parallel over heavily cratered terrain. Next, the virtual spaceship explores Vesta's 60-km Marcia Crater, showing numerous vivid details. Last, Dawn images were digitally recast with exaggerated height to better reveal Vesta's 5-km high mountain Aricia Tholus. Currently, Dawn is rising away from Vesta after being close enough to obtain the most detailed surface images and gravity measurements of the Solar System's second largest asteroid. In August, Dawn is scheduled to blast away from Vesta and head toward Ceres, the Solar System's largest asteroid.",
   "date": "2012-05-14",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/YYxPw_T8Vlk?rel=0"
 }

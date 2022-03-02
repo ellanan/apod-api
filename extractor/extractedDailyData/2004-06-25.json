@@ -1,14 +1,10 @@
 {
   "title": "Planet Earth from SpaceShipOne",
-  "credit": [
-    "Credit: Scaled Composites Explanation",
-    "Scaled Composites"
-  ],
+  "credit": "Scaled Composites",
   "explanation": "On June 21st, pilot Mike Melvill made a historic flight in the winged craft dubbed SpaceShipOne -- the first private manned mission to space. The spaceship reached an altitude of just over 62 miles (100 kilometers) on a suborbital trajectory, similar to the early space flights in NASA's Mercury Program. So, how was the view? A video camera on an earlier test flight that climbed 40 miles recorded this picture looking west over the southern California coast and the Earth's limb. In the foreground, the nozzle of SpaceShipOne's hybrid rocket is visible along with the edge of the wing in a \"feathered\" configuration for reentry. SpaceShipOne was designed and built by Burt Rutan and his company Scaled Composites to compete for the 10 million dollar X Prize.",
   "date": "2004-06-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0406/14pssone_scaled.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0406/14pssone_scaled_c1.jpg"
 }

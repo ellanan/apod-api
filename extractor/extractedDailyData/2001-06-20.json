@@ -1,14 +1,10 @@
 {
   "title": "Total Eclipse of the Active Sun",
-  "credit": [],
   "explanation": "A total eclipse of the Sun is that special geocentric celestial event where the Moon passes exactly in front of the solar disk. During a fleeting few minutes of totality, fortunate earthdwellers located within the path of the Moon's dark shadow can witness the wondrous shimmering solar corona sharing the sky with stars and bright planets. The next total solar eclipse will occur tomorrow, June 21. Since the Sun is still near the maximum of its 11 year activity cycle, careful eclipse-watchers will also likely see the spectacle of bright solar prominences lofted above active regions around the Sun's edge. In fact, a telescopic view could be similar to this stunningly detailed image -- a picture of the solar eclipse of August 1999 taken at the beginning of totality from Kecel, Hungary. The upcoming 2001 June 21 event will be visible as a partial eclipse from some of South America and much of Africa, but will only be total along a 125 mile wide path that tracks across land through Southern Africa and Madagascar. Of course, if you can't travel to Africa tomorrow (and you're not already there), web sites plan to offer live views from the Moon's shadow!",
   "date": "2001-06-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0106/tse1999_kobusch_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Kobusch Explanation",
-    "Michael Kobusch"
-  ],
+  "copyright": "Michael Kobusch",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0106/tse1999_kobusch.jpg"
 }

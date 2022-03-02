@@ -1,14 +1,10 @@
 {
   "title": "A Martian Sunset",
-  "credit": [
-    "Credit: IMP Team, JPL, NASA Explanation",
-    "IMP Team, JPL, NASA"
-  ],
+  "credit": "IMP Team, JPL, NASA",
   "explanation": "You've had a hard day rolling past Martian rocks, so now just relax your APXS and enjoy the Martian sunset. The above pictures taken by Mars Pathfinder highlight how clouds vary during the end of a Martian day. The atmosphere on Mars is much thinner than on Earth and dominated by carbon dioxide rather than nitrogen. Clouds on Mars can be water or carbon dioxide based, depending on conditions, whereas Earth's clouds are all water based. At night the temperature at Sagan Memorial Station will dip from about -15 degrees Celsius (+4 Fahrenheit) to -77 degrees Celsius (-107 Fahrenheit). Temperatures only this cold won't bother Sojourner.",
   "date": "1997-08-01",
   "hdurl": "https://apod.nasa.gov/apod/image/9708/marsunset_pf_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9708/marsunset_pf.jpg"
 }

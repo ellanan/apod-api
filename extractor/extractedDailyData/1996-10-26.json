@@ -1,14 +1,10 @@
 {
   "title": "Mir Over New Zealand",
-  "credit": [
-    "Credit: Space Shuttle Atlantis, STS-79, NASA, Russian Space Agency Explanation",
-    "Space Shuttle Atlantis, STS-79, NASA, Russian Space Agency"
-  ],
+  "credit": "Space Shuttle Atlantis, STS-79, NASA, Russian Space Agency",
   "explanation": "The Russian space station Mir was photographed last month high above New Zealand. Before returning with record-breaking astronaut Shannon Lucid, the space shuttle Atlantis crew took this breathtaking view from the Space Shuttle Atlantis. Atlantis had just undocked from Mir and was preparing to return to Earth.",
   "date": "1996-10-26",
   "hdurl": "https://apod.nasa.gov/apod/image/mirnewzea_sts79_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/mirnewzea_sts79.gif"
 }

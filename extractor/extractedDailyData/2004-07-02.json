@@ -1,14 +1,10 @@
 {
   "title": "The Encke Gap: A Moon Goes Here",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Yesterday, Cassini became the first spacecraft to enter orbit around gas giant Saturn, rocketing through a 25,000 kilometer wide gap in the distant planet's magnificent system of icy rings at about 15 kilometers per second. Turning to snap pictures, Cassini's narrow angle camera recorded this stunning close-up of a much smaller gap in the rings, the Encke Gap. A mere 300 kilometers wide, the Encke Gap is flanked by amazing structures within the rings -- scalloped edges and patterns of density waves are clear in the sharp image. While the rings of Saturn are likely debris from the breakup of a fair-sized icy moon, the Encke Gap itself is created by the repeated passage of a tiny moon. Only 20 kilometers wide that tiny moon, Pan, was also detected by Cassini's camera as the spacecraft approached the Saturnian system.",
   "date": "2004-07-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0407/encke_cassini_fp.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0407/encke_cassini_fc1.jpg"
 }

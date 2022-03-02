@@ -1,14 +1,10 @@
 {
   "title": "Aurora in the Distance",
-  "credit": [],
   "explanation": "Some auroras can only be seen with a camera. They are called sub-visual and are too faint to be seen with the unaided eye. The reason is that the human eye only accumulates light for a fraction of a second at a time, while a camera shutter can be left open indefinitely. When photographing an already picturesque scene above Juneau, Alaska, USA, a camera caught green sub-visual aurora near the horizon. Auroras are sparked by energetic particles from the Sun impacting the magnetic environment around the Earth. Resultant energetic particles such as electrons and protons rain down near the Earth's poles and impact the air. The impacted air molecules temporarily lose electrons, and when oxygen molecules among them reacquire these electrons, they emit green light. Auroras are known to have many shapes and colors.",
   "date": "2007-11-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/aurora_mcvay.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Lance McVay Explanation",
-    "Lance McVay"
-  ],
+  "copyright": "Lance McVay",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/aurora_mcvay.jpg"
 }

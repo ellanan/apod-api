@@ -1,14 +1,10 @@
 {
   "title": "The Deep Lagoon",
-  "credit": [],
   "explanation": "Ridges of glowing interstellar gas and dark dust clouds inhabit the turbulent, cosmic depths of the Lagoon Nebula. Also known as M8, The bright star forming region is about 5,000 light-years distant. But it still makes for a popular stop on telescopic tours of the constellation Sagittarius, toward the center of our Milky Way Galaxy. Dominated by the telltale red emission of ionized hydrogen atoms recombining with stripped electrons, this stunning, deep view of the Lagoon's central reaches is about 40 light-years across. Near the center of the frame, the bright hourglass shape is gas ionized and sculpted by energetic radiation and extreme stellar winds from a massive young star.",
   "date": "2015-07-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1507/block_m8_32ins.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mt. Lemmon SkyCenter, Univ. Arizona Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, Univ. Arizona"
-  ],
+  "copyright": "Adam Block, Mt. Lemmon SkyCenter, Univ. Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1507/block_m8_32ins1024.jpg"
 }

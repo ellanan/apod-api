@@ -1,14 +1,10 @@
 {
   "title": "Double Eruptive Prominences",
-  "credit": [
-    "Credit: SOHO - EIT Consortium, ESA, NASA Explanation",
-    "SOHO - EIT Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - EIT Consortium, ESA, NASA",
   "explanation": "Lofted over the Sun on looping magnetic fields, large solar prominences are composed of relatively cool, dense plasma. When seen against the brilliant solar disk they appear as dark filaments, but these enormous magnetic structures are bright themselves when viewed against the blackness of space as they arc above the Sun's edge. In a rare visual treat, these two solar prominences arising from the Sun's southern (lower) hemisphere were captured in extreme ultraviolet light by the EIT camera on board the space-based SOlar and Heliospheric Observatory (SOHO) on March 21. For scale, the pair of plasma loops stretch above the Sun to a height of about twenty times the diameter of planet Earth. In a matter of hours, these prominences apparently erupted away from the Sun's surface and may have been associated with a flare and coronal mass ejection.",
   "date": "2003-04-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0304/doubleprom_soho_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0304/doubleprom_soho_c2.jpg"
 }

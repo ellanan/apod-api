@@ -1,14 +1,10 @@
 {
   "title": "24 Hours from Jupiter",
-  "credit": [
-    "Credit: NASA, R. Beebe, NMSU Explanation",
-    "NASA, R. Beebe, NMSU"
-  ],
+  "credit": "NASA, R. Beebe, NMSU",
   "explanation": "",
   "date": "1995-12-06",
   "hdurl": "https://apod.nasa.gov/apod/image/JupGalPr_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/JupGalPr.gif"
 }

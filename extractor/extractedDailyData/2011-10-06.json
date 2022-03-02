@@ -1,14 +1,10 @@
 {
   "title": "M82: Starburst Galaxy with a Superwind",
-  "credit": [],
   "explanation": "Also known as the Cigar Galaxy for its elongated visual appearance, M82 is a starburst galaxy with a superwind. In fact, through ensuing supernova explosions and powerful winds from massive stars, the burst of star formation in M82 is driving the prodigous outflow of material. Evidence for the superwind from the galaxy's central regions is clear in this sharp composite image, based on data from small telescopes on planet Earth. The composite highlights emission from filaments of atomic hydrogen gas in reddish hues. The filaments extend for over 10,000 light-years. Some of the gas in the superwind, enriched in heavy elements forged in the massive stars, will eventually escape into intergalactic space. Triggered by a close encounter with nearby large galaxy M81, the furious burst of star formation in M82 should last about 100 million years or so. M82 is 12 million light-years distant, near the northern boundary of Ursa Major.",
   "date": "2011-10-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1110/M82_TorstenDietmar_Final.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dietmar Hager, Torsten Grossmann Explanation",
-    "Dietmar Hager, Torsten Grossmann"
-  ],
+  "copyright": "Dietmar Hager, Torsten Grossmann",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1110/M82_TorstenDietmar_Final900.jpg"
 }

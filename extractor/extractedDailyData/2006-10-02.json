@@ -1,14 +1,10 @@
 {
   "title": "Victoria Crater on Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, Cornell, JPL, NASA Coloring credit: B. Braun et al.; Color image reprinted courtesy: Aviation Week and Aviationnow.com Explanation",
-    "Mars Exploration Rover Mission, Cornell, JPL, NASA Coloring credit: B. Braun et al.; Color image reprinted courtesy: Aviation Week and Aviationnow.com"
-  ],
+  "credit": "Mars Exploration Rover Mission, Cornell, JPL, NASA Coloring credit: B. Braun et al.; Color image reprinted courtesy: Aviation Week and Aviationnow.com",
   "explanation": "Scroll right to see the largest crater yet visited by a rover on Mars. Reaching the expansive Victoria Crater has been a goal for the robotic Opportunity rover rolling across Mars for the past 21 months. Opportunity reached Victoria last week, and is cautiously probing the stadium-sized crevice. It is hoped that Victoria Crater will show a deep stack of layers uncovered by the initial impact, and hence new clues into the ancient surface history of Mars. Visible in the distance of the above image mosaic is the far rim of Victoria Crater, lying about 800 meters away and rising about 70 meters above the crater floor. The alcove in front has been dubbed Duck Bay. Victoria crater has about five times the diameter of Endurance Crater, which Opportunity spent six months exploring. If a safe path is found, Opportunity may actually attempt to enter Victoria Crater.",
   "date": "2006-10-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0610/victoria1_opportunity_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0610/victoria1c_opportunity.jpg"
 }

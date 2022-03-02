@@ -1,13 +1,9 @@
 {
   "title": "Approaching Jupiter",
-  "credit": [],
   "explanation": "What would it look like to approach Jupiter? To help answer this, a team of 91 amateur astrophotographers took over 1,000 pictures of Jupiter from the Earth with the resulting images aligned and digitally merged into the featured time-lapse video. Image taking began in 2014 December and lasted just over three months. The resulting fictitious approach sequence has similarities to what was seen by NASA's robotic Juno spacecraft as it first approached the Jovian world last July. The video begins with Jupiter appearing as a small orb near the image center. As Jupiter nears from below, the planet looms ever larger while the rotation of its cloud bands becomes apparent. Jupiter's shrinking Great Red Spot rotates into view twice, at times showing unusual activity. Many white ovals are visible moving around the giant planet. The video ends as the imaginary spacecraft passes over Jupiter's North Pole.",
   "date": "2017-05-23",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Peter Ros�n et al.; Music: The Awakening by Clemens Ruh Explanation",
-    "Peter Ros�n et al.; Music: The Awakening by Clemens Ruh"
-  ],
+  "copyright": "Peter Ros�n et al.; Music: The Awakening by Clemens Ruh",
   "media_type": "video",
   "url": "https://www.youtube.com/embed/x_UaOhvLUYA"
 }

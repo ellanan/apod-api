@@ -1,14 +1,10 @@
 {
   "title": "Clouds and Sand on the Horizon of Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, Cornell, JPL, NASA Image processing: M. Howard, T. �ner, D, Bouic & M. Di Lorenzo for unmannedspaceflight.com. Explanation",
-    "Mars Exploration Rover Mission, Cornell, JPL, NASA Image processing: M. Howard, T. �ner, D, Bouic & M. Di Lorenzo for unmannedspaceflight.com."
-  ],
+  "credit": "Mars Exploration Rover Mission, Cornell, JPL, NASA Image processing: M. Howard, T. �ner, D, Bouic & M. Di Lorenzo for unmannedspaceflight.com.",
   "explanation": "If you could stand on Mars -- what might you see? Like the robotic Opportunity rover rolling across the red planet, you might well see vast plains of red sand, an orange tinted sky, and wispy light clouds. The Opportunity rover captured just such a vista after arriving at Victoria Crater earlier this month, albeit in a completely different direction from the large crater. Unlike other Martian vistas, few rocks are visible in this exaggerated color image mosaic. The distant red horizon is so flat and featureless that it appears similar to the horizon toward a calm blue ocean on Earth. Clouds on Mars can be composed of either carbon dioxide ice or water ice, and can move quickly, like clouds move on Earth. The red dust in the Martian air can change the sky color above Mars from the blue that occurs above Earth toward the red, with the exact color depending on the density and particle size of the floating dust particles.",
   "date": "2006-10-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0610/marshorizon_opportunity_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0610/marshorizon_opportunity.jpg"
 }

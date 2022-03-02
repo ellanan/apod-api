@@ -1,14 +1,10 @@
 {
   "title": "Europe at Night",
-  "credit": [],
   "explanation": "Can you find your favorite European city? The above digital fantasy of Europe at Night is a digital composite of archived satellite images taken both during the day and night. This image is different from what an astronaut would see for reasons including a complete lack of clouds and an unrealistic exaggeration of lights and contrasts. Even so, the geography underlying the image is captivating. Nighttime light patterns have been accumulated from the USAF Defense Meteorological Satellite Program (DMSP) Operational Linescan System.",
   "date": "2005-12-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0512/eunight2_pv_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Planetary Visions Ltd.; Courtesy: Kevin M. Tildsley Explanation",
-    "Planetary Visions Ltd.; Courtesy: Kevin M. Tildsley"
-  ],
+  "copyright": "Planetary Visions Ltd.; Courtesy: Kevin M. Tildsley",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0512/eunight2_pv.jpg"
 }

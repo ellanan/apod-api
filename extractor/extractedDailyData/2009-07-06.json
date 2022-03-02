@@ -1,14 +1,10 @@
 {
   "title": "Unknown Dark Material on Mercury",
-  "credit": [
-    "Credit: MESSENGER, NASA, JHU APL, CIW Explanation",
-    "MESSENGER, NASA, JHU APL, CIW"
-  ],
+  "credit": "MESSENGER, NASA, JHU APL, CIW",
   "explanation": "What is that strange material on Mercury? When flying by Mercury last October, the robotic MESSENGER spacecraft imaged much of the solar system's innermost planet in unprecedented detail. As common in science, new data bring new mysteries. Pictured above on the lower right, a large crater -- about 100 kilometers across -- has unusual dark material of unknown composition near its center. The material's darkness does not appear to be caused by shadows, as the Sun was near zenith when the image was taken. One origin hypothesis is that the dark material was uncovered from beneath Mercury's surface during the impact that created the surrounding crater. If so, the composition of the dark mound might be similar to the composition of some mysterious dark rings also recently discovered on Mercury. Alternatively, the dark material could be related to an unusual composition of the impacting rock. MESSENGER will buzz past Mercury again later this year before entering orbit in 2011.",
   "date": "2009-07-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0907/darkmercury_messenger_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0907/darkmercury_messenger.jpg"
 }

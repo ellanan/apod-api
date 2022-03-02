@@ -1,14 +1,10 @@
 {
   "title": "Barred Spiral Galaxy NGC 2903",
-  "credit": [
-    "Credit: Almudena Alonso-Herrero (U. Hertfordshire) et al., HST, ESA, NASA Explanation",
-    "Almudena Alonso-Herrero (U. Hertfordshire) et al., HST, ESA, NASA"
-  ],
+  "credit": "Almudena Alonso-Herrero (U. Hertfordshire) et al., HST, ESA, NASA",
   "explanation": "NGC 2903 is a spiral galaxy similar to our own Milky Way Galaxy. Similarities include its general size and a central bar. One striking difference, however, is the appearance of mysterious hot spots in NGC 2903's core. Upon inspection of the above image and similar images taken by the Hubble Space Telescope, these hot spots were found to be bright young globular clusters, in contrast to the uniformly old globular clusters found in our Milky Way Galaxy. Further investigation has indicated that current star formation is most rampant in a 2000 light-year wide circumnuclear ring surrounding NGC 2903's center. Astronomers hypothesize that the gravity of the central bar expedites star formation in this ring. NGC 2903 lies about 25 million light-years away and is visible with a small telescope towards the constellation of Leo.",
   "date": "2001-03-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0103/ngc2903_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0103/ngc2903_hst.jpg"
 }

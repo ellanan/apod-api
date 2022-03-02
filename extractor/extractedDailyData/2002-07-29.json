@@ -1,14 +1,10 @@
 {
   "title": "A Setting Sun Trail",
-  "credit": [],
   "explanation": "The Sun appears to move on the sky because the Earth rotates. The extreme brightness of the Sun, however, makes it difficult to capture a sun-trail -- the path the Sun traces on the sky. To capture the above picture, a very dark filter covered the camera lens for most of the time, allowing only a trifle of light from the bright Sun to peek through. Just after the Sun had dipped below the horizon but before it was completely dark, the thick filter was removed and the pretty foreground scene was captured. Slight flares appeared when the Sun went behind thin clouds. Star-trails and planet-trails are much easier to image, and a similar Moon trail has also recently been imaged.",
   "date": "2002-07-29",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/suntrail_malin_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anglo-Australian Observatory, Photograph by David Malin Explanation",
-    "Anglo-Australian Observatory, Photograph by David Malin"
-  ],
+  "copyright": "Anglo-Australian Observatory, Photograph by David Malin",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/suntrail_malin.jpg"
 }

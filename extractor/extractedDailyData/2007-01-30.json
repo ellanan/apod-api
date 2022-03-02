@@ -1,14 +1,10 @@
 {
   "title": "Thor's Helmet from CFHT",
-  "credit": [],
   "explanation": "NGC 2359 is a striking emission nebula with an impressive popular name - Thor's Helmet Sure, its suggestive winged appearance might lead some to refer to it as the \"duck nebula\", but if you were a nebula which name would you choose? By any name NGC 2359 is a bubble-like nebula some 30 light-years across, blown by energetic winds from an extremely hot star seen near the center and classified as a Wolf-Rayet star. Wolf-Rayet stars are rare massive blue giants which develop stellar winds with speeds of millions of kilometers per hour. Interactions with a nearby large molecular cloud are thought to have contributed to this nebula's more complex shape and curved bow-shock structures. NGC 2359 is about 15,000 light-years distant toward the constellation Canis Major.",
   "date": "2007-01-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0701/thor_cfht_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight Explanation",
-    "Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight"
-  ],
+  "copyright": "Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0701/thor_cfht.jpg"
 }

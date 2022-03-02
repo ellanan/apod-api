@@ -1,14 +1,10 @@
 {
   "title": "The Shuttle Crawler Transporter",
-  "credit": [
-    "Credit: KSC, NASA Explanation",
-    "KSC, NASA"
-  ],
+  "credit": "KSC, NASA",
   "explanation": "NASA's Crawler-Transporters are the largest tracked vehicles in existence. Although the crawlers pack over 5,000 horsepower, their top speed is less than two kilometers per hour when fully loaded. Eleven people are needed to drive a single crawler. Diesel fuel mileage is about 350 liters per kilometer (less than 0.007 miles per gallon). The crawler's function is to move NASA's space shuttles -- complete with launch platforms -- from the Assembly Building to the Launch Pad at Kennedy Space Center in Florida, USA. Two of these massive machines have operated since the Apollo era and have now crawled over 4,000 kilometers, all the while keeping their contents perfectly upright. In this picture a crawler transports the shuttle Columbia to the pad prior to its March 1st launch on the latest Hubble Space Telelescope Servicing Mission.",
   "date": "2002-03-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0203/columbiacrawler_ksc_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0203/columbiacrawler_ksc_c2.jpg"
 }

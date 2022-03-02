@@ -1,14 +1,10 @@
 {
   "title": "Lines of Time",
-  "credit": [],
   "explanation": "In time stars trace lines through the night sky on a rotating planet. Taken over two hours or more, these digitally added consecutive exposures were made with a camera and wide angle lens fixed to a tripod near Orel farm, Primorsky Krai, Russia, planet Earth. The stars trail in concentric arcs around the planet's south celestial pole below the scene's horizon, and north celestial pole off the frame at the upper right. Combined, the many short exposures also bring out the pretty star colours. Bluish trails are from stars hotter than Earth's Sun, while yellowish trails are from cooler stars. A long time ago this tree blossomed, but now reveals the passage of time in the wrinkled and weathered lines of its remains.",
   "date": "2019-12-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1912/LinesOfTimeKomlev.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anton Komlev Explanation",
-    "Anton Komlev"
-  ],
+  "copyright": "Anton Komlev",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1912/LinesOfTimeKomlev1100.jpg"
 }

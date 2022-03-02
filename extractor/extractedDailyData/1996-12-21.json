@@ -1,14 +1,10 @@
 {
   "title": "Sun and Winter Solstice 1996",
-  "credit": [
-    "Credit: EIT Consortium, SOHO project, ESA, NASA Explanation",
-    "EIT Consortium, SOHO project, ESA, NASA"
-  ],
+  "credit": "EIT Consortium, SOHO project, ESA, NASA",
   "explanation": "Today is the Winter Solstice for 1996. After steadily sinking in Northern Hemisphere skies, the Sun is now at its lowest declination - marking the first day of Northern Winter (but Southern Summer!). The Earth is actually closer to the Sun during this season, a fact not usually appreciated by those who dwell on the planet's Northern half. Two days ago, the EIT camera onboard the SOHO spacecraft recorded this image of the Sun in the light of highly ionized Iron atoms. This extreme ultraviolet picture emphasizes magnetic field lines and active regions in the hot plasma above the solar surface. For today's Solar images at many wavelengths, check out the Solar Data Analysis Center's web site.",
   "date": "1996-12-21",
   "hdurl": "https://apod.nasa.gov/apod/image/9612/sundec_eit195_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9612/sundec_eit195.gif"
 }

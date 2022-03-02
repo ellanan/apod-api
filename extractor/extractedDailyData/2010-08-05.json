@@ -1,14 +1,10 @@
 {
   "title": "M8: The Lagoon Nebula",
-  "credit": [],
   "explanation": "This beautiful cosmic cloud is a popular stop on telescopic tours of the constellation Sagittarius. Eighteenth century cosmic tourist Charles Messier cataloged the bright nebula as M8. Modern day astronomers recognize the Lagoon Nebula as an active stellar nursery about 5,000 light-years distant, in the direction of the center of our Milky Way Galaxy. Remarkable features can be traced through this sharp picture, showing off the Lagoon's filaments of glowing gas and dark dust clouds. Twisting near the center of the Lagoon, the bright hourglass shape is the turbulent result of extreme stellar winds and intense starlight. The alluring view is a color composite of both broad and narrow band images captured while M8 was high in dark, Chilean skies. It records the Lagoon with a bluer hue than typically represented in images dominated by the red light of the region's hydrogen emission. At the nebula's estimated distance, the picture spans about 30 light-years.",
   "date": "2010-08-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1008/Lagoon_ssroMaster1.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Mazlin, Jack Harvey, Rick Gilbert, and Daniel Verschatse (Star Shadows Remote Observatory, PROMPT, CTIO) Explanation",
-    "Steve Mazlin, Jack Harvey, Rick Gilbert, and Daniel Verschatse (Star Shadows Remote Observatory, PROMPT, CTIO)"
-  ],
+  "copyright": "Steve Mazlin, Jack Harvey, Rick Gilbert, and Daniel Verschatse (Star Shadows Remote Observatory, PROMPT, CTIO)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1008/Lagoon_ssro900.jpg"
 }

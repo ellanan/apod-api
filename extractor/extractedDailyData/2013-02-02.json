@@ -1,14 +1,10 @@
 {
   "title": "Herschel's Andromeda",
-  "credit": [
-    "Credit: ESA/Herschel/PACS & SPIRE Consortium, O. Krause, HSC, H. Linz Explanation",
-    "ESA/Herschel/PACS & SPIRE Consortium, O. Krause, HSC, H. Linz"
-  ],
+  "credit": "ESA/Herschel/PACS & SPIRE Consortium, O. Krause, HSC, H. Linz",
   "explanation": "This infrared view from the Herschel Space Observatory explores the Andromeda Galaxy, the closest large spiral galaxy to our own Milky Way. Only 2.5 million light-years distant, the famous island universe is also known to astronomers as M31. Andromeda spans over 200,000 light-years making it more than twice the size of the Milky Way. Shown in false color, the image data reveal the cool dust lanes and clouds that still shine in the infrared but are otherwise dark and opaque at visual wavelengths. Red hues near the galaxy's outskirts represent the glow of dust heated by starlight to a few tens of degrees above absolute zero. Blue colors correspond to hotter dust warmed by stars in the more crowded central core. Also a tracer of molecular gas, the dust highlights Andromeda's prodigious reservoir of raw material for future star formation.",
   "date": "2013-02-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1302/PIA16682HerschelAnd.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1302/PIA16682HerschelAnd900.jpg"
 }

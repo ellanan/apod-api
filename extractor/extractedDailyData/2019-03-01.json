@@ -1,14 +1,10 @@
 {
   "title": "A Charioteer's Comet",
-  "credit": [],
   "explanation": "Still racing across planet Earth's night skies, Comet Iwamoto (C/2018 Y1) shares this pretty telescopic field of view with stars and nebulae of northern constellation Auriga, the Charioteer. Captured on February 27, Iwamoto's greenish coma and faint tail appear between a complex of reddish emission nebulae and open star cluster M36 (bottom right). The reddish emission is light from hydrogen gas ionized by ultraviolet radiation from hot stars near the region's giant molecular cloud some 6,000 light-years distant. The greenish glow from the comet, less than 5 light-minutes away, is predominantly emission from diatomic carbon molecules fluorescing in sunlight. M36, one of Auriga's more familiar star clusters, is also a background object far beyond the Solar System, about 4,000 light-years away. Comet Iwamoto passed closest to Earth on February 12 and is outward bound in a highly elliptical orbit that will carry it beyond the Kuiper belt. With an estimated orbital period of 1,317 years it should return to the inner Solar System in 3390 AD.",
   "date": "2019-03-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1903/rolando-ligustri-C2018Y1_190227_FB_1551288721.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rolando Ligustri (CARA Project, CAST) Explanation",
-    "Rolando Ligustri (CARA Project, CAST)"
-  ],
+  "copyright": "Rolando Ligustri (CARA Project, CAST)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1903/rolando-ligustri-C2018Y1_190227_FB_1551288721_800.jpg"
 }

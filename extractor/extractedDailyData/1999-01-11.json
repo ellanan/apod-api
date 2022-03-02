@@ -1,14 +1,10 @@
 {
   "title": "Perihelion Sun",
-  "credit": [
-    "Credit: ISAS, Yohkoh Project, SXT Group Explanation",
-    "ISAS, Yohkoh Project, SXT Group"
-  ],
+  "credit": "ISAS, Yohkoh Project, SXT Group",
   "explanation": "The Earth's orbit is not a perfect, sun-centered circle. At aphelion, the most distant point in Earth's orbit, the Sun is 150 million kilometers away and at perihelion, the closest point, Earth approaches the Sun to within about 147 million kilometers. While aphelion occurs in July, perihelion for planet Earth comes in January. In fact, inhabitants of the Northern Hemisphere, particularly those wearily weathering winter storms, may be surprised to learn that Earth reached its closest point to the Sun on January 3rd this year. This false-color picture recorded near perihelion is from the earth-orbiting Yohkoh Solar Observatory. It shows an increasingly active Sun in the light of X-rays. A negative color scheme is used, darker colors representing more intense X-ray light.",
   "date": "1999-01-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9901/jan8_sxt_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9901/jan8_sxt.jpg"
 }

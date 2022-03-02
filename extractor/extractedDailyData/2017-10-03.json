@@ -1,14 +1,10 @@
 {
   "title": "Ice Ring around Nearby Star Fomalhaut",
-  "credit": [
-    "Credit: ALMA (ESO/NAOJ/NRAO), M. MacGregor; NASA/ESA Hubble, P. Kalas; B. Saxton (NRAO/AUI/NSF) Explanation",
-    "ALMA (ESO/NAOJ/NRAO), M. MacGregor; NASA/ESA Hubble, P. Kalas; B. Saxton (NRAO/AUI/NSF)"
-  ],
+  "credit": "ALMA (ESO/NAOJ/NRAO), M. MacGregor; NASA/ESA Hubble, P. Kalas; B. Saxton (NRAO/AUI/NSF)",
   "explanation": "Why is there a large ice ring around Fomalhaut? This interesting star -- easily visible in the night sky -- lies only about 25 light-years away and is known to be orbited by at least one planet, Dagon, as well as several inner dust disks. More intriguing, perhaps, is an outer ring, first discovered about 20 years ago, that has an unusually sharp inner boundary. The featured recent image by the Atacama Large Millimeter Array (ALMA) shows this outer ring with complete and unprecedented detail -- in pink -- superposed on a Hubble image of the Fomalhaut system in blue. A leading theory holds that this ring resulted from numerous violent collisions involving icy comets and planetesimals, the component objects of planets, while the ring boundaries are caused by the gravity of yet unseen planets. If correct, any interior planets in the Fomalhaut system are likely being continually pelted by large meteors and comets -- an onslaught last seen in our own planetary system four billion years ago in an episode called the Late Heavy Bombardment.",
   "date": "2017-10-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1710/FomalhautRing_ALMA_2064.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1710/FomalhautRing_ALMA_1080.jpg"
 }

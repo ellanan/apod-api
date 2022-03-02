@@ -1,14 +1,10 @@
 {
   "title": "Magnetars In The Sky",
-  "credit": [
-    "Credit: E. L. Wright (UCLA), COBE Project, Courtesy MSFC, NASA Explanation",
-    "E. L. Wright (UCLA), COBE Project, Courtesy MSFC, NASA"
-  ],
+  "credit": "E. L. Wright (UCLA), COBE Project, Courtesy MSFC, NASA",
   "explanation": "Indicated on this infrared image of the galactic center region are positions of candidate magnetars -- believed to be the strongest magnets in the galaxy. Classified by observers as Soft Gamma Repeaters (SGRs) and Anomalous X-ray Pulsars (AXPs), these cosmic powerhouses are likely city-sized, spinning, highly-magnetized neutron stars. How strong is a magnetar's magnetic field? The Earth's magnetic field which deflects compass needles is measured to be about 1 Gauss, while the strongest fields sustainable in earthbound laboratories are about 100,000 Gauss. A magnetar's monster magnetic field is estimated to be as high as 1,000,000,000,000,000 Gauss. A magnet this strong, located at about half the distance to the Moon would easily erase your credit cards and suck pens out of your pocket. In 1998, from a distance of about 20,000 light-years, one magnetar, SGR 1900+14 generated a powerful flash of gamma-rays detected by many spacecraft. That blast of high-energy radiation is now known to have had a measurable effect on Earth's ionosphere. At the surface of the magnetar, its powerful magnetic field is thought to buckle and shift the neutron star crust generating the intense high-energy flares",
   "date": "2004-11-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0411/magnetars_cobeloc_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0411/magnetars_cobeloc.jpg"
 }

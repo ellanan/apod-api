@@ -1,14 +1,10 @@
 {
   "title": "Star Cluster R136 Breaks Out",
-  "credit": [
-    "Credit: NASA, ESA, & F. Paresce (INAF-IASF), R. O'Connell (U. Virginia) et al. Explanation",
-    "NASA, ESA, & F. Paresce (INAF-IASF), R. O'Connell (U. Virginia) et al."
-  ],
+  "credit": "NASA, ESA, & F. Paresce (INAF-IASF), R. O'Connell (U. Virginia) et al.",
   "explanation": "In the center of nearby star-forming region lies a huge cluster containing some of the largest, hottest, and most massive stars known. These stars, known collectively as star cluster R136, part of the Tarantula Nebula, were captured in the featured image in visible light in 2009 through the Hubble Space Telescope. Gas and dust clouds in the Tarantula Nebula, have been sculpted into elongated shapes by powerful winds and ultraviolet radiation from these hot cluster stars. The Tarantula Nebula lies within a neighboring galaxy known as the Large Magellanic Cloud and is located a mere 170,000 light-years away.",
   "date": "2021-01-10",
   "hdurl": "https://apod.nasa.gov/apod/image/2101/30dor_hubble_3939.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2101/30dor_hubble_960.jpg"
 }

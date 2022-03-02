@@ -1,14 +1,10 @@
 {
   "title": "Carina Nebula Panorama from Hubble",
-  "credit": [
-    "Credit: NASA, ESA, N. Smith (U. California, Berkeley) et al., and The Hubble Heritage Team (STScI/AURA) Explanation",
-    "NASA, ESA, N. Smith (U. California, Berkeley) et al., and The Hubble Heritage Team (STScI/AURA)"
-  ],
+  "credit": "NASA, ESA, N. Smith (U. California, Berkeley) et al., and The Hubble Heritage Team (STScI/AURA)",
   "explanation": "How do violent stars affect their surroundings? To help find out, astronomers created a 48-frame high-resolution, controlled-color panorama of the center of the Carina Nebula, one of the largest star forming regions on the night sky. The featured image, taken in 2007, was the most detailed image of the Carina Nebula yet taken. Cataloged as NGC 3372, the Carina Nebula is home to streams of hot gas, pools of cool gas, knots of dark globules, and pillars of dense dusty interstellar matter. The Keyhole Nebula, visible left of center, houses several of the most massive stars known. These large and violent stars likely formed in dark globules and continually reshape the nebula with their energetic light, outflowing stellar winds, and ultimately by ending their lives in supernova explosions. Visible to the unaided eye, the entire Carina Nebula spans over 450 light years and lies about 8,500 light-years away toward the constellation of Ship's Keel (Carina).",
   "date": "2019-06-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1906/carina2_hst_4000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1906/carina2_hst_1080.jpg"
 }

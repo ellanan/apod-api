@@ -1,14 +1,10 @@
 {
   "title": "Light From A Distant Planet",
-  "credit": [
-    "Credit: R. Hurt (SSC-Caltech), JPL-Caltech, NASA Explanation",
-    "R. Hurt (SSC-Caltech), JPL-Caltech, NASA"
-  ],
+  "credit": "R. Hurt (SSC-Caltech), JPL-Caltech, NASA",
   "explanation": "Light emitted by a planet far beyond our Solar System has been identified for the first time. The planet, illustrated in the above drawing, had its light detected by comparing the brightness of only the parent star, when the planet was behind the star, to the light emitted when both the planet and its parent star were visible. The Earth-trailing Spitzer Space Telescope made the observation in infrared light, where the intrinsic glow of the planet outshines the light it reflects from its central star. The direct observation of light allowed a measurement of both the temperature and size of the planet: HD 209458b. Planet HD 209458b was confirmed to be larger than expected for its mass and on an orbit around its parent star that was unexpectedly close to a circle.",
   "date": "2005-04-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0504/planeteclipse_spitzer_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0504/planeteclipse_spitzer.jpg"
 }

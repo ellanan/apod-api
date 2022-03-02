@@ -1,17 +1,11 @@
 {
   "title": "Sirius: The Brightest Star in the Night",
-  "credit": [
-    "Credit: ROSAT, MPE, NASA, Courtesy Skyview Copyright: University of Leicester Explanation",
-    "ROSAT, MPE, NASA, Courtesy Skyview Copyright: University of Leicester"
-  ],
+  "credit": "ROSAT, MPE, NASA, Courtesy Skyview Copyright: University of Leicester",
   "explanation": "",
   "date": "1996-09-02",
   "hdurl": "https://apod.nasa.gov/apod/image/sirius_rosat.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: University of Leicester Explanation",
-    "University of Leicester"
-  ],
+  "copyright": "University of Leicester",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/sirius_rosat_big.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Pioneer 10: The First 6 Billion Miles",
-  "credit": [
-    "Credit: Donald Davis, Pioneer Project, ARC, NASA Explanation",
-    "Donald Davis, Pioneer Project, ARC, NASA"
-  ],
+  "credit": "Donald Davis, Pioneer Project, ARC, NASA",
   "explanation": "Q: What was made by humans and is 6 billion miles away? A: Pioneer 10 - and yesterday was the 25th anniversary of its launch. More than 9 light hours distant, Pioneer 10 is presently about twice as far from the Sun as Pluto, bound for interstellar space at 28,000 miles per hour. The distinction of being the first human artifact to venture beyond the Solar System is just one in a long list of firsts for this spacefaring ambassador, including; the first spacecraft to travel through the asteroid belt and explore the outer Solar System, the first spacecraft to visit Jupiter, the first to use a planet's gravity to change its course and to reach solar-system-escape velocity, and the first spacecraft to pass beyond the known planets. Pioneer 10's mission is nearing an end - now exploring the distant reaches of the heliosphere it will soon run out of sufficient electrical power to operate science instruments. However, the 570 lb. spacecraft will continue to coast and in 30,000 years or so it will pass within about 3 light years of a nearby star. The star itself, a faint red dwarf known as Ross 248, is just over 10 light years distant in the constellation of Taurus.",
   "date": "1997-03-03",
   "hdurl": "https://apod.nasa.gov/apod/image/9703/pioneer10_art.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9703/pioneer10_art.jpg"
 }

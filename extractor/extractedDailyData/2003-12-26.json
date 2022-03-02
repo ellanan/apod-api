@@ -1,14 +1,10 @@
 {
   "title": "Young Star, Dark Cloud",
-  "credit": [
-    "Credit: A. Noriega-Crespo (SSC/Caltech) et al., JPL, Caltech, NASA (Inset: Digital Sky Survey) Explanation",
-    "A. Noriega-Crespo (SSC/Caltech) et al., JPL, Caltech, NASA (Inset: Digital Sky Survey)"
-  ],
+  "credit": "A. Noriega-Crespo (SSC/Caltech) et al., JPL, Caltech, NASA (Inset: Digital Sky Survey)",
   "explanation": "High-speed outflows of molecular gas from a young stellar object glow in infrared light, revealing themselves in this recent false-color image from the Spitzer Space Telescope. Cataloged as HH (Herbig-Haro) 46/47 the infrared source is lodged within a dark nebula or Bok globule - near the lower right corner of the dark nebula in the optical inset - that is largely opaque when viewed in visible light. The energetic outflow features extend for nearly a light-year, burrowing into the dark interstellar material, and are attributed to early stages in the life of a sun-like star. They may well represent a phase of our own Sun's evolution which took place some 4.5 billion years ago, along with the formation of our solar system from a circumstellar disk. A tantalizing object to explore with Spitzer's infrared capabilities, this young star system is relatively nearby, located only some 1,140 light-years distant in the nautical constellation Vela.",
   "date": "2003-12-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0312/hh4647_sst_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0312/hh4647_sst_c2.jpg"
 }

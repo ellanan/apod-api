@@ -1,14 +1,10 @@
 {
   "title": "Smooth Sections on Asteroid Itokawa",
-  "credit": [],
   "explanation": "Why are parts of this asteroid's surface so smooth? No one is yet sure, but it may have to do with the dynamics of an asteroid that is a loose pile of rubble rather than a solid rock. The unusual asteroid is currently being visited by the Japanese spacecraft Hayabusa that is documenting its unusual structure and mysterious lack of craters. Last month, Hayabusa actually touched down on one of the smooth patches, dubbed the MUSES Sea, and collected soil samples that will eventually be returned to Earth for analysis. Unfortunately, the robot Hayabusa craft has been experiencing communications problems and so its departure for Earth has been delayed until 2007. Computer simulations show that 500-meter asteroid Itokawa may impact the Earth within the next few million years.",
   "date": "2005-12-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0601/itokawa06_hayabusa_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: ISAS, JAXA Explanation",
-    "ISAS, JAXA"
-  ],
+  "copyright": "ISAS, JAXA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0601/itokawa06_hayabusa.jpg"
 }

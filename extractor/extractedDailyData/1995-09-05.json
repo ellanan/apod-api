@@ -1,14 +1,10 @@
 {
   "title": "Europa: Ancient Water World",
-  "credit": [
-    "Credit: NASA, Voyager, Copyright Calvin J. Hamilton Explanation",
-    "NASA, Voyager, Copyright Calvin J. Hamilton"
-  ],
+  "credit": "NASA, Voyager, Copyright Calvin J. Hamilton",
   "explanation": "",
   "date": "1995-09-05",
   "hdurl": "https://apod.nasa.gov/apod/image/europa_vg.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/europa_vg.gif"
 }

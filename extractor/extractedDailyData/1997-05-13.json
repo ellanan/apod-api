@@ -1,14 +1,10 @@
 {
   "title": "Optical Transient Near GRB970508 Shows Distant Redshift",
-  "credit": [
-    "Credit: P. J. Groot et al. U. Amsterdam Explanation",
-    "P. J. Groot et al. U. Amsterdam"
-  ],
+  "credit": "P. J. Groot et al. U. Amsterdam",
   "explanation": "The GRB distance scale controversy may have just ended with a flash. Gamma Ray Bursts (GRBs) are powerful explosions occurring in seemingly random positions on the sky. They are so featureless and so poorly resolved, however, that their distances could not be determined. Last Thursday, May 8th, the orbiting Beppo-Sax Satellite detected and precisely located a GRB (GRB970508), quickly relaying its position to astronomers. Within hours, many of the world's most powerful telescopes were re-pointed in the direction of the new GRB. There they found a faint but variable optical source: a potential counterpart to the gamma-ray burst that was getting brighter. Most importantly, continued scrutiny showed that this optical transient had absorption lines with a redshift of about 0.8 - the distance scale of galaxies and quasars. If this source and GRB970508 are related, the GRB itself must be many billions of light-years away and the 30-year controversy on the distance scale to GRBs will draw dramatically to a close. GRBs could move from the realm of astronomical mystery to useful beacons of the early universe. Above is a \"negative\" image of the GRB970508 field, located near the north celestial pole, taken hours after the initial flash of gamma rays. The faint optical transient source is inside the box. North is up and the image is 2.5 arcminutes across (about a tenth the size of the full moon).",
   "date": "1997-05-13",
   "hdurl": "https://apod.nasa.gov/apod/image/9705/grb970508_groot1_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9705/grb970508_groot1.jpg"
 }

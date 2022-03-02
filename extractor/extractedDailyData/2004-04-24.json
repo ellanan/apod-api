@@ -1,14 +1,10 @@
 {
   "title": "M27: Not A Comet",
-  "credit": [
-    "Credit: FORS Team, 8.2-meter VLT, ESO Explanation",
-    "FORS Team, 8.2-meter VLT, ESO"
-  ],
+  "credit": "FORS Team, 8.2-meter VLT, ESO",
   "explanation": "While searching the skies above 18th century France for comets, astronomer Charles Messier diligently recorded this object as number 27 on his list of things which are definitely not comets. So what is it? Well, 21st century astronomers would classify it as a Planetary Nebula ... but it's not a planet either, even though it may appear round and planet-like in a small telescope. Messier 27 (M27) is now known to be an excellent example of a gaseous emission nebula created as a sun-like star runs out of nuclear fuel in its core. The nebula forms as the star's outer layers are expelled into space. The visible glow is generated as atoms are excited by the dying star's intense but invisible ultraviolet light. Known by the popular name Dumbbell Nebula, the beautifully symmetric interstellar gas cloud is about 1,200 light-years away in the constellation Vulpecula. This gorgeous synthetic color picture of M27 was produced during testing of one of the European Southern Observatory's Very Large Telescopes.",
   "date": "2004-04-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0404/m27_vlt_f1_large.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0404/m27_vlt_f1_sm.jpg"
 }

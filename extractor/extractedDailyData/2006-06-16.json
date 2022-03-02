@@ -1,14 +1,10 @@
 {
   "title": "APOD Turns Eleven",
-  "credit": [],
   "explanation": "The first APOD appeared eleven years ago today, on 1995 June 16. Although garnering only 14 page views on that day, we are proud to estimate that APOD has now served over 400 million space-related images over the last eleven years. That early beginning, along with a nearly unchanging format, has allowed APOD to be a consistent and familiar site on a web frequently filled with change. Many people don't know, though, that APOD is now translated daily into many major languages. We again thank our readers and NASA for their continued support, but ask that any potentially congratulatory e-mail go to the folks who created the great pictures -- many times with considerable effort -- that APOD has been fortunate enough to feature over the past year. Many can be contacted by following links found in the credit line under the image. Some of these images are featured in the above spectacular collage of a fantasy sky above Mars submitted by an enthusiastic APOD reader skilled in digital image manipulation. How many APOD images can you identify?",
   "date": "2006-06-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0606/apod11_serrano_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Herman Serrano Explanation",
-    "Herman Serrano"
-  ],
+  "copyright": "Herman Serrano",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0606/apod11_serrano.jpg"
 }

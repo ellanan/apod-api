@@ -1,14 +1,10 @@
 {
   "title": "The Crown of the Sun",
-  "credit": [],
   "explanation": "During a total solar eclipse, the Sun's extensive outer atmosphere, or corona, is an inspirational sight. Streamers and shimmering features visible to the eye span a brightness range of over 10,000 to 1, making them notoriously difficult to capture in a single photograph. But this composite of telescopic images covers a wide range of exposure times to reveal the crown of the Sun in all its glory. The aligned and stacked digital frames were taken in clear skies above Stanley, Idaho in the Sawtooth Mountains during the Sun's total eclipse on August 21. A pinkish solar prominence extends just beyond the right edge of the solar disk. Even small details on the dark night side of the New Moon can be made out, illuminated by sunlight reflected from a Full Earth.",
   "date": "2017-08-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1708/solareclipseHDR_largeDemeter.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Derek Demeter (Emil Buehler Planetarium) Explanation",
-    "Derek Demeter (Emil Buehler Planetarium)"
-  ],
+  "copyright": "Derek Demeter (Emil Buehler Planetarium)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1708/solareclipseHDR_largeDemeter1024.jpg"
 }

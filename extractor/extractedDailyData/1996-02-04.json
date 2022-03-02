@@ -1,14 +1,10 @@
 {
   "title": "The Closest Galaxy: The Sagittarius Dwarf",
-  "credit": [],
   "explanation": "",
   "date": "1996-02-04",
   "hdurl": "https://apod.nasa.gov/apod/image/Sagdwarf_not_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: A. Oksanen, 2.5 meter Nordic Optical Telescope Explanation",
-    "A. Oksanen, 2.5 meter Nordic Optical Telescope"
-  ],
+  "copyright": "A. Oksanen, 2.5 meter Nordic Optical Telescope",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/Sagdwarf_not.gif"
 }

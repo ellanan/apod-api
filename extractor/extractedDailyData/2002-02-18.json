@@ -1,14 +1,10 @@
 {
   "title": "A Radio Vista of Cygnus",
-  "credit": [],
   "explanation": "Shells of ancient supernovas, cocoons surrounding newborn stars, and specks from distant quasars highlight this tremendous vista toward the constellation of Cygnus. The representative color image covers about 10 degrees across on the sky but is only a small part of the Canadian Galactic Plane Survey in radio light. Diffuse bands of ionized gas flow though a dominating region of star formation, located about 6000 light-years away. Two prominent supernova shells visible include the brown globule on the lower left and the white bumpy sphere on the upper right. To the left of the brown globule is the entire North America Nebula. Prominent stellar cocoons are visible throughout the image as bright white knots. Some of these stars will likely generate future supernova shells. Far in the distance, visible here as only red dots, quasars glow.",
   "date": "2002-02-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0202/cygnus_cgps_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jayanne English (U. Manitoba) et al., CGPS, CNRC Explanation",
-    "Jayanne English (U. Manitoba) et al., CGPS, CNRC"
-  ],
+  "copyright": "Jayanne English (U. Manitoba) et al., CGPS, CNRC",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0202/cygnus_cgps.jpg"
 }

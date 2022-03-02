@@ -1,14 +1,10 @@
 {
   "title": "Lightning and the Space Shuttle",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "",
   "date": "1995-11-10",
   "hdurl": "https://apod.nasa.gov/apod/image/shuttle_lightning_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/shuttle_lightning.gif"
 }

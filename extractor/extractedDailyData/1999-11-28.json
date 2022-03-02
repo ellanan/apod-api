@@ -1,14 +1,10 @@
 {
   "title": "Beneath Venus' Clouds",
-  "credit": [
-    "Credit: Magellan Spacecraft, Arecibo Radio Telescope, NASA Explanation",
-    "Magellan Spacecraft, Arecibo Radio Telescope, NASA"
-  ],
+  "credit": "Magellan Spacecraft, Arecibo Radio Telescope, NASA",
   "explanation": "If the thick clouds covering Venus were removed, how would the surface appear? Using an imaging radar technique, the Magellan spacecraft was able to lift the veil from the Face of Venus and produce this spectacular high resolution image of the planet's surface. Red, in this false-color map, represents mountains, while blue represents valleys. This 3-kilometer resolution map is a composite of Magellan images compiled between 1990 and 1994. Gaps were filled in by the Earth-based Arecibo Radio Telescope. The large yellow/red area in the north is Ishtar Terra featuring Maxwell Montes, the largest mountain on Venus. The large highland regions are analogous to continents on Earth. Scientists are particularly interested in exploring the geology of Venus because of its similarity to Earth.",
   "date": "1999-11-28",
   "hdurl": "https://apod.nasa.gov/apod/image/9911/venus2_mag_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9911/venus2_mag.jpg"
 }

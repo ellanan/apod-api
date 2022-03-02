@@ -1,14 +1,10 @@
 {
   "title": "Ultraviolet Rings of M31",
-  "credit": [
-    "Credit: GALEX, JPL-Caltech, NASA Explanation",
-    "GALEX, JPL-Caltech, NASA"
-  ],
+  "credit": "GALEX, JPL-Caltech, NASA",
   "explanation": "A mere 2.5 million light-years away the Andromeda Galaxy, also known as M31, really is just next door as large galaxies go. So close and spanning some 260,000 light-years, it took 11 different image fields from the Galaxy Evolution Explorer (GALEX) satellite's telescope to produce this gorgeous portrait of the spiral galaxy in ultraviolet light. While its spiral arms stand out in visible light images of Andromeda, the arms look more like rings in the GALEX ultraviolet view, a view dominated by the energetic light from hot, young, massive stars. As sites of intense star formation, the rings have been interpreted as evidence Andromeda collided with its smaller neighboring elliptical galaxy M32 more than 200 million years ago. The large Andromeda galaxy and our own Milky Way are the most massive members of the local galaxy group.",
   "date": "2015-07-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1507/AndromedaGalex_2048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1507/AndromedaGalex_900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Bright Spots Resolved in Occator Crater on Ceres",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, UCLA, MPS/DLR/IDA Explanation",
-    "NASA, JPL-Caltech, UCLA, MPS/DLR/IDA"
-  ],
+  "credit": "NASA, JPL-Caltech, UCLA, MPS/DLR/IDA",
   "explanation": "What created these bright spots on Ceres? The spots were first noted as the robotic Dawn spacecraft approached Ceres, the largest object in the asteroid belt, in February, with the expectation that the mystery would soon be solved in higher resolution images. However, even after Dawn arrived at Ceres in March, the riddle remained. Surprisingly, although images including the featured composite taken in the last month do resolve many details inside Occator crater, they do not resolve the mystery. Another recent clue is that a faint haze develops over the crater's bright spots. Dawn is scheduled to continue to spiral down toward Ceres and scan the dwarf planet in several new ways that, it is hoped, will determine the chemical composition of the region and finally reveal the nature and history of the spots. In several years, after running out of power, Dawn will continue to orbit Ceres indefinitely, becoming an artificial satellite and an enduring monument to human exploration.",
   "date": "2015-09-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1509/CeresOccator_Dawn_1200.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1509/CeresOccator_Dawn_1080.jpg"
 }

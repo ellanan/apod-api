@@ -1,14 +1,10 @@
 {
   "title": "Adirondack Rock on Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, JPL, NASA",
   "explanation": "Is this a great pyramid on Mars? Actually, the pictured rock dubbed Adirondack has an irregular shape, is only about the size of a football, and has formed by natural processes. Still, its relatively large size and dust-free surface made it the first destination for the robotic Spirit rover currently roving Mars. Spirit, itself the size of a golf cart, will now attempt to determine the rock's composition and history by prodding it with its sophisticated mechanical arm. Spirit's arm, programmed remotely from Earth, has the capability to bend, grind, and photograph the rock in minute detail. Spirit's twin rover Opportunity is scheduled to land on the other side of Mars this coming weekend.",
   "date": "2004-01-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0401/adirondack_spirit_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0401/adirondack_spirit.jpg"
 }

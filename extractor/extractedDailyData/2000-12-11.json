@@ -1,14 +1,10 @@
 {
   "title": "Composing the Omega Nebula",
-  "credit": [],
   "explanation": "The Omega Nebula is a massive, complex cloud of dust and gas from which new stars are continually forming. The similarity to the Greek letter capital Omega gives the molecular cloud its popular name, but the nebula is also known as the Swan Nebula, the Horseshoe Nebula, and M17. Detailed features such as thin filaments of emission by diffuse dust and dark clouds of absorption by dense dust are visible in this recently released picture. The image highlights infrared light emitted by large molecules known as polycyclic aromatic hydrocarbons (PAHs), a gas similar to car exhaust that traces carbon and interstellar dust. PAHs may be an intermediate step between smaller molecules and large interstellar dust grains. The origin of PAHs is currently unknown but thought by some astronomers to form in the cool atmospheres of young carbon stars and to be dispersed by their stellar winds.",
   "date": "2000-12-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0012/omega_sqiid_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: K. M. Merrill, 2.1-m Telescope, SQIID, KPNO, AURA, NOAO, NSF Explanation",
-    "K. M. Merrill, 2.1-m Telescope, SQIID, KPNO, AURA, NOAO, NSF"
-  ],
+  "copyright": "K. M. Merrill, 2.1-m Telescope, SQIID, KPNO, AURA, NOAO, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0012/omega_sqiid.jpg"
 }

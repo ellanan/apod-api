@@ -1,14 +1,10 @@
 {
   "title": "Aurora by Moonlight",
-  "credit": [],
   "explanation": "The ice was singing as light from a bright gibbous Moon cast shadows across this frozen lake, about 20 kilometers north of Stockholm, Sweden, planet Earth. In the alluring night skyscape captured on February 10, shimmering auroral curtains of light dance in the evening sky. On that northern night nature's performance included the auroral displays fostered by a minor geomagnetic storm. Stormy space weather was the result of a coronal mass ejection, erupting from a solar prominence days earlier and brushing our fair planet's magnetosphere.",
   "date": "2022-02-12",
   "hdurl": "https://apod.nasa.gov/apod/image/2202/auroralakeFeb10_Heden.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P-M Hedén (Clear Skies, TWAN) Explanation",
-    "P-M Hedén (Clear Skies, TWAN)"
-  ],
+  "copyright": "P-M Hedén (Clear Skies, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2202/auroralakeFeb10_Heden.jpg"
 }

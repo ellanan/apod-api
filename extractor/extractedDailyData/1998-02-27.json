@@ -1,14 +1,10 @@
 {
   "title": "Solar Eclipse: A Composite View",
-  "credit": [
-    "Credit: J. Pasachoff (Williams College), SOHO-EIT Consortium Explanation",
-    "J. Pasachoff (Williams College), SOHO-EIT Consortium"
-  ],
+  "credit": "J. Pasachoff (Williams College), SOHO-EIT Consortium",
   "explanation": "Yesterday, the Moon's shadow reached out and touched the Earth, treating a large portion of the Western Hemisphere to an Eclipse of the Sun. This composite image combines pictures of the Sun made from both Earth and space. The central direct image of the solar surface was recorded yesterday by the Extreme Ultraviolet Imaging Telescope on board the space based SOHO observatory. It is surrounded by a telescopic picture of the Sun as seen from the island of Aruba during the total eclipse. The surrounding view of the eclipsed Sun reveals the gleaming solar corona, visible to ground based observers during totality. Such combined images can help connect explosive events and features on the Sun's surface with the corona and solar wind.",
   "date": "1998-02-27",
   "hdurl": "https://apod.nasa.gov/apod/image/9802/feb26eclipse_eitcomp_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9802/feb26eclipse_eitcomp.jpg"
 }

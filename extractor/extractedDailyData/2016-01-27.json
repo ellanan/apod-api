@@ -1,14 +1,10 @@
 {
   "title": "An Airglow Fan from Lake to Sky",
-  "credit": [],
   "explanation": "Why would the sky look like a giant fan? Airglow. The featured intermittent green glow appeared to rise from a lake through the arch of our Milky Way Galaxy, as captured last summer next to Bryce Canyon in Utah, USA. The unusual pattern was created by atmospheric gravity waves, ripples of alternating air pressure that can grow with height as the air thins, in this case about 90 kilometers up. Unlike auroras powered by collisions with energetic charged particles and seen at high latitudes, airglow is due to chemiluminescence, the production of light in a chemical reaction. More typically seen near the horizon, airglow keeps the night sky from ever being completely dark.",
   "date": "2016-01-27",
   "hdurl": "https://apod.nasa.gov/apod/image/1601/AirglowFan_Lane_2400.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dave Lane; Rollover Annotation: Judy Schmidt Explanation",
-    "Dave Lane; Rollover Annotation: Judy Schmidt"
-  ],
+  "copyright": "Dave Lane; Rollover Annotation: Judy Schmidt",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1601/AirglowFan_Lane_960.jpg"
 }

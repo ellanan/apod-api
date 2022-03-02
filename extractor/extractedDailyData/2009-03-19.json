@@ -1,14 +1,10 @@
 {
   "title": "Saturn: Moons in Transit",
-  "credit": [
-    "Credit: NASA, ESA, Hubble Heritage Team (STScI/AURA) Acknowledgment: M.H. Wong (STScI/UC Berkeley), C. Go (Philippines) Explanation",
-    "NASA, ESA, Hubble Heritage Team (STScI/AURA) Acknowledgment: M.H. Wong (STScI/UC Berkeley), C. Go (Philippines)"
-  ],
+  "credit": "NASA, ESA, Hubble Heritage Team (STScI/AURA) Acknowledgment: M.H. Wong (STScI/UC Berkeley), C. Go (Philippines)",
   "explanation": "Every 14 to 15 years, Saturn's rings are tilted edge-on to our line of sight. As the bright, beautiful rings seem to grow narrower it becomes increasingly difficult to see them, even with large telescopes. But it does provide the opportunity to watch multiple transits of Saturn's moons. During a transit, a sunlit moon and its shadow glide across the cloudy face of the gas giant. Recorded on February 24, this Hubble image is part of a sequence showing the transit of four of Saturn's moons. From left to right are Enceladus and shadow, Dione and shadow, and Saturn's largest moon Titan. Small moon Mimas is just touching Saturn's disk near the ring plane at the far right. The shadows of Titan and Mimas have both moved off the right side of the disk. Saturn itself has an equatorial diameter of about 120,000 kilometers.",
   "date": "2009-03-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0903/sat4moons_hst.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0903/sat4moons_hst_ch600.jpg"
 }

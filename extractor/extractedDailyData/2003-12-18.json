@@ -1,14 +1,10 @@
 {
   "title": "Express to Mars",
-  "credit": [
-    "Credit: Mars Express, ESA Explanation",
-    "Mars Express, ESA"
-  ],
+  "credit": "Mars Express, ESA",
   "explanation": "Hurtling toward its destination, the high resolution camera on board ESA's Mars Express spacecraft recorded this tantalizing view of the Red Planet earlier this month on December 3rd. Seen from a distance of 5.5 million kilometers, features across part of Mars' western hemisphere are bathed in sunlight. The Martian night side is also prominent from the spacecraft's perspective, a view not possible for Earthbound telescopes. Launched on an interplanetary voyage of exploration in early June, Mars Express carries with it the Beagle 2 lander, scheduled to be released from Mars Express tomorrow, December 19th. Mars Express and Beagle 2 will then continue the journey separately, but both are scheduled to reach Mars on December 25th, with Mars Express entering an elliptical orbit and Beagle 2 descending to the Martian surface. Two more invaders from Earth, NASA's Mars Exploration Rovers, will arrive in January.",
   "date": "2003-12-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0312/mars5p5_esa_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0312/mars5p5_esa_c1.jpg"
 }

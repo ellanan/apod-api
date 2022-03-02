@@ -1,14 +1,10 @@
 {
   "title": "A Mysterious Hexagonal Cloud System on Saturn",
-  "credit": [
-    "Credit: NASA/JPL, VIMS Team, University of Arizona Explanation",
-    "NASA/JPL, VIMS Team, University of Arizona"
-  ],
+  "credit": "NASA/JPL, VIMS Team, University of Arizona",
   "explanation": "Why would clouds form a hexagon on Saturn? Nobody is yet sure. Originally discovered during the Voyager flybys of Saturn in the 1980s, nobody has ever seen anything like it anywhere else in the Solar System. If Saturn's South Pole wasn't strange enough with its rotating vortex, Saturn's North Pole might now be considered even stranger. The bizarre cloud pattern is shown above in a recent infrared image taken by the Saturn-orbiting Cassini spacecraft. The images show the stability of the hexagon even 20 years after Voyager. Movies of Saturn's North Pole show the cloud structure maintaining its hexagonal structure while rotating. Unlike individual clouds appearing like a hexagon on Earth, the Saturn cloud pattern appears to have six well defined sides of nearly equal length. Four Earths could fit inside the hexagon. Although full explanations are not yet available, planetary scientists are sure to continue to study this most unusual cloud formation for quite some time.",
   "date": "2007-04-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0704/hexagon_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0704/hexagon_cassini.jpg"
 }

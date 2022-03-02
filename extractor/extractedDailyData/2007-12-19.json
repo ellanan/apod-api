@@ -1,14 +1,10 @@
 {
   "title": "Stars and Dust through Baade's Window",
-  "credit": [],
   "explanation": "Billions of stars light up the direction toward the center of our Galaxy. The vast majority of these stars are themselves billions of years old, rivaling their home Milky Way Galaxy in age. Together with interstellar dust, these old stars combine to create this yellowish starscape. Although the opaque dust obscures the true Galactic center in visible light, there is a low density hole in the dust on the right of the image. The region, named Baade's Window for the German astronomer who studied it, is used to inspect distant stars and to determine the internal geometry of the Milky Way. Baade's Window lies toward the constellation of the Archer (Sagittarius).",
   "date": "2007-12-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0712/baadewindow_guisard_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephane Guisard Explanation",
-    "Stephane Guisard"
-  ],
+  "copyright": "Stephane Guisard",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0712/baadewindow_guisard.jpg"
 }

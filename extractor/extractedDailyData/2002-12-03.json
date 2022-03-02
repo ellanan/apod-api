@@ -1,14 +1,10 @@
 {
   "title": "2002 December 3",
-  "credit": [],
   "explanation": "",
   "date": "2002-12-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0212/tse2001a_espenak.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fred Espenak Explanation",
-    "Fred Espenak"
-  ],
+  "copyright": "Fred Espenak",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0212/tse2001a_espenak.jpg"
 }

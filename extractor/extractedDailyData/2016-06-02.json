@@ -1,14 +1,10 @@
 {
   "title": "Three Planets from Pic du Midi",
-  "credit": [],
   "explanation": "Seen any planets lately? All three planets now shining brightly in the night sky are imaged in these panels, captured last week with the 1 meter telescope at Pic du Midi Observatory in the French Pyrenees. Near opposition and closest to Earth on May 30, Mars is presently offering the best ground-based photo-ops in the last decade. The sharp image finds clouds above the Red Planet's north pole (top) and towering volcanos near its right limb. Saturn reaches its own opposition tonight, its bright rings and gaps clearly revealed in the telescopic portrait. Jupiter is currently highest during the evening twilight and shows off its planet-girdling cloud bands and Great Red Spot in this scene. Of course close-up images of the ruling gas giant will follow the July arrival of the solar-powered Juno spacecraft and JunoCam.",
   "date": "2016-06-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1606/ia90sewnDauvergne.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: JL. Dauvergne, E. Kraaikamp, F. Colas / S2P / IMCCE / OMP Explanation",
-    "JL. Dauvergne, E. Kraaikamp, F. Colas / S2P / IMCCE / OMP"
-  ],
+  "copyright": "JL. Dauvergne, E. Kraaikamp, F. Colas / S2P / IMCCE / OMP",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1606/ia90sewnDauvergne600h.jpg"
 }

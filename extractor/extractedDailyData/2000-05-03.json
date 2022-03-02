@@ -1,14 +1,10 @@
 {
   "title": "BOOMERANG Images The Early Universe",
-  "credit": [
-    "Credit: BOOMERANG Project Explanation",
-    "BOOMERANG Project"
-  ],
+  "credit": "BOOMERANG Project",
   "explanation": "Drifting through the stratosphere above Antarctica in late 1998, the balloon-borne BOOMERANG telescope peered into the cosmos at millimeter wavelengths. The blotchy structures it detected are seen above in the sharpest yet picture of the universe at an early age, perhaps a mere 300,000 years old. The false-color image shows subtle fluctuations in the temperature of the hot plasma which filled the universe before expansion cooled the material, producing the familiar stars and galaxies. Dramatically, the size of the fluctuations in the BOOMERANG image has convinced many cosmologists that the universe contains just exactly enough matter and energy to be flat -- a powerful prediction of the popular theory of Inflation which describes the earliest moments of the Big Bang. A flat universe will expand forever and two light rays which start out parallel will never spread or intersect. But all is not solved (!) as the BOOMERANG results don't show clearly details confirming the suspected amounts of dark matter and the cosmological constant.",
   "date": "2000-05-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0005/earlyuniverse_boom_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0005/earlyuniverse_boom.jpg"
 }

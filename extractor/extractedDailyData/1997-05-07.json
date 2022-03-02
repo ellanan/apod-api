@@ -1,14 +1,10 @@
 {
   "title": "Ultraviolet Venus",
-  "credit": [
-    "Credit: Pioneer Venus Orbiter Team, NASA Explanation",
-    "Pioneer Venus Orbiter Team, NASA"
-  ],
+  "credit": "Pioneer Venus Orbiter Team, NASA",
   "explanation": "The forecast for Venus is cloudy, cloudy, cloudy. Although similar to the Earth in size and mass, Venus' slightly closer orbit to the Sun create for it a much thicker atmosphere and a much hotter surface. The thick atmosphere was photographed above in ultraviolet light in 1979 by the Pioneer Venus Orbiter. Whether or not Venus has a moon was the center of a great controversy in the 1700s and 1800s. Today we know Venus has no natural satellites. Venus's extremely uncomfortable climate was likely caused by a runaway greenhouse effect. Could Earth ever undergo runaway greenhouse heating like Venus?",
   "date": "1997-05-07",
   "hdurl": "https://apod.nasa.gov/apod/image/9705/venus_pvo_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9705/venus_pvo.jpg"
 }

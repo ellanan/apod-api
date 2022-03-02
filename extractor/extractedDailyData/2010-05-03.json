@@ -1,14 +1,10 @@
 {
   "title": "Spiral Galaxy NGC 3190 Almost Sideways",
-  "credit": [
-    "Credit: Data - Hubble Legacy Archive, ESA, NASA Processing - Robert Gendler Explanation",
-    "Data - Hubble Legacy Archive, ESA, NASA Processing - Robert Gendler"
-  ],
+  "credit": "Data - Hubble Legacy Archive, ESA, NASA Processing - Robert Gendler",
   "explanation": "Some spiral galaxies are seen almost sideways. NGC 3190, one such galaxy, is the largest member of the Hickson 44 Group, one of the nearer groups of galaxies to our own Local Group of galaxies. Pictured above, finely textured dust lanes surround the brightly glowing center of this picturesque spiral. Gravitational tidal interactions with other members of its group have likely caused the spiral arms of NGC 3190 to appear asymmetric around the center, while the galactic disk also appears warped. NGC 3190 spans about 75,000 light years across and is visible with a small telescope toward the constellation of the Lion (Leo).",
   "date": "2010-05-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1005/ngc3190_hstlegacy_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1005/ngc3190_hstlegacy.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Fountains Discovered on Saturn's Enceladus",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Fountains of ice shoot out from Saturn's moon Enceladus. Clear discovery images of the fountains were made using observations from the robot Cassini spacecraft currently orbiting Saturn. During a recent pass, Cassini was programmed to look back toward the Sun where Enceladus would appear as a thin crescent. From this vantage point, particles emitted from the surface would better show themselves by reflecting sunlight. The tactic was successful -- the above frame shows several plumes emanating from regions previously known to contain gashes in the surface dubbed tiger stripes. Cassini detected an increase in particle emissions from these regions during a July flyby. Some of these ice particles likely contribute to the make up of Saturn's mysterious E ring.",
   "date": "2005-12-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0512/enceladusfountains_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0512/enceladusfountains_cassini.jpg"
 }

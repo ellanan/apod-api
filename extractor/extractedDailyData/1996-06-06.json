@@ -1,14 +1,10 @@
 {
   "title": "The North America Nebula",
-  "credit": [],
   "explanation": "",
   "date": "1996-06-06",
   "hdurl": "https://apod.nasa.gov/apod/image/NorAmNeb_dd_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dominique Dierick and Dirk De la Marche Explanation",
-    "Dominique Dierick and Dirk De la Marche"
-  ],
+  "copyright": "Dominique Dierick and Dirk De la Marche",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/NorAmNeb_dd.gif"
 }

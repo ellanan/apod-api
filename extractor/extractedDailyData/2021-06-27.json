@@ -1,14 +1,10 @@
 {
   "title": "The Dancing Auroras of Saturn",
-  "credit": [
-    "Credit: NASA, Cassini, VIMS Team, U. Arizona, U. Leicester, JPL, ASI Explanation",
-    "NASA, Cassini, VIMS Team, U. Arizona, U. Leicester, JPL, ASI"
-  ],
+  "credit": "NASA, Cassini, VIMS Team, U. Arizona, U. Leicester, JPL, ASI",
   "explanation": "What drives auroras on Saturn? To help find out, scientists have sorted through hundreds of infrared images of Saturn taken by the Cassini spacecraft for other purposes, trying to find enough aurora images to correlate changes and make movies. Once made, some movies clearly show that Saturnian auroras can change not only with the angle of the Sun, but also as the planet rotates. Furthermore, some auroral changes appear related to waves in Saturn's magnetosphere likely caused by Saturn's moons. Pictured here, a false-colored image taken in 2007 shows Saturn in three bands of infrared light. The rings reflect relatively blue sunlight, while the planet itself glows in comparatively low energy red. A band of southern aurora in visible in green. In has recently been found that auroras heat Saturn's upper atmosphere. Understanding Saturn's auroras is a path toward a better understanding of Earth's auroras.",
   "date": "2021-06-27",
   "hdurl": "https://apod.nasa.gov/apod/image/2106/neonsaturnaurora_cassini_2560.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2106/neonsaturnaurora_cassini_1080.jpg"
 }

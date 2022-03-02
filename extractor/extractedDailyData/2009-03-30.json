@@ -1,14 +1,10 @@
 {
   "title": "Possible Mud Volcanoes on Mars",
-  "credit": [
-    "Credit: HiRISE, MRO, LPL (U. Arizona), NASA Explanation",
-    "HiRISE, MRO, LPL (U. Arizona), NASA"
-  ],
+  "credit": "HiRISE, MRO, LPL (U. Arizona), NASA",
   "explanation": "Is this a mud volcano on Mars? If so, could it be dredging up martian microbes? This strange possibility has been suggested recently and seems to fit several recent observations of Mars. First of all, hills like this seem to better resemble mud volcanoes on Earth than lava volcanoes and impact craters on Mars. Next, the pictured dome has an unusually textured surface consistent with fractured ice. Infrared images from space indicate that hills like this cool more quickly than surrounding rock, consistent with a dried mud composition. The hills also reflect colors consistent with a composition that formed in the presence of water. Finally, unusual plumes of gas containing methane have been found on Mars with unknown origin. These gas plumes could conceivably have been liberated by mud volcanoes, were the initially warm mud to contain methane-producing microbes drifting in a previously unobservable underground lake. A candidate mud volcano over 100 meters across is pictured above in the northern plains of Mars.",
   "date": "2009-03-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0903/mudvolcano_hirise_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0903/mudvolcano_hirise.jpg"
 }

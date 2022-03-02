@@ -1,14 +1,10 @@
 {
   "title": "Cassini At Jupiter: Red Spot Movie",
-  "credit": [
-    "Credit: CICLOPS, NASA, JPL, University of Arizona Explanation",
-    "CICLOPS, NASA, JPL, University of Arizona"
-  ],
+  "credit": "CICLOPS, NASA, JPL, University of Arizona",
   "explanation": "Everything is big on Jupiter, the solar system's reigning gas giant. For example, Jupiter's Great Red Spot is a hurricane-like storm system at least twice the diameter of planet Earth. Approaching Jupiter in early October the Cassini spacecraft recorded the images used in this excellent movie of the swirling storm system and planet-circling cloud bands. Seven mosaicked frames make up the movie sequence, each separated by one or two rotation periods (Jupiter rotates about once every 10 hours). The sequence is viewed as a simple cylindrical map projection spanning 50 degrees north to 50 degrees south of the Jovian equator. Can you see the small bright \"clouds\" which seem to suddenly appear west (left) of the Red Spot? Data from the Galileo spacecraft, orbiting Jupiter since 1996, suggest that these features are large lightning storms. Saturn-bound, the Cassini spacecraft will take a few months to fly by Jupiter, coordinating Jovian explorations with Galileo and picking up speed for the final leg of its interplanetary journey.",
   "date": "2000-11-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0011/redspot_cassini.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0011/redspot_cassini.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Elliptical Galaxy NGC 4881 in Coma",
-  "credit": [
-    "Credit: W. A. Baum (U. Washington), WFPC2, HST, NASA Explanation",
-    "W. A. Baum (U. Washington), WFPC2, HST, NASA"
-  ],
+  "credit": "W. A. Baum (U. Washington), WFPC2, HST, NASA",
   "explanation": "Elliptical galaxies are unlike spiral galaxies and hence unlike our own Milky Way Galaxy. The giant elliptical galaxy named NGC 4881 on the upper left lies at the edge of the giant Coma Cluster of Galaxies. Elliptical galaxies are ellipsoidal in shape, contain no spiral arms, contain little interstellar gas or dust, and are found mostly in rich clusters of galaxies. Elliptical galaxies appear typically yellow-red, as opposed to spirals which have spiral arms that appear quite blue. Much speculation continues on how each type of galaxy can form, on whether ellipticals can evolve from colliding spirals, or spirals can be created from colliding ellipticals, or both. Besides the spiral galaxy on the right, all other images in this picture are of galaxies that lie well behind the Coma Cluster.",
   "date": "1996-11-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9611/ngc4881_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9611/ngc4881_hst.gif"
 }

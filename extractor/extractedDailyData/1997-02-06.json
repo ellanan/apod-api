@@ -1,14 +1,10 @@
 {
   "title": "Comet Hale-Bopp Returns",
-  "credit": [],
   "explanation": "Comet Hale-Bopp has returned from behind the Sun. In December and early January, Comet Hale-Bopp was too near the Sun to be easily visible from Earth. Now the comet graces the morning sky and is visible from dark locations even without binoculars. The above photo was taken on January 31st and shows the two emerging tails of Comet Hale-Bopp. The blue wisp pointing up is the ion tale, while the white fuzz is the dust tail. On its trip to the inner Solar System, Comet Hale-Bopp is once again showing signs it could brighten in the next few months to become the most spectacular comet in modern times.",
   "date": "1997-02-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9702/hale-bopp1_acc.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P. Cusinato, A. Dimai and D. Ghirardo (Col Drusciè Obs.), AAC Explanation",
-    "P. Cusinato, A. Dimai and D. Ghirardo (Col Drusciè Obs.), AAC"
-  ],
+  "copyright": "P. Cusinato, A. Dimai and D. Ghirardo (Col Drusciè Obs.), AAC",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9702/hale-bopp1_acc.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Space Station Vista: Planet and Galaxy",
-  "credit": [
-    "Credit: NASA, JSC, ESRS Explanation",
-    "NASA, JSC, ESRS"
-  ],
+  "credit": "NASA, JSC, ESRS",
   "explanation": "If you could circle the Earth aboard the International Space Station, what might you see? Some amazing vistas, one of which was captured in this breathtaking picture in mid-2015. First, visible at the top, are parts of the space station itself including solar panels. Just below the station is the band of our Milky Way Galaxy, glowing with the combined light of billions of stars, but dimmed in patches by filaments of dark dust. The band of red light just below the Milky Way is airglow -- Earth's atmosphere excited by the Sun and glowing in specific colors of light. Green airglow is visible below the red. Of course that's our Earth below its air, with the terminator between day and night visible near the horizon. As clouds speckle the planet, illumination from a bright lightning bolt is seen toward the lower right. Between work assignments, astronauts from all over the Earth have been enjoying vistas like this from the space station since the year 2000.",
   "date": "2017-01-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1701/ISSLightShow_nasa_4928.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1701/ISSLightShow_nasa_960.jpg"
 }

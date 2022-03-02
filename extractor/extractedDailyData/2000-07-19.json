@@ -1,14 +1,10 @@
 {
   "title": "Globular Cluster M19",
-  "credit": [],
   "explanation": "M19 appears to be a typical globular cluster of stars - except for its shape. If one looks closely at the cluster, pictured above, it appears to be longer (top to bottom) than it is wide. In fact, M19 is the most aspherical globular cluster of the approximately 160 known orbiting the center of our Milky Way Galaxy. M19 lies about 27,000 light-years away, measures about 60 light-years across, and is home to over 100,000 stars. The cluster can be found with binoculars towards the constellation of Ophiuchus. The reason for the clusters' odd shape remains unknown, but might be related to the clusters' close (5000 light-year) proximity to the Galactic Center. Alternatively, the shape might be an illusion created by an unusual lane of dark absorbing dust on one side of the cluster.",
   "date": "2000-07-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0007/m19_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: D. Williams, N. A. Sharp, AURA, NOAO, NSF Explanation",
-    "D. Williams, N. A. Sharp, AURA, NOAO, NSF"
-  ],
+  "copyright": "D. Williams, N. A. Sharp, AURA, NOAO, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0007/m19_noao.jpg"
 }

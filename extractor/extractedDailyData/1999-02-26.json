@@ -1,14 +1,10 @@
 {
   "title": "Dark Cloud",
-  "credit": [
-    "Credit: Two Micron All Sky Survey Project (IPAC / U. Mass.) Explanation",
-    "Two Micron All Sky Survey Project (IPAC / U. Mass.)"
-  ],
+  "credit": "Two Micron All Sky Survey Project (IPAC / U. Mass.)",
   "explanation": "Ominously foreshadowing events to come, a dark cloud of obscuring dust stands out against a luminous star field in the Milky Way. Cataloged as Feitzinger and Stuwe object \"1-457\" this fuliginous interstellar nebula is relatively close - possibly only 1,000 light-years distant. Near its core it is dense enough to block almost all of the light from the numerous, more distant stars visible toward the galactic center region. In addition to dust grains, dark nebulae which abound in the plane of our Galaxy are likely to contain interstellar gas and represent potential raw material for future star formation.",
   "date": "1999-02-26",
   "hdurl": "https://apod.nasa.gov/apod/image/9902/darkcloud_2massatlas_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9902/darkcloud_2massatlas.jpg"
 }

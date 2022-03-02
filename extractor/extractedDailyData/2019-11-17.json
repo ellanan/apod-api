@@ -1,14 +1,10 @@
 {
   "title": "Young Stars in the Rho Ophiuchi Cloud",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, WISE Explanation",
-    "NASA, JPL-Caltech, WISE"
-  ],
+  "credit": "NASA, JPL-Caltech, WISE",
   "explanation": "How do stars form? To help find out, astronomers created this tantalizing false-color composition of dust clouds and embedded newborn stars in infrared wavelengths with WISE, the Wide-field Infrared Survey Explorer. The cosmic canvas features one of the closest star forming regions, part of the Rho Ophiuchi cloud complex some 400 light-years distant near the southern edge of the pronounceable constellation Ophiuchus. After forming along a large cloud of cold molecular hydrogen gas, young stars heat the surrounding dust to produce the infrared glow. Stars in the process of formation, called young stellar objects or YSOs, are embedded in the compact pinkish nebulae seen here, but are otherwise hidden from the prying eyes of optical telescopes. An exploration of the region in penetrating infrared light has detected emerging and newly formed stars whose average age is estimated to be a mere 300,000 years. That's extremely young compared to the Sun's age of 5 billion years. The prominent reddish nebula at the lower right surrounding the star Sigma Scorpii is a reflection nebula produced by dust scattering starlight. This view from WISE, released in 2012, spans almost 2 degrees and covers about 14 light-years at the estimated distance of the Rho Ophiuchi cloud.",
   "date": "2019-11-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1911/RhoOph_WISE_1600.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1911/RhoOph_WISE_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "MESSENGER Passes Mercury",
-  "credit": [
-    "Credit: MESSENGER Teams, JHU APL, NASA Explanation",
-    "MESSENGER Teams, JHU APL, NASA"
-  ],
+  "credit": "MESSENGER Teams, JHU APL, NASA",
   "explanation": "Two days ago, the MESSENGER spacecraft became only the second spacecraft in human history to swoop past Mercury. The last spacecraft to visit the Sun's closest planet was Mariner 10 over 35 years ago. Mariner 10 was not able to photograph Mercury's entire surface, and the images it did send back raised many questions. Therefore, much about planet Mercury remains unknown. This week's flyby of MESSENGER was only the first of three flybys. Over the next few years MESSENGER will swing past twice more and finally enter Mercury's orbit in 2011. MESSENGER is currently moving too fast to enter orbit around Mercury now. The above image was taken two days ago during MESSENGER's flyby and shows part of Mercury's surface that has never been imaged in detail before. Many more detailed images of Mercury are expected to be sent back over the next few days. The data acquired by MESSENGER will hopefully help scientists better understand how Mercury's surface was formed, and why it is so dense.",
   "date": "2008-01-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0801/mercury02_messenger_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0801/mercury02_messenger.jpg"
 }

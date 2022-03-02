@@ -1,14 +1,10 @@
 {
   "title": "The Spider and The Fly",
-  "credit": [],
   "explanation": "Star clusters and nebulae abound in the ancient northern constellation Auriga - a region that includes the interesting pair NGC 1931 (lower left) and IC 417. In this gorgeous color image, an imaginative eye toward the expansive IC 417 and diminutive NGC 1931 suggests a cosmic spider and fly. About 10,000 light-years distant, both are young open star clusters formed in interstellar clouds and still embedded in glowing hydrogen gas. The more compact NGC 1931 is about 10 light-years across with contrasting blue hues characteristic of dust reflected starlight.",
   "date": "2006-10-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0610/ngc1931ic417_cannistra_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Cannistra (StarryWonders) Explanation",
-    "Steve Cannistra (StarryWonders)"
-  ],
+  "copyright": "Steve Cannistra (StarryWonders)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0610/ngc1931ic417_cannistra_c50.jpg"
 }

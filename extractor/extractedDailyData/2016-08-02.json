@@ -1,13 +1,9 @@
 {
   "title": "A Rocket Booster Falls Back to Earth",
-  "credit": [],
   "explanation": "What's that crossing the sky? Although it looked a bit like a large meteor, it was actually the booster of a Chinese rocket returning to Earth after its launch two days earlier. On the night of July 27, the rocket component heated up and broke up into glowing pieces as it re-entered Earth's atmosphere. The path of the falling booster took it over several US states, moving west to east, from California to Utah. Space debris can usually be distinguished from meteors by its slow speed and expansive break up. The featured video was taken in front of the Provo City Library in Utah, which was coincidently occupied by over 100 people -- many with smartphones already out of their pockets playing Pok�mon GO.",
   "date": "2016-08-02",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Matthew Holt Explanation",
-    "Matthew Holt"
-  ],
+  "copyright": "Matthew Holt",
   "media_type": "video",
   "url": "https://www.youtube.com/embed/9nPLmydWacE?rel=0"
 }

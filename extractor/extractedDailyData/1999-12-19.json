@@ -1,14 +1,10 @@
 {
   "title": "Accretion Disk Binary System",
-  "credit": [
-    "Credit: ST ScI, NASA Explanation",
-    "ST ScI, NASA"
-  ],
+  "credit": "ST ScI, NASA",
   "explanation": "Our Sun is unusual in that it is alone - most stars occur in multiple or binary systems. In a binary system, the higher mass star will evolve faster and will eventually become a compact object - either a white dwarf star, a neutron star, or black hole. When the lower mass star later evolves into an expansion phase, it may be so close to the compact star that its outer atmosphere actually falls onto the compact star. Such is the case diagrammed above. Here gas from a blue giant star is shown being stripped away into an accretion disk around its compact binary companion. Gas in the accretion disk swirls around, heats up, and eventually falls onto the compact star. Extreme conditions frequently occur on the surface of the compact star as gas falls in, many times causing detectable X-rays, gamma-rays, or even cataclysmic novae explosions. Studying the extreme conditions in these systems tells us about the inner properties of ordinary matter around us.",
   "date": "1999-12-19",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/accretiondisk_hst_big.gif ",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/accretiondisk_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Atlantis to Orbit",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "Birds don't fly this high. Airplanes don't go this fast. The Statue of Liberty weighs less. No species other than human can even comprehend what is going on, nor could any human just a millennium ago. The launch of a rocket bound for space is an event that inspires awe and challenges description. Pictured above, the Space Shuttle Atlantis lifted off to visit the International Space Station during the early morning hours of July 12. From a standing start, the two million kilogram rocket ship left to circle the Earth where the outside air is too thin to breathe and where there is little noticeable onboard gravity. Rockets bound for space are now launched from somewhere on Earth about once a week.",
   "date": "2001-07-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0107/nightlaunch_sts104_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0107/nightlaunch_sts104.jpg"
 }

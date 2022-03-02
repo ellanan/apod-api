@@ -1,14 +1,10 @@
 {
   "title": "Equinox + 1",
-  "credit": [],
   "explanation": "Twice a year, at the Spring and Fall equinox, the Sun rises due east. In an emphatic demonstration of this celestial alignment, photographer Joe Orman recorded this inspiring image of the Sun rising exactly along the east-west oriented Western Canal, in Tempe,Arizona, USA. But he waited until March 21st, one day after the northern Spring equinox in 2001, to photograph the striking view. Why was the rising Sun due east one day after the equinox? At Tempe's latitude the Sun rises at an angle, arcing southward as it climbs above the horizon. Because the distant mountains hide the true horizon, the Sun shifts slightly southward by the time it clears the mountain tops. Waiting 24 hours allowed the Sun to rise just north of east and arc back to an exactly eastern alignment for the photo. Today's equinox finds the Sun on the celestial equator at 0649 Universal Time.",
   "date": "2004-03-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0403/equinoxp1_orman.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Joe Orman Explanation",
-    "Joe Orman"
-  ],
+  "copyright": "Joe Orman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0403/equinoxp1_orman.jpg"
 }

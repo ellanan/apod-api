@@ -1,14 +1,10 @@
 {
   "title": "Perseid Night at Yosemite",
-  "credit": [],
   "explanation": "The 2016 Perseid meteor shower performed well on the night of August 11/12. The sky on that memorable evening was recorded from a perch overlooking Yosemite Valley, planet Earth, in this scene composed of 25 separate images selected from an all-night set of sequential exposures. Each image contains a single meteor and was placed in alignment using the background stars. The digital manipulation accounts for the Earth's rotation throughout the night and allows the explosion of colorful trails to be viewed in perspective toward the shower's radiant in the constellation Perseus. The fading alpenglow gently lights the west face of El Capitan just after sunset. Just before sunrise, a faint band zodiacal light, or the false dawn, shines upward from the east, left of Half Dome at the valley's far horizon. Car lights illuminate the valley road. Of course, the image is filled with other celestial sights from that Perseid night, including the Milky Way and the Pleiades star cluster.",
   "date": "2016-08-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1608/YosemiteExplosionComp-MikeShaw.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mike Shaw Explanation",
-    "Mike Shaw"
-  ],
+  "copyright": "Mike Shaw",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1608/YosemiteExplosionComp-MikeShaw800.jpg"
 }

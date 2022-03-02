@@ -1,14 +1,10 @@
 {
   "title": "The Carina Nebula in Infrared",
-  "credit": [
-    "Credit: 2MASS Collaboration, U. Mass., IPAC Explanation",
-    "2MASS Collaboration, U. Mass., IPAC"
-  ],
+  "credit": "2MASS Collaboration, U. Mass., IPAC",
   "explanation": "About three million years ago, the stars in the Keyhole Nebula began to form. The above picture of the Keyhole Nebula, also known as the Carina Nebula or NGC 3372, shows in infrared light many facets of this dramatic stellar nursery which lies only 9,000 light-years away. Fine dust reflects starlight while being heated and emitting light of its own. Open clusters Trumpler 14 and Trumpler 16 are visible in the lower left and upper right of the nebula. The bright star near Trumpler 14 is called Eta Carinae and is one of the most unusual stars known. A candidate for a supernova in the next few thousand years, Eta Carinae faded from being one of the brightest stars in the sky during the 1800s. Despite intensive study, astronomers remain unsure whether Eta Carinae is part of a binary star system.",
   "date": "2000-06-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0006/carinaatlas_2mass_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0006/carinaatlas_2mass.jpg"
 }

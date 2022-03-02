@@ -1,14 +1,10 @@
 {
   "title": "M82: Starburst In X-rays",
-  "credit": [
-    "Credit: NASA/ CXC/ SAO/ PSU/ CMU Explanation",
-    "NASA/ CXC/ SAO/ PSU/ CMU"
-  ],
+  "credit": "NASA/ CXC/ SAO/ PSU/ CMU",
   "explanation": "Star formation occurs at a faster pace in M82 -- a galaxy with about 10 times the rate of massive star birth (and death) compared to our Milky Way. Winds from massive stars and blasts from supernova explosions have created the expanding cloud of million degree gas filling the above Chandra X-ray Observatory image of this remarkable starburst galaxy. The false color image even resolves bright spots which are likely shocked supernova remnants and X-ray bright binary stars. Also observed as a radio galaxy and a bright celestial infrared source, M82's aspect in optical pictures has led to its popular moniker, the Cigar Galaxy. M82's burst of star formation was likely triggered a mere 100 million years ago in the latest of a series of bouts with another large galaxy, M81.",
   "date": "2000-04-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0004/m82_cxc_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0004/m82_cxc.jpg"
 }

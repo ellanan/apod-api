@@ -1,14 +1,10 @@
 {
   "title": "Spot the Moon",
-  "credit": [],
   "explanation": "Where's the full Moon? Somewhere in this image, the Earth's Moon is hiding. The entire Moon is visible, in its completely full phase, in plain sight. Even the photographer's keen eye couldn't find it even though he knew exactly where to look -- only the long exposure of his camera picked it up -- barely. Although by now you might be congratulating yourself on finding it, why was it so difficult to see? For one reason, this photograph was taken during the total lunar eclipse last month, when the Earth's shadow made the Moon much dimmer than a normal full Moon. For another, the image, taken in Colorado, USA, was captured just 12 minutes before sunrise. With the Moon on the exact opposite side of the sky from the Sun, this meant that the Sun was just below the horizon, but still slightly illuminating the sky. Last, as the Moon was only about two degrees above the horizon, the large volume of air between the camera and the horizon scattered a lot of light away from the background Moon. Twelve minutes after this image was acquired the Sun peeked over the horizon and the Moon set.",
   "date": "2012-01-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1201/spotthemoon_westlake_2128.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jimmy Westlake (Colorado Mountain College) Explanation",
-    "Jimmy Westlake (Colorado Mountain College)"
-  ],
+  "copyright": "Jimmy Westlake (Colorado Mountain College)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1201/spotthemoon_westlake_900.jpg"
 }

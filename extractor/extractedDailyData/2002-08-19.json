@@ -1,14 +1,10 @@
 {
   "title": "Roque de los Muchachos Observatory",
-  "credit": [
-    "Credit: Nik Szymanek (ING), IAC, ENO Explanation",
-    "Nik Szymanek (ING), IAC, ENO"
-  ],
+  "credit": "Nik Szymanek (ING), IAC, ENO",
   "explanation": "Above the clouds, atop an island off the coast of Africa, a group of cutting-edge telescopes inspects the universe. Pictured above are telescopes at Roque de los Muchachos Observatory on La Palma, one of the Canary Islands, Spain. The site is one of the premier observing locations on Earth. The telescopes pictured are, from left to right, the Carlsberg Meridian Telescope, the 4.2-meter William Herschel Telescope, the Dutch Open Telescope, the Swedish Solar Tower, the 2.5-meter Isaac Newton Telescope, and the 1.0-meter Jacobus Kapteyn Telescope. Pioneering observations made recently by these telescopes include stars and galaxies forming early in our universe, comets breaking up, and evidence for planets around Sun-like stars.",
   "date": "2002-08-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0208/canary_ing_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0208/canary_ing.jpg"
 }

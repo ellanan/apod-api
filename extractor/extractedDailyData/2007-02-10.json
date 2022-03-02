@@ -1,14 +1,10 @@
 {
   "title": "Stars of the Galactic Center",
-  "credit": [
-    "Credit: Susan Stolovy (SSC/Caltech) et al., JPL-Caltech, NASA Explanation",
-    "Susan Stolovy (SSC/Caltech) et al., JPL-Caltech, NASA"
-  ],
+  "credit": "Susan Stolovy (SSC/Caltech) et al., JPL-Caltech, NASA",
   "explanation": "The center of our Milky Way Galaxy is hidden from the prying eyes of optical telescopes by clouds of obscuring dust and gas. But in this stunning vista, the Spitzer Space Telescope's infrared cameras, penetrate much of the dust revealing the stars of the crowded galactic center region. A mosaic of many smaller snapshots, the detailed, false-color image shows older, cool stars in bluish hues. Reddish glowing dust clouds are associated with young, hot stars in stellar nurseries. The galactic center lies some 26,000 light-years away, toward the constellation Sagittarius. At that distance, this picture spans about 900 light-years.",
   "date": "2007-02-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0702/gcenter_spitzer_f40.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0702/gcenter_spitzer_c11.jpg"
 }

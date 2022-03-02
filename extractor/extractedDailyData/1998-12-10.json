@@ -1,14 +1,10 @@
 {
   "title": "Assembling The International Space Station",
-  "credit": [
-    "Credit: STS-88 Mission, NASA Explanation",
-    "STS-88 Mission, NASA"
-  ],
+  "credit": "STS-88 Mission, NASA",
   "explanation": "Batteries and solar panels were included with this version of the International Space Station (ISS) but some assembly is still required. On Saturday, December 5th, the STS-88 crew of the Space Shuttle Endeavor achieved the in orbit docking of the Zarya and Unity (foreground) ISS modules. On Monday, astronauts James Newman (left) and Jerry Ross continued the assembly procedures connecting power and data cables during the first of three planned spacewalks. Ground controllers were then able to successfully activate the ISS. Now orbiting planet Earth at an altitude of about 248 miles, Endeavour and the ISS are reported to be in excellent shape and crew members plan to enter the new space station today. Five Americans, one Russian, and the Unity module itself were lifted into orbit by the shuttle on Friday, December 4, while the Zarya (sunrise) module was launched on a Proton rocket from the Baikonur Cosmodrome in Kazakstan on November 20.",
   "date": "1998-12-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9812/issassemble_sts88_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9812/issassemble_sts88.jpg"
 }

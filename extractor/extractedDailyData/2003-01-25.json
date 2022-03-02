@@ -1,14 +1,10 @@
 {
   "title": "Palomar 13's Last Stand",
-  "credit": [
-    "Credit: M. Siegel & S. Majewski (UVA), C. Gallart (Yale), K. Cudworth (Yerkes), M. Takamiya (Gemini), Las Campanas Observatory Explanation",
-    "M. Siegel & S. Majewski (UVA), C. Gallart (Yale), K. Cudworth (Yerkes), M. Takamiya (Gemini), Las Campanas Observatory"
-  ],
+  "credit": "M. Siegel & S. Majewski (UVA), C. Gallart (Yale), K. Cudworth (Yerkes), M. Takamiya (Gemini), Las Campanas Observatory",
   "explanation": "Globular star cluster Palomar 13 has roamed the halo of our Milky Way Galaxy for the last 12 billion years. The apparently sparse cluster of stars just left of center in this composite color digital image, it is one of the smallest, faintest globular clusters known. (The bright foreground star near bottom is unrelated and creates the spiky imaging artifacts.) Observations spanning forty years indicate that Palomar 13's galactic halo orbit is a highly eccentric one which, every one or two billion years, brings it relatively close to the galactic center. With each close approach to the Milky Way's central regions, gravitational tidal forces strip away the delicately bound cluster stars. In fact, detailed present day studies offer evidence for a dramatic end to this dwindling cluster's tidal tug of war. Palomar 13's latest close approach was only about 70 million years ago. But, when Palomar 13 again approaches the galaxy, it could well turn out to be the cluster's last stand.",
   "date": "2003-01-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0301/p13_siegel.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0301/p13_siegel_crop1.jpg"
 }

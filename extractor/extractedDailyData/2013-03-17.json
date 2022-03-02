@@ -1,14 +1,10 @@
 {
   "title": "Light Echoes from V838 Mon",
-  "credit": [
-    "Credit: NASA, ESA, H. E. Bond (STScI) Explanation",
-    "NASA, ESA, H. E. Bond (STScI)"
-  ],
+  "credit": "NASA, ESA, H. E. Bond (STScI)",
   "explanation": "What caused this outburst of V838 Mon? For reasons unknown, star V838 Mon's outer surface suddenly greatly expanded with the result that it became the brightest star in the entire Milky Way Galaxy in January 2002. Then, just as suddenly, it faded. A stellar flash like this had never been seen before -- supernovas and novas expel matter out into space. Although the V838 Mon flash appears to expel material into space, what is seen in the above image from the Hubble Space Telescope is actually an outwardly moving light echo of the bright flash. In a light echo, light from the flash is reflected by successively more distant rings in the complex array of ambient interstellar dust that already surrounded the star. V838 Mon lies about 20,000 light years away toward the constellation of the unicorn (Monoceros), while the light echo above spans about six light years in diameter.",
   "date": "2013-03-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1303/v838_hubble_2238.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1303/v838_hubble_960.jpg"
 }

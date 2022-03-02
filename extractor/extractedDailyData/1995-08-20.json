@@ -1,14 +1,10 @@
 {
   "title": "Announcing Comet Hale-Bopp",
-  "credit": [
-    "Credit: Erich Meyer and Herbert Raab, Austria Explanation",
-    "Erich Meyer and Herbert Raab, Austria"
-  ],
+  "credit": "Erich Meyer and Herbert Raab, Austria",
   "explanation": "",
   "date": "1995-08-20",
   "hdurl": "https://apod.nasa.gov/apod/image/comet_hb1.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/comet_hb1.gif"
 }

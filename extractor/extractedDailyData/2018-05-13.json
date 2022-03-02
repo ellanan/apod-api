@@ -1,14 +1,10 @@
 {
   "title": "Sakurajima Volcano with Lightning",
-  "credit": [],
   "explanation": "Why does a volcanic eruption sometimes create lightning? Pictured above, the Sakurajima volcano in southern Japan was caught erupting in 2013 January. Magma bubbles so hot they glowed shot away as liquid rock burst through the Earth's surface from below. The featured image is particularly notable, however, for the lightning bolts caught near the volcano's summit. Why lightning occurs even in common thunderstorms remains a topic of research, and the cause of volcanic lightning is even less clear. Surely, lightning bolts help quench areas of opposite but separated electric charges. Volcanic lightning episodes may be facilitated by charge-inducing collisions in volcanic dust. Lightning is usually occurring somewhere on Earth, typically over 40 times each second.",
   "date": "2018-05-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1805/volcano_reitze_1280.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Martin Rietze (Alien Landscapes on Planet Earth) Explanation",
-    "Martin Rietze (Alien Landscapes on Planet Earth)"
-  ],
+  "copyright": "Martin Rietze (Alien Landscapes on Planet Earth)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1805/volcano_reitze_960.jpg"
 }

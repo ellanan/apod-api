@@ -1,14 +1,10 @@
 {
   "title": "Stereo Pluto",
-  "credit": [
-    "Credit: NASA, Johns Hopkins University/APL, Southwest Research Institute - Stereo Assembly: Brian May Explanation",
-    "NASA, Johns Hopkins University/APL, Southwest Research Institute - Stereo Assembly: Brian May"
-  ],
+  "credit": "NASA, Johns Hopkins University/APL, Southwest Research Institute - Stereo Assembly: Brian May",
   "explanation": "These two detailed, true color images of Pluto were captured during the historic New Horizons flyby last month. With slightly different perspectives on the now recognizeable surface features they are presented in this first high quality stereo pair intended for viewing by denizens of planet Earth. The left hand image (left eye) is a mosaic recorded when the spacecraft was about 450,000 kilometers from Pluto. The right single image was acquired earlier, a last full look before the spacecraft's closest approach. Despite a difference in resolution, the pair combine for a stunning 3D perception of the distant, underworldly terrain.",
   "date": "2015-08-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1508/NHPlutoStereoMay_ed2.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1508/NHPlutoStereoMay_ed2_1024.jpg"
 }

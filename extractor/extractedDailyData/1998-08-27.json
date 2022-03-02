@@ -1,14 +1,10 @@
 {
   "title": "Hercules Galaxies",
-  "credit": [
-    "Credit: Dr. Victor Andersen ( University of Alabama, KPNO) Courtesy W. Keel Explanation",
-    "Dr. Victor Andersen ( University of Alabama, KPNO) Courtesy W. Keel"
-  ],
+  "credit": "Dr. Victor Andersen ( University of Alabama, KPNO) Courtesy W. Keel",
   "explanation": "These are galaxies of the Hercules Cluster, an archipelago of \"island universes\" a mere 650 million light-years distant. This cluster is loaded with gas and dust rich, star forming, spiral galaxies but has relatively few elliptical galaxies, which lack gas and dust and the associated newborn stars. Colors in the composite image show the star forming galaxies with a blue tint and ellipticals with a slightly yellowish cast. In this cosmic vista many galaxies seem to be colliding or merging while others seem distorted - clear evidence that cluster galaxies commonly interact. Over time, the galaxy interactions are likely to affect the the content of the cluster itself. Researchers believe that the Hercules Cluster is significantly similar to young galaxy clusters in the distant, early Universe and that exploring galaxy types and their interactions in nearby Hercules will help unravel the threads of galaxy and cluster evolution.",
   "date": "1998-08-27",
   "hdurl": "https://apod.nasa.gov/apod/image/9808/herclus_andersen_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9808/herclus_andersen.jpg"
 }

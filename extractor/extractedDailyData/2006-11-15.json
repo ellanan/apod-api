@@ -1,14 +1,10 @@
 {
   "title": "A Fog Bow Over California",
-  "credit": [],
   "explanation": "Is that white arch real? What is being seen is a fogbow, a reflection of sunlight by water drops similar to a rainbow but without the colors. The fog itself is not confined to an arch -- the fog is mostly transparent but relatively uniform. The fogbow shape is created by those drops with the best angle to divert sunlight to the observer. The fogbow's relative lack of colors are caused by the relatively smaller water drops. The drops active above are so small that the quantum mechanical wavelength of light becomes important and smears out colors that would be created by larger rainbow water drops acting like small prisms reflecting sunlight. The above striking image of a fogbow was taken last week with the Sun behind the photographer. Close inspection of the far right of the full image will show one of the two suspension towers of the Golden Gate Bridge in California, USA.",
   "date": "2006-11-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0611/fogbow_zinkova_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mila Zinkova Explanation",
-    "Mila Zinkova"
-  ],
+  "copyright": "Mila Zinkova",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0611/fogbow_zinkova.jpg"
 }

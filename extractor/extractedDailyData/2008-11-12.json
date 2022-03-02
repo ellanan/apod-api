@@ -1,14 +1,10 @@
 {
   "title": "Phoenix and the Holy Cow",
-  "credit": [
-    "Credit: Marco Di Lorenzo, Kenneth Kremer, Phoenix Mission, NASA, JPL, UA, Max Planck Inst., Spaceflight Explanation",
-    "Marco Di Lorenzo, Kenneth Kremer, Phoenix Mission, NASA, JPL, UA, Max Planck Inst., Spaceflight"
-  ],
+  "credit": "Marco Di Lorenzo, Kenneth Kremer, Phoenix Mission, NASA, JPL, UA, Max Planck Inst., Spaceflight",
   "explanation": "The northern Martian summer is waning. As predicted, a decline in daylight hours, deteriorating weather, and dust storms are preventing solar arrays on the Phoenix Mars Lander from providing power. Phoenix's last signal was received on November 2, its successful mission ending after more than five months in the arctic region of the Red Planet, a run that exceeded its planned operational lifetime. Attempting to discover if Mars' surface has ever been able to support microbial life, Phoenix performed an extensive analysis of the soil and returned a wealth of image data. Of course, one of the lander's most exciting results was the detection of water-ice near the Martian surface. Recorded in October, this picture from the lander's Robotic Arm Camera shows the region under the Phoenix with flat, exposed icy patches. That area caused researchers to exclaim \"Holy Cow!\" when it was first imaged a few days after the May 25 touchdown of the Phoenix Mars Lander.",
   "date": "2008-11-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/PhoenixHolyCowMosaicAPOD.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/PhoenixHolyCowMosaicAPOD800.jpg"
 }

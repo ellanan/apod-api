@@ -1,14 +1,10 @@
 {
   "title": "5 Million Miles From Io",
-  "credit": [
-    "Credit: Voyager Project, JPL, NASA Explanation",
-    "Voyager Project, JPL, NASA"
-  ],
+  "credit": "Voyager Project, JPL, NASA",
   "explanation": "Twenty years ago this month, NASA's Voyager 1 spacecraft flew past Jupiter and its moons. This sharp picture of moon Io against a background of gas giant Jupiter's diffuse swirling cloud bands was recorded by Voyager's camera from a distance of about 5 million miles. Even this early image shows curious round features on Io's surface with dark centers and bright rims more than 40 miles across. Now known to be volcanic in origin, these features were then thought likely to be impact craters, commonly seen on rocky bodies throughout the Solar System. But as Voyager continued to approach Io, close-up pictures revealed a bizarre world devoid of impact craters, frequently resurfaced by volcanic activity. In fact, Io's volcanism is so intense that subsequent Voyager images produced an astounding discovery - the first observed extraterrestrial volcanic eruptions.",
   "date": "1999-03-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9903/iojup5mil_voyager_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9903/iojup5mil_voyager.jpg"
 }

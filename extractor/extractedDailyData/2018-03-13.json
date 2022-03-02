@@ -1,14 +1,10 @@
 {
   "title": "The Complete Galactic Plane: Up and Down",
-  "credit": [],
   "explanation": "Is it possible to capture the entire plane of our galaxy in a single image? Yes, but not in one exposure -- and it took some planning to do it in two. The top part of the featured image is the night sky above Lebanon, north of the equator, taken in 2017 June. The image was taken at a time when the central band of the Milky Way Galaxy passed directly overhead. The bottom half was similarly captured six months later in latitude-opposite Chile, south of Earth's equator. Each image therefore captured the night sky in exactly the opposite direction of the other, when fully half the Galactic plane was visible. The southern half was then inverted -- car and all -- and digitally appended to the top half to show the entire central band of our Galaxy, as a circle, in a single image. Many stars and nebulas are visible, with the Large Magellanic Cloud being particularly notable inside the lower half of the complete galactic circle.",
   "date": "2018-03-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1803/UpDownGalaxy_Moophz_2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Moophz Himself (Maroun Habib) Explanation",
-    "Moophz Himself (Maroun Habib)"
-  ],
+  "copyright": "Moophz Himself (Maroun Habib)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1803/UpDownGalaxy_Moophz_960.jpg"
 }

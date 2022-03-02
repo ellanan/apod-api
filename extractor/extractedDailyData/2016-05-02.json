@@ -1,14 +1,10 @@
 {
   "title": "Crossing Mars",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, MSSS Explanation",
-    "NASA, JPL-Caltech, MSSS"
-  ],
+  "credit": "NASA, JPL-Caltech, MSSS",
   "explanation": "Where is NASA's rover Curiosity going on Mars? Its geographical goals are on the slopes of Mount Sharp, whose peak is seen in the background on the right. A key scientific goal, however, remains to better assess when and where conditions on Mars were once suitable for life, in particular microbial life. To further this goal, Curiosity was directed to cross the rugged terrain of Nautkluft Plateau, visible in the featured image on the foreground left. Curiosity is crossing toward smoother uphill sites with rocks containing hematite and sulfates, sites that could give the rolling rover new clues on how long this part of Mars was wet -- and hence more favorable for life -- before drying out. Of recent concern, however, is Curiosity's aluminum wheels, which are showing increasing signs of wear. Although already fulfilling the goals of its two year study, Curiosity's mission has been extended as it continues to uncover valuable information about the extraordinary past of Mars, the next planet out from the Sun from Earth.",
   "date": "2016-05-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1605/MarsSharp_Curiosity_8703.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1605/MarsSharp_Curiosity_1080.jpg"
 }

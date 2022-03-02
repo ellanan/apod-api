@@ -1,14 +1,10 @@
 {
   "title": "The Sun's Heliosphere & Heliopause",
-  "credit": [],
   "explanation": "Where does the Sun's influence end? Nobody is sure. Out past the orbits of Neptune and Pluto extends a region named the heliosphere where the Sun's magnetic field and particles from the Solar Wind continue to dominate. The surface where the Solar Wind drops below sound speed is called the termination shock and is depicted as the inner oval in the above computer-generated illustration. It is thought that this surface occurs as close as 75-90 AU -- so close that a Pioneer or Voyager spacecraft may soon glide through it as they exit the Solar System at about 3 AU/year. The actual contact sheet between the Sun's ions and the Galaxy's ions is called the heliopause and is thought to occur at about 110 AU. It is depicted above as the middle surface. The Sun's heliopause moves through the local interstellar medium much as a boat moves on water, pushing a bow shock out in front, thought to occur near 230 AU.",
   "date": "2002-06-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0206/heliosphere_pc_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P. C. Frisch (U. Chicago) et al., U. Indiana Explanation",
-    "P. C. Frisch (U. Chicago) et al., U. Indiana"
-  ],
+  "copyright": "P. C. Frisch (U. Chicago) et al., U. Indiana",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0206/heliosphere_pc.jpg"
 }

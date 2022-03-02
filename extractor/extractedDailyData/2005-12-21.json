@@ -1,14 +1,10 @@
 {
   "title": "Sunrise by Season",
-  "credit": [],
   "explanation": "Does the Sun always rise in the same direction? No. As the seasons change, the direction toward the rising Sun will change, too. The Sun will always rise and set furthest to the south during the day of Winter Solstice, and furthest to the north during Summer Solstice. Today is Winter Solstice, the day of least sunlight in the Northern Hemisphere and of most sunlight in the Southern Hemisphere. In many countries, the Winter Solstice brings a change in season, as it is the first day of winter in the North. The solar heating and stored energy in the Earth's surface and atmosphere is near its lowest during winter, making it usually the coldest months of the year. On the brighter side in the north, daylight hours will increase every day from now until June. Pictured above are the different directions of the rising sun throughout the year above a small town in Greece.",
   "date": "2005-12-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0512/sunrisebyseason_ayiomamitis_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anthony Ayiomamitis Explanation",
-    "Anthony Ayiomamitis"
-  ],
+  "copyright": "Anthony Ayiomamitis",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0512/sunrisebyseason_ayiomamitis.jpg"
 }

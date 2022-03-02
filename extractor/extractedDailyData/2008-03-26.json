@@ -1,14 +1,10 @@
 {
   "title": "The NGC 3576 Nebula",
-  "credit": [],
   "explanation": "An intriguing and beautiful nebula, NGC 3576 drifts through the Sagittarius arm of our spiral Milky Way Galaxy. Within the region, episodes of star formation are thought to contribute to the complex and suggestive shapes. Powerful winds from the nebula's embedded, young, massive stars shape the looping filaments. The dramatic false-color image also highlights the contributions of hydrogen, sulfur, and oxygen, energized by intense ultraviolet radiation, to the nebular glow. But the glow also silhouettes dense clouds of dust and gas. For example, the two condensing dark clouds near the top of the picture offer potential sites for the formation of new stars. NGC 3576 itself is about 100 light-years across and 9,000 light-years away in the southern constellation of Carina, not far on the sky from the famous Eta Carinae Nebula. Near the left edge of the picture is NGC 3603, a much larger but more distant star forming region.",
   "date": "2008-03-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0803/NGC3576_NB_2000crawford.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ken Crawford (Rancho Del Sol Observatory), Macedon Ranges Observatory Explanation",
-    "Ken Crawford (Rancho Del Sol Observatory), Macedon Ranges Observatory"
-  ],
+  "copyright": "Ken Crawford (Rancho Del Sol Observatory), Macedon Ranges Observatory",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0803/NGC3576_NB_c800crawford.jpg"
 }

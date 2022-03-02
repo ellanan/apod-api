@@ -1,14 +1,10 @@
 {
   "title": "M110: Satellite of the Andromeda Galaxy",
-  "credit": [],
   "explanation": "Our Milky Way Galaxy is not alone. It is part of a gathering of about 25 galaxies known as the Local Group. Members include the Great Andromeda Galaxy (M31), M32, M33, the Large Magellanic Cloud, the Small Magellanic Cloud, Dwingeloo 1, several small irregular galaxies, and many dwarf elliptical and dwarf spheroidal galaxies. Pictured on the lower right is one of the dwarf ellipticals: NGC 205. Like M32, NGC 205 is a companion to the large M31, and can sometimes be seen to the south of M31's center in photographs. The image shows NGC 205 to be unusual for an elliptical galaxy in that it contains at least two dust clouds (at 9 and 2 o'clock - they are visible but hard to spot) and signs of recent star formation. This galaxy is sometimes known as M110, although it was actually not part of Messier's original catalog.",
   "date": "2008-09-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0809/m110_cfht_big1.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight Explanation",
-    "Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight"
-  ],
+  "copyright": "Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0809/m110_cfht_c800.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Atlantis Approaches Mir",
-  "credit": [
-    "Credit: NASA, STS-76 Crew Explanation",
-    "NASA, STS-76 Crew"
-  ],
+  "credit": "NASA, STS-76 Crew",
   "explanation": "",
   "date": "1996-04-02",
   "hdurl": "https://apod.nasa.gov/apod/image/mir_sts76_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/mir_sts76.gif"
 }

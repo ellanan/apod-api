@@ -1,14 +1,10 @@
 {
   "title": "Mountains of Creation",
-  "credit": [
-    "Credit: Lori Allen (Harvard-Smithsonian CfA) et al., JPL-Caltech, NASA Explanation",
-    "Lori Allen (Harvard-Smithsonian CfA) et al., JPL-Caltech, NASA"
-  ],
+  "credit": "Lori Allen (Harvard-Smithsonian CfA) et al., JPL-Caltech, NASA",
   "explanation": "This fantastic skyscape lies at the eastern edge of giant stellar nursery W5, about 7,000 light-years away in the constellation Cassiopeia. An infrared view from the Spitzer Space Telescope, it features interstellar clouds of cold gas and dust sculpted by winds and radiation from a hot, massive star outside the picture (just above and to the right). Still swaddled within the cosmic clouds, newborn stars are revealed by Spitzer's penetrating gaze, their formation also triggered by the massive star. Fittingly dubbed \"Mountains of Creation\", these interstellar clouds are about 10 times the size of the analogous Pillars of Creation in M16, made famous in a 1995 Hubble Space Telescope view. W5 is also known as IC 1848 and together with IC 1805 it is part of a complex region popularly dubbed the Heart and Soul Nebulae. The Spitzer image spans about 70 light-years at the distance of W5.",
   "date": "2007-12-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0712/Mountains_spitzer_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0712/Mountains_spitzer_f800.jpg"
 }

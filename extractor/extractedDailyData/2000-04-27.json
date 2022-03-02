@@ -1,14 +1,10 @@
 {
   "title": "Calderas And Cliffs Near Io's South Pole",
-  "credit": [
-    "Credit: PIRL (Univ. of Arizona), Galileo Project, NASA Explanation",
-    "PIRL (Univ. of Arizona), Galileo Project, NASA"
-  ],
+  "credit": "PIRL (Univ. of Arizona), Galileo Project, NASA",
   "explanation": "Braving intense radiation belts, the Galileo spacecraft once again flew past the surface of Jupiter's moon Io (sounds like EYE-oh) on February 22. Combining high resolution black and white images from that flyby with color data recorded last summer has resulted in this dramatic view of a region near the volcanic moon's south pole. An active and alien landscape, the bright white areas are likely due to sulfur dioxide frost and seem to be concentrated near ridges and cliffs. The three ominous black spots, each about 6-12 miles across, are volcanic craters or calderas covered with recent dark lava. A sinuous channel connects the lower left caldera with a yellowish lava flow. Io is small, but its continuous activity is driven by the drastic tides induced by Jupiter and the other Jovian moons. It is estimated that the resulting volcanism completely resurfaces Io every million years.",
   "date": "2000-04-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0004/iosouth_gal_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0004/iosouth_gal.jpg"
 }

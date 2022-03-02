@@ -1,14 +1,10 @@
 {
   "title": "Yogi Rock",
-  "credit": [
-    "Credit: IMP Team JPL, NASA Explanation",
-    "IMP Team JPL, NASA"
-  ],
+  "credit": "IMP Team JPL, NASA",
   "explanation": "This portrait of Yogi Rock, a now famous boulder on Mars, was recorded on Sol 3 by the Imager for Mars Pathfinder (IMP). Big and friendly looking like its Earth cartoon namesake Yogi Bear, Yogi Rock is a prominent visible feature at the Pathfinder landing site. Yogi and surrounding soil are being examined close up by the Sojourner robot rover. Initial attempts to approach the rock and to place Sojourner's Alpha Proton X-ray Spectrometer against it have met with some minor, but not unusual, difficulties. It is speculated that the light colored \"moat-like\" terrain around Yogi is the result of the evaporation of surface water deposited by ancient floods.",
   "date": "1997-07-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9707/mars8_pathfinder_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9707/mars8_pathfinder.jpg"
 }

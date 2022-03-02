@@ -1,14 +1,10 @@
 {
   "title": "Along the Cygnus Wall",
-  "credit": [],
   "explanation": "The W-shaped ridge of emission featured in this vivid skyscape is known as the Cygnus Wall. Part of a larger emission nebula with a distinctive outline popularly called The North America Nebula, the cosmic ridge spans about 20 light-years. Constructed using narrowband data to highlight the telltale reddish glow from ionized hydrogen atoms recombining with electrons, the two frame mosaic image follows an ionization front with fine details of dark, dusty forms in silhouette. Sculpted by energetic radiation from the region's young, hot, massive stars, the dark shapes inhabiting the view are clouds of cool gas and dust with stars likely forming within. The North America Nebula itself, NGC 7000, is about 1,500 light-years away.",
   "date": "2015-03-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1503/CygnusWallWalker.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jimmy Walker Explanation",
-    "Jimmy Walker"
-  ],
+  "copyright": "Jimmy Walker",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1503/CygnusWallWalker600.jpg"
 }

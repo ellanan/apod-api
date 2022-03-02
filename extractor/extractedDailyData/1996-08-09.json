@@ -1,14 +1,10 @@
 {
   "title": "The Perseid Meteor Shower",
-  "credit": [
-    "Credit: Sirko Molau, IMO, Archenhold-Sternwarte Explanation",
-    "Sirko Molau, IMO, Archenhold-Sternwarte"
-  ],
+  "credit": "Sirko Molau, IMO, Archenhold-Sternwarte",
   "explanation": "",
   "date": "1996-08-09",
   "hdurl": "https://apod.nasa.gov/apod/image/perseids_movie_orig.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/perseids_movie.gif"
 }

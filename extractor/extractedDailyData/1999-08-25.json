@@ -1,14 +1,10 @@
 {
   "title": "Reflections on NGC 6188",
-  "credit": [],
   "explanation": "NGC 6188 is an interstellar carnival of young blue stars, hot red gas, and cool dark dust. Located 4000 light years away in the disk of our Galaxy, NGC 6188 is home to the Ara OB1 association, a group of bright young stars whose nucleus forms the open cluster NGC 6193. These stars are so bright that some of their blue light reflects off of interstellar dust forming the diffuse blue glow in the center of the above photograph. Open cluster NGC 6193 formed about three million years ago from the surrounding gas, and appears unusually rich in close binary stars. The red glow visible throughout the photograph arises from hydrogen gas heated by the bright stars in Ara OB1. The dark dust that blocks much of NGC 6188's light was likely formed in the outer atmospheres of cooler stars and in supernovae ejecta.",
   "date": "1999-08-25",
   "hdurl": "https://apod.nasa.gov/apod/image/9908/ngc6188_dfm.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: David Malin (AAO), AATB Explanation",
-    "David Malin (AAO), AATB"
-  ],
+  "copyright": "David Malin (AAO), AATB",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9908/ngc6188_dfm_big.jpg"
 }

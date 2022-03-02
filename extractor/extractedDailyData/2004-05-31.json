@@ -1,14 +1,10 @@
 {
   "title": "24 Million Kilometers to Saturn",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Next stop: Saturn. The Cassini-Huygens spacecraft is approaching Saturn and will fire its engines to break into orbit around the ringed giant on July 1. The robot spacecraft was launched in 1997 and rounded Jupiter in 2001. As Cassini orbits Saturn over the next four years, it will swoop past many of Saturn's moons for unprecedented close-ups and even drop a probe onto Titan. Pictured above, Cassini imaged Saturn two weeks ago as it closed to only 24 million kilometers out. Visible are complex cloud patterns, thousands of rings, a shadow angle not visible from Earth, and a moon (if you can find it).",
   "date": "2004-05-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0406/saturn2_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0406/saturn2_cassini.jpg"
 }

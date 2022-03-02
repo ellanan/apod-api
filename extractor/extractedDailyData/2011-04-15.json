@@ -1,14 +1,10 @@
 {
   "title": "Messier 101",
-  "credit": [
-    "Credit: Hubble Legacy Archive, ESA, NASA; Processing and additional imaging - Robert Gendler Explanation",
-    "Hubble Legacy Archive, ESA, NASA; Processing and additional imaging - Robert Gendler"
-  ],
+  "credit": "Hubble Legacy Archive, ESA, NASA; Processing and additional imaging - Robert Gendler",
   "explanation": "Big, beautiful spiral galaxy M101 is one of the last entries in Charles Messier's famous catalog, but definitely not one of the least. About 170,000 light-years across, this galaxy is enormous, almost twice the size of our own Milky Way galaxy. M101 was also one of the original spiral nebulae observed by Lord Rosse's large 19th century telescope, the Leviathan of Parsontown. This mosaic of M101 was assembled from Hubble Legacy Archive data. Additional ground-based data was included to further define the telltale reddish emission from atomic hydrogen gas in this gorgeous galaxy's star forming regions. The sharp image shows stunning features in the galaxy's face-on disk of stars and dust along with background galaxies, some visible right through M101 itself. Also known as the Pinwheel Galaxy, M101 lies within the boundaries of the northern constellation Ursa Major, about 25 million light-years away.",
   "date": "2011-04-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1104/M101HST-GendlerM.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1104/M101HST-Gendler900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "APOD Is Five Years Old Today",
-  "credit": [
-    "Credit: Apologies to Vermeer's Astronomer and Geographer Explanation",
-    "Apologies to Vermeer's Astronomer and Geographer"
-  ],
+  "credit": "Apologies to Vermeer's Astronomer and Geographer",
   "explanation": "Welcome to the sixth year of Astronomy Picture of the Day (APOD)! Above are the industrious Robert Nemiroff (left) and persistent Jerry Bonnell (right), still engaged in creating the APOD web pages. As suggested by imagery in this recently released Vermeer, APOD's origins derive from many dramatic, intellectual deliberations over the ultimate value of the World Wide Web. In our view, the WWW has evolved into a significant and still growing collective human resource and we think it's important to contribute. We are extremely grateful for the continued large volume of gracious e-mail and APOD submissions. Today we would like to offer a very sincere thank you to all. We are certainly proud that each day over the last five years APOD has consistently coupled an expanding universe of hypertext with inspiring images of the cosmos. In fact, tomorrow's picture might actually be ...",
   "date": "2000-06-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0006/bobjerry5_vermeer_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0006/bobjerry5_vermeer.jpg"
 }

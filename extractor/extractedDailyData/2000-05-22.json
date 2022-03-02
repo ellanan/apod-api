@@ -1,14 +1,10 @@
 {
   "title": "Light Bridges on the Sun",
-  "credit": [
-    "Credit: G. Scharmer, L. Rouppe van der Voort (KVA) et al., SVST Explanation",
-    "G. Scharmer, L. Rouppe van der Voort (KVA) et al., SVST"
-  ],
+  "credit": "G. Scharmer, L. Rouppe van der Voort (KVA) et al., SVST",
   "explanation": "Bridges the length of a planet can form on the Sun in a matter of hours. Known as light bridges, these structures may form as large sunspot groups decay. Above, one of the sharpest photographs of the Sun ever taken shows two such light bridges that appeared late last month. The 5000-kilometer long bridges connect moderately dark penumbral regions across the cool abyss of two dark sunspot umbras. A movie shows that material tends more to rise from below and fall rather than to cross the light bridges. Bright bubbling granules surround the sunspot group. The impressive details on this recently released picture from the Swedish Solar Vacuum Telescope were made possible by new adaptive optics that correct for the blurring of the Earth's atmosphere. What eventually became of the light bridges? As days progressed, the bridge region expanded to fill the void as the sunspots moved apart and decayed.",
   "date": "2000-05-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0005/lightbridges_svst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0005/lightbridges_svst.jpg"
 }

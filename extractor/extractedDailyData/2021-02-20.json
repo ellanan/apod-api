@@ -1,14 +1,10 @@
 {
   "title": "Perseverance: How to Land on Mars",
-  "credit": [
-    "Credit: NASA, JPL, Mars 2020 Explanation",
-    "NASA, JPL, Mars 2020"
-  ],
+  "credit": "NASA, JPL, Mars 2020",
   "explanation": "Slung beneath its rocket powered descent stage Perseverance hangs only a few meters above the martian surface, captured here moments before its February 18 touchdown on the Red Planet. The breath-taking view followed an intense seven minute trip from the top of the martian atmosphere. Part of a high resolution video, the picture was taken from the descent stage itself during the final skycrane landing maneuver. Three taut mechanical cables about 7 meters long are visible lowering Perseverance, along with an electrical umbilical connection feeding signals (like this image), to a computer on board the car-sized rover. Below Perseverance streamers of martian dust are kicked-up from the surface by the descent rocket engines. Immediately after touchdown, the cables were released allowing the descent stage to fly to a safe distance before exhausting its fuel as planned.",
   "date": "2021-02-20",
   "hdurl": "https://apod.nasa.gov/apod/image/2102/rover_drop.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2102/rover_drop1024.jpg"
 }

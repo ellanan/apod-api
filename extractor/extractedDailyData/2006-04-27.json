@@ -1,14 +1,10 @@
 {
   "title": "NGC 4696: Energy from a Black Hole",
-  "credit": [
-    "Credit: X-ray in red - NASA/ CXC/S.Allen (Kavli Inst., Stanford) et al.; Radio in blue - NRAO/G.Taylor (VLA); Infrared in green - NASA/ESA/W.Harris (McMaster Univ.) Explanation",
-    "X-ray in red - NASA/ CXC/S.Allen (Kavli Inst., Stanford) et al.; Radio in blue - NRAO/G.Taylor (VLA); Infrared in green - NASA/ESA/W.Harris (McMaster Univ.)"
-  ],
+  "credit": "X-ray in red - NASA/ CXC/S.Allen (Kavli Inst., Stanford) et al.; Radio in blue - NRAO/G.Taylor (VLA); Infrared in green - NASA/ESA/W.Harris (McMaster Univ.)",
   "explanation": "In many cosmic environments, when material falls toward a black hole energy is produced as some of the matter is blasted back out in jets. In fact, such black hole \"engines\" appear to be the most efficient in the Universe, at least on a galactic scale. This composite image illustrates one example of an elliptical galaxy with an efficient black hole engine, NGC 4696. The large galaxy is the brightest member of the Centaurus galaxy cluster, some 150 million light-years away. Exploring NGC 4696 in x-rays (red) astronomers can measure the rate at which infalling matter fuels the supermassive black hole and compare it to the energy output in the jets to produce giant radio emitting bubbles. The bubbles, shown here in blue, are about 10,000 light-years across. The results confirm that the process is much more efficient than producing energy through nuclear reactions - not to mention using fossil fuels. Astronomers also suggest that as the black hole pumps out energy and heats the surrounding gas, star formation is ultimately shut off, limiting the size of large galaxies like NGC 4696.",
   "date": "2006-04-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0604/ngc4696_compCXC_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0604/ngc4696_compCXC_f.jpg"
 }

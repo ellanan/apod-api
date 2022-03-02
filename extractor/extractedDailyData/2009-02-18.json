@@ -1,14 +1,10 @@
 {
   "title": "Satellites Collide in Low Earth Orbit",
-  "credit": [],
   "explanation": "How often do satellites collide? Although minuscule space debris may strike any satellite on occasion, the first known collision between time two full satellites occurred only last week. Even though thousands of satellites have been launched, the low collision rate is caused by the great vastness of space. Last week, however, a defunct Russian communications satellite named Cosmos 2251 smashed right into an operational US communications satellite named Iridium 33 over Siberia, Russia. Both satellites were destroyed. The sheer number of massive particles in a dispersing debris cloud, depicted in an inset image above, increases the risk that other operating satellites might be struck by a harmful fast-moving projectile. The collision occurred in low Earth orbit only 750 kilometers up, a height shared by many satellites but significantly higher than the 350-km high human-occupied International Space Station. Since satellites may disintegrate when struck by fast-moving space junk, the crash focuses concern that a future dramatic satellite collision may one day start an ablation cascade of increasingly more collisions. The result could then render future human space flights increasingly risky and expensive satellite lifetimes increasingly short.",
   "date": "2009-02-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0902/collidingsatellites_agi_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Analytical Graphics, Inc. Explanation",
-    "Analytical Graphics, Inc."
-  ],
+  "copyright": "Analytical Graphics, Inc.",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0902/collidingsatellites_agi.jpg"
 }

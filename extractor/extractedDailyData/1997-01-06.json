@@ -1,14 +1,10 @@
 {
   "title": "Blue Sun Glaring",
-  "credit": [
-    "Credit: EIT, SOHO, ESA, NASA Explanation",
-    "EIT, SOHO, ESA, NASA"
-  ],
+  "credit": "EIT, SOHO, ESA, NASA",
   "explanation": "The Sun is a bubbling ball of extremely hot gas. In this false-color picture, light blue regions are extremely hot - over 1 million degrees, while dark blue regions are slightly cooler. The camera filter used was highly sensitive to the emission of highly charged iron ions, which trace the magnetic field of the Sun. The rich structure of the image shows the great complexity of the Sun's inner corona. A small active region can be seen just to the right and above center. This picture was taken in ultraviolet (extremely blue) light by the Extreme-ultraviolet Imaging Telescope (EIT) on board the Solar and Heliospheric Observatory (SOHO) spacecraft, which is orbiting the Sun just ahead of the Earth, at the L1 point. SOHO was launched in 1995 and will continually monitor the Sun for several years.",
   "date": "1997-01-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9701/bluesun_soho_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9701/bluesun_soho.jpg"
 }

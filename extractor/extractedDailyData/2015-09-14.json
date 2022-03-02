@@ -1,14 +1,10 @@
 {
   "title": "Pluto from above Cthulhu Regio",
-  "credit": [
-    "Credit: NASA, Johns Hopkins Univ./APL, Southwest Research Inst. Explanation",
-    "NASA, Johns Hopkins Univ./APL, Southwest Research Inst."
-  ],
+  "credit": "NASA, Johns Hopkins Univ./APL, Southwest Research Inst.",
   "explanation": "New high resolution images of Pluto are starting to arrive from the outer Solar System. The robotic New Horizons spacecraft, which zoomed by Pluto in July, has finished sending back some needed engineering data and is now transmitting selections from its tremendous storehouse of images of Pluto and its moons. The featured image, a digital composite, details a surprising terrain filled with craters, plains, landscape of unknown character, and landforms that resemble something on Earth but are quite unexpected on Pluto. The light area sprawling across the upper right has been dubbed Sputnik Planum and is being studied for its unusual smoothness, while the dark cratered area just under the spacecraft is known as Cthulhu Regio. So far, New Horizons has only shared a few percent of the images and data it took during its Pluto flyby, but will continue to send back new views of the dwarf planet even as it glides outward toward even more distant explorations.",
   "date": "2015-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1509/pluto05_NewHorizons_2475.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1509/pluto05_NewHorizons_960.jpg"
 }

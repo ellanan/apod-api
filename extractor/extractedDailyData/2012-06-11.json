@@ -1,13 +1,9 @@
 {
   "title": "A Venus Transit Music Video from SDO",
-  "credit": [
-    "Credit: Solar Dynamics Observatory, SVS, GSFC, NASA; Music: Dramatic Intro (stockmusic.net) Explanation",
-    "Solar Dynamics Observatory, SVS, GSFC, NASA; Music: Dramatic Intro (stockmusic.net)"
-  ],
+  "credit": "Solar Dynamics Observatory, SVS, GSFC, NASA; Music: Dramatic Intro (stockmusic.net)",
   "explanation": "What's that black dot moving across the Sun? Venus. Possibly the clearest view of Venus crossing in front of the Sun last week was from Earth orbit. The Solar Dynamics Observatory obtained an uninterrupted vista recording it not only in optical light but also in bands of ultraviolet light. Pictured above is a composite movie of the crossing set to music. Although the event might prove successful scientifically for better determining components of Venus' atmosphere, the event surely proved successful culturally by involving people throughout the world in observing a rare astronomical phenomenon. Many spectacular images of this Venus transit from around (and above) the globe are being proudly displayed.",
   "date": "2012-06-11",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/4Z9rM8ChTjY?rel=0"
 }

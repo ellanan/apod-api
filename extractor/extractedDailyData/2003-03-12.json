@@ -1,14 +1,10 @@
 {
   "title": "Lunar Farside from Apollo 11",
-  "credit": [
-    "Credit: Apollo 11 Crew, NASA Explanation",
-    "Apollo 11 Crew, NASA"
-  ],
+  "credit": "Apollo 11 Crew, NASA",
   "explanation": "The far side of the Moon is rough and filled with craters. By comparison, the near side of the Moon, the side we always see, is relatively smooth. Since the Moon is rotation locked to always point the same side toward Earth, humanity has only glimpsed the lunar farside recently -- last century. The light highlands of the far side are older than the dark Maria of the near side. A thinner crust on the near side that allowed for more dark lava flows is thought to be the cause of differences between the two sides. The cause for the crust thickness differences is still being researched, however. The large impact basin pictured above is Crater 308. It spans about 30 kilometers and was photographed by crew of Apollo 11 as they circled the Moon in 1969.",
   "date": "2003-03-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0303/lunarfarside_apollo11_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0303/lunarfarside_apollo11.jpg"
 }

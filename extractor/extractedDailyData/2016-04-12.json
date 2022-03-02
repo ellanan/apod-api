@@ -1,14 +1,10 @@
 {
   "title": "Combined Solar Eclipse Corona from Earth and Space",
-  "credit": [],
   "explanation": "Sometimes, a total eclipse is a good time to eye the Sun. Taking advantage of an unusual juxtaposition of Earth, Moon and Sun, the featured image depicts the total solar eclipse that occurred last month as it appeared -- nearly simultaneously -- from both Earth and space. The innermost image shows the total eclipse from the ground, with the central pupil created by the bright Sun covered by a comparatively dark Moon. Surrounding the blocked solar disk is the tenuous corona of Sun imaged in white light, easily visible from the ground only during an eclipse. Normally, this corona is hard to track far from the Sun, but the featured montage matches it to false-colored observations of the Sun from NASA and ESA's space-based, Sun-orbiting, Solar and Heliospheric Observatory (SOHO). Observations like this allow the study of the constantly changing magnetic activity both near and far from the Sun, the same activity that ultimately drives Earth's auroras.",
   "date": "2016-04-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1604/EclipseSpaceGround_Koutchmy_4266.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: S. Koutchmy (IAP, CNRS) Explanation",
-    "S. Koutchmy (IAP, CNRS)"
-  ],
+  "copyright": "S. Koutchmy (IAP, CNRS)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1604/EclipseSpaceGround_Koutchmy_960.jpg"
 }

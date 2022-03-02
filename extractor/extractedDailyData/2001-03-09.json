@@ -1,14 +1,10 @@
 {
   "title": "X-Rays From HCG 62",
-  "credit": [
-    "Credit: J. Vrtilek et al., CfA, NASA Explanation",
-    "J. Vrtilek et al., CfA, NASA"
-  ],
+  "credit": "J. Vrtilek et al., CfA, NASA",
   "explanation": "Scanning the skies for galaxies Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups (HCGs). With only a few member galaxies per group, HCGs are much smaller than the immense clusters of galaxies which lurk in the cosmos, but like the large galaxy clusters, some HCGs seem to be filled with hot, x-ray emitting gas. In fact, groups of galaxies like HCGs may be the building blocks of the large clusters. This false-color x-ray image from the orbiting Chandra Observatory reveals x-ray emission from the gas in one such group, HCG 62, in startling detail. In the image, black and green colors represent low intensities while red and purple hues indicate high x-ray intensities. Striking features of the x-ray image are the low brightness blobs at the upper left and lower right which symmetrically flank the intense central x-ray region. HCG 62 lies in Virgo, and near the group's center resides elliptical galaxy NGC 4761. At optical wavelengths, some HCGs make for rewarding viewing, even with modest sized telescopes.",
   "date": "2001-03-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0103/hcg62_cxc_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0103/hcg62_cxc.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Descent of the Phoenix",
-  "credit": [
-    "Credit: MRO-HiRISE, NASA, JPL, Univ. Arizona Explanation",
-    "MRO-HiRISE, NASA, JPL, Univ. Arizona"
-  ],
+  "credit": "MRO-HiRISE, NASA, JPL, Univ. Arizona",
   "explanation": "In this sweeping view, the 10 kilometer-wide crater Heimdall lies on the north polar plains of Mars. But the bright spot highlighted in the inset is the Phoenix lander parachuting toward the surface. The amazing picture was captured on May 25th by the HiRISE camera onboard the Mars Reconnaissance Orbiter. Though the lander looks like it might be dropping straight into Heimdall, it is really descending about 20 kilometers in front of the crater, in the foreground of the scene. The orbiter was 760 kilometers away from Phoenix when picture was taken, at an altitude of 310 kilometers. Subsequently the orbiter's camera was also able to image the lander on the surface. The parachute attached to the backshell and the heat shield were identified in the image, scattered nearby. Of course, the Phoenix lander itself is now returning much closer views of its landing site as it prepares to dig into the Martian surface.",
   "date": "2008-05-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0805/phoenixchute_hirise_cut.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0805/phoenixchute_hirise_cut800.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Moon from Zond 8",
-  "credit": [],
   "explanation": "Which moon is this? Earth's. Our Moon's unfamiliar appearance is due partly to an unfamiliar viewing angle as captured by a little-known spacecraft -- the Soviet Union's Zond 8 that circled the Moon in October of 1970. Pictured above, the dark-centered circular feature that stands out near the top of the image is Mare Orientale, a massive impact basin formed by an ancient collision with an asteroid. Mare Orientale is surrounded by light colored and highly textured highlands. Across the image bottom lies the dark and expansive Oceanus Procellarum, the largest of the dark (but dry) maria that dominate the side of the Moon that always faces toward the Earth. Originally designed to carry humans, robotic Zond 8 came within 1000 km of the lunar surface, took about 100 detailed photographs on film, and returned them safely to Earth within a week.",
   "date": "2013-07-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1307/moon_zond8_1735.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Galspace Explanation",
-    "Galspace"
-  ],
+  "copyright": "Galspace",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1307/moon_zond8_960.jpg"
 }

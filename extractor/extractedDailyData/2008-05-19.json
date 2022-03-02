@@ -1,12 +1,8 @@
 {
   "title": "Flying Over the Columbia Hills of Mars",
-  "credit": [
-    "Credit: Doug Ellison, Randolph Kirk (USGS), MSSS, MER, NASA Explanation",
-    "Doug Ellison, Randolph Kirk (USGS), MSSS, MER, NASA"
-  ],
+  "credit": "Doug Ellison, Randolph Kirk (USGS), MSSS, MER, NASA",
   "explanation": "What it would be like to fly over Mars? Combining terrain data from the orbiting Mars Reconnaissance Orbiter spacecraft with information about the robotic Spirit rover currently rolling across Mars has resulted in a digital movie that shows what a flight over the Columbia Hills might look like. Dark rippled sand dunes are highlighted against the Columbia Hills in the above opening image. Clicking on the above image, though, will launch you across Mars, approaching the Columbia Hills. On the far side of the hills, the dark sand dunes come into view. Soon you pass an unusual white-rimmed structure, slightly raised, known as Home Plate, the origin of which is currently unknown and being researched. Turning, you re-approach the hills from a different angle, this time zooming in on Spirit, a curious alien rover sent from planet Earth. A final zoom pans out over the region. This coming Sunday, NASA's Phoenix Lander will attempt to set down near the icy North Pole of Mars and search for signs of ancient life.",
   "date": "2008-05-19",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "other"
 }

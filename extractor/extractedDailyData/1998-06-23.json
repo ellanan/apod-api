@@ -1,14 +1,10 @@
 {
   "title": "A Slice Through an Artificial Universe",
-  "credit": [
-    "Credit: J. Colberg (MPIfA, Germany) & The Virgo Consortium Explanation",
-    "J. Colberg (MPIfA, Germany) & The Virgo Consortium"
-  ],
+  "credit": "J. Colberg (MPIfA, Germany) & The Virgo Consortium",
   "explanation": "We live in the era of humanity when most of our Universe is being mapped. To help understand these maps, astronomers computationally estimate the appearance of several possible candidate universes, to which maps of the real Universe can be compared. Pictured above is a slice through one of these artificial universes, displayed so that each part of the universe is seen at the same time after the Big Bang. The above map corresponds to an area nearly ten billion light years across. Highlighted in red are filaments that each contain thousands of galaxies, while darker regions are nearly devoid of galaxies. Our good-sized Milky Way Galaxy would hardly be visible on this map.",
   "date": "1998-06-23",
   "hdurl": "https://apod.nasa.gov/apod/image/9806/unislice_virgo_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9806/unislice_virgo.jpg"
 }

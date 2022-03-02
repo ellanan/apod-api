@@ -1,14 +1,10 @@
 {
   "title": "The X-Ray Sky",
-  "credit": [
-    "Credit: NASA, HEAO-1, Boldt (GSFC) and Garmire (Cal Tech/PSU), Skyview, Allen, Jahoda, Whitlock Explanation",
-    "NASA, HEAO-1, Boldt (GSFC) and Garmire (Cal Tech/PSU), Skyview, Allen, Jahoda, Whitlock"
-  ],
+  "credit": "NASA, HEAO-1, Boldt (GSFC) and Garmire (Cal Tech/PSU), Skyview, Allen, Jahoda, Whitlock",
   "explanation": "",
   "date": "1996-01-02",
   "hdurl": "https://apod.nasa.gov/apod/image/xray_skyview.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/xray_skyview.gif"
 }

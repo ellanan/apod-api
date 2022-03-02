@@ -1,14 +1,10 @@
 {
   "title": "NGC 1365: Majestic Island Universe",
-  "credit": [],
   "explanation": "Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the chemical constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax galaxy cluster. This impressively sharp color image shows intense star forming regions at the ends of the bar and along the spiral arms, as well as details of dust lanes cutting across the galaxy's bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365's prominent bar plays a crucial role in the galaxy's evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.",
   "date": "2007-03-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0703/NGC1365_master.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: SSRO-South (R.Gilbert,D.Goldman,J.Harvey,D.Verschatse) - PROMPT (D.Reichart) Explanation",
-    "SSRO-South (R.Gilbert,D.Goldman,J.Harvey,D.Verschatse) - PROMPT (D.Reichart)"
-  ],
+  "copyright": "SSRO-South (R.Gilbert,D.Goldman,J.Harvey,D.Verschatse) - PROMPT (D.Reichart)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0703/NGC1365_master650.jpg"
 }

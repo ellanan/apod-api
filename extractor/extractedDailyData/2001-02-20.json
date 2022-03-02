@@ -1,14 +1,10 @@
 {
   "title": "Star Forming Region S106",
-  "credit": [],
   "explanation": "Massive star IRS4 is beginning to spread its wings. Born only about 100,000 years ago, material streaming out from this newborn star has formed the nebula dubbed Sharpless 106 Nebula (S106), pictured above. A large disk of dust and gas orbiting Infrared Source 4 (IRS4), visible in dark red near the image center, gives the nebula an hourglass shape. S106 gas near IRS4 acts as an emission nebula as it emits light after being ionized, while dust far from IRS4 reflects light from the central star and so acts as a reflection nebula. Detailed inspection of this representative color infrared image has revealed hundreds of low-mass brown dwarf stars lurking in the nebula's gas. S106 spans about 2 light-years and lies about 2000 light-years away toward the constellation of Cygnus.",
   "date": "2001-02-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0102/s106_subaru_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: CISCO, Subaru 8.3-m Telescope, NAOJ Explanation",
-    "CISCO, Subaru 8.3-m Telescope, NAOJ"
-  ],
+  "copyright": "CISCO, Subaru 8.3-m Telescope, NAOJ",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0102/s106_subaru.jpg"
 }

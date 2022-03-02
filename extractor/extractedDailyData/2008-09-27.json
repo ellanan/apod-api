@@ -1,14 +1,10 @@
 {
   "title": "M83: The Thousand-Ruby Galaxy",
-  "credit": [
-    "Credit: European Southern Observatory Science Archive Explanation",
-    "European Southern Observatory Science Archive"
-  ],
+  "credit": "European Southern Observatory Science Archive",
   "explanation": "Big, bright, and beautiful, spiral galaxy M83 lies a mere twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name of the Southern Pinwheel. But reddish star forming regions that dot the sweeping arms highlighted in this sparkling color composite also suggest another nickname, The Thousand-Ruby Galaxy. About 40,000 light-years across, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. The core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. The sharp image, based on archival data from the European Southern Observatory's Wide Field Imager camera, also features spiky foreground Milky Way stars and distant background galaxies.",
   "date": "2008-09-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0809/M83_ESOdemartin2048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0809/M83_ESOdemartinC800.jpg"
 }

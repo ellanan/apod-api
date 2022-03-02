@@ -1,14 +1,10 @@
 {
   "title": "The Voyagers' Message in a Bottle",
-  "credit": [
-    "Credit: Voyager Project, JPL, NASA Explanation",
-    "Voyager Project, JPL, NASA"
-  ],
+  "credit": "Voyager Project, JPL, NASA",
   "explanation": "Launched twenty-five years ago, NASA's Voyager 1 and 2 spacecraft are now over 10 billion kilometers from the Sun. Still operational, the Voyagers are being tracked and commanded through the Deep Space Network. Having traveled beyond the outer planets, these remarkable spacecraft are only the third and fourth human built artifacts to escape our solar system, following in the footsteps of Pioneer 10 and 11. A 12-inch gold plated copper disk containing recorded sounds and images representing human cultures and life on Earth, is affixed to each Voyager - a message in a bottle cast into the cosmic sea. The recorded material was selected by a committee chaired by the late Carl Sagan. Simple diagrams on the cover (visible above) represent symbolically the spacecraft's origin and give instructions for playing the disk. The exotic construction of the disks should provide them with a long lifetime as they coast through interstellar space. The two spacecraft will not make a close approach to another planetary system for at least 40,000 years.",
   "date": "2002-08-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0208/record_voyager_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0208/record_voyager.jpg"
 }

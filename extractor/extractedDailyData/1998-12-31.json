@@ -1,14 +1,10 @@
 {
   "title": "The Year of Distant Supernovae",
-  "credit": [
-    "Credit: High-Z Supernova Search Team, HST, NASA Explanation",
-    "High-Z Supernova Search Team, HST, NASA"
-  ],
+  "credit": "High-Z Supernova Search Team, HST, NASA",
   "explanation": "Distant supernovae were among topics at the forefront of astronomy during 1998. Two independent groups raced to deploy large telescopes to scan the sky, discovering and analyzing far-off supernovae with the promise of calibrating the geometry of our universe. The results were surprising -- implying an unexpected universe rich in not only dark matter (Omega in matter ~ 0.3) but also in dark energy (Lambda ~ 0.7). Skeptics remain cautious, however, some waiting for more than a few high- redshift supernovae to light the way, while others waiting for verification methods not vulnerable to the same types of systematic errors. Pictured above are several of the distant supernovae that have ignited modern cosmology.",
   "date": "1998-12-31",
   "hdurl": "https://apod.nasa.gov/apod/image/9812/sne98_hiz_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9812/sne98_hiz.jpg"
 }

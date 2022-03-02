@@ -1,14 +1,10 @@
 {
   "title": "Comet Tails and Star Trails",
-  "credit": [],
   "explanation": "After grazing the western horizon on northern summer evenings Comet PanSTARRS (also known as C/2014 Q1) climbed higher in southern winter skies. A visitor to the inner Solar System discovered in August 2014 by the prolific panSTARRS survey, the comet was captured here on July 17. Comet and colorful tails were imaged from Home Observatory in Mackay, Queensland, Australia. The field of view spans just over 1 degree. Sweeping quickly across a the sky this comet PanSTARRS was closest to planet Earth about 2 days later. Still, the faint stars of the constellation Cancer left short trails in the telescopic image aligned to track the comet's rapid motion. PanSTARRS' bluish ion tails stream away from the Sun, buffetted by the solar wind. Driven by the pressure of sunlight, its more diffuse yellowish dust tail is pushed outward and lags behind the comet's orbit. A good target for binoculars from southern latitudes, in the next few days the comet will sweep through skies near Venus, Jupiter, and bright star Regulus.",
   "date": "2015-07-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1507/c2014q1_parker1824_q100_watermark.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Kevin Parker Explanation",
-    "Kevin Parker"
-  ],
+  "copyright": "Kevin Parker",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1507/c2014q1_parker1024_q100_watermark.jpg"
 }

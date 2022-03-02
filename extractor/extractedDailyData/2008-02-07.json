@@ -1,14 +1,10 @@
 {
   "title": "NGC 4013 and the Tidal Stream",
-  "credit": [],
   "explanation": "Nearly 50 million light-years away in the constellation Ursa Major, NGC 4013 was long considered an isolated island universe. Seen edge-on, the gorgeous spiral galaxy was known for its flattened disk and central bulge of stars, cut by silhouetted dust lanes. But this deep color image of the region reveals a previously unknown feature associated with NGC 4013, an enormous, faint looping structure extending (above and toward the left) over 80 thousand light-years from the galaxy's center. A detailed exploration of the remarkable structure reveals it to be a stream of stars originally belonging to another galaxy, likely a smaller galaxy torn apart by gravitational tides as it merged with the larger spiral. Astronomers argue that the newly discovered tidal stream also explains a warped distribution of neutral hydrogen gas seen in radio images of NGC 4013 and offers parallels to the formation of our own Milky Way galaxy.",
   "date": "2008-02-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0802/lrg_ring_ngc4013_gabany.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: R Jay Gabany (Blackbird Observatory) - collaboration; D.Martínez-Delgado(IAC, MPIA), M.Pohlen (Cardiff), S.Majewski (U.Virginia), J.Peñarrubia (U.Victoria), C.Palma (Penn State) Explanation",
-    "R Jay Gabany (Blackbird Observatory) - collaboration; D.Martínez-Delgado(IAC, MPIA), M.Pohlen (Cardiff), S.Majewski (U.Virginia), J.Peñarrubia (U.Victoria), C.Palma (Penn State)"
-  ],
+  "copyright": "R Jay Gabany (Blackbird Observatory) - collaboration; D.Martínez-Delgado(IAC, MPIA), M.Pohlen (Cardiff), S.Majewski (U.Virginia), J.Peñarrubia (U.Victoria), C.Palma (Penn State)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0802/ngc4013_gabany_800.jpg"
 }

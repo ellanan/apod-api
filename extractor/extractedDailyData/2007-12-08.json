@@ -1,14 +1,10 @@
 {
   "title": "Star Trails at Dawn",
-  "credit": [],
   "explanation": "Just fix your camera to a tripod and you too can make an image of graceful trails traced by the stars as planet Earth rotates on its axis. Made on September 14 from Montlaux, France, this wide-angle view nicely shows the stars near the celestial equator tracing nearly straight lines in projection, while stars north and south of the equator, respectively, appear to circle the north and south celestial poles. Featured are the stars of Orion (right of center), brilliant Venus rising (left) as bright star Sirius rises in the south (bottom center), and a polar orbiting Iridium satellite (upper left). Beautiful dawn sky colors seem painted along the horizon. This remarkable picture was constructed from 477 consecutive 30 second digital exposures recorded over 4.3 hours and later combined.",
   "date": "2007-12-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0712/2007_09_14-orion-lq_vanGorp1200.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Koen van Gorp Explanation",
-    "Koen van Gorp"
-  ],
+  "copyright": "Koen van Gorp",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0712/2007_09_14-orion_vanGorp800.jpg"
 }

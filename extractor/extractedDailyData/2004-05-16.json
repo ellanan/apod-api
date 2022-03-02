@@ -1,17 +1,11 @@
 {
   "title": "Venus: Earth's Cloudy Twin",
-  "credit": [
-    "Credit: Galileo Spacecraft, JPL, NASA; Copyright: Calvin J. Hamilton Explanation",
-    "Galileo Spacecraft, JPL, NASA; Copyright: Calvin J. Hamilton"
-  ],
+  "credit": "Galileo Spacecraft, JPL, NASA; Copyright: Calvin J. Hamilton",
   "explanation": "This picture by the Galileo spacecraft shows just how cloudy Venus is. Venus is very similar to Earth in size and mass - and so is sometimes referred to as Earth's sister planet - but Venus has a quite different climate. Venus' thick clouds and closeness to the Sun (only Mercury is closer) make it the hottest planet - much hotter than the Earth. Humans could not survive there, and no life of any sort has ever been found. When Venus is visible it is usually the brightest object in the sky after the Sun and the Moon. More than 20 spacecraft have visited Venus including Venera 9, which landed on the surface, and Magellan, which used radar to peer through the clouds and make a map of the surface. This visible light picture of Venus was taken by the Galileo spacecraft that orbited Jupiter from 1995 to 2003. Many things about Venus remain unknown, including the cause of mysterious bursts of radio waves.",
   "date": "2004-05-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0405/venus2_gal_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Calvin J. Hamilton Explanation",
-    "Calvin J. Hamilton"
-  ],
+  "copyright": "Calvin J. Hamilton",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0405/venus2_gal.jpg"
 }

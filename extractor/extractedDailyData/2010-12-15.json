@@ -1,12 +1,8 @@
 {
   "title": "A Huge Solar Filament Erupts",
-  "credit": [
-    "Credit: NASA's GSFC, SDO AIA Team, ESA JHelioviewer Team Explanation",
-    "NASA's GSFC, SDO AIA Team, ESA JHelioviewer Team"
-  ],
+  "credit": "NASA's GSFC, SDO AIA Team, ESA JHelioviewer Team",
   "explanation": "Click the arrow and watch an unusually long filament explode out from the Sun. The filament had been seen hovering over the Sun's surface for over a week before it erupted earlier this month. The image sequence was taken by the Earth-orbiting Solar Dynamics Observatory (SDO) in one color of ultraviolet light specifically emitted by helium, and another color of X-ray light specifically emitted by iron. The explosion created Coronal Mass Ejections which dispersed high energy plasma into the Solar System. This plasma cloud, though, missed the Earth and so did not cause auroras. The above eruption and an unusually expansive eruption that occurred in August are showing how widely separated areas of the Sun can sometimes act in unison. Explosions like this will likely become more common over the next few years as our Sun moves toward Solar Maximum activity.",
   "date": "2010-12-15",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "other"
 }

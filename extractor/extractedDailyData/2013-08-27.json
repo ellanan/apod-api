@@ -1,13 +1,9 @@
 {
   "title": "A Flight through the Hubble Ultra Deep Field",
-  "credit": [
-    "Credit: NASA, ESA, F. Summers, Z. Levay, L. Frattare, B. Mobasher, A. Koekemoer and the HUDF Team (STScI) Explanation",
-    "NASA, ESA, F. Summers, Z. Levay, L. Frattare, B. Mobasher, A. Koekemoer and the HUDF Team (STScI)"
-  ],
+  "credit": "NASA, ESA, F. Summers, Z. Levay, L. Frattare, B. Mobasher, A. Koekemoer and the HUDF Team (STScI)",
   "explanation": "What would it look like to fly through the distant universe? To find out, a team of astronomers estimated the relative distances to over 5,000 galaxies in one of the most distant fields of galaxies ever imaged: the Hubble Ultra Deep Field (HUDF). Because it takes light a long time to cross the universe, most galaxies visible in the above video are seen when the universe was only a fraction of its current age, were still forming, and have unusual shapes when compared to modern galaxies. No mature looking spiral galaxies such as our Milky Way or the Andromeda galaxy yet exist. Toward the end of the video the virtual observer flies past the farthest galaxies in the HUDF field, recorded to have a redshift past 8. This early class of low luminosity galaxies likely contained energetic stars emitting light that transformed much of the remaining normal matter in the universe from a cold gas to a hot ionized plasma.",
   "date": "2013-08-27",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/PDMp8a-YNe0?rel=0"
 }

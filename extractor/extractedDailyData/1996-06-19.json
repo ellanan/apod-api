@@ -1,14 +1,10 @@
 {
   "title": "Aurora: Curtains in the Sky",
-  "credit": [],
   "explanation": "",
   "date": "1996-06-19",
   "hdurl": "https://apod.nasa.gov/apod/image/aurora1_md_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Dolan (Michigan Tech.) Explanation",
-    "Michael Dolan (Michigan Tech.)"
-  ],
+  "copyright": "Michael Dolan (Michigan Tech.)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/aurora1_md.gif"
 }

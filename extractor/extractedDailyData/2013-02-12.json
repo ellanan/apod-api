@@ -1,14 +1,10 @@
 {
   "title": "Reflected Aurora Over Alaska",
-  "credit": [],
   "explanation": "Some auroras can only be seen with a camera. They are called subvisual and are too faint to be seen with the unaided eye. In the above image, the green aurora were easily visible to the eye, but the red aurora only became apparent after a 20-second camera exposure. The reason is that the human eye only accumulates light for a fraction of a second at a time, while a camera shutter can be left open much longer. When photographing an already picturesque scene near Anchorage, Alaska, USA, last autumn, a camera caught both the visual green and subvisual red aurora reflected in a lily pad-covered lake. High above, thousands of stars were visible including the Pleiades star cluster, while the planet Jupiter posed near the horizon, just above clouds, toward the image right. Auroras are caused by energetic particles from the Sun impacting the Earth's magnetosphere, causing electrons and protons to rain down near the Earth's poles and impact the air. Both red and green aurora are typically created by excited oxygen atoms, with red emission, when visible, dominating higher up. Auroras are known to have many shapes and colors.",
   "date": "2013-02-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1302/auroralake_salat_900.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Todd Salat (AuroraHunter); Sky Annotation: Judy Schmidt Explanation",
-    "Todd Salat (AuroraHunter); Sky Annotation: Judy Schmidt"
-  ],
+  "copyright": "Todd Salat (AuroraHunter); Sky Annotation: Judy Schmidt",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1302/auroralake_salat_960.jpg"
 }

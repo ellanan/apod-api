@@ -1,14 +1,10 @@
 {
   "title": "Noctilucent Clouds",
-  "credit": [],
   "explanation": "Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises up from the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Pictured above, a network of noctilucent clouds casts a colorful but eerie glow visible above the dark. Although noctilucent clouds are thought to be composed of small ice-coated particles, much remains unknown about them.",
   "date": "1999-07-26",
   "hdurl": "https://apod.nasa.gov/apod/image/9907/noctilucent_pp_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Pekka Parviainen (NCWG/U. Colorado) Explanation",
-    "Pekka Parviainen (NCWG/U. Colorado)"
-  ],
+  "copyright": "Pekka Parviainen (NCWG/U. Colorado)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9907/noctilucent_pp.jpg"
 }

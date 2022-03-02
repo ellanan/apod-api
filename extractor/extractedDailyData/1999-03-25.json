@@ -1,14 +1,10 @@
 {
   "title": "March of the Planets",
-  "credit": [],
   "explanation": "This March stargazers have been treated to eye-catching formations of bright planets in western evening skies. On March 3rd, looking toward a beautiful sunset from a beach on the Hawaiian isle of Maui, photographer Rick Scott recorded this fleeting, four-planet \"hockey stick\" array. Mercury, closest to the horizon and immersed in fading sunlight, is easily visible between silhouetted clouds. To the left and up in the deepening blue is Jupiter with a brilliant Venus above and Saturn shining in the darkened sky near the top of the image. The planets are seen to lie close to the ecliptic - the apparent path of the sun - which is nearly perpendicular to the horizon for Hawaiian latitudes at this time of year.",
   "date": "1999-03-25",
   "hdurl": "https://apod.nasa.gov/apod/image/9903/maui4p_rscott_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rick Scott Explanation",
-    "Rick Scott"
-  ],
+  "copyright": "Rick Scott",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9903/maui4p_rscott1.jpg"
 }

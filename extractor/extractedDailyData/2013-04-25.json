@@ -1,14 +1,10 @@
 {
   "title": "Lunar Eclipses",
-  "credit": [],
   "explanation": "The dark, inner shadow of planet Earth is called the umbra. Shaped like a cone extending into space, it has a circular cross section and is most easily seen during a lunar eclipse. But the complete cross section is larger than the Moon's angular size in the stages of an eclipse. Still, this thoughtful composite illustrates the full extent of the circular shadow by utilizing images from both partial and total eclipses passing through different parts of the umbra. The images span the years 1997 to 2011, diligently captured with the same optics, from Voronezh, Russia. Along the bottom and top are stages of the partial lunar eclipses from September 2006 and August 2008 respectively. In the rightside bottom image, the Moon is entering the umbra for the total eclipse of September 1997. At left bottom, the Moon leaves the umbra after totality in May 2004. Middle right, center, and left, are stages of the total eclipse of June 2011, including the central, deep red total phase. During today's brief partial lunar eclipse seen only from the eastern hemisphere, the Moon will just slightly graze the umbra's lower edge.",
   "date": "2013-04-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1304/LunarEclipsesVinyaminov.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Igor Vin'yaminov Explanation",
-    "Igor Vin'yaminov"
-  ],
+  "copyright": "Igor Vin'yaminov",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1304/LunarEclipsesVinyaminov900c.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Eagle EGGs in M16",
-  "credit": [
-    "Credit: NASA, HST, J. Hester & P. Scowen (ASU) Explanation",
-    "NASA, HST, J. Hester & P. Scowen (ASU)"
-  ],
+  "credit": "NASA, HST, J. Hester & P. Scowen (ASU)",
   "explanation": "",
   "date": "1995-11-07",
   "hdurl": "https://apod.nasa.gov/apod/image/stareggs_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/stareggs_hst.gif"
 }

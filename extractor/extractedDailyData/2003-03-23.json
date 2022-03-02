@@ -1,14 +1,10 @@
 {
   "title": "Alpha Centauri: The Closest Star System",
-  "credit": [
-    "Credit: 1-Meter Schmidt Telescope, ESO Explanation",
-    "1-Meter Schmidt Telescope, ESO"
-  ],
+  "credit": "1-Meter Schmidt Telescope, ESO",
   "explanation": "The closest star system to the Sun is the Alpha Centauri system. Of the three stars in the system, the dimmest -- called Proxima Centauri -- is actually the nearest star. The bright stars Alpha Centauri A and B form a close binary as they are separated by only 23 times the Earth- Sun distance - slightly greater than the distance between Uranus and the Sun. In the above picture, the brightness of the stars overwhelm the photograph causing an illusion of great size, even though the stars are really just small points of light. The Alpha Centauri system is not visible in much of the northern hemisphere. Alpha Centauri A, also known as Rigil Kentaurus, is the brightest star in the constellation of Centaurus and is the fourth brightest star in the night sky. Sirius is the brightest even thought it is more than twice as far away. By an exciting coincidence, Alpha Centauri A is the same type of star as our Sun, causing many to speculate that it might contain planets that harbor life.",
   "date": "2003-03-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0303/alphacen_eso_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0303/alphacen_eso.jpg"
 }

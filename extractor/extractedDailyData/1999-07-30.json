@@ -1,14 +1,10 @@
 {
   "title": "The Sea of Tranquillity: 5 Seconds To Impact",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "On February 20th, 1965, the Ranger 8 spacecraft crashed into the Moon. Rapidly transmitting a series of pictures to ground controllers, its camera recorded this one at an altitude of about 11 kilometers, 5 seconds before impacting the lunar surface. Two kilometers across, with 4 meter sized objects visible, the picture is of an area in the Sea of Tranquillity north of the Apollo 11 landing site. The Ranger spacecraft represented the first attempts by the US to obtain high resolution photos of the Moon, flying a crash course toward selected areas and sending back pictures until the moment of impact. Tomorrow, another spacecraft will be intentionally crashed into the Moon. Its very successful mission in lunar orbit complete, the Lunar Prospector is scheduled to crash into a crater near the Moon's south pole in an effort to confirm the presence of water-ice by studying the impact's debris cloud.",
   "date": "1999-07-30",
   "hdurl": "https://apod.nasa.gov/apod/image/9907/ranger8_b090_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9907/ranger8_b090.jpg"
 }

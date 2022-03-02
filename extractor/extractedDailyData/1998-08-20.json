@@ -1,14 +1,10 @@
 {
   "title": "SOHO Composite: Coronal Mass Ejection",
-  "credit": [
-    "Credit: SOHO - LASCO - EIT Consortium, ESA, NASA Explanation",
-    "SOHO - LASCO - EIT Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - LASCO - EIT Consortium, ESA, NASA",
   "explanation": "This complex composite image of an ominous and spectacular event - an expanding storm of energetic particles from the Sun - was constructed using data recorded by the SOHO spacecraft on November 6, 1997. Four images from two SOHO (Solar Orbiting Heliospheric Observatory) instruments have been nested to show the ultraviolet Sun at center and a large eruption of material from the right-hand solar limb. Known as a Coronal Mass Ejection or CME, the expanding cloud has become relatively cool and dark in the middle with bright edges still connected to the solar surface. High energy protons have peppered the SOHO detectors causing the crazed streaks and blemishes. The picture covers a region extending about 13.5 million miles from the Sun (32 Solar Radii). On June 25, after successfully completing its planned mission, contact with SOHO was lost -- but has recently been re-established! Hopefully SOHO will soon be able to continue operating in an extended mission phase.",
   "date": "1998-08-20",
   "hdurl": "https://apod.nasa.gov/apod/image/9808/cmecomp_soho_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9808/cmecomp_soho.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "All of Mars",
-  "credit": [
-    "Credit: National Geographic Society, MOLA Science Team, MGS, JPL, NASA Explanation",
-    "National Geographic Society, MOLA Science Team, MGS, JPL, NASA"
-  ],
+  "credit": "National Geographic Society, MOLA Science Team, MGS, JPL, NASA",
   "explanation": "From pole to pole, from east to west, this is all of Mars. The above picture was digitally reconstructed from over 200 million laser altimeter measurements taken by the Mars Global Surveyor spacecraft currently orbiting Mars. The image strips Mars of its clouds and dust, and renders the whole surface visible simultaneously in its true daytime color. Particularly notable are the volcanoes of the Tharsis province, visible on the left, which are taller than any mountains on Earth. Just to the left of center is Valles Marineris, a canyon much longer and deeper Earth's Grand Canyon. On the right, south of the center, is the Hellas Planitia, a basin over 2000 kilometers wide that was likely created by a collision with an asteroid. Mars has many smooth lowlands in the north, and many rough highlands in the south. Mars has just passed its closest approach to Earth since 1988 and can be seen shining brightly in the evening sky.",
   "date": "2001-06-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0106/allmars_mola_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0106/allmars_mola.jpg"
 }

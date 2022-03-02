@@ -1,14 +1,10 @@
 {
   "title": "Mizar Binary Star",
-  "credit": [
-    "Credit: J. Benson et al., NPOI Group, USNO, NRL Explanation",
-    "J. Benson et al., NPOI Group, USNO, NRL"
-  ],
+  "credit": "J. Benson et al., NPOI Group, USNO, NRL",
   "explanation": "Mizar (sounds like \"My Czar\") is a binary star. In fact, most stars are binary stars. In a binary star system, each star of the pair follows an elliptical orbital path. Mutual gravity causes the stellar companions to glide around their orbits as if tied to the ends of an elastic string passing through a balance point between them. The balance point is the system's \"center of mass\". Also known as zeta Ursae Majoris, Mizar is the middle star in the handle of the Big Dipper and at a distance of 88 light years, was the first binary star system to be imaged telescopically. Spectroscopic observations of the Mizar system show periodic doppler shifts, revealing that both stars, Mizar A and Mizar B, are themselves binary stars! But, the companions are too close to be directly observed as separate stars, even by the largest telescopes. In developing a new optical interferometer capable of extremely high resolution while peering through the Earth's blurry atmosphere, U.S. Naval Observatory and Naval Research Lab astronomers have been able to detect the companion star to Mizar A. This composite image of their observations shows the daily and monthly relative orbital motion in the binary system. Binary stars are a boon to astronomers because these stars can be weighed -- their orbits providing a direct measurement of star masses.",
   "date": "1997-02-19",
   "hdurl": "https://apod.nasa.gov/apod/image/9702/mizarA_npoi_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9702/mizarA_npoi.gif"
 }

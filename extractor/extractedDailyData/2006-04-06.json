@@ -1,14 +1,10 @@
 {
   "title": "Unusual Bright Soil on Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, Cornell, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, Cornell, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, Cornell, JPL, NASA",
   "explanation": "What is this bright soil on Mars? Several times while rolling across Mars, the treads of the robotic rover Spirit have serendipitously uncovered unusually bright soil. Spirit uncovered another batch unexpectedly last month while rolling toward its winter hibernation location on McCool Hill. The physics and chemistry instruments on Spirit have determined the soil, shown above, contains a high content of salts including iron-bearing sulfates. A leading hypothesis holds that these salts record the presence of past water, with the salts becoming concentrated as the water evaporated.",
   "date": "2006-04-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0604/brightsoil_spirit_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0604/brightsoil_spirit.jpg"
 }

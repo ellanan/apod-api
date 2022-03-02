@@ -1,14 +1,10 @@
 {
   "title": "The Flash Spectrum of the Sun",
-  "credit": [],
   "explanation": "In clear Madras, Oregon skies, this colorful eclipse composite captured the elusive chromospheric or flash spectrum of the Sun. Only three exposures, made on August 21 with telephoto lens and diffraction grating, are aligned in the frame. Directly imaged at the far left, the Sun's diamond ring-like appearance at the beginning and end of totality brackets a silhouette of the lunar disk at maximum eclipse. Spread by the diffraction grating into the spectrum of colors toward the right, the Sun's photospheric spectrum traces the two continuous streaks. They correspond to the diamond ring glimpses of the Sun's normally overwhelming disk. But individual eclipse images also appear at each wavelength of light emitted by atoms along the thin, fleeting arcs of the solar chromosphere. The brightest images, or strongest chromospheric emission, are due to Hydrogen atoms. Red hydrogen alpha emission is at the far right with blue and purple hydrogen series emission to the left. In between, the brightest yellow emission is caused by atoms of Helium, an element only first discovered in the flash spectrum of the Sun.",
   "date": "2017-09-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1709/DSC00198SpecSunCropQin.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Yujing Qin (University of Arizona) Explanation",
-    "Yujing Qin (University of Arizona)"
-  ],
+  "copyright": "Yujing Qin (University of Arizona)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1709/DSC00198SpecSunCropQin1024.jpg"
 }

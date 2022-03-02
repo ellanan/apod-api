@@ -1,14 +1,10 @@
 {
   "title": "Four Planet Sunset",
-  "credit": [],
   "explanation": "You can see four planets in this serene sunset image, created from a series of stacked digital exposures captured near dusk on May 25. The composite picture follows the trail of three of them, Jupiter, Venus, and Mercury (left to right) dropping toward the western horizon, gathered close in last month's remarkable triple planetary conjunction. Similar in brightness to planet Mercury, the star Elnath (Beta Tauri) is also tracked across the scene, leaving its dotted trail still farther to the right. Of course, in the foreground are the still, shallow waters of Alikes salt lake, reflecting the striking colors of sunset over Kos Island, Greece, planet Earth. For now, Jupiter has wandered into the glare of the setting Sun, but Mercury and Venus remain low in the west at twilight.",
   "date": "2013-06-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1306/PlanetsKosIslandGreece.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Chris Kotsiopoulos (GreekSky) Explanation",
-    "Chris Kotsiopoulos (GreekSky)"
-  ],
+  "copyright": "Chris Kotsiopoulos (GreekSky)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1306/20130525PlanetsKosIsland.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Powerful Gamma-ray Burst",
-  "credit": [
-    "Credit: S. R. Kulkarni, S. G. Djorgovski (Caltech), the Caltech GRB Team , NASA Explanation",
-    "S. R. Kulkarni, S. G. Djorgovski (Caltech), the Caltech GRB Team , NASA"
-  ],
+  "credit": "S. R. Kulkarni, S. G. Djorgovski (Caltech), the Caltech GRB Team , NASA",
   "explanation": "Gamma-ray bursts are thought to be the most powerful explosions in the Universe, yet the cause of these high-energy flashes remains a mystery. Blindingly bright for space-based gamma-ray detectors the burst sources are so faint at visible wavelengths that large telescopes and sensitive cameras are required to search for them. The faint optical flash from a relatively intense gamma-ray burst detected on December 14th of last year seems to have originated in the galaxy indicated in this Hubble Space Telescope image - taken months after the burst had faded from view. Astronomers have recently announced that this galaxy's spectrum, recorded using the large Keck telescope atop Hawaii's Mauna Kea, indicates that it lies at a distance of about 12 billion light-years. The energy required to produce the observed flash of gamma-rays from this distance would be staggering! Some estimates suggest that in a few seconds the burster released the equivalent energy of several hundred supernovae (exploding stars). The eruption of such a large amount of energy in such a short time is so extreme that even exotic theoretical models of the bursters are being challenged. Could the bursts be caused by the cataclysmic merger of neutron stars with black holes ... or something as yet unknown?",
   "date": "1998-05-07",
   "hdurl": "https://apod.nasa.gov/apod/image/9805/grb971214_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9805/grb971214_hst.jpg"
 }

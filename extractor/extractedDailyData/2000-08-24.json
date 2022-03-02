@@ -1,14 +1,10 @@
 {
   "title": "Eros At Sunset",
-  "credit": [
-    "Credit: NEAR Project, JHU APL, NASA Explanation",
-    "NEAR Project, JHU APL, NASA"
-  ],
+  "credit": "NEAR Project, JHU APL, NASA",
   "explanation": "Gleaming in the rays of the setting sun, boulders litter the rugged surface of asteroid 433 Eros. The brightest boulder, at the edge of the large, shadowy crater near this picture's bottom center, is about 30 meters (100 feet) across. In orbit around Eros since February 2000, the NEAR Shoemaker spacecraft's camera recorded the dramatic view earlier this month from an altitude of about 50 kilometers. Eros itself orbits the Sun with a perihelion of 1.13 Astronomical Units (AU) and aphelion of 1.78 AU. Part of a class of near-Earth asteroids, it spends much of its time between the orbits of Mars (at 1.5 AU) and Earth (at 1 AU) ... but it wasn't always that way. Eros and other near-Earth asteroids originally orbited in the main asteroid belt, between Jupiter and Mars. Over time, the gravitational influence of Jupiter and other planets perturbed their orbits sending them on trajectories closer to Earth.",
   "date": "2000-08-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0008/erossunset_near0.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0008/erossunset_near1.jpg"
 }

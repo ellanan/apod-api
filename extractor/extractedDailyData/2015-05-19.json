@@ -1,14 +1,10 @@
 {
   "title": "Globular Star Cluster 47 Tuc",
-  "credit": [
-    "Credit: NASA, ESA, Hubble Heritage Team (STScI / AURA) Acknowledgment: J. Mack (STScI) and G. Piotto (U. Padova) Explanation",
-    "NASA, ESA, Hubble Heritage Team (STScI / AURA) Acknowledgment: J. Mack (STScI) and G. Piotto (U. Padova)"
-  ],
+  "credit": "NASA, ESA, Hubble Heritage Team (STScI / AURA) Acknowledgment: J. Mack (STScI) and G. Piotto (U. Padova)",
   "explanation": "Globular star cluster 47 Tucanae is a jewel box of the southern sky. Also known as NGC 104, it roams the halo of our Milky Way Galaxy along with over 150 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 17,000 light-years away and can be spotted naked-eye near the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Recent observations have shown that 47 Tuc's white dwarf stars are in the process of being gravitationally expelled to the outer parts of the cluster due to their relatively low mass. Other colorful low mass stars including yellowish red giant stars are easy to pick out on the outskirts of the cluster in this recently released sharp telescopic portrait by the Hubble Space Telescope.",
   "date": "2015-05-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1505/47tuc_hubble_3359.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1505/47tuc_hubble_960.jpg"
 }

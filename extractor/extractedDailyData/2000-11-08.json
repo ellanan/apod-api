@@ -1,14 +1,10 @@
 {
   "title": "October Skylights",
-  "credit": [],
   "explanation": "",
   "date": "2000-11-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0011/auroct_wadeclark_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Wade Clark Jr. Explanation",
-    "Wade Clark Jr."
-  ],
+  "copyright": "Wade Clark Jr.",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0011/auroct_wadeclark.jpg"
 }

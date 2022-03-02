@@ -1,14 +1,10 @@
 {
   "title": "A Blazing Fireball between the Orion Nebula and Rigel",
-  "credit": [],
   "explanation": "What's happening to that meteor? A few days ago, a bright fireball was photographed from the Alps mountain range in Switzerland as it blazed across the sky. The fireball, likely from the Taurids meteor shower, was notable not only for how bright it was, but for the rare orange light it created that lingered for several minutes. Initially, the orange glow made it seem like the meteor trail was on fire. However, the orange glow, known as a persistent train, originated neither from fire nor sunlight-reflecting smoke. Rather, the persistent train's glow emanated from atoms in the Earth's atmosphere in the path of the meteor -- atoms that had an electron knocked away and emit light during reacquisition. Persistent trains often drift, so that the long 3-minute exposure actually captured the initial wind-blown displacement of these bright former ions. The featured image was acquired when trying to image the famous Orion Nebula, visible on the upper left. The bright blue star Rigel, part of the constellation of Orion, is visible to the right. This week the fireball-rich Taurids meteor shower continues to be active even though it has passed its peak, while the more active Leonids meteor shower is just peaking.",
   "date": "2015-11-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1511/OrionFireball_Scheggia_2136.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ivo Scheggia Explanation",
-    "Ivo Scheggia"
-  ],
+  "copyright": "Ivo Scheggia",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1511/OrionFireball_Scheggia_1080.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Pluto's P4",
-  "credit": [
-    "Credit: NASA, ESA, Mark Showalter (SETI Institute) Explanation",
-    "NASA, ESA, Mark Showalter (SETI Institute)"
-  ],
+  "credit": "NASA, ESA, Mark Showalter (SETI Institute)",
   "explanation": "Nix and Hydra were first introduced to human eyes in Hubble Space Telescope images from May 2005, as Pluto's second and third known moons. Now Hubble images have revealed a fourth satellite for the icy, dwarf planet. Provisionally designated P4, it completes an orbit of Pluto in about 31 days. Presently Pluto's smallest and dimmest known moon, P4 is estimated to be 13 to 34 kilometers across. The newly discovered satellite was first spotted in Hubble observations from June 28, and later confirmed in a follow-up on July 3 and July 18. These two panels are composites of both the short and long exposures that include brighter Pluto itself along with Pluto's largest moon Charon. Camera noise and image artifacts also show up in the long exposure segments. The Hubble observations were made while searching for faint rings around the distant world in support of NASA's New Horizons mission, set to fly by the Pluto system in 2015.",
   "date": "2011-07-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1107/PlutoP4_hst.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1107/PlutoP4_hst.jpg"
 }

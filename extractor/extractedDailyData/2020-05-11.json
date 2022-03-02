@@ -1,14 +1,10 @@
 {
   "title": "Behind Betelgeuse",
-  "credit": [],
   "explanation": "What's behind Betelgeuse? One of the brighter and more unusual stars in the sky, the red supergiant star Betelgeuse can be found in the direction of famous constellation Orion. Betelgeuse, however, is actually well in front of many of the constellation's other bright stars, and also in front of the greater Orion Molecular Cloud Complex. Numerically, light takes about 700 years to reach us from Betelgeuse, but about 1,300 years to reach us from the Orion Nebula and its surrounding dust and gas. All but the largest telescopes see Betelgeuse as only a point of light, but a point so bright that the inherent blurriness created by the telescope and Earth's atmosphere make it seem extended. In the featured long-exposure image, thousands of stars in our Milky Way Galaxy can be seen in the background behind Betelgeuse, as well as dark dust from the Orion Molecular Cloud, and some red-glowing emission from hydrogen gas on the outskirts of the more distant Lambda Orionis Ring. Betelgeuse has recovered from appearing unusually dim over the past six months, but is still expected to explode in a spectacular supernova sometime in the next (about) 100,000 years.",
   "date": "2020-05-11",
   "hdurl": "https://apod.nasa.gov/apod/image/2005/betelgeuse_block_2662.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Steward Observatory, University of Arizona Explanation",
-    "Adam Block, Steward Observatory, University of Arizona"
-  ],
+  "copyright": "Adam Block, Steward Observatory, University of Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2005/betelgeuse_block_960.jpg"
 }

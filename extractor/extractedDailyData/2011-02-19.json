@@ -1,14 +1,10 @@
 {
   "title": "Spiral Galaxy NGC 2841 Close Up",
-  "credit": [
-    "Credit: NASA, ESA, and the Hubble Heritage (STScI / AURA) - ESA / Hubble Collaboration Explanation",
-    "NASA, ESA, and the Hubble Heritage (STScI / AURA) - ESA / Hubble Collaboration"
-  ],
+  "credit": "NASA, ESA, and the Hubble Heritage (STScI / AURA) - ESA / Hubble Collaboration",
   "explanation": "A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in the northern constellation of Ursa Major. This sharp view of the gorgeous island universe shows off a striking yellow nucleus and galactic disk. Dust lanes, small, pink star-forming regions, and young blue star clusters are embedded in the patchy, tightly wound spiral arms. In contrast, many other spirals exhibit grand, sweeping arms with large star-forming regions. NGC 2841 has a diameter of over 150,000 light-years, even larger than our own Milky Way, but this close-up Hubble image spans about 34,000 light-years along the galaxy's inner region. X-ray images suggest that resulting winds and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.",
   "date": "2011-02-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1102/ngc2841c_hst_lg.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1102/ngc2841c_hst_sm.jpg"
 }

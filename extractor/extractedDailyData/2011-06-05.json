@@ -1,14 +1,10 @@
 {
   "title": "Another Nearby Supernova in the Whirlpool Galaxy",
-  "credit": [],
   "explanation": "One of the brightest supernovas in recent years has just been recorded in the nearby Whirlpool galaxy (M51). Surprisingly, a seemingly similar supernova was recorded in M51 during 2005, following yet another one that occurred in 1994. Three supernovas in 17 years is a lot for single galaxy, and reasons for the supernova surge in M51 are being debated. Pictured above are two images of M51 taken with a small telescope: one taken on May 30 that does not show the supernova, and one taken on June 2 which does. The June 2 image is one of the first images reported to contain the supernova. The images are blinked to show the location of the exploded star. Although most supernovas follow classic brightness patterns, the precise brightening and dimming pattern of this or any supernova is hard to predict in advance and can tell astronomers much about what is happening. Currently, the M51 supernova, designated SN 2011dh, is still bright enough to follow with a small telescope. Therefore, sky enthusiasts are encouraged to image the Whirlpool galaxy as often as possible to fill in time gaps left by intermittent observations made by the world's most powerful telescopes. Views of the developing supernova are being uploaded here.",
   "date": "2011-06-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1106/m51sn_bailey_440.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephane Lamotte Bailey, Marc Deldem, & Jean-Luc Dauvergne Explanation",
-    "Stephane Lamotte Bailey, Marc Deldem, & Jean-Luc Dauvergne"
-  ],
+  "copyright": "Stephane Lamotte Bailey, Marc Deldem, & Jean-Luc Dauvergne",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1106/m51sn_bailey_900.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Nearby Spiral Galaxy NGC 4945",
-  "credit": [],
   "explanation": "Large spiral galaxy NGC 4945 is seen edge-on near the center of this cosmic galaxy portrait. In fact, NGC 4945 is almost the size of our own Milky Way Galaxy. Its own dusty disk, young blue star clusters, and pink star forming regions standout in the sharp, colorful telescopic image. About 13 million light-years distant toward the expansive southern constellation Centaurus, NGC 4945 is only about six times farther away than Andromeda, the nearest large spiral galaxy to the Milky Way. Though the galaxy's central region is largely hidden from view for optical telescopes, X-ray and infrared observations indicate significant high energy emission and star formation in the core of NGC 4945. Its obscured but active nucleus qualifies the gorgeous island universe as a Seyfert galaxy and likely home to a central supermassive black hole.",
   "date": "2013-01-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1301/NGC4945_Master23.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: SSRO-South, J. Harvey, S. Mazlin, D. Verschatse, J. Joaquin Perez, (UNC/CTIO/PROMPT) Explanation",
-    "SSRO-South, J. Harvey, S. Mazlin, D. Verschatse, J. Joaquin Perez, (UNC/CTIO/PROMPT)"
-  ],
+  "copyright": "SSRO-South, J. Harvey, S. Mazlin, D. Verschatse, J. Joaquin Perez, (UNC/CTIO/PROMPT)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1301/NGC4945_Master23h600.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Beneath the South Pole of Saturn",
-  "credit": [
-    "Credit: Cassini VIMS Team, JPL, ESA, NASA Explanation",
-    "Cassini VIMS Team, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini VIMS Team, JPL, ESA, NASA",
   "explanation": "What clouds lurk beneath Saturn's unusual South Pole? To help find out, the robotic Cassini spacecraft currently orbiting Saturn imaged the nether region of the gigantic ringed orb in infrared light. There thick clouds appear dark as they mask much of the infrared light emitted from warmer regions below, while relatively thin clouds appear much lighter. Bands of clouds circle Saturn at several latitudes, while dark ovals indicate many dark swirling storm systems. Surprisingly, a haze of upper level clouds visible towards Saturn's equator disappears near the pole, including over Saturn's strange polar vortex. Cassini entered orbit around Saturn in 2004, and recorded the above image last year.",
   "date": "2008-10-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0810/southpole_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0810/southpole_cassini.jpg"
 }

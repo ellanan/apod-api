@@ -1,14 +1,10 @@
 {
   "title": "A Hole Punch Cloud Over Alabama",
-  "credit": [],
   "explanation": "",
   "date": "2004-01-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0401/holecloud_knain.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Joel Knain Explanation",
-    "Joel Knain"
-  ],
+  "copyright": "Joel Knain",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0401/holecloud_knain.jpg"
 }

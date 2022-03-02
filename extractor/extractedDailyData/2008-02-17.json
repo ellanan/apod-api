@@ -1,14 +1,10 @@
 {
   "title": "M1: The Crab Nebula from Hubble",
-  "credit": [
-    "Credit: NASA, ESA, J. Hester, A. Loll (ASU); Acknowledgement: Davide De Martin (Skyfactory) Explanation",
-    "NASA, ESA, J. Hester, A. Loll (ASU); Acknowledgement: Davide De Martin (Skyfactory)"
-  ],
+  "credit": "NASA, ESA, J. Hester, A. Loll (ASU); Acknowledgement: Davide De Martin (Skyfactory)",
   "explanation": "This is the mess that is left when a star explodes. The Crab Nebula, the result of a supernova seen in 1054 AD, is filled with mysterious filaments. The filaments are not only tremendously complex, but appear to have less mass than expelled in the original supernova and a higher speed than expected from a free explosion. The above image, taken by the Hubble Space Telescope, is presented in three colors chosen for scientific interest. The Crab Nebula spans about 10 light-years. In the nebula's very center lies a pulsar: a neutron star as massive as the Sun but with only the size of a small town. The Crab Pulsar rotates about 30 times each second.",
   "date": "2008-02-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0802/crabmosaic_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0802/crabmosaic_hst.jpg"
 }

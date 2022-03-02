@@ -1,14 +1,10 @@
 {
   "title": "Opportunity at Perseverance Valley",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, Kenneth Kremer, Marco Di Lorenzo Explanation",
-    "NASA, JPL-Caltech, Kenneth Kremer, Marco Di Lorenzo"
-  ],
+  "credit": "NASA, JPL-Caltech, Kenneth Kremer, Marco Di Lorenzo",
   "explanation": "Opportunity had already reached Perseverance Valley by June of 2018. Its view is reconstructed in a colorized mosaic of images taken by the Mars Exploration Rover's Navcam. In fact, Perseverance Valley is an appropriate name for the destination. Designed for a 90 day mission, Opportunity had traveled across Mars for over 5,000 sols (martian solar days) following a January 2004 landing in Eagle crater. Covering a total distance of over 45 kilometers (28 miles), its intrepid journey of exploration across the Martian landscape has come to a close here. On June 10, 2018, the last transmission from the solar-powered rover was received as a dust storm engulfed the Red Planet. Though the storm has subsided, eight months of attempts to contact Opportunity have not been successful and its trailblazing mission ended after almost 15 years of exploring the surface of Mars.",
   "date": "2019-02-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1902/OpportunitySol5074_1a_kremer.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1902/OpportunitySol5074_1a_kremer1024.jpg"
 }

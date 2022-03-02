@@ -1,14 +1,10 @@
 {
   "title": "Movie: Cassini Crosses Saturn's Ring Plane",
-  "credit": [
-    "Credit: NASA / JPL / SSI ;",
-    "NASA / JPL / SSI"
-  ],
+  "credit": "NASA / JPL / SSI",
   "explanation": "What would the rings of Saturn look like if you passed right through the ring plane? To find out, NASA aimed cameras from the Cassini spacecraft right at Saturn's rings as the robotic explorer passed from the sunlit side of the rings to the shadowed side. Resulting images from a vantage point outside the rings and most moons, but inside the orbit of Titan, have been gathered together in the above time-lapse movie. The dramatic movie demonstrates that ring particle density and reflectivity makes some parts of the shadowed side nearly the photographic negative of the sunlit side, but nearly empty regions remain continually dark. Visible also are Saturn-orbiting moons Enceladus, Mimas, Janus, Epimetheus, Prometheus, and Pandora. The extreme thinness of Saturn's rings can be appreciated from frames taken near the crossing time.",
   "date": "2007-01-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0701/ringcross_cassini.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0701/ringcross_cassini.jpg"
 }

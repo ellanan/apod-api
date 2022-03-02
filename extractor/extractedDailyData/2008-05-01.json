@@ -1,14 +1,10 @@
 {
   "title": "The Giants of Omega Centauri",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, Martha Boyer (Univ. Minnesota), et al. Explanation",
-    "NASA, JPL-Caltech, Martha Boyer (Univ. Minnesota), et al."
-  ],
+  "credit": "NASA, JPL-Caltech, Martha Boyer (Univ. Minnesota), et al.",
   "explanation": "Globular star cluster Omega Centauri is some 15,000 light-years away and 150 light-years in diameter. Packed with about 10 million stars, Omega Cen is the largest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. This intriguing color picture combines a visible light image of the cluster in blue hues with infrared image data from the Spitzer Space Telescope. The Spitzer data includes images in two infrared bands, one shown in green and one in red. Both infrared bands are sensitive to light from the cool, giant stars in the cluster. Adding the red and green colors together creates yellow, showing off the cluster's giant stars as yellow spots. Of course, red spots also indicate cool, giant stars in the image, but some of the red spots are even more distant background galaxies. Also known simply as Red Giant Stars, they represent a stage in the life-cycle of stars more evolved than our own Sun, a stage the Sun will reach in about 5 billion years. Dust grains formed in the atmospheres of cool, giant stars are ultimately involved in the formation of other stars and planets.",
   "date": "2008-05-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0805/OmegaCen_spitzer.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0805/OmegaCen_spitzer_c800.jpg"
 }

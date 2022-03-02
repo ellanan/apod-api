@@ -1,14 +1,10 @@
 {
   "title": "Shadow Set",
-  "credit": [
-    "Credit: J. Bonnell, A. Kutyrev, J. Norris, R. Canterna, WIRO Explanation",
-    "J. Bonnell, A. Kutyrev, J. Norris, R. Canterna, WIRO"
-  ],
+  "credit": "J. Bonnell, A. Kutyrev, J. Norris, R. Canterna, WIRO",
   "explanation": "A nearly full Moon and planet Earth's shadow set together in this scene captured Monday from snowy Mt. Jelm, home of the Wyoming Infrared Observatory. For early morning risers (and late to bed astronomers), shadow set in the western sky is a daily apparition whose subtle beauty is often overlooked in favor of the more colorful eastern horizon. Extending through the dense atmosphere, Earth's setting shadow is seen in this picture as a dark blue band along the distant horizon, bounded above by a pinkish glow or antitwilight arch. Also known as the Belt of Venus, the arch's lovely color is due to backscattering of reddened light from the rising Sun. The setting Moon's light is also reddened by the long sight-line through the atmosphere and echoes the dawn sky's yellow-orange hues.",
   "date": "2005-01-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0501/wiroshadow_bonnell_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0501/wiroshadow_bonnell_c55.jpg"
 }

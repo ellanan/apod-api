@@ -1,14 +1,10 @@
 {
   "title": "The Expanding Light Echoes of SN 1987A",
-  "credit": [
-    "Credit: The SuperMACHO Team, CTIO, NOAO, NSF Explanation",
-    "The SuperMACHO Team, CTIO, NOAO, NSF"
-  ],
+  "credit": "The SuperMACHO Team, CTIO, NOAO, NSF",
   "explanation": "Can you find supernova 1987A? It isn't hard -- it occurred at the center of the expanding bullseye pattern. Although this stellar detonation was first seen almost two decades ago, light from it continues to bounce off clumps of interstellar dust and be reflected to us today. These expanding light echoes have been recorded in the above time-lapse movie recorded over four years from the Blanco 4-meter telescope in Chile. The first image is an image of the SN 1987A region, while the next four images were created by subtracting consecutive images, taken a year apart, and leaving only the difference between the images. Light echoes can be seen moving out from the position of the supernova. The SuperMACHO team who recorded the above light echoes around supernova 1987A has also found faint and previously unnoticed light echoes from two other LMC supernovas. Study of these light echoes has enabled more accurate determinations of the location and date of these two supernova explosions that were first visible hundreds of years ago.",
   "date": "2006-01-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0601/lmcechoes_ctio.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0601/lmcechoes_ctio_big.gif"
 }

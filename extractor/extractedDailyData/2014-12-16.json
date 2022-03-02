@@ -1,14 +1,10 @@
 {
   "title": "W5: Pillars of Star Formation",
-  "credit": [
-    "Credit: WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci Explanation",
-    "WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci"
-  ],
+  "credit": "WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci",
   "explanation": "How do stars form? Images of the star forming region W5 like those in the infrared by NASA's Wide Field Infrared Survey Explorer (WISE) satellite provide clear clues with indications that massive stars near the center of empty cavities are older than stars near the edges. A likely reason for this is that the older stars in the center are actually triggering the formation of the younger edge stars. The triggered star formation occurs when hot outflowing gas compresses cooler gas into knots dense enough to gravitationally contract into stars. In the featured scientifically-colored infrared image, spectacular pillars, left slowly evaporating from the hot outflowing gas, provide further visual clues. W5 is also known as IC 1848, and together with IC 1805 form a complex region of star formation popularly dubbed the Heart and Soul Nebulas. The above image highlights a part of W5 spanning about 2,000 light years that is rich in star forming pillars. W5 lies about 6,500 light years away toward the constellation of Cassiopeia.",
   "date": "2014-12-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1412/ic1848_WISEantonucci_1824.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1412/ic1848_WISEantonucci_1080.jpg"
 }

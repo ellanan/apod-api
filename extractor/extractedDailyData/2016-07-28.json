@@ -1,14 +1,10 @@
 {
   "title": "Herschel's Eagle Nebula",
-  "credit": [],
   "explanation": "A now famous picture from the Hubble Space Telescope featured Pillars of Creation, star forming columns of cold gas and dust light-years long inside M16, the Eagle Nebula. This false-color composite image views the nearby stellar nursery using data from the Herschel Space Observatory's panoramic exploration of interstellar clouds along the plane of our Milky Way galaxy. Herschel's far infrared detectors record the emission from the region's cold dust directly. The famous pillars are included near the center of the scene. While the central group of hot young stars is not apparent at these infrared wavelengths, the stars' radiation and winds carve the shapes within the interstellar clouds. Scattered white spots are denser knots of gas and dust, clumps of material collapsing to form new stars. The Eagle Nebula is some 6,500 light-years distant, an easy target for binoculars or small telescopes in a nebula rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).",
   "date": "2016-07-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1607/Herschel_s_view_of_the_Eagle_Nebula.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: ESA/Herschel/PACS, SPIRE/Hi-GAL Project Acknowledgment: G. Li Causi, IAPS/INAF Explanation",
-    "ESA/Herschel/PACS, SPIRE/Hi-GAL Project Acknowledgment: G. Li Causi, IAPS/INAF"
-  ],
+  "copyright": "ESA/Herschel/PACS, SPIRE/Hi-GAL Project Acknowledgment: G. Li Causi, IAPS/INAF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1607/Herschel_s_view_of_the_Eagle_Nebula800x1024c.jpg"
 }

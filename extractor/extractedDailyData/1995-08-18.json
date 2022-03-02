@@ -1,14 +1,10 @@
 {
   "title": "Pluto: The Frozen Planet",
-  "credit": [
-    "Credit: NASA, Hubble Space Telescope, R. Albrecht (ESA/ESO) Explanation",
-    "NASA, Hubble Space Telescope, R. Albrecht (ESA/ESO)"
-  ],
+  "credit": "NASA, Hubble Space Telescope, R. Albrecht (ESA/ESO)",
   "explanation": "",
   "date": "1995-08-18",
   "hdurl": "https://apod.nasa.gov/apod/image/pluto_hst.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/pluto_hst.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Early Universe",
-  "credit": [
-    "Credit: F. Summers (Princeton), D. Cox, R. Patterson, E. Wesselak, and B. Sanders (NCSA), L. Carpenter (Pixar), GC3, Cosmic Voyage, Smithsonian Explanation",
-    "F. Summers (Princeton), D. Cox, R. Patterson, E. Wesselak, and B. Sanders (NCSA), L. Carpenter (Pixar), GC3, Cosmic Voyage, Smithsonian"
-  ],
+  "credit": "F. Summers (Princeton), D. Cox, R. Patterson, E. Wesselak, and B. Sanders (NCSA), L. Carpenter (Pixar), GC3, Cosmic Voyage, Smithsonian",
   "explanation": "",
   "date": "1996-02-16",
   "hdurl": "https://apod.nasa.gov/apod/image/earlyuni_imax_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/earlyuni_imax.gif"
 }

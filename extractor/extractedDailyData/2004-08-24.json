@@ -1,14 +1,10 @@
 {
   "title": "Supply Ship Approaches the Space Station",
-  "credit": [
-    "Credit: ISS Expedition 9, NASA Explanation",
-    "ISS Expedition 9, NASA"
-  ],
+  "credit": "ISS Expedition 9, NASA",
   "explanation": "The crew on board the International Space Station sometimes needs supplies. As the US Space Shuttle fleet prepares to return to flight, supplies usually now come from a robot Progress supply vessel launched from Kazakhstan. Pictured above, a Progress ship approaches the ISS on May 27, delivering over 2,500 kilograms of food, water, fuel and other important items. The supply ship soon docked with the Zvezda Service Module while orbiting the Earth over 300 kilometers over central Asia.",
   "date": "2004-08-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0408/supply_iss_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0408/supply_iss.jpg"
 }

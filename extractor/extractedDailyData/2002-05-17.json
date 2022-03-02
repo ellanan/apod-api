@@ -1,14 +1,10 @@
 {
   "title": "Gamma-Ray Burst, Supernova Bump",
-  "credit": [
-    "Credit: S. Kulkarni, J. Bloom, P. Price, Caltech - NRAO GRB Collaboration Explanation",
-    "S. Kulkarni, J. Bloom, P. Price, Caltech - NRAO GRB Collaboration"
-  ],
+  "credit": "S. Kulkarni, J. Bloom, P. Price, Caltech - NRAO GRB Collaboration",
   "explanation": "On the 21st of November 2001, satellites detected yet another burst of gamma-rays from the cosmos. While this flash of high-energy photons lasted for less than a minute, eager astronomers have been following the fading optical light from the location of the burst source ever since. Seen above in a series of Hubble Space Telescope images recorded from December 4, 2001 to May 5, 2002 (13 through 161 days after the burst), the fading transient lies to the right of a fuzzy, distant galaxy, likely home to the gamma-ray burster. Two constant point-like objects to the left of the galaxy are foreground stars within our own Milky Way. The transient did not not simply fade away, though. Observations from the Hubble, OGLE, and the large Magellan telescope in Chile indicate that it bumped up or brightened again days after the burst in a convincing display characteristic of a supernova - the death explosion of a massive star. These results add to the mounting evidence that at least some of the mysterious cosmic gamma-ray bursts are produced in the violent event which ends the lives of massive stars.",
   "date": "2002-05-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0205/grb011121_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0205/grb011121_hst_c1.jpg"
 }

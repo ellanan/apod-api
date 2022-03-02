@@ -1,14 +1,10 @@
 {
   "title": "NGC 2237: The Rosette Nebula",
-  "credit": [
-    "Credit: The Electronic Universe Project Explanation",
-    "The Electronic Universe Project"
-  ],
+  "credit": "The Electronic Universe Project",
   "explanation": "",
   "date": "1996-02-14",
   "hdurl": "https://apod.nasa.gov/apod/image/rosette_zebu_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/rosette_zebu.gif"
 }

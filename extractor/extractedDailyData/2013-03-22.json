@@ -1,14 +1,10 @@
 {
   "title": "Comet Castle",
-  "credit": [],
   "explanation": "The broad dust tail of Comet PanSTARRS (C/2011 L4) has become a familiar sight for many northern hemisphere comet watchers, as the comet fades but rises higher above the western horizon after sunset. This view of the popular comet may seem a little fantastic, though. Sweeping away from the Sun and trailing behind the comet's orbit, the curving dust tail also seems to stream away from a shining mountaintop castle. Comet Castle might be an appropriate name in this scene, but its traditional name is Castle Hohenzollern. Taken on March 15 with an extreme telephoto lens, the Comet Castle image was captured in exceptionally clear skies about 80 kilometers away from Stuttgart, Germany.",
   "date": "2013-03-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1303/PanSTARRSHohenzollern_Seip1.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip (TWAN) Explanation",
-    "Stefan Seip (TWAN)"
-  ],
+  "copyright": "Stefan Seip (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1303/PanSTARRSHohenzollern_Seip1950.jpg"
 }

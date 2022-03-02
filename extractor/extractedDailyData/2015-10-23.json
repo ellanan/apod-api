@@ -1,14 +1,10 @@
 {
   "title": "Starburst Galaxy Messier 94",
-  "credit": [
-    "Credit: ESA/Hubble and NASA Explanation",
-    "ESA/Hubble and NASA"
-  ],
+  "credit": "ESA/Hubble and NASA",
   "explanation": "Beautiful island universe Messier 94 lies a mere 15 million light-years distant in the northern constellation of the hunting dogs, Canes Venatici. A popular target for earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the outskirts of its broad disk. But this Hubble Space Telescope field of view spans about 7,000 light-years or so across M94's central region. The sharp close-up examines the galaxy's compact, bright nucleus and prominent inner dust lanes, surrounded by a remarkable bluish ring of young, massive stars. The massive stars in the ring are all likely less than 10 million years old, indicating the galaxy experienced a well-defined era of rapid star formation. As a result, while the small, bright nucleus is typical of the Seyfert class of active galaxies, M94 is also known as a starburst galaxy. Because M94 is relatively nearby, astronomers can explore in detail reasons for the galaxy's burst of star formation.",
   "date": "2015-10-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1510/M94_hst1542a_1280.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1510/M94_hst1542a.jpg"
 }

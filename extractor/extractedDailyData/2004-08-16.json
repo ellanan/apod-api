@@ -1,14 +1,10 @@
 {
   "title": "Close-Up of the Lagoon",
-  "credit": [],
   "explanation": "Stars are battling gas and dust in the Lagoon Nebula but the photographers are winning. Also known as M8, this photogenic nebula is visible even without binoculars towards the constellation of Sagittarius. The energetic processes of star formation create not only the colors but the chaos. The red-glowing gas results from high-energy starlight striking interstellar hydrogen gas. The dark dust filaments that lace M8 were created in the atmospheres of cool giant stars and in the debris from supernovae explosions. This spectacular portion of the Lagoon Nebula taken by the CFHT was created from light emitted by hydrogen (shown in red) and light emitted by oxygen (shown in green). The light from M8 we see today left about 5000 years ago. Light takes about 50 years to cross this section of M8.",
   "date": "2004-08-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0408/lagoon_cfht_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT), Coelum Explanation",
-    "Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT), Coelum"
-  ],
+  "copyright": "Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT), Coelum",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0408/lagoon_cfht.jpg"
 }

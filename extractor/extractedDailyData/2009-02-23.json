@@ -1,14 +1,10 @@
 {
   "title": "An Etruscan Vase Moon Rising",
-  "credit": [],
   "explanation": "What's happened to the Moon? Nothing, although from some locations, February's full moon, which occurred about two weeks ago, appeared strangely distorted as it rose. Visible in particular was a curiously inverted image section pinched off near the horizon, an effect dubbed the Etruscan vase by the pioneering science fiction writer Jules Verne for its familiar shape. This odd moon image piece was created by moonlight refracting through an atmospheric inversion layer on Earth where cold air was trapped near the surface. The photographer also reported that, as the moon rose, a red rim was faintly visible on the lower part of the moon, while a green rim appeared on the top. Similar to the Sun's famous green flash, these effects arise when the Earth's atmosphere acts like a prism, sending different colors of light on slightly different paths. The above image mosaic has been horizontally compressed by computer to fit a standard screen.",
   "date": "2009-02-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0902/moonrise_stetson_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: John Stetson Explanation",
-    "John Stetson"
-  ],
+  "copyright": "John Stetson",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0902/moonrise_stetson.jpg"
 }

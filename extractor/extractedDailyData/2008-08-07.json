@@ -1,14 +1,10 @@
 {
   "title": "At the Sun's Edge",
-  "credit": [],
   "explanation": "A train trip on the Trans-Siberian railway to Novosibirsk resulted in this stunning view along the edge of the Sun recorded during the August 1st total solar eclipse. The picture is a composite of two images taken at special moments in the eclipse sequence, corresponding to the very beginning and the very end of the total eclipse phase. Those times are known to eclipse chasers as 2nd and 3rd contact. Bright beads around the Moon's dark silhouette are rays of sunlight shining through lunar valleys at the edge of the lunar disk. But the composite view also captures solar prominences, looping structures of hot plasma suspended in magnetic fields, extending beyond the Sun's edge.",
   "date": "2008-08-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0808/TSE2008_beldea.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Catalin Beldea (Descopera Magazine) Explanation",
-    "Catalin Beldea (Descopera Magazine)"
-  ],
+  "copyright": "Catalin Beldea (Descopera Magazine)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0808/TSE2008_beldea_c800.jpg"
 }

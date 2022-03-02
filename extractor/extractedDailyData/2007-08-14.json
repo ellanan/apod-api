@@ -1,14 +1,10 @@
 {
   "title": "A Spectacular Sky Over the Grand Tetons",
-  "credit": [],
   "explanation": "Behold the breathtaking beauty of Earth and sky together. In the foreground is the Teton Mountain Range of Wyoming, USA. The Grand Tetons are a relatively isolated set of high peaks that are part of the Rocky Mountains. On the far left, vast clouds of bright stars and dark dust are visible in the nearly vertical plane of our Milky Way Galaxy. Our Galactic Plane appears to crash into the Tetons, but is actually far more distant. On the left, just to the left of the southernmost Teton peak, the planet Jupiter is visible. Near the image center is the bright star Arcturus. Scrolling to the far right will bring over the familiar asterism of the Big Dipper. Last month it took five images, later digitally fused, to capture the majesty of this panoramic view.",
   "date": "2007-08-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0708/tetons_pacholka_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Wally Pacholka (Astropics.com); Image Processing: Tony Hallas Explanation",
-    "Wally Pacholka (Astropics.com); Image Processing: Tony Hallas"
-  ],
+  "copyright": "Wally Pacholka (Astropics.com); Image Processing: Tony Hallas",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0708/tetons_pacholka.jpg"
 }

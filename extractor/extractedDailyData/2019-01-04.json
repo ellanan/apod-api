@@ -1,14 +1,10 @@
 {
   "title": "Ultima Thule Rotation Gif",
-  "credit": [
-    "Credit: NASA, Johns Hopkins University APL, Southwest Research Institute Explanation",
-    "NASA, Johns Hopkins University APL, Southwest Research Institute"
-  ],
+  "credit": "NASA, Johns Hopkins University APL, Southwest Research Institute",
   "explanation": "Ultima Thule is the most distant world explored by a spacecraft from Earth. In the dim light 6.5 billion kilometers from the Sun, the New Horizons spacecraft captured these two frames 38 minutes apart as it sped toward the Kuiper belt world on January 1 at 51,000 kilometers per hour. A contact binary, the two lobes of Ultima Thule rotate together once every 15 hours or so. Shown as a blinking gif, the rotation between the frames produces a tantalizing 3D perspective of the most primitive world ever seen. Dubbed separately by the science team Ultima and Thule, the larger lobe Ultima, is about 19 kilometers in diameter. Smaller Thule is 14 kilometers across.",
   "date": "2019-01-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1901/UT-blink_3d_a.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1901/UT-blink_3d_a.gif"
 }

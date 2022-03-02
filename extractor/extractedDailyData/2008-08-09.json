@@ -1,14 +1,10 @@
 {
   "title": "Aurora Persei",
-  "credit": [],
   "explanation": "Dark skies are favored for viewing meteor showers -- so the best viewing of this year's Perseids will occur in the early morning. While the Perseid meteor shower is scheduled to peak over the next few days, bright light from a gibbous Moon will also flood the early evening and mask the majority of relatively faint meteors. Still, skygazing in the early morning after the Moon sets (after about 2 AM local time) could reveal many faint meteors. Persistant observing at any time after sunset can reward northern hemisphere watchers looking for occasional Perseid fireballs. Astronomer Jimmy Westlake imaged this bright Perseid meteor despite the combination of moonlight and auroral glow over Colorado skies in August of 2000.",
   "date": "2008-08-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0808/PerseidMoonlightAurora9_westlake_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jimmy Westlake (Colorado Mountain College) Explanation",
-    "Jimmy Westlake (Colorado Mountain College)"
-  ],
+  "copyright": "Jimmy Westlake (Colorado Mountain College)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0808/PerseidMoonlightAurora9_westlake.jpg"
 }

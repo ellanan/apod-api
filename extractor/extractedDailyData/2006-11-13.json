@@ -1,14 +1,10 @@
 {
   "title": "A Hurricane Over the South Pole of Saturn",
-  "credit": [
-    "Credit: CICLOPS, JPL, ESA, NASA Explanation",
-    "CICLOPS, JPL, ESA, NASA"
-  ],
+  "credit": "CICLOPS, JPL, ESA, NASA",
   "explanation": "What's happening at the south pole of Saturn? To find out, scientists sent the robot Cassini probe now orbiting Saturn directly over the lower spin axis of the ringed giant. Cassini found there a spectacular massive swirling storm system with a well developed eye-wall, similar to a hurricane here on Earth. One image of the storm is shown above, while several frames from the overpass have been made into a movie that shows the huge vortex rotating. The storm is slightly larger than the entire Earth and carries winds that reach 550 kilometers per hour, twice the velocity of a Category 5 hurricane. This pole vortex on Saturn might have been raging for billions of years and is not expected to drift off the pole.",
   "date": "2006-11-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0611/polestorm_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0611/polestorm_cassini.jpg"
 }

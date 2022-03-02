@@ -1,14 +1,10 @@
 {
   "title": "Arp 194: Merging Galaxy Group",
-  "credit": [
-    "Credit: NASA, ESA, Hubble; Processing & License: Judy Schmidt Explanation",
-    "NASA, ESA, Hubble; Processing & License: Judy Schmidt"
-  ],
+  "credit": "NASA, ESA, Hubble; Processing & License: Judy Schmidt",
   "explanation": "Why are stars forming in the bridge between these colliding galaxies? Usually when galaxies crash, star formation is confined to galaxy disks or tidal tails. In Arp 194, though, there are bright knots of young stars right in a connecting bridge. Analyses of images and data including the featured image of Arp 194 from Hubble, as well as computer simulations of the interaction, indicate that the bottom galaxy passed right through the top galaxy within the past 100 million years. The result has left a stream of gas that is now falling toward the bottom galaxy. Astronomers hypothesize that stars form in this bridge because of the recent fading of turbulence after the rapid collision. In about a billion years, the galaxies -- including a smaller galaxy superposed on the upper galaxy (see it?) -- will all merge into one larger galaxy.",
   "date": "2019-03-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1903/Arp194_HubbleSchmidt_1494.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1903/Arp194_HubbleSchmidt_960.jpg"
 }

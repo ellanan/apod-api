@@ -1,14 +1,10 @@
 {
   "title": "Barred Spiral Galaxy NGC 6217",
-  "credit": [
-    "Credit: NASA, ESA, and the Hubble SM4 ERO Team Explanation",
-    "NASA, ESA, and the Hubble SM4 ERO Team"
-  ],
+  "credit": "NASA, ESA, and the Hubble SM4 ERO Team",
   "explanation": "Many spiral galaxies have bars across their centers. Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 6217, pictured above, was captured in spectacular detail in this recently released image taken by the newly repaired Advanced Camera for Surveys on the orbiting Hubble Space Telescope. Visible are dark filamentary dust lanes, young clusters of bright blue stars, red emission nebulas of glowing hydrogen gas, a long bright bar of stars across the center, and a bright active nucleus that likely houses a supermassive black hole. Light takes about 60 million years to reach us from NGC 6217, which spans about 30,000 light years across and can be found toward the constellation of the Little Bear (Ursa Minor).",
   "date": "2009-12-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0912/ngc6217_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0912/ngc6217_hst.jpg"
 }

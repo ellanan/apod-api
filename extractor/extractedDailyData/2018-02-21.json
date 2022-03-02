@@ -1,14 +1,10 @@
 {
   "title": "Jupiter in Infrared from Hubble",
-  "credit": [
-    "Credit: NASA, ESA, Hubble; Data: Michael Wong (UC Berkeley) et al.; Processing & License: Judy Schmidt Explanation",
-    "NASA, ESA, Hubble; Data: Michael Wong (UC Berkeley) et al.; Processing & License: Judy Schmidt"
-  ],
+  "credit": "NASA, ESA, Hubble; Data: Michael Wong (UC Berkeley) et al.; Processing & License: Judy Schmidt",
   "explanation": "Jupiter looks a bit different in infrared light. To better understand Jupiter's cloud motions and to help NASA's robotic Juno spacecraft understand the planetary context of the small fields that it sees, the Hubble Space Telescope is being directed to regularly image the entire Jovian giant. The colors of Jupiter being monitored go beyond the normal human visual range to include both ultraviolet and infrared light. Featured here in 2016, three bands of near-infrared light have been digitally reassigned into a mapped color image. Jupiter appears different in infrared partly because the amount of sunlight reflected back is distinct, giving differing cloud heights and latitudes discrepant brightnesses. Nevertheless, many familiar features on Jupiter remain, including the light zones and dark belts that circle the planet near the equator, the Great Red Spot on the lower left, and the string-of-pearls storm systems south of the Great Red Spot. The poles glow because high altitude haze there is energized by charged particles from Jupiter's magnetosphere. Juno has now completed 10 of 12 planned science orbits of Jupiter and continues to record data that are helping humanity to understand not only Jupiter's weather but what lies beneath Jupiter's thick clouds.",
   "date": "2018-02-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1802/JupiterIR_HubbleSchmidt_1211.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1802/JupiterIR_HubbleSchmidt_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Star Factory Messier 17",
-  "credit": [],
   "explanation": "Sculpted by stellar winds and radiation, the star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 30 arcminute field of view spans almost 50 light-years. Stellar winds and energetic light from hot, massive stars formed from M17's stock of cosmic gas and dust have slowly carved away at the remaining interstellar material producing the cavernous appearance and undulating shapes. Colors in the gorgeous image were picked to emphasize light emitted by specific elements in the nebula excited by the energetic starlight. Red indicates emission from sulfur, green from hydrogen, and blue from oxygen. M17 is also known as the Omega Nebula or the Swan Nebula.",
   "date": "2007-08-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0708/m17x1600ignacio.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ignacio de la Cueva Torregrosa Explanation",
-    "Ignacio de la Cueva Torregrosa"
-  ],
+  "copyright": "Ignacio de la Cueva Torregrosa",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0708/m17x800ignacio.jpg"
 }

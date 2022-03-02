@@ -1,17 +1,11 @@
 {
   "title": "Messier 106",
-  "credit": [
-    "Credit: NASA, Hubble Legacy Archive, Kitt Peak National Observatory; Amateur Data & Processing Copyright: Robert Gendler Explanation",
-    "NASA, Hubble Legacy Archive, Kitt Peak National Observatory; Amateur Data & Processing Copyright: Robert Gendler"
-  ],
+  "credit": "NASA, Hubble Legacy Archive, Kitt Peak National Observatory; Amateur Data & Processing Copyright: Robert Gendler",
   "explanation": "Close to the Great Bear (Ursa Major) and surrounded by the stars of the Hunting Dogs (Canes Venatici), this celestial wonder was discovered in 1781 by the metric French astronomer Pierre Mechain. Later, it was added to the catalog of his friend and colleague Charles Messier as M106. Modern deep telescopic views reveal it to be an island universe - a spiral galaxy around 30 thousand light-years across located only about 21 million light-years beyond the stars of the Milky Way. Along with a bright central core, this stunning galaxy portrait, a composite of image data from amateur and professional telescopes, highlights youthful blue star clusters and reddish stellar nurseries tracing the galaxy's spiral arms. It also shows off remarkable reddish jets of glowing hydrogen gas. In addition to small companion galaxy NGC 4248 at bottom right, background galaxies can be found scattered throughout the frame. M106, also known as NGC 4258, is a nearby example of the Seyfert class of active galaxies, seen across the spectrum from radio to X-rays. Active galaxies are powered by matter falling into a massive central black hole.",
   "date": "2021-04-09",
   "hdurl": "https://apod.nasa.gov/apod/image/2104/M106-NOAO-HST-L.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2104/M106-NOAO-HST-1024c.jpg"
 }

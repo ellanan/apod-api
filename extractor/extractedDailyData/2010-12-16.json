@@ -1,14 +1,10 @@
 {
   "title": "Geminids over Kitt Peak",
-  "credit": [],
   "explanation": "Two large telescope domes stand in the foreground of this night sky view from Kitt Peak National Observatory, near Tucson, Arizona, USA. The dramatic scene was recorded early Tuesday morning, near the peak of December's Geminid Meteor Shower. With dome slit open, the building closest to the camera houses the 2.3 Meter (90 inch) Bok Telescope operated by Steward Observatory, University of Arizona. Behind the Bok is the Mayall 4 Meter telescope dome. Of course, no telescopes were needed to enjoy the meteors streaking through the sky! The composite image consists of 13 exposures each 15 seconds long, taken with a wide angle lens over a period of about 2 hours during Kitt Peak's warm, clear, night. An annual celestial event, this meteor shower is the result of planet Earth plowing through dust from mysterious, asteroid-like object 3200 Phaethon.",
   "date": "2010-12-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1012/geminidsKPNO_harvey.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: David A. Harvey Explanation",
-    "David A. Harvey"
-  ],
+  "copyright": "David A. Harvey",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1012/geminidsKPNO_harvey900.jpg"
 }

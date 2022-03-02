@@ -1,14 +1,10 @@
 {
   "title": "An Extreme Black Hole Outburst",
-  "credit": [
-    "Credit: X-ray: Chandra: NASA/CXC/NRL/S. Giacintucci, et al., XMM-Newton: ESA/XMM-Newton; Radio: NCRA/TIFR/GMRT; Infrared: 2MASS/UMass/IPAC-Caltech/NASA/NSF; Text: Michael F. Corcoran (NASA, Catholic U., HEAPOW) Explanation",
-    "X-ray: Chandra: NASA/CXC/NRL/S. Giacintucci, et al., XMM-Newton: ESA/XMM-Newton; Radio: NCRA/TIFR/GMRT; Infrared: 2MASS/UMass/IPAC-Caltech/NASA/NSF; Text: Michael F. Corcoran (NASA, Catholic U., HEAPOW)"
-  ],
+  "credit": "X-ray: Chandra: NASA/CXC/NRL/S. Giacintucci, et al., XMM-Newton: ESA/XMM-Newton; Radio: NCRA/TIFR/GMRT; Infrared: 2MASS/UMass/IPAC-Caltech/NASA/NSF; Text: Michael F. Corcoran (NASA, Catholic U., HEAPOW)",
   "explanation": "Astronomers believe they have now found the most powerful example of a black hole outburst yet seen in our Universe. The composite, false-color featured image is of a cluster of galaxies in the constellation of Ophiuchus, the serpent-bearer. The composite includes X-ray images (from the Chandra X-ray Observatory and XMM-Newton) in purple, and a radio image (from India's Giant Metrewave Radio Telescope) in blue (along with an infrared image of the galaxies and stars in the field in white for good measure). The dashed line marks the border of a cavity blown out by the supermassive black hole which lurks at the center of the galaxy marked by the cross. Radio emission fills this cavity. This big blowout is believed to be due to the black hole eating too much and experiencing a transient bout of \"black hole nausea\", which resulted in the ejection of a powerful radio jet blasting into intergalactic space. The amount of energy needed to blow this cavity is equivalent to about 10 billion supernova explosions.",
   "date": "2020-03-11",
   "hdurl": "https://apod.nasa.gov/apod/image/2003/OphGalaxyClusterLabeled_Chandra_960.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2003/OphGalaxyClusterLabeled_Chandra_960.jpg"
 }

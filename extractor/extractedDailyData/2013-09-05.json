@@ -1,14 +1,10 @@
 {
   "title": "M1: The Incredible Expanding Crab",
-  "credit": [],
   "explanation": "The Crab Nebula is cataloged as M1, the first on Charles Messier's famous list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, an expanding cloud of debris from the explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across today, the nebula is still expanding at a rate of over 1,000 kilometers per second. Want to watch the Crab Nebula expand? Check out this video (vimeo) animation comparing an image of M1 taken in 1999 at the European Southern Observatory, with this one, taken in 2012 at the Mt. Lemmon Sky Center. Background stars were used to register the two images. The Crab Nebula lies about 6,500 light-years away in the constellation Taurus.",
   "date": "2013-09-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1309/m1_2012block.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mt. Lemmon SkyCenter, U. Arizona Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, U. Arizona"
-  ],
+  "copyright": "Adam Block, Mt. Lemmon SkyCenter, U. Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1309/m1_2012sblock950c.jpg"
 }

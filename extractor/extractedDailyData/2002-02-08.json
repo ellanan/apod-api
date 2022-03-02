@@ -1,14 +1,10 @@
 {
   "title": "PKS 1127-145: Quasar View",
-  "credit": [
-    "Credit: A. Siemiginowska (CfA) & J. Bechtold (U. Arizona), et al., NASA Explanation",
-    "A. Siemiginowska (CfA) & J. Bechtold (U. Arizona), et al., NASA"
-  ],
+  "credit": "A. Siemiginowska (CfA) & J. Bechtold (U. Arizona), et al., NASA",
   "explanation": "The quasar known as PKS 1127-145 lies ten billion light-years from our fair planet. A Hubble Space Telescope view in the left panel shows this quasar along with other galaxies as they appear in optical light. The quasar itself is the brightest object in the lower right corner. In the right panel is a Chandra Observatory x-ray picture, exactly corresponding to the Hubble field. While the more ordinary galaxies are not seen in the Chandra image, a striking jet, nearly a million light-years long, emerges from the quasar to dominate the x-ray view. Bright in both optical and x-ray light, the quasar is thought to harbor a supermassive black hole which powers the jet and makes PKS 1127-145 visible across the spectrum -- a beacon from the distant cosmos.",
   "date": "2002-02-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0202/pks1127_xray_opt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0202/pks1127_xray_opt.jpg"
 }

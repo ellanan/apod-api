@@ -1,14 +1,10 @@
 {
   "title": "The Dark River to Antares",
-  "credit": [],
   "explanation": "Connecting the Pipe Nebula to the colorful region near bright star Antares is a dark cloud dubbed the Dark River, flowing from the picture's left edge. Murky looking, the Dark River's appearance is caused by dust obscuring background starlight, although the dark nebula contains mostly hydrogen and molecular gas. Surrounded by dust, Antares, a red supergiant star, creates an unusual bright yellowish reflection nebula. Above it, bright blue double star Rho Ophiuchi is embedded in one of the more typical bluish reflection nebulae, while red emission nebulae are also scattered around the region. Globular star cluster M4 is just seen above and right of Antares, though it lies far behind the colorful clouds, at a distance of some 7,000 light-years. The Dark River itself is about 500 light years away. The colorful skyscape is a mosaic of telescopic images spanning nearly 10 degrees (20 Full Moons) across the sky in the constellation of the Scorpion (Scorpius).",
   "date": "2015-02-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1502/darkriver_jennings_4905.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jason Jennings Explanation",
-    "Jason Jennings"
-  ],
+  "copyright": "Jason Jennings",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1502/darkriver_jennings_960.jpg"
 }

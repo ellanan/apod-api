@@ -1,13 +1,9 @@
 {
   "title": "Lightning Captured at 7,207 Images per Second",
-  "credit": [],
   "explanation": "How fast is lightning? Lightning, in fact, moves not only too fast for humans to see, but so fast that humans can't even tell which direction it is moving. The above lightning stroke did not move too fast, however, for this extremely high time resolution video to resolve. Tracking at an incredible 7,207 frames per second, actual time can be seen progressing at the video bottom. The above lightning bolt starts with many simultaneously creating ionized channels branching out from an negatively charged pool of electrons and ions that has somehow been created by drafts and collisions in a rain cloud. About 0.015 seconds after appearing -- which takes about 3 seconds in the above time-lapse video -- one of the meandering charge leaders makes contact with a suddenly appearing positive spike moving up from the ground and an ionized channel of air is created that instantly acts like a wire. Immediately afterwards, this hot channel pulses with a tremendous amount of charges shooting back and forth between the cloud and the ground, creating a dangerous explosion that is later heard as thunder. Much remains unknown about lightning, however, including details of the mechanism that separates charges.",
   "date": "2012-07-23",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tom A. Warner, ZTResearch, www.weathervideoHD.TV Explanation",
-    "Tom A. Warner, ZTResearch, www.weathervideoHD.TV"
-  ],
+  "copyright": "Tom A. Warner, ZTResearch, www.weathervideoHD.TV",
   "media_type": "video",
   "url": "https://player.vimeo.com/video/28457062?color=ffffff"
 }

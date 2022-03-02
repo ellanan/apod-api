@@ -1,14 +1,10 @@
 {
   "title": "V838 Mon: Mystery Star",
-  "credit": [
-    "Credit: Lisa Crause (Univ. Cape Town), Warrick Lawson (Australian Defence Force Academy) Explanation",
-    "Lisa Crause (Univ. Cape Town), Warrick Lawson (Australian Defence Force Academy)"
-  ],
+  "credit": "Lisa Crause (Univ. Cape Town), Warrick Lawson (Australian Defence Force Academy)",
   "explanation": "A leading candidate for the most mysterious star found in recent times is variable star V838 Monocerotis. At a distance of about 8,000 light-years, V838 Mon was discovered to be in outburst in January of this year. Initially thought to be a familiar type of classical nova, astronomers quickly realized that instead, V838 Mon may be a totally new addition to the astronomical zoo. Observations indicate that the erupting star transformed itself over a period of months from a small under-luminous star a little hotter than the Sun, to a highly-luminous, cool supergiant star undergoing rapid and complex brightness changes. The transformation defies the conventional understanding of stellar life cycles. A most notable feature of V838 Mon is the \"expanding\" nebula which now appears to surround it. Seen above in two separate images from the South African Astronomical Observatory's 1 meter telescope, the nebula is probably a light echo from shells of formerly unseen material lost by the star during its previous evolution. Light-years in diameter, the shells progressively reflect the light from V838 Mon's outbursts, providing an opportunity to look back at the history of this remarkable star's behaviour.",
   "date": "2002-10-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0210/v838mon_crause.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0210/v838mon_crause_c1.jpg"
 }

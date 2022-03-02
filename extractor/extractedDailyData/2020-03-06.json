@@ -1,14 +1,10 @@
 {
   "title": "Mars Panorama from Curiosity",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, MSSS Explanation",
-    "NASA, JPL-Caltech, MSSS"
-  ],
+  "credit": "NASA, JPL-Caltech, MSSS",
   "explanation": "The Mars Rover named Curiosity recorded high-resolution, 360 degree views of its location on Mars late last year. The panoramic scene was stitched from over 1,000 images from Curiosity's Mast camera or Mastcam. In this version, captured with Mastcam's medium angle lens, the rover's deck and robotic arm are in the foreground, stretched and distorted by the extreme wide perspective. Just beyond the rover are regions of clay rich rock, evidence for an ancient watery environment, with a clear view toward more distant martian ridges and buttes. Gale crater wall runs across the center (toward the north) in the background over 30 kilometers in the distance. The upper reaches of Mt. Sharp are at the far right. Images to construct the panorama were recorded over 4 consecutive sols between local noon and 2pm to provide consistent lighting. Zoom in to the panoramic scene and you can easily spot the shadow casting sundial mounted on rover's deck (right). In July NASA plans to launch a new rover to Mars named Perseverance.",
   "date": "2020-03-06",
   "hdurl": "https://apod.nasa.gov/apod/image/2003/PIA23623_fig1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2003/PIA23623_fig1_600v.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Green Aurora Over Lake Superior",
-  "credit": [],
   "explanation": "What if your horizon was green? If you've got a camera, take a picture! That was the experience of Jeff Hapeman last week when visiting the Pictured Rocks National Lakeshore in Michigan. On a quiet night toward the northern horizon over Lake Superior was a long lasting diffuse green aurora. The above image was taken in an effort to capture the sense of wonder one gets when watching an auroral display. Auroras are sparked by energetic particles from the Sun impacting the magnetic environment around the Earth. Resultant energetic particles such as electrons and protons rain down near the Earth's poles and impact the air. The impacted air molecules temporarily lose electrons, and when oxygen molecules among them reacquire these electrons, they emit green light. Auroras are known to have many shapes and colors.",
   "date": "2006-09-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/aurora_hapeman_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jeff Hapeman Explanation",
-    "Jeff Hapeman"
-  ],
+  "copyright": "Jeff Hapeman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/aurora_hapeman.jpg"
 }

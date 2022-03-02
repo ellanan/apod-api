@@ -1,17 +1,11 @@
 {
   "title": "NGC 6302: The Butterfly Nebula",
-  "credit": [
-    "Credit: NASA, ESA, Hubble, HLA; Reprocessing & Copyright: Robert Eder Explanation",
-    "NASA, ESA, Hubble, HLA; Reprocessing & Copyright: Robert Eder"
-  ],
+  "credit": "NASA, ESA, Hubble, HLA; Reprocessing & Copyright: Robert Eder",
   "explanation": "The bright clusters and nebulae of planet Earth's night sky are often named for flowers or insects. Though its wingspan covers over 3 light-years, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the dying central star of this particular planetary nebula has become exceptionally hot, shining brightly in ultraviolet light but hidden from direct view by a dense torus of dust. This sharp close-up was recorded by the Hubble Space Telescope in 2009. The Hubble image data is reprocessed here, showing off the remarkable details of the complex planetary nebula. Cutting across a bright cavity of ionized gas, the dust torus surrounding the central star is near the center of this view, almost edge-on to the line-of-sight. Molecular hydrogen has been detected in the hot star's dusty cosmic shroud. NGC 6302 lies about 4,000 light-years away in the arachnologically correct constellation of the Scorpion (Scorpius).",
   "date": "2019-03-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1903/NGC6302_ButterflyNebula_NASA.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Eder Explanation",
-    "Robert Eder"
-  ],
+  "copyright": "Robert Eder",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1903/NGC6302_ButterflyNebula_NASA1024.jpg"
 }

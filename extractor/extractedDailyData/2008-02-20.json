@@ -1,14 +1,10 @@
 {
   "title": "Moon Slide Slim",
-  "credit": [],
   "explanation": "No special filters - or even a telescope - are required to enjoy a leisurely lunar eclipse. In fact, watched from all over the night side of planet Earth, these regular celestial performances have entertained many casual skygazers. Still, this eye-catching picture of a lunar eclipse may look unfamiliar. To make it, astroimager Stefan Seip set his camera on a tripod and locked the shutter open during the total lunar eclipse of March 3, 2007. The resulting image records the trail of the Moon (and narrower trails of stars) sliding through the night. Reddish hues common during the total phase of a lunar eclipse, are evident along the darker, slimmer portion of the Moon trail. At least part of tonight's lunar eclipse will be visible in clear skies over the Americas, Europe, Africa and western Asia. The eclipse lasts over three hours from start to finish, with about 50 minutes of totality. Tonight's eclipse is the last total lunar eclipse until December of 2010.",
   "date": "2008-02-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0802/moonslide_seip.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip (TWAN) Explanation",
-    "Stefan Seip (TWAN)"
-  ],
+  "copyright": "Stefan Seip (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0802/moonslide_seip_c800.jpg"
 }

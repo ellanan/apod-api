@@ -1,14 +1,10 @@
 {
   "title": "NGC 2261: Hubble's Variable Nebula",
-  "credit": [
-    "Credit: William Sparks (STScI), Sylvia Baggett (STScI) et al., & the Hubble Heritage Team (AURA/ STScI/ NASA) Explanation",
-    "William Sparks (STScI), Sylvia Baggett (STScI) et al., & the Hubble Heritage Team (AURA/ STScI/ NASA)"
-  ],
+  "credit": "William Sparks (STScI), Sylvia Baggett (STScI) et al., & the Hubble Heritage Team (AURA/ STScI/ NASA)",
   "explanation": "What causes Hubble's Variable Nebula to vary? The unusual nebula pictured above changes its appearance noticeably in just a few weeks. Discovered over 200 years ago and subsequently cataloged as NGC 2661, the remarkable nebula is named for Edwin Hubble, who studied it earlier this century. Hubble's Variable Nebula is a reflection nebula made of gas and fine dust fanning out from the star R Monocerotis. The faint nebula is about one light-year across and lies about 2500 light-years away towards the constellation of Monocerotis. A leading variability explanation for Hubble's Variable Nebula holds that dense knots of opaque dust pass close to R Mon and cast moving shadows onto the reflecting dust seen in the rest of the nebula.",
   "date": "1999-10-20",
   "hdurl": "https://apod.nasa.gov/apod/image/9910/hubblevarneb_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9910/hubblevarneb_hst.jpg"
 }

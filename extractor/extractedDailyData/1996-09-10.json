@@ -1,14 +1,10 @@
 {
   "title": "M77: Spiral with a Strange Glow",
-  "credit": [
-    "Credit: UIT, NASA Explanation",
-    "UIT, NASA"
-  ],
+  "credit": "UIT, NASA",
   "explanation": "",
   "date": "1996-09-10",
   "hdurl": "https://apod.nasa.gov/apod/image/m77_uit_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/m77_uit.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Slightly Above Mars Pathfinder",
-  "credit": [
-    "Credit: IMP Team, JPL, NASA Explanation",
-    "IMP Team, JPL, NASA"
-  ],
+  "credit": "IMP Team, JPL, NASA",
   "explanation": "If you could have hovered above the Pathfinder mission to Mars in 1997, this is what you might have seen. Directly below you is the control tower of Sagan Memorial Station. Three dark solar arrays extend out to collect valuable energy, surrounded by light-colored deflated airbags that protected Pathfinder's instruments from directly colliding with the rocky Martian surface. The left solar panel has ramps down which Pathfinder's rolling robot Sojourner started its adventure to nearby rocks. Sojourner itself is visible inspecting a rock nicknamed Yogi at 11 o'clock. Rocks cover the Martian surface, with Twin Peaks visible on the horizon at 9 0'clock. The distant sky is mostly orange. This image is a recently released digital combination of panoramic pictures taken by Pathfinder on Mars and a picture of a Lander scale model back on Earth. The Mars Pathfinder Mission was able to collect data for three months, sending back information that has indicated a wet distant past for Mars.",
   "date": "2000-09-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0009/marsdonut_mpf_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0009/marsdonut_mpf.jpg"
 }

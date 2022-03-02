@@ -1,14 +1,10 @@
 {
   "title": "The Glory",
-  "credit": [],
   "explanation": "Looking out the window of an airplane, you might be lucky enough to see \"the glory\" in the direction directly opposite the Sun. Before airplanes, the phenomenon, known to some as the heiligenschein or the Specter of the Brocken, was sometimes seen from mountaintops. There, when conditions were right, one could look away from the Sun and see what appeared to be the shadow of a giant surrounded by a bright halo. The giant turns out to be the observer, as in the modern version a silhouette of an plane frequently occupies the glory's center. Pictured above, several concentric rings of the glory were photographed. The cause of the glory has only been understood recently and is relatively complex. Briefly, small droplets of water reflect, refract, and diffract sunlight backwards towards the Sun. The phenomenon has similar counterparts in other branches of science including astronomy, where the looking out from the Earth in the direction opposite the Sun yields a bright spot called the gegenschein.",
   "date": "2002-04-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0204/glory_kaler_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: James B. Kaler (UIUC), Skylights Explanation",
-    "James B. Kaler (UIUC), Skylights"
-  ],
+  "copyright": "James B. Kaler (UIUC), Skylights",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0204/glory_kaler.jpg"
 }

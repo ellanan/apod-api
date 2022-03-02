@@ -1,14 +1,10 @@
 {
   "title": "Serene Paraselene",
-  "credit": [],
   "explanation": "Nestled in the Austrian Alps, frozen Lake Ossiach stretches across the foreground of this serene view. Recorded on March 1, the night sky includes a nearly full Moon and bright planet Saturn seen through thin clouds near picture center. It also includes a remarkably bright and colorful moondog or paraselene at the left. Analogous to a sundog or parhelion, the paraselene is produced by moonlight shining through thin, hexagonal-shaped ice crystals in high cirrus clouds. As determined by the ice crystal geometry, the Moon is 22 degrees from the lovely paraselene.",
   "date": "2010-04-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1004/paraselene_100301_ladanyi.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tamas Ladanyi (TWAN) Explanation",
-    "Tamas Ladanyi (TWAN)"
-  ],
+  "copyright": "Tamas Ladanyi (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1004/paraselene_100301_ladanyi900.jpg"
 }

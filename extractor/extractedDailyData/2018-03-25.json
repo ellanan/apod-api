@@ -1,14 +1,10 @@
 {
   "title": "Announcing Nova Carinae 2018",
-  "credit": [],
   "explanation": "How bright will Nova Carinae 2018 become? The new nova was discovered only last week. Although novas occur frequently throughout the universe, this nova, cataloged as ASASSN-18fv, is so unusually bright in the skies of Earth that it is now easily visible through binoculars in the southern hemisphere. Identified by the arrow, the nova occurs near the direction of the picturesque Carina Nebula. A nova is typically caused by a thermonuclear explosion on the surface of a white dwarf star that is accreting matter from a binary companion, although details of this outburst are currently unknown. Both professional and amateur astronomers will be monitoring this unusual stellar outburst in the coming weeks, looking to see how Nova Carinae 2018 evolves, including whether it becomes bright enough to be visible to the unaided eye.",
   "date": "2018-03-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1803/NovaCar18_Maury_1018.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: A. Maury & J. Fabrega Explanation",
-    "A. Maury & J. Fabrega"
-  ],
+  "copyright": "A. Maury & J. Fabrega",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1803/NovaCar18_Maury_960.jpg"
 }

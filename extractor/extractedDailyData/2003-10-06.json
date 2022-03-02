@@ -1,14 +1,10 @@
 {
   "title": "A Near Record Ozone Hole in 2003",
-  "credit": [
-    "Credit: SVS, TOMS, NASA Explanation",
-    "SVS, TOMS, NASA"
-  ],
+  "credit": "SVS, TOMS, NASA",
   "explanation": "As expected, the ozone hole near Earth's South Pole is back again this year. This year's hole, being slightly larger than North America, is larger than last year but short of the record set on 2000 September 10. Ozone is important because it shields us from damaging ultraviolet sunlight. Ozone is vulnerable, though, to CFCs and halons being released into the atmosphere. International efforts to reduce the use of these damaging chemicals appear to be having a positive effect on their atmospheric abundance. The relatively large size of the ozone hole this year, however, is attributed partly to colder than normal air in the surrounding stratosphere. The above picture of the ozone hole was taken on September 11 by TOMS on board the orbiting Earth Probe satellite.",
   "date": "2003-10-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0310/ozone030911_toms_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0310/ozone030911_toms.jpg"
 }

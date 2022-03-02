@@ -1,14 +1,10 @@
 {
   "title": "HETE-2 Rides Pegasus",
-  "credit": [
-    "Credit: Courtesy MIT, NASA Explanation",
-    "Courtesy MIT, NASA"
-  ],
+  "credit": "Courtesy MIT, NASA",
   "explanation": "The Stargazer, a modified Lockheed L-1011 aircraft, soared into the skies above Kwajalein Atoll in the pacific on October 9th. A small satellite observatory known as the High Energy Transient Explorer - 2 (HETE-2) was tucked into Stargazer's winged Pegasus rocket, slung beneath the large trimotor jet's fuselage. Dropped from its mother ship, the Pegasus then successfully flew HETE-2 into orbit. HETE-2's mission is to hunt gamma-ray bursts, brief, random flashes of high energy photons from the distant cosmos. Gamma-ray bursts are impressive, believed to be the most powerful explosions in the Universe, but so few have been well located and studied that the nature of the bursters themselves is still shrouded in mystery. HETE-2's x-ray and gamma-ray instruments will be able to rapidly alert ground-based observatories to point toward ongoing, bright gamma-ray bursts. Communications antennae and solar panels neatly folded, HETE-2 is seen here being carefully enclosed in the Pegasus nose fairing.",
   "date": "2000-10-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0010/hete2_prelaunch_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0010/hete2_prelaunch.jpg"
 }

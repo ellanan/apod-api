@@ -1,14 +1,10 @@
 {
   "title": "Sprite Fireworks",
-  "credit": [
-    "Credit: D. Sentman (U. Alaska) et al., EXL98 Campaign, AFRL, NRL, USAFA, NASA Explanation",
-    "D. Sentman (U. Alaska) et al., EXL98 Campaign, AFRL, NRL, USAFA, NASA"
-  ],
+  "credit": "D. Sentman (U. Alaska) et al., EXL98 Campaign, AFRL, NRL, USAFA, NASA",
   "explanation": "Sometimes lightning occurs out near space. One such lightning type is the recently documented red sprite lightning, which has only been photographed and studied on Earth over the last few years. The origins of all types of lightning remains unknown, and scientists are even trying to figure out why red sprite lightning occurs at all. What is known is that as some large, positive cloud-to-ground lightning strokes occur, millisecond flashes appearing red may also occur far above in the upper atmosphere. Pictured above, a group of red sprites was photographed at high resolution. Reasons for the observed complexities are being researched.",
   "date": "1999-06-16",
   "hdurl": "https://apod.nasa.gov/apod/image/9906/sprites_exl98.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9906/sprites_exl98_big.jpg"
 }

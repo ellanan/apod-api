@@ -1,14 +1,10 @@
 {
   "title": "Messier's Eleven",
-  "credit": [],
   "explanation": "This fifteen degree wide field of view stretches across the crowded starfields of Sagittarius toward the center of our Milky Way galaxy. In fact, the center of the galaxy lies near the right edge of the rich starscape and eleven bright star clusters and nebulae fall near the center of the frame. All eleven are numbered entries in the catalog compiled by 18th century cosmic tourist Charles Messier. Gaining celebrity status with skygazers, M8 (Lagoon), M16 (Eagle), M17 (Omega), and M20 (Trifid) show off the telltale reddish hues of emission nebulae associated with star forming regions. But also eye-catching in small telescopes are star clusters in the crowded region; M18, M21, M22, M23, M25, and M28. Broader in extent than the star clusters themselves, M24 is actually a cloud of the Milky Way's stars thousands of light-years long, seen through a break in the galaxy's veil of obscuring dust. You can put your cursor over the image (or click here) for help identifying Messier's eleven.",
   "date": "2013-07-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1307/20130706_elevenMessiers.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fernando Cabrerizo Explanation",
-    "Fernando Cabrerizo"
-  ],
+  "copyright": "Fernando Cabrerizo",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1307/20130706_elevenMessiers950.jpg"
 }

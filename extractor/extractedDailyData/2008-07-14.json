@@ -1,14 +1,10 @@
 {
   "title": "Changes in Angular Mars",
-  "credit": [],
   "explanation": "Does Mars always appear the same? No. As both Earth and Mars orbit the Sun, the apparent angular size of Mars changes as viewed from the Earth. Pictured above from Enschede, Holland, Mars was captured in 2007 and 2008 with 30 separate images, all taken with the same magnification. When Earth and Mars are on opposite sides of the Sun, Mars appears relatively small. Conversely, when Earth and Mars are near each other, Mars looms large and bright. The largest Mars has appeared in recent history was the opposition of August 2003. Since Mars is always more distant from the Sun than the Earth, Mars never shows a crescent phase to Earthlings. Visible also in the above images are the north polar cap of Mars, dark and light soil, clouds, and, in the early images, a global dust storm. The next opposition, when Earth again passes near to Mars, will occur in early 2010.",
   "date": "2008-07-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0807/mars0708_bosman_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Richard Bosman Explanation",
-    "Richard Bosman"
-  ],
+  "copyright": "Richard Bosman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0807/mars0708_bosman.jpg"
 }

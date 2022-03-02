@@ -1,14 +1,10 @@
 {
   "title": "Ultraviolet Earth from an Observatory on the Moon",
-  "credit": [
-    "Credit: G. Carruthers (NRL) et al., Far UV Camera, Apollo 16, NASA Explanation",
-    "G. Carruthers (NRL) et al., Far UV Camera, Apollo 16, NASA"
-  ],
+  "credit": "G. Carruthers (NRL) et al., Far UV Camera, Apollo 16, NASA",
   "explanation": "Which planet is this? Earth. The featured false color picture shows how the Earth shines in ultraviolet (UV) light. The image is historic because it was taken from the surface of the Moon by humanity's first lunar observatory. (Another is operating now.) Although very little UV light is transmitted through the Earth's atmosphere, what sunlight does make it through might cause a sunburn. The part of the Earth facing the Sun reflects much UV light, but perhaps more interesting is the side facing away from the Sun. Here bands of UV emission are the result of auroras and are caused by charged particles expelled by the Sun. Other planets showing auroras in the UV include Mars, Saturn, Jupiter, and Uranus.",
   "date": "2018-10-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1810/EarthUV_Apollo16_1719.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1810/EarthUV_Apollo16_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Comet Lovejoy: Sungrazing Survivor",
-  "credit": [
-    "Credit: LASCO, SOHO Consortium, NRL, ESA, NASA Explanation",
-    "LASCO, SOHO Consortium, NRL, ESA, NASA"
-  ],
+  "credit": "LASCO, SOHO Consortium, NRL, ESA, NASA",
   "explanation": "Like most other sungrazing comets, Comet Lovejoy (C/2011 W3) was not expected to survive its close encounter with the Sun. But it did. This image from a coronograph onboard the sun-staring SOHO spacecraft identifies the still inbound remnants of the tail, with the brilliant head or coma emerging from the solar glare on December 16. The Sun's position, behind an occulting disk to block the overwhelming glare, is indicated by the white circle. Separated from its tail, Comet Lovejoy's coma is so bright it saturates the camera's pixels creating the horizontal streaks. Based on their orbits, sungrazer comets are thought to belong to the Kreutz family of comets, created by successive break ups from a single large parent comet that passed very near the Sun in the twelfth century. Most have been discovered with SOHO's cameras, but unlike many sungrazers, this one was first spotted by Australian astronomer Terry Lovejoy from an earth-based observatory. Comet Lovejoy is estimated to have come within 120,000 kilometers of the Sun's surface and likely had a large cometary nucleus to have survived its intense perihelion passage. Remarkable videos of the encounter from the Solar Dynamics Observatory can be found here.",
   "date": "2011-12-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1112/Lovejoy_loses_tail.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1112/Lovejoy_loses_tail900.jpg"
 }

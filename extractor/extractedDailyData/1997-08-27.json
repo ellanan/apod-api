@@ -1,14 +1,10 @@
 {
   "title": "A Fleeting Eclipse",
-  "credit": [],
   "explanation": "A lunar eclipse can be viewed in a leisurely fashion. Visible to anyone on the night side of planet Earth (weather permitting), totality often lasts an hour or so as the moon glides through the Earth's shadow. But a solar eclipse is more fleeting. Totality can last a few minutes only for those fortunate enough to stand in the path of the Moon's shadow as it races across the Earth's surface. For the April 29, 1995 annular solar eclipse, photographer Olivier Staiger was standing in Macara, Ecuador under partially cloudy skies. Just before the maximum annular eclipse phase he recorded this dramatic moment as a bird flew near the sun. Very accurate predictions of eclipses have long been possible. The next solar eclipse will occur on September 2 and be visible from Australia, New Zealand, and Antarctica. The next lunar eclipse on September 16 will be visible from the Eastern Hemisphere.",
   "date": "1997-08-27",
   "hdurl": "https://apod.nasa.gov/apod/image/9708/eclipsebird_staiger.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Olivier Staiger Explanation",
-    "Olivier Staiger"
-  ],
+  "copyright": "Olivier Staiger",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9708/eclipsebird_staiger.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Water Ice At The Lunar Poles",
-  "credit": [
-    "Credit: Clementine Project, BMDO, NRL, LLNL Explanation",
-    "Clementine Project, BMDO, NRL, LLNL"
-  ],
+  "credit": "Clementine Project, BMDO, NRL, LLNL",
   "explanation": "After seven weeks in lunar orbit, instruments on board NASA's Lunar Prospector spacecraft have produced strong evidence for water ice on the Moon. While not in extensive sheets, this ice could be in the form of crystals, mixed in low concentrations with material in craters around the frigid North and South lunar poles. How much ice? So far, the estimates are from 10 to 300 million metric tons (about 3 to 90 billion gallons). The water ice is likely a result of meteoritic and cometary bombardment. Using very different instruments, the Star-Wars-technology Clementine spacecraft also detected telltale signs of ice as it orbited the Moon in 1994. Although the lunar samples returned by the Apollo missions suggested that the Moon was bone dry, the Clementine result sparked the controversy and hope that water ice might still be found - holding out the tantalizing possibility that a substantial reservoir of lunar water could be used to support human exploration. Above is a mosaic of Clementine images of the cratered terrain surrounding the Moon's North pole. Surprisingly, Lunar Prospector's data indicates that the North polar region contains about twice as much ice as the South. As Lunar Prospector's mission continues, further data will help determine more precisely the amount and distribution of the water ice.",
   "date": "1998-03-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9803/lunarnorth_clem_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9803/lunarnorth_clem.jpg"
 }

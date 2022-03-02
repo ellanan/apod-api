@@ -1,13 +1,9 @@
 {
   "title": "Simulation: A Disk Galaxy Forms",
-  "credit": [
-    "Credit: Fabio Governato et al. (U. Washington), N-Body Shop, NASA Advanced Supercomputing Explanation",
-    "Fabio Governato et al. (U. Washington), N-Body Shop, NASA Advanced Supercomputing"
-  ],
+  "credit": "Fabio Governato et al. (U. Washington), N-Body Shop, NASA Advanced Supercomputing",
   "explanation": "How do galaxies like our Milky Way form? Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out. Green depicts (mostly) hydrogen gas in the above movie, while time is shown in billions of years since the Big Bang on the lower right. Pervasive dark matter is present but not shown. As the simulation begins, ambient gas falls into and accumulates in regions of relatively high gravity. Soon numerous proto-galaxies form, spin, and begin to merge. After about four billion years, a well-defined center materializes that dominates a region about 100,000 light-years across and starts looking like a modern disk galaxy. After a few billion more years, however, this early galaxy collides with another, all while streams of gas from other mergers rain down on this strange and fascinating cosmic dance. As the simulation reaches half the current age of the universe, a single larger disk develops. Even so, gas blobs -- some representing small satellite galaxies -- fall into and become absorbed by the rotating galaxy as the present epoch is reached and the movie ends. For our Milky Way Galaxy, however, big mergers may not be over -- recent evidence indicates that our large spiral disk Galaxy will collide and coalesce with the slightly larger Andromeda spiral disk galaxy in the next few billion years.",
   "date": "2012-07-17",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/h9za1CP9ImA?rel=0"
 }

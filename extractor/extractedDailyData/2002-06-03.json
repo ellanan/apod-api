@@ -1,14 +1,10 @@
 {
   "title": "Galaxy NGC 4388 Expels Huge Gas Cloud",
-  "credit": [],
   "explanation": "Why are huge clouds of gas billowing from spiral galaxy NGC 4388? The extent of the gas clouds, over 100,000 light-years, was unexpected before the Subaru Telescope took the above image. NGC 4388 has a bright energetic nucleus and so is classified as an active galaxy. The spiral, relatively close by at 60 million light years, is a member of the nearest major cluster of galaxies: the Virgo Cluster. One hypothesis holds that the gas was stripped away as NGC 4388 made its way through the intergalactic medium of the Virgo Cluster. A competing hypothesis holds that the gas is all that remains of a smaller galaxy that was gravitationally deconstructed by the larger NGC 4388. Further observations may better determine NGC 4388's past and likely contribute to a better understanding of how galaxies evolve inside massive clusters.",
   "date": "2002-06-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0206/ngc4388_subaru_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Suprime-Cam, Subaru Telescope, NAOJ Explanation",
-    "Suprime-Cam, Subaru Telescope, NAOJ"
-  ],
+  "copyright": "Suprime-Cam, Subaru Telescope, NAOJ",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0206/ngc4388_subaru.jpg"
 }

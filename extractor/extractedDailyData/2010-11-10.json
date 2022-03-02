@@ -1,14 +1,10 @@
 {
   "title": "Huge Gamma Ray Bubbles Found Around Milky Way",
-  "credit": [
-    "Credit: NASA, DOE, Fermi Gamma-Ray Space Telescope, LAT detector, D. Finkbeiner et al. Explanation",
-    "NASA, DOE, Fermi Gamma-Ray Space Telescope, LAT detector, D. Finkbeiner et al."
-  ],
+  "credit": "NASA, DOE, Fermi Gamma-Ray Space Telescope, LAT detector, D. Finkbeiner et al.",
   "explanation": "Did you know that our Milky Way Galaxy has huge bubbles emitting gamma rays from the direction of the galactic center? Neither did anybody. As the data from the Earth-orbiting Fermi satellite began accumulating over the past two years, however, a large and unusual feature toward our Galaxy's center became increasingly evident. The two bubbles are visible together as the red and white spotted oval surrounding the center of the above all sky image, released yesterday. The plane of our Galaxy runs horizontally across the image center. Assuming the bubbles emanate from our Galaxy's center, the scale of the bubbles is huge, rivaling the entire Galaxy in size, and spanning about 50,000 light years from top to bottom. Earlier indications of the bubbles have been found on existing all sky maps in the radio, microwave, and X-ray. The cause of the bubbles is presently unknown, but will likely be researched for years to come.",
   "date": "2010-11-10",
   "hdurl": "https://apod.nasa.gov/apod/image/1011/bubble_fermi_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1011/bubble_fermi.jpg"
 }

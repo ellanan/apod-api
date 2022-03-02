@@ -1,14 +1,10 @@
 {
   "title": "SIRTF Streak",
-  "credit": [],
   "explanation": "Streaking skyward, a Boeing Delta 2-Heavy rocket carries NASA's Space InfraRed Telescope Facility (SIRTF) aloft during the early morning hours of August 25th. The dramatic scene was recorded in a time exposure from the pier in Jetty Park at the northern end of Cocoa Beach, Florida, about 2.5 miles from the Cape Canaveral launch site. SIRTF (sounds like \"sir tiff\") will explore the distant Universe in infrared light as the fourth and final satellite observatory in NASA's Great Observatories Program. The three other large astrophysics satellites were designed for higher energies in the electromagnetic spectrum, with the Hubble Space Telescope operating near visible wavelengths, the Compton Gamma Ray Observatory instruments sensitive to gamma rays, and the Chandra Observatory detecting cosmic x-rays. SIRTF has been launched into an Earth-trailing solar orbit to reduce its exposure to infrared radiation from our fair planet. Cooled by an on board supply of liquid helium, SIRTF's infrared detectors will operate at near absolute zero temperatures. Presently, SIRTF's systems are undergoing a 90-day check out.",
   "date": "2003-09-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0309/SIRTFstreak_cooper.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ben Cooper Explanation",
-    "Ben Cooper"
-  ],
+  "copyright": "Ben Cooper",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0309/SIRTFstreak_cooper.jpg"
 }

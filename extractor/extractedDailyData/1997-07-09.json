@@ -1,14 +1,10 @@
 {
   "title": "Sol 4: Mars Color Panorama",
-  "credit": [
-    "Credit: IMP Team, JPL, NASA Explanation",
-    "IMP Team, JPL, NASA"
-  ],
+  "credit": "IMP Team, JPL, NASA",
   "explanation": "These mosaicked images form a color panorama of the region immediately surrounding the Sagan Memorial Station on Mars. The most recent images were recorded on Sol 4 - the 4th day of operations on the martian surface. The composite view reveals the reddish soil and rock-strewn terrain of an ancient martian flood channel. At top panel left the unused forward rover deployment ramp is seen extending from the bottom of the frame while farther to the right the Sojourner rover is visible. The large dark looking rock at the top of the panel near the right-hand side is called \"Yogi\". The now famous martian rock, Barnacle Bill, is seen just to the left of the rover itself. Sojourner's analysis shows that Barnacle Bill is unexpectedly similar to common quartz containing volcanic rocks on Earth! In the bottom panel yellowish material from some of the airbags that were used during landing can be seen along with regions of the martian soil that have been disturbed by the retraction of the deflated airbags.",
   "date": "1997-07-09",
   "hdurl": "https://apod.nasa.gov/apod/image/9707/mars6_pathfinder_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9707/mars6a_pathfinder.jpg"
 }

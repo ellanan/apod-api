@@ -1,14 +1,10 @@
 {
   "title": "NGC 3314: When Galaxies Overlap",
-  "credit": [
-    "Credit: Hubble Legacy Archive, ESA, NASA; Processing - Martin Pugh Explanation",
-    "Hubble Legacy Archive, ESA, NASA; Processing - Martin Pugh"
-  ],
+  "credit": "Hubble Legacy Archive, ESA, NASA; Processing - Martin Pugh",
   "explanation": "NGC 3314 is actually two large spiral galaxies which just happen to almost exactly line up. The foreground spiral is viewed nearly face-on, its pinwheel shape defined by young bright star clusters. But against the glow of the background galaxy, dark swirling lanes of interstellar dust appear to dominate the face-on spiral's structure. The dust lanes are surprisingly pervasive, and this remarkable pair of overlapping galaxies is one of a small number of systems in which absorption of light from beyond a galaxy's own stars can be used to directly explore its distribution of dust. NGC 3314 is about 140 million light-years (background galaxy) and 117 million light-years (foreground galaxy) away in the multi-headed constellation Hydra. The background galaxy would span nearly 70,000 light-years at its estimated distance. A synthetic third channel was created to construct this dramatic new composite of the overlapping galaxies from two color image data in the Hubble Legacy Archive.",
   "date": "2011-07-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1107/NGC3314_HLApugh.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1107/NGC3314_HLApugh900c.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "ESO 184-G82: Supernova - Gamma Ray Burst Connection",
-  "credit": [
-    "Credit: S. Holland, J. Hjorth, J. Fynbo (Survey of Host Galaxies of GRBs Team), ESA, NASA Explanation",
-    "S. Holland, J. Hjorth, J. Fynbo (Survey of Host Galaxies of GRBs Team), ESA, NASA"
-  ],
+  "credit": "S. Holland, J. Hjorth, J. Fynbo (Survey of Host Galaxies of GRBs Team), ESA, NASA",
   "explanation": "Modern astronomers keep a long list of things that go bump in the night. Near the top are supernovae - the death explosions of massive stars, and gamma-ray bursts - the most powerful explosions seen across the Universe. Intriguingly, the galaxy in the above Hubble Space Telescope image may have been host to both a supernova and a gamma-ray burst which were one and the same event. ESO 184-G82 is a spiral galaxy with a prominent central bar and loose spiral arms dotted with bright star-forming regions. The inset shows an expanded view of one of the star-forming regions, about 300 light-years across. Indicated is the location of an extraordinarily powerful supernova explosion whose light first reached planet Earth on April 25, 1998. That location and date also correspond to the detection of an unusual gamma-ray burst, which may be representative of a peculiar class of these cosmic high-energy flashes. So far, this combination is unique and makes barred spiral ESO 184-G82, at a distance of only 100 million light-years, the closest known gamma-ray burst host galaxy.",
   "date": "2002-02-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0202/eso184-g82_c1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0202/eso184-g82_c3.jpg"
 }

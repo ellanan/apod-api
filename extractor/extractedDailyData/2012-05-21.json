@@ -1,14 +1,10 @@
 {
   "title": "A Close Pass of Saturn's Moon Dione",
-  "credit": [
-    "Credit: Cassini Imaging Team, ISS, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, ISS, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, ISS, JPL, ESA, NASA",
   "explanation": "What's that past Dione? When making its closest pass yet of Saturn's moon Dione late last year, the robotic Cassini spacecraft snapped this far-ranging picture featuring Dione, Saturn's rings, and the two small moons Epimetheus and Prometheus. The above image captures part of the heavily cratered snow-white surface of the 1,100 kilometer wide Dione, the thinness of Saturn's rings, and the comparative darkness of the smaller moon Epimetheus. The image was taken when Cassini was only about 100,000 kilometers from the large icy moon. Future events in Cassini's continuing exploration of Saturn and its moons include tomorrow's flyby of Titan and imaging the distant Earth passing behind Saturn in June.",
   "date": "2012-05-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1205/dionerings_cassini_1012.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1205/dionerings_cassini_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Active Region 1002 on an Unusually Quiet Sun",
-  "credit": [
-    "Credit: SOHO Consortium, EIT, ESA, NASA Explanation",
-    "SOHO Consortium, EIT, ESA, NASA"
-  ],
+  "credit": "SOHO Consortium, EIT, ESA, NASA",
   "explanation": "Why has the Sun been so quiet recently? No one is sure. Our Sun has shown few active regions -- that house even fewer associated sunspots -- for over a year now, and such a period of relative calm is quite unusual. What is well known is that our Sun is in a transitional period between solar cycles called a Solar Minimum, where solar activity has historically been reduced. The stark lack of surface tumult is unusual even during a Solar Minimum, however, and activity this low has not been seen for many decades. A few days ago, however, a bona-fide active region -- complete with sunspots --appeared and continues to rotate across the Sun's face. Visible above, this region, dubbed Active Region 1002 (AR 1002), was imaged in ultraviolet light yesterday by the SOHO spacecraft, which co-orbits the Sun near the Earth. Besides the tranquility on the Sun's surface, recent data from the Ulysses spacecraft, across the Solar System, indicate that the intensity of the solar wind blowing out from the Sun is at a fifty year low. Predictions hold, however, that our Sun will show more and more active regions containing more and more sunspots and flares until Solar Maximum occurs in about four years.",
   "date": "2008-09-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0809/sunspot1002_soho_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0809/sunspot1002_soho.jpg"
 }

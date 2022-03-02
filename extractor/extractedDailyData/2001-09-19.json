@@ -1,14 +1,10 @@
 {
   "title": "SIRTF: Name This Satellite",
-  "credit": [],
   "explanation": "NASA is preparing to launch its next Great Observatory in 2002, but it does not yet have a proper name. Can you help? Currently referred to only as the Space Infrared Telescope Facility (SIRTF), NASA seeks to add something more significant. Previously, NASA named its Great Observatories for scientists of the recent past, including the Hubble Space Telescope, the Compton Gamma Ray Observatory and the Chandra X-ray Observatory. SIRTF will be the most powerful infrared telescope ever launched, imaging everything from nearby planetary disks to distant galaxies. To enter the contest, one must conform to all rules including the submission of an essay of 250 words or less. The contest ends on December 20.",
   "date": "2001-09-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0109/sirtf_lmms.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Lockheed Martin Missiles & Space Explanation",
-    "Lockheed Martin Missiles & Space"
-  ],
+  "copyright": "Lockheed Martin Missiles & Space",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0109/sirtf_lmms_big.jpg"
 }

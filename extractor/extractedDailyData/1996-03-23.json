@@ -1,14 +1,10 @@
 {
   "title": "Comet Hyakutake's Past and Future",
-  "credit": [],
   "explanation": "",
   "date": "1996-03-23",
   "hdurl": "https://apod.nasa.gov/apod/image/hyakutake_20Mar_cvo_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Herman Mikuz, Crni Vrh Observatory, Slovenia Explanation",
-    "Herman Mikuz, Crni Vrh Observatory, Slovenia"
-  ],
+  "copyright": "Herman Mikuz, Crni Vrh Observatory, Slovenia",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hyakutake_20Mar_cvo.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Sextans A: A Seemingly Square Galaxy",
-  "credit": [
-    "Credit: S. D. Van Dyk (IPAC /Caltech) et al., KPNO 2.1-m Telescope, NOAO Explanation",
-    "S. D. Van Dyk (IPAC /Caltech) et al., KPNO 2.1-m Telescope, NOAO"
-  ],
+  "credit": "S. D. Van Dyk (IPAC /Caltech) et al., KPNO 2.1-m Telescope, NOAO",
   "explanation": "What's bothering local galaxy Sextans A? A small dwarf irregular galaxy spanning 5 thousand light years across, Sextans A is located only 5 million light-years away. Named for its home constellation of Sextans, the \"diamond in the rough\" structure relates to an ancient unknown event. 100 million years ago, something mysterious started a new wave of star formation in Sextans A's center. Massive short-lived stars exploded in supernovae that caused more star formation and yet more supernovae, ultimately resulting in an expanding shell. Today, young blue stars highlight areas and shell edges high in current star formation, a shell that from our perspective appears roughly square. In the above picture, a bright orange star in our own Milky Way Galaxy appears superposed in the foreground.",
   "date": "1998-11-03",
   "hdurl": "https://apod.nasa.gov/apod/image/9811/sextansa_kpno_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9811/sextansa_kpno.jpg"
 }

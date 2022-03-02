@@ -1,14 +1,10 @@
 {
   "title": "ULXs in M74",
-  "credit": [
-    "Credit: X-ray; J. Liu (U.Mich.) et al., CXC, NASA - Optical; T. Boroson (NOAO), AURA, NOAO, NSF Explanation",
-    "X-ray; J. Liu (U.Mich.) et al., CXC, NASA - Optical; T. Boroson (NOAO), AURA, NOAO, NSF"
-  ],
+  "credit": "X-ray; J. Liu (U.Mich.) et al., CXC, NASA - Optical; T. Boroson (NOAO), AURA, NOAO, NSF",
   "explanation": "In visual appearance, M74 is a nearly perfect face-on spiral galaxy, about 30 million light-years away toward the constellation Pisces. The red blotches seen in this composite view are ultraluminous x-ray sources (ULXs) mapped by the Chandra X-ray Observatory. The ULXs are so called because they actually do radiate 10 to 1,000 times more x-ray power than \"ordinary\" x-ray binary stars, which harbor a neutron star or stellar mass black hole. In fact, watching these ULXs change their x-ray brightness over periods of 2 hours or so, astronomers conclude that ULXs could well be intermediate mass black holes -- black holes with masses 10,000 times or so greater than the Sun, but still much less than the million solar mass black holes which lurk in the centers of large spiral galaxies. How did these intermediate mass black holes get there? One intriguing suggestion is that they are left over from the cores of much smaller galaxies that are merging with spiral galaxy M74.",
   "date": "2005-03-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0503/m74_cxcnoao_compx.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0503/m74_cxcnoao_compx.jpg"
 }

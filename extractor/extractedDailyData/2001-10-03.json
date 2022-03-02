@@ -1,14 +1,10 @@
 {
   "title": "The Planetary Nebula Show",
-  "credit": [
-    "Credit: Courtesy Adam Block (KPNO Visitor Program), NOAO, NSF Explanation",
-    "Courtesy Adam Block (KPNO Visitor Program), NOAO, NSF"
-  ],
+  "credit": "Courtesy Adam Block (KPNO Visitor Program), NOAO, NSF",
   "explanation": "What do the Owl, the Cat's Eye, the Ghost of Jupiter, and Saturn have in common? They're all planetary nebulae of course(!), glowing gaseous shrouds shed by dying sun-like stars as they run out of nuclear fuel. Beautiful to look at, the symmetric, planet-like shapes of these cosmic clouds, typically 1,000 times the size of our solar system, evoke their popular names. Flipping through digital pictures made by participants in the Kitt Peak National Observatory Visitor Center's Advanced Observing Program, astronomer Adam Block created this delightful animation. Ten different planetary nebula images are presented, each registered on the central star. In order, their catalog designations are NGC 1535, NGC 3242 (Ghost of Jupiter), NGC 6543 (Cat's Eye), NGC 7009 (Saturn Nebula), NGC 2438, NGC 6772, Abell 39, NGC 7139, NGC 6781, and M97 (Owl Nebula). This glorious final phase in the life of a star lasts only about 10,000 years.",
   "date": "2001-10-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0110/pn_block.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0110/pn_block.gif"
 }

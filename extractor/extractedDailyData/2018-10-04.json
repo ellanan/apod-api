@@ -1,14 +1,10 @@
 {
   "title": "Opportunity After the Storm",
-  "credit": [
-    "Credit: HiRISE, MRO, LPL (U. Arizona), NASA Explanation",
-    "HiRISE, MRO, LPL (U. Arizona), NASA"
-  ],
+  "credit": "HiRISE, MRO, LPL (U. Arizona), NASA",
   "explanation": "On Mars dust storms can't actually blow spacecraft over, but they can blot out the Sun. Over three months ago a planet-wide dust storm caused a severe lack of sunlight for the Mars rover Opportunity at its location near the west rim of Endeavour crater. The lack of sunlight sent the solar-powered Opportunity into hibernation and for over 115 sols controllers have not received any communication from the rover. The dust is clearing as the storm subsides though. On September 20th, when this image was taken by the Mars Reconnaissance Orbiter's HiRISE camera, about 25 percent of the sunlight was reaching the surface again. The white box marks a 47-meter-wide (154-foot-wide) area centered on a blip identified as the silent-for-now Opportunity rover.",
   "date": "2018-10-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1810/PIA22549_fig1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1810/PIA22549_fig1s.jpg"
 }

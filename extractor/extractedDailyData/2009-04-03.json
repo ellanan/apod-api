@@ -1,14 +1,10 @@
 {
   "title": "Around the World in 80 Telescopes",
-  "credit": [],
   "explanation": "Want to go on an extraordinary voyage? Today you can, by watching Around the World in 80 Telescopes. The 24-hour long webcast is organized by the European Southern Observatory for the International Year of Astronomy cornerstone project 100 Hours of Astronomy. As suggested in this astronomically intense composite, the webcast event follows night and day around the globe to visit some of the most advanced observatories on Earth and in space, exploring the universe in visible light and beyond. The Gemini North Telescope (Hawaii, USA) and the large observatories at the summit of volcanic Mauna Kea are scheduled for the first stops in the program beginning April 3 at 09:00 UT. Others on the schedule include the Swift Satellite and Fermi Gamma-ray Space Telescope, the Himalayan Chandra Telescope (Hanle, India), and the 10-meter South Pole Telescope and IceCube Neutrino Telescope (South Pole, Antarctica).",
   "date": "2009-04-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0904/atwi80t_christensen.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: ESO / 100 Hours of Astronomy Explanation",
-    "ESO / 100 Hours of Astronomy"
-  ],
+  "copyright": "ESO / 100 Hours of Astronomy",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0904/atwi80t_christensen_c800.jpg"
 }

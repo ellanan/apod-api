@@ -1,14 +1,10 @@
 {
   "title": "Caught in the Afterglow",
-  "credit": [
-    "Credit: ESO, L. Calçada - Research Team: Sandra Savaglio (MPE) et al. Explanation",
-    "ESO, L. Calçada - Research Team: Sandra Savaglio (MPE) et al."
-  ],
+  "credit": "ESO, L. Calçada - Research Team: Sandra Savaglio (MPE) et al.",
   "explanation": "In this artist's illustration, two distant galaxies formed about 2 billion years after the big bang are caught in the afterglow of GRB090323, a gamma-ray burst seen across the Universe. Shining through its own host galaxy and another nearby galaxy, the alignment of gamma-ray burst and galaxies was inferred from the afterglow spectrum following the burst's initial detection by the Fermi Gamma Ray Space Telescope in March of 2009. As seen by one of the European Southern Observatory's very large telescope units, the spectrum of the burst's fading afterglow also offered a surprising result - the distant galaxies are richer in heavy elements than the Sun, with the highest abundances ever seen in the early Universe. Heavy elements that enrich mature galaxies in the local Universe were made in past generations of stars. So these young galaxies have experienced a prodigious rate of star formation and chemical evolution compared to our own Milky Way. In the illustration, the light from the burst site at the left passes successively through the galaxies to the right. Spectra illustrating dark absorption lines of the galaxies' elements imprinted on the afterglow light are shown as insets. Of course, astronomers on planet Earth would be about 12 billion light-years off the right edge of the frame.",
   "date": "2011-11-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1111/eso1143a.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1111/eso1143b_900.jpg"
 }

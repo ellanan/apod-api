@@ -1,14 +1,10 @@
 {
   "title": "The Tarantula Zone",
-  "credit": [],
   "explanation": "The Tarantula Nebula is more than 1,000 light-years in diameter, a giant star forming region within our neighboring galaxy the Large Magellanic Cloud (LMC). That cosmic arachnid lies toward the upper left in this deep and colorful telescopic view made through broad-band and narrow-band filters. The image spans nearly 2 degrees (4 full moons) on the sky and covers a part of the LMC over 8,000 light-years across. Within the Tarantula (NGC 2070), intense radiation, stellar winds and supernova shocks from the central young cluster of massive stars, cataloged as R136, energize the nebular glow and shape the spidery filaments. Around the Tarantula are other violent star-forming regions with young star clusters, filaments, and bubble-shaped clouds In fact, the frame includes the site of the closest supernova in modern times, SN 1987A, just above center. The rich field of view is located in the southern constellation Dorado.",
   "date": "2014-06-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1406/Tarantula_HaOIIILRGB_lorenzi2500.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Marco Lorenzi Explanation",
-    "Marco Lorenzi"
-  ],
+  "copyright": "Marco Lorenzi",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1406/Tarantula_HaOIIILRGB_lorenzi950.jpg"
 }

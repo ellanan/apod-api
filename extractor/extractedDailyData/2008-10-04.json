@@ -1,14 +1,10 @@
 {
   "title": "A Solar Prominence Unfurls",
-  "credit": [
-    "Credit: STEREO Project, NASA Explanation",
-    "STEREO Project, NASA"
-  ],
+  "credit": "STEREO Project, NASA",
   "explanation": "On September 29, this magnificent eruptive solar prominence lifted away from the Sun's surface, unfurling into space over the course of several hours. Suspended in twisted magnetic fields, the hot plasma structure is many times the size of planet Earth and was captured in this view by the Sun-watching STEREO (Ahead) spacecraft. The image was recorded in extreme ultraviolet light emitted by ionized Helium, an element originally identified in the solar spectrum. Seen against the brilliant solar surface in visible light, such prominences appear as dark filaments because they are relatively cool. But they are bright themselves when viewed against the blackness of space, arcing above the Sun's edge. A video of the eruption (a 2.6MB .mov file) is available here.",
   "date": "2008-10-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0810/sunprominence_304erupt_crop.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0810/sunprominence_304erupt_crop800.jpg"
 }

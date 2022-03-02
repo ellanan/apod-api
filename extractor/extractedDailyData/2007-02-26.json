@@ -1,14 +1,10 @@
 {
   "title": "A Rocket Debris Cloud Drifts",
-  "credit": [],
   "explanation": "What's that cloud drifting in space? It's not an astronomical nebula -- those appear to stay put. Atmospheric clouds don't look like this. The answer to last week's sky mystery turned out to be orbiting and expanding debris from the upper stage of a failed Russian rocket that exploded unexpectedly. The cloud became visible to unaided southern hemisphere observers, and its cause was initially unknown. The above time lapse movie shows the cloud drifting as seen from Australia. Streaks in and near the cloud are likely large pieces of debris. The debris cloud is more than an astronomical curiosity -- particles from this cloud and others could become projectiles damaging existing satellites. As the cloud disperses, many particles will fall to Earth, but many more may help make low Earth orbit an increasingly hostile environment.",
   "date": "2007-02-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0702/debrismovie_mcnaught_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert H. McNaught Explanation",
-    "Robert H. McNaught"
-  ],
+  "copyright": "Robert H. McNaught",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0702/debrismovie_mcnaught.jpg"
 }

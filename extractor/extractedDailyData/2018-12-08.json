@@ -1,16 +1,10 @@
 {
   "title": "Tiny Planet Timelapse",
-  "credit": [
-    "Credit: Space Walk - Silent Partner Explanation",
-    "Space Walk - Silent Partner"
-  ],
+  "credit": "Space Walk - Silent Partner",
   "explanation": "You can pack a lot of sky watching into 30 seconds on this tiny planet. Of course, the full spherical image timelapse video was recorded on planet Earth, from Grande Pines Observatory outside Pinehurst, North Carolina. It was shot in early September with a single camera and circular fisheye lens, digitally combining one 24-hour period with camera and lens pointed up with one taken with camera and lens pointed down. The resulting image data is processed and projected onto a flat frame centered on the nadir, the point directly below the camera. Watch as clouds pass, shadows creep, and the sky cycles from day to night when stars swirl around the horizon. Keep watching, though. In a second sequence the projected center is the south celestial pole, planet Earth's axis of rotation below the tiny planet horizon. Holding the stars fixed, the horizon itself rotates as the tiny planet swings around the frame, hiding half the sky through day and night.",
   "date": "2018-12-08",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Brian Haidet - Music Credit: Space Walk - Silent Partner Explanation",
-    "Brian Haidet - Music Credit: Space Walk - Silent Partner"
-  ],
+  "copyright": "Brian Haidet - Music Credit: Space Walk - Silent Partner",
   "media_type": "video",
   "url": "https://www.youtube.com/embed/14TrSQQsrNM?rel=0"
 }

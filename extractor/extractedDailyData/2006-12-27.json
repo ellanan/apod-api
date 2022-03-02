@@ -1,14 +1,10 @@
 {
   "title": "IC 5067: Emission Nebula Close-up",
-  "credit": [],
   "explanation": "This amazing skyscape lies along a bright ridge of emission in IC 5067, also known as The Pelican Nebula. Appropriately, the Pelican Nebula itself is part of a much larger, complex star-forming region about 2,000 light-years away in the high flying constellation Cygnus, the Swan. Cosmic dust clouds that span light-years seem to rise like mountains in the mist in this natural color view, recorded through broadband filters to produce an analogy to human color vision. The fantastic shapes are sculpted by winds and radiation from a hot, massive stars and the dominant red emission is due to atomic hydrogen gas. Placing your cursor on the image will bring up a false color image of the nebula made through narrowband filters that also map specific emission from sulfur and oxygen atoms. The mapped color image reveals even more details of the cosmic clouds and their composition.",
   "date": "2006-12-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0612/ic5067_croman_natural.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Russell Croman Explanation",
-    "Russell Croman"
-  ],
+  "copyright": "Russell Croman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0612/ic5067_croman_natural720.jpg"
 }

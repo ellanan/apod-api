@@ -1,14 +1,10 @@
 {
   "title": "Saturn: Shadows of a Seasonal Sundial",
-  "credit": [
-    "Credit: Cassini Imaging Team, ISS, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, ISS, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, ISS, JPL, ESA, NASA",
   "explanation": "Saturn's rings form one of the larger sundials known. This sundial, however, determines only the season of Saturn, not the time of day. In 2009, during Saturn's last equinox, Saturn's thin rings threw almost no shadows onto Saturn, since the ring plane pointed directly toward the Sun. As Saturn continued in its orbit around the Sun, however, the ring shadows become increasingly wider and cast further south. These shadows are not easily visible from the Earth because from our vantage point near the Sun, the rings always block the shadows. The above image was taken in August by the robotic Cassini spacecraft currently orbiting Saturn. The rings themselves appear as a vertical bar on the image right. The Sun, far to the upper right, shines through the rings and casts captivatingly complex shadows on south Saturn, on the image left. Cassini has been exploring Saturn, its rings, and its moons since 2004, and is expected to continue until at least the maximum elongation of Saturn's shadows occurs in 2017.",
   "date": "2011-10-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1110/saturn9_cassini_1018.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1110/saturn9_cassini_900.jpg"
 }

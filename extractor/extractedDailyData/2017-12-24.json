@@ -1,14 +1,10 @@
 {
   "title": "SpaceX Rocket Launch Plume over California",
-  "credit": [],
   "explanation": "What's happened to the sky? On Friday, the photogenic launch plume from a SpaceX rocket launch created quite a spectacle over parts of southern California and Arizona. Looking at times like a giant space fish, the impressive rocket launch from Vandenberg Air Force Base near Lompoc, California, was so bright because it was backlit by the setting Sun. Lifting off during a minuscule one-second launch window, the Falcon 9 rocket successfully delivered to low Earth orbit ten Iridium NEXT satellites that are part of a developing global communications network. The plume from the first stage is seen on the right, while the soaring upper stage rocket is seen at the apex of the plume toward the left. Several good videos of the launch were taken. The featured image was captured from Orange County, California, in a 2.5 second duration exposure.",
   "date": "2017-12-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1712/SpaceXLaunch_Bobchin_5407.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Craig Bobchin Explanation",
-    "Craig Bobchin"
-  ],
+  "copyright": "Craig Bobchin",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1712/SpaceXLaunch_Bobchin_960.jpg"
 }

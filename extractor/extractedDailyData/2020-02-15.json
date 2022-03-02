@@ -1,17 +1,11 @@
 {
   "title": "Carina Nebula Close Up",
-  "credit": [
-    "Credit: NASA, ESA, Hubble, ESO, Amateur Data; Processing & Copyright: Robert Gendler & Roberto Colombari Explanation",
-    "NASA, ESA, Hubble, ESO, Amateur Data; Processing & Copyright: Robert Gendler & Roberto Colombari"
-  ],
+  "credit": "NASA, ESA, Hubble, ESO, Amateur Data; Processing & Copyright: Robert Gendler & Roberto Colombari",
   "explanation": "A jewel of the southern sky, the Great Carina Nebula, also known as NGC 3372, spans over 300 light-years, one of our galaxy's largest star forming regions. Like the smaller, more northerly Great Orion Nebula, the Carina Nebula is easily visible to the unaided eye, though at a distance of 7,500 light-years it is some 5 times farther away. This gorgeous telescopic close-up reveals remarkable details of the region's central glowing filaments of interstellar gas and obscuring cosmic dust clouds in a field of view nearly 20 light-years across. The Carina Nebula is home to young, extremely massive stars, including the still enigmatic and violently variable Eta Carinae, a star system with well over 100 times the mass of the Sun. In the processed composite of space and ground-based image data a dusty, two-lobed Homunculus Nebula appears to surround Eta Carinae itself just below and left of center. While Eta Carinae is likely on the verge of a supernova explosion, X-ray images indicate that the Great Carina Nebula has been a veritable supernova factory.",
   "date": "2020-02-15",
   "hdurl": "https://apod.nasa.gov/apod/image/2002/Eta-HST-ESO-New-LL.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler & Roberto Colombari Explanation",
-    "Robert Gendler & Roberto Colombari"
-  ],
+  "copyright": "Robert Gendler & Roberto Colombari",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2002/Eta-HST-ESO-New-LL1024.jpg"
 }

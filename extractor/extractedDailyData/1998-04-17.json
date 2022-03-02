@@ -1,14 +1,10 @@
 {
   "title": "Mars: Looking For Viking",
-  "credit": [
-    "Credit: Mars Global Surveyor Project, NASA Explanation",
-    "Mars Global Surveyor Project, NASA"
-  ],
+  "credit": "Mars Global Surveyor Project, NASA",
   "explanation": "On July 20, 1976, the Viking 1 lander touched down on the Martian Chryse Planitia. Its exact landing site is somewhere in the white rectangle above. Unfortunately, this wide angle Mars Global Surveyor image taken on April 12 reveals a substantial dust storm in the area with light colored plumes apparently blowing toward the upper right of the picture. Attempts to find the first spacecraft to land on Mars in the corresponding high resolution narrow field images have not been successful due in part to the increased atmospheric haze. The region shown here is about 100 miles across.",
   "date": "1998-04-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9804/vik1site1_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9804/vik1site1_mgs.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Eros From Orbit",
-  "credit": [
-    "Credit: NEAR Project, JHU APL, NASA Explanation",
-    "NEAR Project, JHU APL, NASA"
-  ],
+  "credit": "NEAR Project, JHU APL, NASA",
   "explanation": "On February 14th, the NEAR spacecraft became the first artificial moon of an asteroid. Captured by the gentle gravity of a 20 mile long slipper-shaped mountain of rock, NEAR recorded this premier image while orbiting asteroid 433 Eros at a distance of about 200 miles. The image shows features as small as 100 feet across in a view dominated by a 3 mile wide crater near Eros' narrow waist. Enticing layers and grooves are visible within the crater rim along with an enormous 170 foot boulder lying on the crater floor (near picture center). Although Eros is a large S-type near-earth asteroid, it is still not massive enough for its own gravity to have shaped it into a planet-like spherical form. By comparison, Eros has less than a thousandth Earth's gravity, so a 100 pound object on Earth would weigh about 1 ounce on Eros. A baseball thrown at 22 miles per hour would completely escape into space. The weak gravity and irregular shape make orbiting Eros a delicate challenge for NEAR's controllers who plan a year long exploration program with possible close approaches to the asteroid's surface.",
   "date": "2000-02-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0002/erosorbit1_near_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0002/erosorbit1_near.jpg"
 }

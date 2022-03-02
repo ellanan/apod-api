@@ -1,14 +1,10 @@
 {
   "title": "Planetary Systems Now Forming in Orion",
-  "credit": [
-    "Credit: NASA, ESA, M. Robberto (STScI/ESA), the HST Orion Treasury Project Team, & L. Ricci (ESO) Explanation",
-    "NASA, ESA, M. Robberto (STScI/ESA), the HST Orion Treasury Project Team, & L. Ricci (ESO)"
-  ],
+  "credit": "NASA, ESA, M. Robberto (STScI/ESA), the HST Orion Treasury Project Team, & L. Ricci (ESO)",
   "explanation": "How do planets form? To help find out, the Hubble Space Telescope was tasked to take a detailed look at one of the more interesting of all astronomical nebulae, the Great Nebula in Orion. The Orion nebula, visible with the unaided eye near the belt in the constellation of Orion, is an immense nearby starbirth region and probably the most famous of all astronomical nebulas. Insets to the above mosaic show numerous proplyds, many of which are stellar nurseries likely harboring planetary systems in formation. Some proplyds glow as close disks surrounding bright stars light up, while other proplyds contain disks further from their host star, contain cooler dust, and hence appear as dark silhouettes against brighter gas. Studying this dust, in particular, is giving insight for how planets are forming. Many proplyd images also show arcs that are shock waves - fronts where fast moving material encounters slow moving gas. The Orion Nebula lies about 1,500 light years distant and is located in the same spiral arm of our Galaxy as our Sun.",
   "date": "2009-12-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0912/orionproplyds_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0912/orionproplyds_hst.jpg"
 }

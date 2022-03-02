@@ -1,14 +1,10 @@
 {
   "title": "4,000 Kilometers Above Saturn's Iapetus",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What does the surface of Saturn's mysterious moon Iapetus look like? To help find out, the robotic Cassini spacecraft now orbiting Saturn was sent soaring last week just 2,000 kilometers from the unique equatorial ridge of the unusual walnut-shaped two-toned moon. The above image from Cassini is from about 4,000 kilometers out and allows objects under 100-meters across to be resolved. Cassini found an ancient and battered landscape of craters, sloping hills, and mountains as high as 10 kilometers and so rival the 8.8-kilometer height of Mt. Everest on Earth. Just above the center of this image is a small bright patch where an impacting rock might have uncovered deep clean water ice. Space scientists will be studying flyby images like this for clues to the origin of Iapetus' unusual shape and coloring with particular emphasis because no more close flybys of the enigmatic world are planned.",
   "date": "2007-09-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0709/iapetusterrain_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0709/iapetusterrain_cassini.jpg"
 }

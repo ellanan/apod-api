@@ -1,14 +1,10 @@
 {
   "title": "Emerging Planetary Nebula CRL 618",
-  "credit": [
-    "Credit: Susan R. Trammell (UNC Charlotte) et al., ESAIC, HST, ESA, NASA Explanation",
-    "Susan R. Trammell (UNC Charlotte) et al., ESAIC, HST, ESA, NASA"
-  ],
+  "credit": "Susan R. Trammell (UNC Charlotte) et al., ESAIC, HST, ESA, NASA",
   "explanation": "",
   "date": "2000-09-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0009/crl618_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0009/crl618_hst.jpg"
 }

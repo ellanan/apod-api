@@ -1,14 +1,10 @@
 {
   "title": "Spicules: Jets on the Sun",
-  "credit": [
-    "Credit: SST, Royal Swedish Academy of Sciences, LMSAL Explanation",
-    "SST, Royal Swedish Academy of Sciences, LMSAL"
-  ],
+  "credit": "SST, Royal Swedish Academy of Sciences, LMSAL",
   "explanation": "Imagine a pipe as wide as a state and as long as half the Earth. Now imagine that this pipe is filled with hot gas moving 50,000 kilometers per hour. Further imagine that this pipe is not made of metal but a transparent magnetic field. You are envisioning just one of thousands of young spicules on the active Sun. Pictured above is perhaps the highest resolution image yet of these enigmatic solar flux tubes. Spicules dot the above frame of solar active region 10380 that crossed the Sun in 2004 June, but are particularly evident as a carpet of dark tubes on the right. Time-sequenced images have recently shown that spicules last about five minutes, starting out as tall tubes of rapidly rising gas but eventually fading as the gas peaks and falls back down to the Sun. These images also indicate that the ultimate cause of spicules is sound-like waves that flow over the Sun's surface but leak into the Sun's atmosphere.",
   "date": "2008-11-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/spicules_sst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/spicules_sst.jpg"
 }

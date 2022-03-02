@@ -1,14 +1,10 @@
 {
   "title": "The Color of IC 1795",
-  "credit": [],
   "explanation": "This sharp cosmic portrait features glowing gas and obscuring dust clouds in IC 1795, a star forming region in the northern constellation Cassiopeia. Also cataloged as NGC 896, the nebula's remarkable details, shown in its dominant red color, were captured using a sensitive camera, and long exposures that include image data from a narrowband filter. The narrow filter transmits only H-alpha light, the red light of hydrogen atoms. Ionized by ultraviolet light from energetic young stars, a hydrogen atom emits the characteristic H-alpha light as its single electron is recaptured and transitions to lower energy states. Not far on the sky from the famous Double Star Cluster in Perseus, IC 1795 is itself located next to IC 1805, the Heart Nebula, as part of a complex of star forming regions that lie at the edge of a large molecular cloud. Located just over 6,000 light-years away, the larger star forming complex sprawls along the Perseus spiral arm of our Milky Way Galaxy. At that distance, this picture would span about 70 light-years across IC 1795.",
   "date": "2011-10-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1110/Ngc896dBig_fera.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Bob and Janice Fera (Fera Photography) Explanation",
-    "Bob and Janice Fera (Fera Photography)"
-  ],
+  "copyright": "Bob and Janice Fera (Fera Photography)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1110/Ngc896dBig_fera900c.jpg"
 }

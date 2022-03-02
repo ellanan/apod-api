@@ -1,14 +1,10 @@
 {
   "title": "Shocked by Supernova 1987a",
-  "credit": [
-    "Credit: P. Garnavich (Harvard CfA), WFPC2, HST, NASA Explanation",
-    "P. Garnavich (Harvard CfA), WFPC2, HST, NASA"
-  ],
+  "credit": "P. Garnavich (Harvard CfA), WFPC2, HST, NASA",
   "explanation": "Eleven years ago the brightest supernova of modern times was recorded. Now the expanding debris from this tremendous stellar explosion is seen to be crashing into previously expelled material. The onset of this collision is shown by the arrow in the above picture as the yellow spot on the interior of the ring. Although the collision is occurring at speeds near 60 million km/hour, it will appear to take years due to the vast distances involved. As the supernova blast wave moves out, it shock-heats any gas it encounters, causing it to glow. Astronomers are thus hopeful that the blast wave will illuminate the interesting past of SN 1987a, and perhaps provide more clues about the origins of the mysterious rings.",
   "date": "1998-02-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9802/sn87aknot_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9802/sn87aknot_hst.jpg"
 }

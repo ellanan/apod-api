@@ -1,14 +1,10 @@
 {
   "title": "The High Energy Crab Nebula",
-  "credit": [
-    "Credit: G. Hennessy (USNO) et al., UIT, NASA Explanation",
-    "G. Hennessy (USNO) et al., UIT, NASA"
-  ],
+  "credit": "G. Hennessy (USNO) et al., UIT, NASA",
   "explanation": "This is the mess that is left when a star explodes. The Crab Nebula is so energetic that it glows in every kind of light known. Shown above are images of the Crab Nebula from visible light to the X-ray band. NUV stands for \"near ultraviolet\" light, FUV means \"far ultraviolet\" light, and VIS means visible light. In the center of the Crab Nebula lies the powerful Crab pulsar - a spinning neutron star with mass comparable to our Sun but with the diameter of only a small town. The pulsar expels particles and radiation in a beam that sweeps past the Earth 30 times a second. The supernova that created the Crab Nebula was seen by ancient Chinese astronomers and possibly even the Anasazi Indians -- in 1054 AD, perhaps glowing for a week as bright as the full moon. The Crab still presents mysteries today as the total mass of the nebula and pulsar appears much less than the mass of the original pre-supernova star!",
   "date": "1998-11-22",
   "hdurl": "https://apod.nasa.gov/apod/image/crab_4wav_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/crab_4wav.gif"
 }

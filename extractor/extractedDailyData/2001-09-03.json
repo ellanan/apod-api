@@ -1,14 +1,10 @@
 {
   "title": "The Making of the Rotten Egg Nebula",
-  "credit": [
-    "Credit: V. Bujarrabal (OAN, Spain), WFPC2, HST, ESA, NASA Explanation",
-    "V. Bujarrabal (OAN, Spain), WFPC2, HST, ESA, NASA"
-  ],
+  "credit": "V. Bujarrabal (OAN, Spain), WFPC2, HST, ESA, NASA",
   "explanation": "Fast expanding gas clouds mark the end for a central star in the Rotten Egg Nebula. The once-normal star has run out of nuclear fuel, causing the central regions to contract into a white dwarf. Some of the liberated energy causes the outer envelope of the star to expand. In this case, the result is a photogenic proto- planetary nebula. As the million-kilometer per hour gas rams into the surrounding interstellar gas, a supersonic shock front forms where ionized hydrogen and nitrogen glow blue. The complex shock front had been hypothesized previously but never so clearly imaged. Thick gas and dust hide the dying central star. The Rotten Egg Nebula, also known as the Calabash Nebula and OH231.8+4.2, will likely develop into a full bipolar planetary nebula over the next 1000 years. The nebula, pictured above, is about 1.4 light-years in extent and located about 5000 light-years away toward the constellation of Puppis.",
   "date": "2001-09-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0109/rottenegg2_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0109/rottenegg2_hst.jpg"
 }

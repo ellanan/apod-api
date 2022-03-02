@@ -1,14 +1,10 @@
 {
   "title": "Pluto Resolved",
-  "credit": [],
   "explanation": "New Horizons has survived its close encounter with Pluto and has resumed sending back images and data. The robotic spacecraft reported back on time, with all systems working, and with the expected volume of data stored. Featured here is the highest resolution image of Pluto taken before closest approach, an image that really brings Pluto into a satisfying focus. At first glance, Pluto is reddish and has several craters. Toward the image bottom is a surprisingly featureless light-covered region that resembles an iconic heart, and mountainous terrain appears on the lower right. This image, however, is only the beginning. As more images and data pour in today, during the coming week, and over the next year, humanity's understanding of Pluto and its moons will likely become revolutionized.",
   "date": "2015-07-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1507/Pluto04_NewHorizons_1042.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: NASA, Johns Hopkins Univ./APL, Southwest Research Inst. Explanation",
-    "NASA, Johns Hopkins Univ./APL, Southwest Research Inst."
-  ],
+  "copyright": "NASA, Johns Hopkins Univ./APL, Southwest Research Inst.",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1507/Pluto04_NewHorizons_960.jpg"
 }

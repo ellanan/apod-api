@@ -1,14 +1,10 @@
 {
   "title": "NGC 1365: A Nearby Barred Spiral Galaxy",
-  "credit": [
-    "Credit: FORS Team, 8.2-meter VLT Antu, ESO Explanation",
-    "FORS Team, 8.2-meter VLT Antu, ESO"
-  ],
+  "credit": "FORS Team, 8.2-meter VLT Antu, ESO",
   "explanation": "Many spiral galaxies have bars across their centers. Even our own Milky Way Galaxy is thought to have a bar, but perhaps not so prominent as the one in NGC 1365, shown above. The persistence and motion of the bar imply relatively massive spiral arms. The placements of bright young blue stars and dark dust lanes also indicate a strong rotating density wave of star formation. NGC 1365 is a member of the Fornax Cluster of Galaxies. Because NGC 1365 is relatively nearby, simultaneous measurements of its speed and distance are possible, which help astronomers estimate how fast our universe is expanding.",
   "date": "2003-04-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0304/ngc1365_vlt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0304/ngc1365_vlt.jpg"
 }

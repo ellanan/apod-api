@@ -1,14 +1,10 @@
 {
   "title": "Galaxy Wars: M81 and M82",
-  "credit": [],
   "explanation": "These two galaxies are far far away, 12 million light-years distant toward the northern constellation of the Great Bear. On the left, with grand spiral arms and bright yellow core is spiral galaxy M81, some 100,000 light-years across. On the right marked by red gas and dust clouds, is irregular galaxy M82. The pair have been locked in gravitational combat for a billion years. Gravity from each galaxy has profoundly affected the other during a series of cosmic close encounters. Their last go-round lasted about 100 million years and likely raised density waves rippling around M81, resulting in the richness of M81's spiral arms. M82 was left with violent star forming regions and colliding gas clouds so energetic the galaxy glows in X-rays. In the next few billion years, their continuing gravitational encounters will result in a merger, and a single galaxy will remain.",
   "date": "2020-05-15",
   "hdurl": "https://apod.nasa.gov/apod/image/2005/M81-82.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dietmar Hager, Torsten Grossmann Explanation",
-    "Dietmar Hager, Torsten Grossmann"
-  ],
+  "copyright": "Dietmar Hager, Torsten Grossmann",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2005/M81-82_1024.jpg"
 }

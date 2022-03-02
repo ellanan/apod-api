@@ -1,14 +1,10 @@
 {
   "title": "Extra-Solar Planetary Atmosphere Detected",
-  "credit": [
-    "Credit: Greg Bacon (STScI/AVL) Explanation",
-    "Greg Bacon (STScI/AVL)"
-  ],
+  "credit": "Greg Bacon (STScI/AVL)",
   "explanation": "By directly detecting the atmosphere of a planet outside our Solar System, humanity has taken another small step toward finding extraterrestrial life. The unexpected detection by David Charbonneau (Caltech) and associates came from Hubble Space Telescope observations of Sun-like star HD 209458. As an orbiting planet crossed between that star and the Earth, sodium in the planet's atmosphere absorbed starlight at very specific colors. The planet, originally discovered two years ago, has about 70 percent the mass of Jupiter but orbits very close in. A long-term goal of this type of research is the detection of planetary biomarkers that would indicate life, such as oxygen, water, or methane.",
   "date": "2001-11-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0111/hd209458_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0111/hd209458_hst.jpg"
 }

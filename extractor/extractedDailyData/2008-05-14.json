@@ -1,14 +1,10 @@
 {
   "title": "A Supply Ship Docks with the International Space Station",
-  "credit": [
-    "Credit: ISS Expedition 16 Crew, NASA Explanation",
-    "ISS Expedition 16 Crew, NASA"
-  ],
+  "credit": "ISS Expedition 16 Crew, NASA",
   "explanation": "Looking out a window of the International Space Station brings breathtaking views. Visible vistas include a vast and colorful Earth, a deep dark sky, and an occasional spaceship sent to visit the station. Visible early last month was a Soyuz TMA-12 spacecraft carrying not only supplies but also three newcomers. The three new astronauts were Expedition 17 commander Sergei Volkov, flight engineer Oleg Kononenko, and spaceflight participant So-yeon Yi. Yi returned to Earth a few days later, while Volkov and Konenenko are scheduled to return in a few months. The docking module pictured above involved the Pirs Docking Compartment. The Expedition 17 crew, including NASA flight engineer Gregory Chamitoff, will carry out repairs on the ISS, explore new methods of living in space, and conduct research in space including the effects of space radiation on vitamin molecules.",
   "date": "2008-05-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0805/soyuzdock_iss16_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0805/soyuzdock_iss16.jpg"
 }

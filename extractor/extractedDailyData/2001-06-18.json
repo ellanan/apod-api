@@ -1,14 +1,10 @@
 {
   "title": "NGC 4755: A Jewel Box of Stars",
-  "credit": [],
   "explanation": "The great variety of star colors in this open cluster underlies its name: The Jewel Box. One of the bright central stars is a red supergiant, in contrast to the many blue stars that surround it. The cluster, also known as Kappa Crucis contains just over 100 stars, and is about 10 million years old. Open clusters are younger, contain few stars, and contain a much higher fraction of blue stars than do globular clusters. This Jewel Box lies about 7500 light-years away, so the light that we see today was emitted from the cluster before even the Great Pyramids in Egypt were built. The Jewel Box, pictured above, spans about 20 light-years, and can be seen with binoculars towards the southern constellation of Crux.",
   "date": "2001-06-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0106/jewelbox_bessell_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Bessell (RSAA, ANU), MSO Explanation",
-    "Michael Bessell (RSAA, ANU), MSO"
-  ],
+  "copyright": "Michael Bessell (RSAA, ANU), MSO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0106/jewelbox_bessell.jpg"
 }

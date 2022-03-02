@@ -1,14 +1,10 @@
 {
   "title": "Hickson Compact Group 40",
-  "credit": [
-    "Credit: CISCO, Subaru 8.3-m Telescope, NAOJ Explanation",
-    "CISCO, Subaru 8.3-m Telescope, NAOJ"
-  ],
+  "credit": "CISCO, Subaru 8.3-m Telescope, NAOJ",
   "explanation": "Galaxies, like stars, frequently form groups. A group of galaxies is a system containing more than two galaxies but less than the tens or hundreds typically found in a cluster of galaxies. A most notable example is the Local Group of Galaxies, which houses over 30 galaxies including our Milky Way, Andromeda, and the Magellanic Clouds. Pictured above is nearby compact group Hickson 40. This group is located about 300 million light-years away toward the constellation of Hydra. Of the five prominent galaxies in Hickson 40, three are spirals, one is an elliptical and one is a lenticular. Many galaxies in compact groups are either slowly merging or gravitationally pulling each other apart.",
   "date": "1999-02-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9902/hickson40_subaru_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9902/hickson40_subaru.jpg"
 }

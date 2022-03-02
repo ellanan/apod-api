@@ -1,14 +1,10 @@
 {
   "title": "Abell 2218: A Galaxy Cluster Lens",
-  "credit": [
-    "Credit: NASA, HST, WFPC2, W. Couch (UNSW) Explanation",
-    "NASA, HST, WFPC2, W. Couch (UNSW)"
-  ],
+  "credit": "NASA, HST, WFPC2, W. Couch (UNSW)",
   "explanation": "",
   "date": "1995-07-10",
   "hdurl": "https://apod.nasa.gov/apod/image/a2218lens_hst.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/a2218lens_hst.gif"
 }

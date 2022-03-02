@@ -1,14 +1,10 @@
 {
   "title": "A Milky Way Shadow at Loch Ard Gorge",
-  "credit": [],
   "explanation": "Have you ever seen the Milky Way's glow create shadows? To do so, conditions need to be just right. First and foremost, the sky must be relatively clear of clouds so that the long band of the Milky Way's central disk can be seen. The surroundings must be very near to completely dark, with no bright artificial lights visible anywhere. Next, the Moon cannot be anywhere above the horizon, or its glow will dominate the landscape. Last, the shadows can best be caught on long camera exposures. In the above image taken in Port Campbell National Park, Victoria, Australia, seven 15-second images of the ground and de-rotated sky were digitally added to bring up the needed light and detail. In the foreground lies Loch Ard Gorge, named after a ship that tragically ran aground in 1878. The two rocks pictured are the remnants of a collapsed arch and are named Tom and Eva after the only two people who survived that Loch Ard ship wreck. A close inspection of the water just before the rocks will show reflections and shadows in light thrown by our Milky Way galaxy. Low clouds are visible moving through the serene scene in this movie.",
   "date": "2010-08-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1008/mwshadow_cherney_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alex Cherney (Terrastro) Explanation",
-    "Alex Cherney (Terrastro)"
-  ],
+  "copyright": "Alex Cherney (Terrastro)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1008/mwshadow_cherney.jpg"
 }

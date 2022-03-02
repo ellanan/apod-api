@@ -1,14 +1,10 @@
 {
   "title": "Shadow Of A Comet",
-  "credit": [
-    "Credit: SWAN Team, SOHO, ESA, NASA Explanation",
-    "SWAN Team, SOHO, ESA, NASA"
-  ],
+  "credit": "SWAN Team, SOHO, ESA, NASA",
   "explanation": "Hale-Bopp, the Great Comet of 1997, may have been the most viewed comet in history - visible even from bright metropolitan skies. Astronomers are now reporting that this magnificent comet also cast a shadow against the glare of the solar system's ultraviolet haze. This false-color image represents a slice of the sky viewed by the SWAN (Solar Wind ANisotropy) instrument aboard the space-based SOHO observatory. Recorded on March 8, 1997 it shows a general haze of solar ultraviolet light scattered by interstellar hydrogen. The sun itself is positioned below the bottom center of the cropped image and the large bright spot is ultraviolet sunlight scattered by the cloud of hydrogen gas surrounding Hale-Bopp's nucleus. Just above and to the left is a broad, diffuse, dark streak - the 150 million kilometer long shadow produced by the denser regions of this hydrogen envelope. Why are comets surrounded by hydrogen? The hydrogen comes from the breakup of water (H20) vapor released as the comet nucleus approaches the sun. These observations indicate that Hale-Bopp's nucleus was producing about 300 tons of water per second.",
   "date": "1999-07-02",
   "hdurl": "https://apod.nasa.gov/apod/image/9907/swan_hbshadow_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9907/swan_hbshadow.jpg"
 }

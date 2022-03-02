@@ -1,14 +1,10 @@
 {
   "title": "Star Cluster R136 Bursts Out",
-  "credit": [
-    "Credit: NASA, ESA, & F. Paresce (INAF-IASF), R. O'Connell (U. Virginia), & the HST WFC3 Science Oversight Committee Explanation",
-    "NASA, ESA, & F. Paresce (INAF-IASF), R. O'Connell (U. Virginia), & the HST WFC3 Science Oversight Committee"
-  ],
+  "credit": "NASA, ESA, & F. Paresce (INAF-IASF), R. O'Connell (U. Virginia), & the HST WFC3 Science Oversight Committee",
   "explanation": "In the center of star-forming region 30 Doradus lies a huge cluster containing some of the largest, hottest, and most massive stars known. These stars, known collectively as star cluster R136, were captured in the featured image in visible light by the Wide Field Camera 3 in 2009 peering through the Hubble Space Telescope. Gas and dust clouds in 30 Doradus, also known as the Tarantula Nebula, have been sculpted into elongated shapes by powerful winds and ultraviolet radiation from these hot cluster stars. The 30 Doradus Nebula lies within a neighboring galaxy known as the Large Magellanic Cloud and is located a mere 170,000 light-years away.",
   "date": "2016-01-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1601/30dor_hubble_3939.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1601/30dor_hubble_960.jpg"
 }

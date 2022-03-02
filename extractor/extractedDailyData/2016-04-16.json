@@ -1,14 +1,10 @@
 {
   "title": "Heliopause Electrostatic Rapid Transit System",
-  "credit": [
-    "Credit: NASA, Marshall Space Flight Center Explanation",
-    "NASA, Marshall Space Flight Center"
-  ],
+  "credit": "NASA, Marshall Space Flight Center",
   "explanation": "Want to take a fast trip to the edge of the Solar System? Consider a ride on a Heliopause Electrostatic Rapid Transit System (HERTS). The concept is currently being tested and it might take only 10 to 15 years to make the trip of over 100 Astronomical Units (15 billion kilometers). That's fast compared to the 35 years it took Voyager 1, presently humanity's most distant spacecraft, to approach the heliopause or outer boundary of the influence of the solar wind. HERTS would use an advanced electric solar sail that works by extending multiple, 20 kilometer or so long, 1 millimeter thin, positively charged wires from a rotating spacecraft. The electrostatic force generated repels fast moving solar wind protons to create thrust. Compared to a reflective solar light sail, another propellantless deep space propulsion system, the electric solar wind sail could continue to accelerate at greater distances from the Sun, still developing thrust as it cruised toward the outer planets.",
   "date": "2016-04-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1604/herts_2015_graphic_0.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1604/herts_2015_graphic_0.jpg"
 }

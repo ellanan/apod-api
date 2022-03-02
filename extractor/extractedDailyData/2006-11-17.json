@@ -1,14 +1,10 @@
 {
   "title": "Hand Drawn Transit",
-  "credit": [],
   "explanation": "The sight of Mercury's tiny round disk drifting slowly across the face of the Sun inspired and entertained many denizens of planet Earth last week. In fact, artist and astronomer Mark Seibold viewed both the 1999 and 2006 transits of the solar system's innermost planet through solar filtered telescopes and composed this rendering of Mercury \"hovering in the photosphere\" near the edge of an enormous solar disk. The original work is a 23 by 17 inch pastel sketch. While the artist's hand is creatively superimposed, Seibold concentrated on offering an impression of Mercury's silhouette, surrounded by shadings reflecting his visual experience that are not easily captured in photographic exposures. Of course, before the age of cameras drawings were more widely used to record telescopic observations of sunspots and planetary transits.",
   "date": "2006-11-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0611/mercurytransit_seibold.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mark Seibold Explanation",
-    "Mark Seibold"
-  ],
+  "copyright": "Mark Seibold",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0611/mercurytransit_seibold_90.jpg"
 }

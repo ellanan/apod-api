@@ -1,14 +1,10 @@
 {
   "title": "Mercury's Transit: An Unusual Spot on the Sun",
-  "credit": [],
   "explanation": "What's that dot on the Sun? If you look closely, it is almost perfectly round. The dot is the result of an unusual type of solar eclipse that occurred last week. Usually it is the Earth's Moon that eclipses the Sun. Last week, for the first time in over three years, the planet Mercury took a turn. Like the approach to New Moon before a solar eclipse, the phase of Mercury became a continually thinner crescent as the planet progressed toward an alignment with the Sun. Eventually the phase of Mercury dropped to zero and the dark spot of Mercury crossed our parent star. The situation could technically be labeled a Mercurian annular eclipse with an extraordinarily large ring of fire. From above the cratered planes of the night side of Mercury, the Earth appeared in its fullest phase. Hours later, as Mercury continued in its orbit, a slight crescent phase appeared again. The next Mercurian solar eclipse will occur in 2016.",
   "date": "2006-11-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0611/mtransit06_cortner_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: David Cortner Explanation",
-    "David Cortner"
-  ],
+  "copyright": "David Cortner",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0611/mtransit06_cortner.jpg"
 }

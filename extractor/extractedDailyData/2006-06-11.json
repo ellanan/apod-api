@@ -1,14 +1,10 @@
 {
   "title": "Sunspot Loops in Ultraviolet",
-  "credit": [
-    "Credit: TRACE Project, NASA Explanation",
-    "TRACE Project, NASA"
-  ],
+  "credit": "TRACE Project, NASA",
   "explanation": "It was a quiet day on the Sun. The above image shows, however, that even during off days the Sun's surface is a busy place. Shown in ultraviolet light, the relatively cool dark regions have temperatures of thousands of degrees Celsius. Large sunspot group AR 9169 is visible as the bright area near the horizon. The bright glowing gas flowing around the sunspots has a temperature of over one million degrees Celsius. The reason for the high temperatures is unknown but thought to be related to the rapidly changing magnetic field loops that channel solar plasma. Sunspot group AR 9169 moved across the Sun during 2000 September and decayed in a few weeks.",
   "date": "2006-06-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0606/sun2_trace_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0606/sun2_trace.jpg"
 }

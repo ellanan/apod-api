@@ -1,14 +1,10 @@
 {
   "title": "Comet McNaught Passes NGC 1245",
-  "credit": [],
   "explanation": "Of the many comets named for discoverer Robert McNaught, the one cataloged as C/2009 R1 is gracing dawn skies for northern hemisphere observers this month. Seen here on June 13th from southern New Mexico, this Comet McNaught's long ion tail sweeps across the telescopic field of view (a negative image is inset). Remarkably, the ion tail easily stretches past background star cluster NGC 1245 (upper left) in the constellation Perseus, about 1.5 degrees from the comet's lovely greenish head or coma. The coma also sports a short, stubby, dust tail. Of course, the comet and background stars move at different rates through planet Earth's skies. But a digital processing of many short exposures allowed frames of comet and stars to be separated, registered, and recombined in the final image. To see the comet separate from the background stars, just slide your cursor over the image. The recombined frames show off both the rich star field and faint details of the comet. Easy to spot in binoculars for now, McNaught will sink into the twilight along the eastern horizon in the coming days as it heads toward perihelion (closest approach to the Sun) on July 2.",
   "date": "2010-06-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1006/CometMcNaught2009R1a_richins.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rich Richins Explanation",
-    "Rich Richins"
-  ],
+  "copyright": "Rich Richins",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1006/CometStarsInset_richins900.jpg"
 }

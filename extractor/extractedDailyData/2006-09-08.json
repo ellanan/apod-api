@@ -1,14 +1,10 @@
 {
   "title": "Messier 110",
-  "credit": [],
   "explanation": "This very sharp telescopic vista features the last object in the modern version of Charles Messier's catalog of bright clusters and nebulae - Messier 110. A dwarf elliptical galaxy, M110 (aka NGC 205) is actually a bright satellite of the large spiral galaxy Andromeda, making M110 a fellow member of the local group of galaxies. Seen through a foreground of nearby stars, M110 is about 15,000 light-years across. That makes it comparable in size to satellite galaxies of our own Milky Way, the Large and Small Magellanic Clouds. Though elliptical galaxies are normally thought to be lacking in gas and dust to form new stars, M110 is known to contain young stars, and faint dust clouds can easily be seen in this detailed image at about the 7 and 11 o'clock positions relative to the galaxy center.",
   "date": "2006-09-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/m110cassf10_schedler_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Johannes Schedler (Panther Observatory) Explanation",
-    "Johannes Schedler (Panther Observatory)"
-  ],
+  "copyright": "Johannes Schedler (Panther Observatory)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/m110cassf10_schedler_f40.jpg"
 }

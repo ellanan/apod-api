@@ -1,14 +1,10 @@
 {
   "title": "Titan Through the Haze",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What are these surface features on Titan? This planet-sized moon of Saturn had much of its south polar surface imaged during an initial flyby by the Saturn-orbiting Cassini spacecraft back in early July. The above image mosaic was digitally stitched together from pictures taken at a very specific color of polarized infrared light, a color not absorbed and little scattered by Titan's methane haze. Visible are light and dark regions that are not yet understood. Surface features as small as 10 kilometers are resolved from about 340,000 kilometers away. The white region near Titan's South Pole, left of center, is unusually thick clouds also thought to be composed of methane. Today Cassini will swoop to within 1,500 kilometers above Titan and may return data and images that help humanity better understand this strange world.",
   "date": "2004-10-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0410/titan1_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0410/titan1_cassini.jpg"
 }

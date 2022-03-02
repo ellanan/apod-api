@@ -1,14 +1,10 @@
 {
   "title": "Rolling Across the Rocky Plains of Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, JPL, NASA",
   "explanation": "You stare out across the rocky plains of Mars. Before you, in every direction, is dark sand and bright rock. Although little has changed here for millions of years, no one has ever seen this view before. You are being sent on a long journey to a distant crater, the largest crater in the region. Your human overlords back on planet Earth wonder if the impact that created this distant crater might have also uncovered unique clues to the distant past of Earth's neighboring planet, clues that might reveal if life ever existed here. Breaking the monotony, visible toward the image center, an unusual rock sticks out from the landscape. Quite possibly, this rock is not from this world, and you divert to inspect it. You are the robotic Opportunity rover, and you are the eyes for countless humans following your trek back on planet Earth. Rolling about a football field a day, you might reach Endeavour crater sometime in 2012. If you survive.",
   "date": "2010-10-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1010/plainmars_opportunity_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1010/plainmars_opportunity.jpg"
 }

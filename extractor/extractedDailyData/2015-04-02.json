@@ -1,14 +1,10 @@
 {
   "title": "The Owl and the Galaxy",
-  "credit": [],
   "explanation": "",
   "date": "2015-04-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1504/M97_M108_LRGB_60p_APF_ckaltseis2015.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Christoph Kaltseis - Poem: Apologies to Edward Lear Explanation",
-    "Christoph Kaltseis - Poem: Apologies to Edward Lear"
-  ],
+  "copyright": "Christoph Kaltseis - Poem: Apologies to Edward Lear",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1504/M97_M108_LRGB_60p_APF_ckaltseis2015_1024.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Tarantula",
-  "credit": [
-    "Credit: S.A.A.O. (1 Meter Telescope) Explanation",
-    "S.A.A.O. (1 Meter Telescope)"
-  ],
+  "credit": "S.A.A.O. (1 Meter Telescope)",
   "explanation": "NGC 2070 is an immense star forming region in a nearby galaxy known as the Large Magellanic Cloud. Its spidery appearance is responsible for its popular name, \"The Tarantula Nebula\", except that this tarantula is about 1,000 light-years across, and 165,000 light-years away in the southern constellation Dorado. If it were at the distance of the Orion Nebula, the nearest stellar nursery to Earth, it would appear to cover about 30 degrees on the sky or about 60 full moons. The spindly arms of the Tarantula Nebula surround the 30 Doradus Star Cluster which contains some of the intrinsically brightest, most massive stars known. This celestial Tarantula is also seen near the site of the closest recent Supernova.",
   "date": "1997-06-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9706/tarantula2_saao.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9706/tarantula2_saao.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Cold Dust in the Eagle Nebula",
-  "credit": [
-    "Credit: ESA, ISO, ISOGAL Team Explanation",
-    "ESA, ISO, ISOGAL Team"
-  ],
+  "credit": "ESA, ISO, ISOGAL Team",
   "explanation": "Stars are born in M16's Eagle Nebula, a stellar nursery 7,000 light-years from Earth toward the constellation Serpens. The striking nebula's star forming pillars of gas and dust are familiar to astronomers from images at visible wavelengths, but this false-color picture shows off the nebula in infrared light. Data from ESA's Infrared Space Observatory satellite (ISO) was used to construct the detailed two color image, dominated by infrared emission from clouds of interstellar material at temperatures below -100 degrees Celsius. Blue colors highlight emission thought to indicate the presence of complex carbon molecules, known on planet Earth as PAHs, while red colors trace emission from cold, microscopic dust grains. Hot young stars are formed as this frigid material condenses under the influence of gravity. Once begun, the process takes only tens of thousands of years for truly massive stars and up to tens of millions of years for low mass stars like the Sun.",
   "date": "2001-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0109/eagleneb_iso.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0109/eagleneb_iso_c1.jpg"
 }

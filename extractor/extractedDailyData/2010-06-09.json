@@ -1,14 +1,10 @@
 {
   "title": "Orange Sun Simmering",
-  "credit": [],
   "explanation": "Even a quiet Sun can be a busy place. And over the deep Solar Minimum of the past few years, our Sun has been unusually quiet. The above image, taken last week in a single color of light called Hydrogen Alpha and then false colored, records a great amount of detail of the simmering surface of our parent star. The gradual brightening towards the Sun's edge in this color-inverted image, called limb darkening, is caused by increased absorption of relatively cool solar gas. Just over the Sun's edges, several prominences are visible, while two prominences on the Sun's face are seen as light streaks just above and right of the image center. Two particularly active areas of the Sun are marked by dark plages. In contrast to recent quiet times, our Sun is moving toward Solar Maximum, and for years will likely appear much more active.",
   "date": "2010-06-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1006/orangesun_friedman_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alan Friedman (Averted Imagination) Explanation",
-    "Alan Friedman (Averted Imagination)"
-  ],
+  "copyright": "Alan Friedman (Averted Imagination)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1006/orangesun_friedman.jpg"
 }

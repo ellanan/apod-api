@@ -1,14 +1,10 @@
 {
   "title": "NASA Mission to MAP the Universe",
-  "credit": [
-    "Credit: MAP Team, NASA Explanation",
-    "MAP Team, NASA"
-  ],
+  "credit": "MAP Team, NASA",
   "explanation": "",
   "date": "1996-04-15",
   "hdurl": "https://apod.nasa.gov/apod/image/map_cover_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/map_cover.gif"
 }

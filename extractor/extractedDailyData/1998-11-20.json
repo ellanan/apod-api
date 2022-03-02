@@ -1,14 +1,10 @@
 {
   "title": "Green Fireball",
-  "credit": [],
   "explanation": "\"Goodness, Gracious, Green Balls Of Fire!\", might have been an appropriate theme song title for the 1998 Leonid meteor shower. Many observers, like astrophotographer Steve Dunn watching from Cape Canaveral, Florida, USA, reported that a lot of the characteristically bright Leonid meteors had a greenish tint. Around 6:00 AM EST on November 17, he photographed this dazzling Leonid fireball leaving a striking green-to-white trail against a background of stars in the constellation Coma Berenices. Dunn comments that he considers himself a green novice observer, but is now anticipating next November's appearance of the Leonids shower.",
   "date": "1998-11-20",
   "hdurl": "https://apod.nasa.gov/apod/image/9811/greenfire_dunn_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Dunn Explanation",
-    "Steve Dunn"
-  ],
+  "copyright": "Steve Dunn",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9811/greenfire1_dunn.jpg"
 }

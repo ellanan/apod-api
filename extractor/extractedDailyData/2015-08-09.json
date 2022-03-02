@@ -1,14 +1,10 @@
 {
   "title": "HCG 87: A Small Group of Galaxies",
-  "credit": [
-    "Credit: GMOS-S Commissioning Team, Gemini Observatory Explanation",
-    "GMOS-S Commissioning Team, Gemini Observatory"
-  ],
+  "credit": "GMOS-S Commissioning Team, Gemini Observatory",
   "explanation": "Sometimes galaxies form groups. For example, our own Milky Way Galaxy is part of the Local Group of Galaxies. Small, compact groups, like Hickson Compact Group 87 (HCG 87) shown above, are interesting partly because they slowly self-destruct. Indeed, the galaxies of HCG 87 are gravitationally stretching each other during their 100-million year orbits around a common center. The pulling creates colliding gas that causes bright bursts of star formation and feeds matter into their active galaxy centers. HCG 87 is composed of a large edge-on spiral galaxy visible near the image center, an elliptical galaxy visible to its right, and a spiral galaxy visible near the top. The small spiral near the center might be far in the distance. Several stars from our Galaxy are also visible in the foreground. Studying groups like HCG 87 allows insight into how all galaxies form and evolve.",
   "date": "2015-08-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1508/hcg87_gmoss_691.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1508/hcg87_gmoss_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Gordel van Venus",
-  "credit": [],
   "explanation": "Scroll right and enjoy this 180 degree panorama across the South African Astronomical Observatory's hilltop Sutherland observing station. Featured are SAAO telescope domes and buildings, along with the dark, wedge-shaped shadow of planet Earth stretching into the distance, bounded above by the delicately colored antitwilight arch. Visible along the antisunward horizon at sunset, (or sunrise) the pinkish antitwilight arch is also known as the Belt of Venus. In order, the significant structures from left to right house; the giant SALT 11-meter instrument, the internet telescope MONET, the 1.9 meter Radcliffe, the 1.0 meter Elizabeth, a 0.75 meter reflector, a 0.5 meter reflector, a garage, YSTAR, BiSON, ACT, IRSF (open), and a storage building. (Note to SAAO fans: in this east-facing view the planet-hunter SuperWASP south is hidden behind the IRSF.)",
   "date": "2006-06-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: W. P. Koorts (SAAO) Explanation",
-    "W. P. Koorts (SAAO)"
-  ],
+  "copyright": "W. P. Koorts (SAAO)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2_80.jpg"
 }

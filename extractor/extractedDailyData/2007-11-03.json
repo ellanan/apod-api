@@ -1,14 +1,10 @@
 {
   "title": "Golden Comet Holmes",
-  "credit": [],
   "explanation": "Surprising Comet Holmes remains easily visible as a round, fuzzy cloud in the northern constellation Perseus. Skywatchers with telescopes, binoculars, or those that just decide to look up can enjoy the solar system's latest prodigy as it glides about 150 million kilometers from Earth, beyond the orbit of Mars. Still expanding, Holmes now appears to be about 1/3 the size of the Full Moon, and many observers report a yellowish tint to the dusty coma. A golden color does dominate this telescopic view recorded on November 1, showing variations across the coma's bright central region. But where's the comet's tail? Like any good comet, Holmes' tail would tend to point away from the Sun. That direction is nearly along our line-of-sight behind the comet, making its tail very difficult to see.",
   "date": "2007-11-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/P17HolmesWeb3_goldman.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Don Goldman Explanation",
-    "Don Goldman"
-  ],
+  "copyright": "Don Goldman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/P17HolmesWeb3_goldman_c740.jpg"
 }

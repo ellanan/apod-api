@@ -1,14 +1,10 @@
 {
   "title": "Star Party on Planet Earth",
-  "credit": [],
   "explanation": "As twilight sweeps around planet Earth tonight (April 4), many amateur astronomers will set up their telescopes for a 24-hour global star party. The planetwide star party is part of 100 Hours of Astronomy (100HA), a project of the International Year of Astronomy 2009. To join the party, members of the public can find a nearby organized event or planned webcast by consulting the schedules on the 100HA website. What could you see through a telescope tonight? For starters, a bright Moon will shine in the evening sky, offering telescopic observers spectacular views of impact craters, mountains, and lava-flooded mare. Tonight's other celestial targets include the crowd pleasing planet Saturn surrounded by its own moons, its rings tilted nearly edge-on.",
   "date": "2009-04-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0904/iya0908a_tafreshi.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Babak Tafreshi (TWAN) Explanation",
-    "Babak Tafreshi (TWAN)"
-  ],
+  "copyright": "Babak Tafreshi (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0904/iya0908a_tafreshiC.jpg"
 }

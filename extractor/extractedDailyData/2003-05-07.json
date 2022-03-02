@@ -1,14 +1,10 @@
 {
   "title": "The Southern Sky from the International Space Station",
-  "credit": [
-    "Credit: Don Pettit, ISS Expedition 6, NASA Explanation",
-    "Don Pettit, ISS Expedition 6, NASA"
-  ],
+  "credit": "Don Pettit, ISS Expedition 6, NASA",
   "explanation": "Look up from Earth's South Pole, and this stellar starscape is what you might see. Alternatively, this patch of sky is also visible from many southern locations as well as the orbiting International Space Station, where the above image was recently recorded. To the left of the photograph's center are the four stars that mark the boundaries of the famous Southern Cross. The band of stars, dust, and gas crossing the middle of the photograph is part our Milky Way Galaxy. At the lower left is the dark Coal Sack Nebula, and the bright nebula on the far right is the Carina Nebula. The Southern Cross is such a famous constellation that it is depicted on the national flag of Australia.",
   "date": "2003-05-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0305/southernsky_iss_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0305/southernsky_iss.jpg"
 }

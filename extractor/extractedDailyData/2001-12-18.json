@@ -1,14 +1,10 @@
 {
   "title": "Sharpless 212 in Hydrogen and Sulfur",
-  "credit": [],
   "explanation": "Where do the most massive stars form? Observational evidence indicates that the outskirts of developing open clusters of stars are primary locations. Pictured above is one such open cluster: Sharpless 212. Visible in the image center are massive stars in the open cluster. The energetic light from these stars ionizes surrounding hydrogen atoms creating an HII region. As the hydrogen atoms re-acquire electrons, they emit the red light highlighted. Sharpless 212 also contains small amounts of dust and heavy atoms such as Sulfur. The dust efficiently absorbs light, while emission from Sulfur is highlighted in blue. Particularly striking and well-defined boundaries that separate the ionized material from surrounding neutral material are visible at the edge of the HII region. Sharpless 212 spans about 20 light years and lies about 25,000 light years away.",
   "date": "2001-12-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0112/sh212_ohp_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Lise Deharveng (Universite de Provence) et al., CNRS, OHP Explanation",
-    "Lise Deharveng (Universite de Provence) et al., CNRS, OHP"
-  ],
+  "copyright": "Lise Deharveng (Universite de Provence) et al., CNRS, OHP",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0112/sh212_ohp.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Reflecting Merope",
-  "credit": [
-    "Credit: George H. Herbig & Theodore Simon (IfA, U. Hawaii), Hubble Heritage Team, NASA Explanation",
-    "George H. Herbig & Theodore Simon (IfA, U. Hawaii), Hubble Heritage Team, NASA"
-  ],
+  "credit": "George H. Herbig & Theodore Simon (IfA, U. Hawaii), Hubble Heritage Team, NASA",
   "explanation": "In the well known Pleiades star cluster, a star's light is slowly destroying this wandering cloud of gas and dust. Above, the star Merope lies just off the upper left edge of this picture from the Hubble Space Telescope. The cloud, known as IC 349, and the star have been in existence for millions of years. In the past 100,000 years, however, part of the cloud has by chance moved so close to the star - only 3,500 times the Earth-Sun distance - that the starlight itself is having a very dramatic effect. Pressure of the star's light significantly repels the dust in the reflection nebula with smaller dust particles being repelled more strongly. Eventually parts of the dust cloud have become stratified and point toward Merope, with the closest particles being the most massive and so the least affected by the radiation pressure. A longer-term result will be the general destruction of the dust by the energetic starlight.",
   "date": "2004-12-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0412/merope_hst_rfull.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0412/merope_hst_rc25.jpg"
 }

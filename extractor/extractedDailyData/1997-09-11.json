@@ -1,14 +1,10 @@
 {
   "title": "Mars Global Surveyor: Aerobraking",
-  "credit": [
-    "Credit: MGS, JPL, NASA Explanation",
-    "MGS, JPL, NASA"
-  ],
+  "credit": "MGS, JPL, NASA",
   "explanation": "Completing a 10 month journey, another spacecraft from Earth arrives at Mars today. The Mars Global Surveyor (MGS) is scheduled to fire its main rocket engine for 22 minutes at 6:17 p.m. PDT and enter a highly elliptical orbit, with a low point 186 miles and a high point 34,800 miles above the surface of Mars. This robot spacecraft is aptly named. Its mission is to undertake a detailed planetwide survey of Mars. But first MGS must circularize its orbit, lowering the high point to about 250 miles. Instead of relying solely on its rocket engine, MGS mission controllers will use a fuel-saving technique known as aerobraking - dipping the spacecraft into the Martian atmosphere where it will encounter increased atmospheric drag. This early artist's conception emphasizes the drag created by the wing-like solar panels. The cumulative effect should find MGS in a more circular mapping orbit by March 1998. To successfully use aerobraking, mission controllers must achieve an exact orbit and will be handicapped by a limited knowledge of the thickness of the Martian atmosphere. They may even need to alter the spacecraft's course to compensate for changes in Martian weather.",
   "date": "1997-09-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9709/aeromgs_jpl.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9709/aeromgs_jpl.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Nearby Supernova in Spiral Galaxy M100",
-  "credit": [
-    "Credit: FORS Team, 8.2-meter VLT, ESO Explanation",
-    "FORS Team, 8.2-meter VLT, ESO"
-  ],
+  "credit": "FORS Team, 8.2-meter VLT, ESO",
   "explanation": "One of the nearer supernovas of recent years was discovered last month in the bright nearby galaxy M100. The supernova, dubbed SN 2006X, is still near its maximum brightness and visible with a telescope toward the constellation of Berenice's Hair (Coma Berenices) The supernova, pictured above, has been identified as Type Ia indicating that a white dwarf star in the picturesque spiral galaxy has gone near its Chandrasekhar limit and exploded. Although hundreds of supernovas are now discovered each year by automated searches, nearby supernova are rare and important because they frequently become bright enough to be studied by many telescopes and are near enough for their immediate surroundings to be spatially resolved. Supernova 2006X's host galaxy M100 resides in the Virgo Cluster of Galaxies located about 50 million light years from Earth.",
   "date": "2006-03-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0603/m100_vlt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0603/m100_vlt.jpg"
 }

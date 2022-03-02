@@ -1,14 +1,10 @@
 {
   "title": "Mars over Duddo Stone Circle",
-  "credit": [],
   "explanation": "Why are these large stones here? One the more famous stone circles is the Duddo Five Stones of Northumberland, England. Set in the open near the top of a modest incline, a short hike across empty fields will bring you to unusual human -sized stones that are unlike anything surrounding them. The grooved, pitted, and deeply weathered surfaces of the soft sandstones are consistent with being placed about 4000 years ago -- but placed for reasons now unknown. The featured image -- a composite of two consecutive images taken from the same location -- was captured last October under a starry sky when the Earth was passing near Mars, making the red planet unusually large and bright. Mars remains visible at sunset, although increasingly close to the horizon over the next few months.",
   "date": "2021-03-23",
   "hdurl": "https://apod.nasa.gov/apod/image/2103/MarsDuddo_Kivlehan_2250.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ged Kivlehan Explanation",
-    "Ged Kivlehan"
-  ],
+  "copyright": "Ged Kivlehan",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2103/MarsDuddo_Kivlehan_960.jpg"
 }

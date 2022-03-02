@@ -1,14 +1,10 @@
 {
   "title": "Folding Europa",
-  "credit": [
-    "Credit: L. M. Prockter (JHU APL), R. T. Pappalardo (Brown University), JPL, Galileo Project, NASA Explanation",
-    "L. M. Prockter (JHU APL), R. T. Pappalardo (Brown University), JPL, Galileo Project, NASA"
-  ],
+  "credit": "L. M. Prockter (JHU APL), R. T. Pappalardo (Brown University), JPL, Galileo Project, NASA",
   "explanation": "Astypalaea Linea on Jovian ice moon Europa is the broad smooth region running through these images recorded by the Galileo spacecraft in 1998. The pictures are different computer processed versions of the same mosaic -- on the left, small scale details have been enhanced while on the right, large scale features are emphasized. In both versions, the bold criss-crossing ridges believed to result from the upwelling of new material through cracks in the surface ice are apparent. But more easily seen on the right are recently recognized gentle rises and dips, about 15 kilometers across, which likely formed as the icy surface was compressed by the addition of the new material. Further evidence that stress is folding Europa's surface is offered by the presence of smaller cracks and wrinkles more easily seen on the left. These span the width of the broad swells suggestive of anticlines and synclines familiar to geologists on planet Earth. Though ice covered, the surface of Europa is thought to be geologically active, riding over a substantial ocean of liquid water.",
   "date": "2000-08-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0008/foldeuropa_gal_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0008/foldeuropa_gal.jpg"
 }

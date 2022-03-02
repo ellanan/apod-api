@@ -1,14 +1,10 @@
 {
   "title": "The Moon and All the Crashes",
-  "credit": [],
   "explanation": "",
   "date": "1996-09-19",
   "hdurl": "https://apod.nasa.gov/apod/image/moon6_jhendrickson_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: J. Hendrickson, Sky Haven Observatory Explanation",
-    "J. Hendrickson, Sky Haven Observatory"
-  ],
+  "copyright": "J. Hendrickson, Sky Haven Observatory",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/moon6_jhendrickson.gif"
 }

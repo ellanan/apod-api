@@ -1,14 +1,10 @@
 {
   "title": "Penumbral Lunar Eclipse",
-  "credit": [],
   "explanation": "Does this Moon look a little different to you? Although shown in spectacular detail, the full face of Earth's most familiar satellite appears slightly darker than usual, in particular on the upper left, because it is undergoing a penumbral lunar eclipse. The image was captured in Hong Kong, China, on September 16 when the Moon crossed through part of Earth's shadow -- but not the darkest where the Earth shades the entire Sun. A lunar eclipse can only occur during a full moon, and many know this particular full moon as the Harvest moon for its proximity to northern harvests. The next full moon will occur this coming Sunday. Some cultures refer to it as a Leaf Falling Moon, named for its proximity to northern autumn. The second full moon of the same month (\"moonth\") is sometimes called a Blue moon; meanwhile, this month features a rare second new moon, an event known to some as a Black moon.",
   "date": "2016-10-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1610/PenumbralLunarEclipse_Lee_2233.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robin Lee Explanation",
-    "Robin Lee"
-  ],
+  "copyright": "Robin Lee",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1610/PenumbralLunarEclipse_Lee_960.jpg"
 }

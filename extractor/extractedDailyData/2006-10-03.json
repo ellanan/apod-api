@@ -1,14 +1,10 @@
 {
   "title": "Light from the Heart Nebula",
-  "credit": [],
   "explanation": "What powers the Heart Nebula? The large emission nebula dubbed IC 1805 looks, in whole, like a human heart. The nebula glows brightly in red light emitted by its most prominent element: hydrogen. The red glow and the larger shape are all created by a small group of stars near the nebula's center. A close up spanning about 30 light years contains many of these stars is shown above . This open cluster of stars contains a few bright stars nearly 50 times the mass of our Sun, many dim stars only a fraction of the mass of our Sun, and an absent microquasar that was expelled millions of years ago. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.",
   "date": "2006-10-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0610/heart_russell_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Matt Russell Explanation",
-    "Matt Russell"
-  ],
+  "copyright": "Matt Russell",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0610/heart_russell.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Quintet of Galaxies",
-  "credit": [
-    "Credit: W.C. Keel (University of Alabama) and R.E. White, III Explanation",
-    "W.C. Keel (University of Alabama) and R.E. White, III"
-  ],
+  "credit": "W.C. Keel (University of Alabama) and R.E. White, III",
   "explanation": "",
   "date": "1995-11-15",
   "hdurl": "https://apod.nasa.gov/apod/image/quintet_keel_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/quintet_keel.gif"
 }

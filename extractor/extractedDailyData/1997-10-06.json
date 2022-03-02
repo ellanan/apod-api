@@ -1,14 +1,10 @@
 {
   "title": "Surveyor At Mars",
-  "credit": [
-    "Credit: MGS Project, JPL, NASA Explanation",
-    "MGS Project, JPL, NASA"
-  ],
+  "credit": "MGS Project, JPL, NASA",
   "explanation": "Mars Global Surveyor achieved Martian orbit on September 11 and began aerobraking into its final mapping orbit, a process that will take until March next year. Anticipating the labors ahead, Mars Orbital Camera operators have begun acquiring test images. This dramatic detail of a recent image shows a 10 mile wide swath of a highland valley, part of the Nirgal Vallis system. The original image was recorded from an altitude of 250 miles at a resolution of about 30 feet per pixel and has been rotated to represent the camera's perspective view. Were these valleys formed by flowing water or did collapse and erosion caused by ground water produced the channel? What other processes were important? Time will tell. From its planned mapping orbit, with four times better resolution, Mars Global Surveyor's images should provide answers to these and other questions about Mars.",
   "date": "1997-10-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9710/image1_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9710/image1_mgs.jpg"
 }

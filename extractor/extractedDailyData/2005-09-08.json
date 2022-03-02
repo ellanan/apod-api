@@ -1,14 +1,10 @@
 {
   "title": "IC 1396 in Cepheus",
-  "credit": [
-    "Credit: Digitized Sky Survey, ESA/ESO/NASA FITS Liberator Color Composite: Davide De Martin (Skyfactory), Explanation",
-    "Digitized Sky Survey, ESA/ESO/NASA FITS Liberator Color Composite: Davide De Martin (Skyfactory),"
-  ],
+  "credit": "Digitized Sky Survey, ESA/ESO/NASA FITS Liberator Color Composite: Davide De Martin (Skyfactory),",
   "explanation": "Stunning emission nebula IC 1396 mixes glowing cosmic gas and dark dust clouds in the high and far off constellation of Cepheus. Energized by the bright, bluish central star seen here, this star forming region sprawls across hundreds of light-years -- spanning over three degrees on the sky while nearly 3,000 light-years from planet Earth. Among the intriguing dark shapes within IC 1396, the winding Elephant's Trunk nebula lies just below center. The gorgeous color view is a composition of digitized black and white photographic plates recorded through red and blue astronomical filters. The plates were taken using the Samuel Oschin Telescope, a wide-field survey instrument at Palomar Observatory, between 1989 and 1993.",
   "date": "2005-09-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0509/IC1396_demartin_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0509/IC1396_demartin_rc45.jpg"
 }

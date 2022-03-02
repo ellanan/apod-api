@@ -1,14 +1,10 @@
 {
   "title": "Ringed Planet Uranus",
-  "credit": [
-    "Credit: E. Lellouch, T. Encrenaz (Obs. Paris), J. Cuby , A. Jaunsen (ESO-Chile), VLT Antu, ESO Explanation",
-    "E. Lellouch, T. Encrenaz (Obs. Paris), J. Cuby , A. Jaunsen (ESO-Chile), VLT Antu, ESO"
-  ],
+  "credit": "E. Lellouch, T. Encrenaz (Obs. Paris), J. Cuby , A. Jaunsen (ESO-Chile), VLT Antu, ESO",
   "explanation": "Yes it does look like Saturn, but Saturn is only one of four giant ringed planets in our Solar System. And while Saturn has the brightest rings, this system of rings and moons actually belongs to planet Uranus, imaged here in near-infrared light by the Antu telescope at the ESO Paranal Observatory in Chile. Since gas giant Uranus' methane-laced atmosphere absorbs sunlight at near-infrared wavelengths the planet appears substantially darkened, improving the contrast between the otherwise relatively bright planet and the normally faint rings. In fact, the narrow Uranian rings are all but impossible to see in visible light with earthbound telescopes and were discovered only in 1977 as careful astronomers noticed the then unknown rings blocking light from background stars. The rings are thought to be younger than 100 million years and may be formed of debris from the collision of a small moon with a passing comet or asteroid-like object. With moons named for characters in Shakespeare's plays, the distant ringed world Uranus was last visited in 1986 by the Voyager 2 spacecraft.",
   "date": "2003-01-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0301/uranusrings_eso_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0301/uranusrings_eso.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "London at Night",
-  "credit": [
-    "Credit: ISS Crew, Earth Sciences and Image Analysis Lab, JSC, NASA Explanation",
-    "ISS Crew, Earth Sciences and Image Analysis Lab, JSC, NASA"
-  ],
+  "credit": "ISS Crew, Earth Sciences and Image Analysis Lab, JSC, NASA",
   "explanation": "Do you recognize this intriguing globular cluster of stars? It's actually the constellation of city lights surrounding London, England, planet Earth, as recorded with a digital camera from the International Space Station. Taken in February 2003, north is toward the top and slightly left in this nighttime view. The encircling \"London Orbital\" highway by-pass, the M25 (... but not Messier 25), is easiest to pick out south of the city. Even farther south are the lights of Gatwick airport and just inside the western (left hand) stretch of the Orbital is Heathrow. The darkened Thames river estuary fans out to the city's east. In particular, two small \"dark nebulae\" - Hyde Park and Regents Park - stand out slightly west of the densely packed lights at the city's core.",
   "date": "2003-04-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0304/london_iss_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0304/london_iss_c1.jpg"
 }

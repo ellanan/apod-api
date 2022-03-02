@@ -1,14 +1,10 @@
 {
   "title": "Bakasa Eclipse Sequence",
-  "credit": [],
   "explanation": "Starting at the upper left, this sequence of images follows the progress of the magnificent 21 June, 2001 solar eclipse in the clear skies over Bakasa, Zimbabwe. These pictures were recorded using a small reflecting telescope and digital camera with the approximate local time given above each frame. A simple pair of \"eclipse spectacles\" were mounted as a filter in front of the telescope mirror and removed during totality. In the early and late phases of this eclipse of the active Sun, sunspot groups can be seen lingering on the solar surface. During eclipse totality, pinkish prominences are visible at the solar limb along with details of the normally hidden solar corona. Seen from this location, the total eclipse phase lasted just under 3 1/2 minutes as the Moon's shadow rushed across northern Zimbabwe at nearly 5,000 kilometers per hour.",
   "date": "2001-07-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0107/tse2001_malexander.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Murray Alexander Explanation",
-    "Murray Alexander"
-  ],
+  "copyright": "Murray Alexander",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0107/tse2001_malexander.jpg"
 }

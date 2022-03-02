@@ -1,14 +1,10 @@
 {
   "title": "A Total Lunar Eclipse Over North Carolina",
-  "credit": [],
   "explanation": "This coming Tuesday, our Moon will appear to disappear. A similar total lunar eclipse is seen above in a time lapse image captured in 2003 over North Carolina, USA. As the Earth moves between the Moon and the Sun, the Earth's shadow fell on the moon, making it quite dark. In the above picture the Earth's rotation, multiple exposures, and digital enhancements are used to create a time-lapse effect that dramatizes how the Moon looked as it faded out and re-appeared during the three hour lunar eclipse. As the Earth's shadow engulfed the Moon, the lunar images became less and less bright, practically disappearing during totality. At this time, the Moon, which normally shines by reflecting direct sunlight, shone only by sunlight refracted through the Earth's atmosphere. The next total lunar eclipse won't be visible from Earth until February 2008.",
   "date": "2007-08-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0708/200311eclipse_cortner_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: David Cortner Explanation",
-    "David Cortner"
-  ],
+  "copyright": "David Cortner",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0708/200311eclipse_cortner.jpg"
 }

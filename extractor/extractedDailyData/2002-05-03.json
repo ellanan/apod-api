@@ -1,14 +1,10 @@
 {
   "title": "Cone Nebula Close-Up",
-  "credit": [
-    "Credit: ACS Science & Engineering Team, NASA Explanation",
-    "ACS Science & Engineering Team, NASA"
-  ],
+  "credit": "ACS Science & Engineering Team, NASA",
   "explanation": "Cones, pillars, and majestic flowing shapes abound in stellar nurseries where natal clouds of gas and dust are buffeted by energetic winds from newborn stars. A well-known example, the Cone Nebula within the bright galactic star-forming region NGC 2264, was captured in this close-up view from the Hubble Space Telescope's newest camera. While the Cone Nebula, about 2,500 light-years away in Monoceros, is around 7 light-years long, the region pictured here surrounding the cone's blunted head is a mere 2.5 light-years across. In our neck of the galaxy that distance is just over half way from the Sun to its nearest stellar neighbor, Alpha Centauri. The massive star NGC 2264 IRS, seen by Hubble's infrared camera in 1997, is the likely source of the wind sculpting the Cone Nebula and lies off the top of the image. The Cone Nebula's reddish veil is produced by glowing hydrogen gas.",
   "date": "2002-05-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0205/cone_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0205/cone_hst.jpg"
 }

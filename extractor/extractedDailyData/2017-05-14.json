@@ -1,14 +1,10 @@
 {
   "title": "Ganymede: The Largest Moon",
-  "credit": [
-    "Credit: NASA, JPL, Galileo Probe Explanation",
-    "NASA, JPL, Galileo Probe"
-  ],
+  "credit": "NASA, JPL, Galileo Probe",
   "explanation": "What does the largest moon in the Solar System look like? Jupiter's moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges. The large circular feature on the upper right, called Galileo Regio, is an ancient region of unknown origin. Ganymede is thought to have an ocean layer that contains more water than Earth and might contain life. Like Earth's Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter. The featured image was taken about 20 years ago by NASA's Galileo probe, which ended its mission by diving into Jupiter's atmosphere in 2003. Currently, NASA's Juno spacecraft orbits Jupiter and is studying the giant planet's internal structure, among many other attributes.",
   "date": "2017-05-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1705/Ganymede_Galileo_790.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1705/Ganymede_Galileo_960.jpg"
 }

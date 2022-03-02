@@ -1,14 +1,10 @@
 {
   "title": "Starburst Galaxy IC 10",
-  "credit": [],
   "explanation": "Lurking behind dust and stars near the plane of our Milky Way Galaxy, IC 10 is a mere 2.3 million light-years distant. Even though its light is dimmed by intervening dust, the irregular dwarf galaxy still shows off vigorous star-forming regions that shine with a telltale reddish glow in this colorful skyscape. In fact, also a member of the Local Group of galaxies, IC 10 is the closest known starburst galaxy. Compared to other Local Group galaxies, IC 10 has a large population of newly formed stars that are massive and intrinsically very bright, including a luminous X-ray binary star system thought to contain a black hole. Located within the boundaries of the northern constellation Cassiopeia, IC 10 is about 5,000 light-years across.",
   "date": "2012-01-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1201/IC10-medHagerGrossmann.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dietmar Hager, Torsten Grossmann Explanation",
-    "Dietmar Hager, Torsten Grossmann"
-  ],
+  "copyright": "Dietmar Hager, Torsten Grossmann",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1201/IC10-medHagerGrossmann900c.jpg"
 }

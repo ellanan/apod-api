@@ -1,14 +1,10 @@
 {
   "title": "Supernova Remnant In M82",
-  "credit": [
-    "Credit: A. Pedlar and T. Muxlow (Jodrell Bank,Univ. Manchester), K. A. Wills (Univ. Sheffield), et al. Explanation",
-    "A. Pedlar and T. Muxlow (Jodrell Bank,Univ. Manchester), K. A. Wills (Univ. Sheffield), et al."
-  ],
+  "credit": "A. Pedlar and T. Muxlow (Jodrell Bank,Univ. Manchester), K. A. Wills (Univ. Sheffield), et al.",
   "explanation": "This false-color radio wavelength picture of an expanding stellar debris cloud is the product of one of the largest radio astronomy experiments ever. Combining the output of 20 radio telescopes scattered around planet Earth, astronomers have produced this amazingly detailed image of a supernova remnant just over 1.5 light-years across in M82, an intense star forming galaxy 12 million light-years away. The radio astronomy technique for creating the earth-sized array of telescopes is known as VLBI (very long baseline interferometry). The individual telescopes of the array are too far apart for all their signals to be combined in \"real time\", so their output was recorded on magnetic tapes which were brought to a single location and correlated. This technique has produced the highest resolution astronomical observations currently possible and allows the exploration of such distant, violent galactic environments in unprecedented detail.",
   "date": "1999-12-16",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/m82snr_vlbi_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/m82snr_vlbi.jpg"
 }

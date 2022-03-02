@@ -1,14 +1,10 @@
 {
   "title": "Light from Cygnus A",
-  "credit": [
-    "Credit: X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Radio: NSF/NRAO/AUI/VLA Explanation",
-    "X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Radio: NSF/NRAO/AUI/VLA"
-  ],
+  "credit": "X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Radio: NSF/NRAO/AUI/VLA",
   "explanation": "Celebrating astronomy in this International Year of Light, the detailed image reveals spectacular active galaxy Cygnus A in light across the electromagnetic spectrum. Incorporating X-ray data ( blue) from the orbiting Chandra Observatory, Cygnus A is seen to be a prodigious source of high energy x-rays. But it is actually more famous at the low energy end of the electromagnetic spectrum. One of the brightest celestial sources visible to radio telescopes, at 600 million light-years distant Cygnus A is the closest powerful radio galaxy. Radio emission ( red) extends to either side along the same axis for nearly 300,000 light-years powered by jets of relativistic particles emanating from the galaxy's central supermassive black hole. Hot spots likely mark the ends of the jets impacting surrounding cool, dense material. Confined to yellow hues, optical wavelength data of the galaxy from Hubble and the surrounding field in the Digital Sky Survey complete a remarkable multiwavelength view.",
   "date": "2015-01-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1501/iyl_cyga.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1501/iyl_cyga.jpg"
 }

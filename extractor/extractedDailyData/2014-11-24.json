@@ -1,13 +1,9 @@
 {
   "title": "Soaring over Titan",
-  "credit": [
-    "Credit: Cassini Radar Mapper, JPL, USGS, ESA, NASA Explanation",
-    "Cassini Radar Mapper, JPL, USGS, ESA, NASA"
-  ],
+  "credit": "Cassini Radar Mapper, JPL, USGS, ESA, NASA",
   "explanation": "What would it look like to fly over Titan? Radar images from NASA's robotic Cassini satellite in orbit around Saturn have been digitally compiled to simulate such a flight. Cassini has swooped past Saturn's cloudiest moon several times since it arrived at the ringed planet in 2004. The virtual flight featured here shows numerous lakes colored black and mountainous terrain colored tan. Surface regions without detailed vertical information appear more flat, while sufficiently mapped regions have their heights digitally stretched. Among the basins visualized is Kraken Mare, Titan's largest lake which spans over 1,000 kilometers long. Titan's lakes are different from Earth's lakes in that they are composed of hydrocarbons with similarities to liquid natural gas. How Titan's lakes were created and why they survive continues to be a topic of research.",
   "date": "2014-11-24",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "//www.youtube.com/embed/RrGPtCdItBw?rel=0"
 }

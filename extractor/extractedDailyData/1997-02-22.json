@@ -1,14 +1,10 @@
 {
   "title": "The Gamma Ray Sky",
-  "credit": [
-    "Credit: EGRET Team, Compton Observatory, NASA Explanation",
-    "EGRET Team, Compton Observatory, NASA"
-  ],
+  "credit": "EGRET Team, Compton Observatory, NASA",
   "explanation": "What if you could \"see\" gamma rays? If you could, the sky would seem to be filled with a shimmering high-energy glow from the most exotic and mysterious objects in the Universe. In the early 1990s NASA's orbiting Compton Observatory, produced this premier vista of the entire sky in gamma rays - photons with more than 40 million times the energy of visible light. The diffuse gamma-ray glow from the plane of our Milky Way Galaxy runs horizontally through the false color image. The brightest spots in the galactic plane (left of center) are pulsars - spinning magnetized neutron stars formed in the violent crucibles of stellar explosions. Above and below the plane, quasars, believed to be powered by supermassive black holes, produce gamma-ray beacons at the edges of the universe. The nature of many of the fainter sources remains unknown.",
   "date": "1997-02-22",
   "hdurl": "https://apod.nasa.gov/apod/image/9702/allsky1_egret_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9702/allsky1_egret.gif"
 }

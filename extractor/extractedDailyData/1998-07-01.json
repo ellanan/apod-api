@@ -1,14 +1,10 @@
 {
   "title": "NGC 1808: A Nearby Starburst Galaxy",
-  "credit": [
-    "Credit: J. Flood (AAI), M. Mutchler (STScI), WFPC2, HST, NASA Explanation",
-    "J. Flood (AAI), M. Mutchler (STScI), WFPC2, HST, NASA"
-  ],
+  "credit": "J. Flood (AAI), M. Mutchler (STScI), WFPC2, HST, NASA",
   "explanation": "NGC 1808 is a galaxy in turmoil. A barred spiral with marked similarities to our home Milky Way Galaxy, NGC 1808 is distinguished by a peculiar nucleus, an unusually warped disk, and strange flows of hydrogen gas out from the central regions. Amidst all of this, NGC 1808 is undergoing so much star formation it has been deemed a starburst galaxy. In the above color-enhanced photograph, regions of active star formation and shown by their blue glow. Here bright blue stars have recently formed and are energizing large clouds of surrounding hydrogen gas. The reddish brown regions indicate dense interstellar dust. NGC 1808 is a relatively close 40 million light-years away, and stretches about 35,000 light-years across. The peculiar state of NGC 1808 may be caused by the gravity of neighboring galaxy NGC 1792.",
   "date": "1998-07-01",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/ngc1808wide_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/ngc1808wide_hst.jpg"
 }

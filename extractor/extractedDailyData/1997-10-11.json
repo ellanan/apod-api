@@ -1,14 +1,10 @@
 {
   "title": "Floating Free in Space",
-  "credit": [
-    "Credit: NASA, STS-41B Crew Explanation",
-    "NASA, STS-41B Crew"
-  ],
+  "credit": "NASA, STS-41B Crew",
   "explanation": "NASA astronauts can float free in space without any connection to a spaceship. Here astronaut Bruce McCandless maneuvers outside the Space Shuttle Challenger by firing nitrogen gas thrusters on his manned maneuvering unit (MMU). This picture was taken in 1984 and records this first untethered spacewalk. The MMU was developed because astronauts found tethers restrictive.",
   "date": "1997-10-11",
   "hdurl": "https://apod.nasa.gov/apod/image/spacewalk_sts41b_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/spacewalk_sts41b.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "NGC 6823: Cloud Sculpting Star Cluster",
-  "credit": [],
   "explanation": "Star cluster NGC 6823 is ready for its close-up. The center of the open cluster, visible on the upper right, formed only about two million years ago and is dominated in brightness by a host of bright young blue stars. Outer parts of the cluster, visible above in the image center as the stars and pillars of emission nebula NGC 6820, contain even younger stars. The huge pillars of gas and dust likely get their elongated shape by erosion from hot radiation emitted from the brightest cluster stars. Striking dark globules of gas and dust are also visible across the bottom of this image by the 25 year old Canada France Hawaii Telescope. Open star cluster NGC 6823 spans about 50 light years and lies about 6000 light years away toward the constellation of Vulpecula (The Fox).",
   "date": "2004-10-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0410/ngc6823_cfht_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT), Explanation",
-    "Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT),"
-  ],
+  "copyright": "Canada-France-Hawaii Telescope, J.-C. Cuillandre (CFHT),",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0410/ngc6823_cfht.jpg"
 }

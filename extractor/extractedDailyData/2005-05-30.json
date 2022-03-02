@@ -1,14 +1,10 @@
 {
   "title": "A Great White Spot on Rhea",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What caused this great white spot on the surface of Saturn's moon Rhea? The spot was first noticed last year by the robot Cassini spacecraft now orbiting Saturn. Cassini's flyby of Rhea in April imaged in the spot in great detail. Astronomers hypothesize that the light-colored spot is the result of a relatively recent impact on the surface of the icy moon. The impact that likely created the crater also splashed light-colored material from the interior onto the darker surface. Rhea spans 1,500 kilometers across and is the second largest moon of Saturn after Titan. Rhea sports several other light colored surface features that are, as yet, not well understood.",
   "date": "2005-05-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0505/rheaspot_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0505/rheaspot_cassini.jpg"
 }

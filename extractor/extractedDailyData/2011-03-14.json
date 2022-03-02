@@ -1,14 +1,10 @@
 {
   "title": "Spacecrafts Streak Over Colorado",
-  "credit": [],
   "explanation": "Have you ever seen a \"star\" drifting slowly overhead, but not known what it was? Sometimes even pointing it out to friends or family will only lead to a shrug. What you are seeing, most likely, is a spacecraft in low Earth orbit reflecting back sunlight as it circles the Earth once every 90 minutes or so. Two of the brighter spacecraft in the present day sky are the International Space Station (ISS), and, when it is up, a NASA space shuttle. As relative orientations change, the brightness of reflections may also change, sometimes suddenly. Another source of bright drifting objects, Iridium communication satellites, may even appear to flare up to become brighter than any other sky object for a few seconds. Pictured above, two bright points of light separated by only a few degrees drifted together across the sky above Lory State Park, Colorado, USA last week, just after sunset. These lights were were the ISS and the space shuttle Discovery, which had undocked from the ISS a few hours earlier. Given a digital fusion of many separate camera exposures and a wide angle perspective, the pair appears above as streaks in front of point-like stars. Web sites now exist that can help you identify unknown \"drifters\" and even predict the time of the next pass of the ISS visible from your location.",
   "date": "2011-03-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1103/issshuttle_arn_2400.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Arn Explanation",
-    "Robert Arn"
-  ],
+  "copyright": "Robert Arn",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1103/issshuttle_arn_900.jpg"
 }

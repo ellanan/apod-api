@@ -1,14 +1,10 @@
 {
   "title": "The Holographic Principle",
-  "credit": [
-    "Credit: Caltech Explanation",
-    "Caltech"
-  ],
+  "credit": "Caltech",
   "explanation": "Is this picture worth a thousand words? According to the Holographic Principle, the most information you can get from this image is about 3 x 1065 bits for a normal sized computer monitor. The Holographic Principle, yet unproven, states that there is a maximum amount of information content held by regions adjacent to any surface. Therefore, counter-intuitively, the information content inside a room depends not on the volume of the room but on the area of the bounding walls. The principle derives from the idea that the Planck length, the length scale where quantum mechanics begins to dominate classical gravity, is one side of an area that can hold only about one bit of information. The limit was first postulated by physicist Gerard 't Hooft in 1993. It can arise from generalizations from seemingly distant speculation that the information held by a black hole is determined not by its enclosed volume but by the surface area of its event horizon. The term \"holographic\" arises from a hologram analogy where three-dimension images are created by projecting light through a flat screen. Beware, other people looking at the featured image may not claim to see 3 x 1065 bits -- they might claim to see a teapot.",
   "date": "2017-04-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1704/teapotsirds_winfree_960.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1704/teapotsirds_winfree_960.jpg"
 }

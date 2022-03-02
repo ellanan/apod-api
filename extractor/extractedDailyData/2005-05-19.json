@@ -1,14 +1,10 @@
 {
   "title": "X-Ray Stars in the Orion Nebula",
-  "credit": [
-    "Credit: E.Feigelson & K.Getman (PSU) et al. CXC / NASA Explanation",
-    "E.Feigelson & K.Getman (PSU) et al. CXC / NASA"
-  ],
+  "credit": "E.Feigelson & K.Getman (PSU) et al. CXC / NASA",
   "explanation": "When our middle-aged Sun was just a few million years old it was thousands of times brighter in x-rays. In fact, it was likely similar to some of the stars found in this false-color x-ray composite of the Orion Nebula region from the Chandra Observatory. The image is centered on bright stars of the nebula's Trapezium star cluster, and while analyzing the Chandra data astronomers have now found examples of young, sun-like stars producing intense x-ray flares. It sounds dangerous, but the situation may actually favor the formation of hospitable planetary systems like our own. Energetic flares can produce turbulence in the planet-forming disks surrounding the stars - preventing rocky earth-like planets from spiraling uncomfortably close to and even falling into their active, young parent stars. About 1,500 light-years away, the Orion Nebula is the closest large stellar nursery. At that distance, this Chandra image spans about 10 light-years.",
   "date": "2005-05-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0505/orion_cxo_ff.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0505/orion_cxo_fc.jpg"
 }

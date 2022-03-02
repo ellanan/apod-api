@@ -1,14 +1,10 @@
 {
   "title": "HD 188753: Triple Sunset",
-  "credit": [
-    "Credit: courtesy JPL-Caltech, NASA Explanation",
-    "courtesy JPL-Caltech, NASA"
-  ],
+  "credit": "courtesy JPL-Caltech, NASA",
   "explanation": "Although it looks like fiction, this artist's vision of sunset on an alien world is based on fact -- the recent discovery of a hot, jupiter-sized planet orbiting in triple star system HD 188753. Only 149 light-years away in the constellation Cygnus, HD 188753's massive planet was detected by astronomer Maciej Konacki after analyzing detailed spectroscopic data from the Keck Observatory. The large planet itself is depicted at the upper left in this imagined view from the well-illuminated surface of a hypothetical rocky moon. From this perspective, the closest, hottest and most massive star in the triple system, a star only a little hotter than the Sun, has set below distant peaks. The two other suns nearing the horizon are both cooler and farther from the large planet. While other hot, jupiter-like planets are known to orbit nearby stars, the \"crowded\" multiple star nature of this system challenges current theories of planet formation.",
   "date": "2005-08-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0508/threesuns_jpl_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0508/threesuns_jpl_f23.jpg"
 }

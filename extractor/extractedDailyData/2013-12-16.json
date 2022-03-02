@@ -1,14 +1,10 @@
 {
   "title": "Yutu Rover Rolls onto the Moon",
-  "credit": [
-    "Credit: Chinese National Space Administration, Xinhuanet Explanation",
-    "Chinese National Space Administration, Xinhuanet"
-  ],
+  "credit": "Chinese National Space Administration, Xinhuanet",
   "explanation": "A new desk-sized rover has begun exploring the Moon. Launched two weeks ago by the Chinese National Space Administration, the Chang'e 3 spacecraft landed on the Moon yesterday and deployed the robotic rover. Yutu, named for a folklore lunar Jade Rabbit, has a scheduled three-month mission to explore several kilometers inside the Sinus Iridum (Latin for \"Bay of Rainbows\") impact crater. Yutu's cameras and spectrometers will investigate surface features and composition while ground penetrating radar will investigate deep soil structure. Chang'e 3 achieved the first soft Moon landing since the Soviet Union's Luna 24 in 1976, and Yutu is the first lunar rover deployed since the USSR's Lunokhod 2 in 1973. Pictured above, Yutu was imaged from its lander yesterday soon after rolling onto the Moon.",
   "date": "2013-12-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1312/yutu01_cnsa_960.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1312/yutu01_cnsa_960.jpg"
 }

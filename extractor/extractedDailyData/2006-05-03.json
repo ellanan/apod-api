@@ -1,14 +1,10 @@
 {
   "title": "Saturn in Blue and Gold",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Why is Saturn partly blue? The above picture of Saturn approximates what a human would see if hovering close to the giant ringed world. The above picture was taken in mid-March by the robot Cassini spacecraft now orbiting Saturn. Here Saturn's majestic rings appear directly only as a thin vertical line. The rings show their complex structure in the dark shadows they create on the image left. Saturn's fountain moon Enceladus, only about 500 kilometers across, is seen as the bump in the plane of the rings. The northern hemisphere of Saturn can appear partly blue for the same reason that Earth's skies can appear blue -- molecules in the cloudless portions of both planet's atmospheres are better at scattering blue light than red. When looking deep into Saturn's clouds, however, the natural gold hue of Saturn's clouds becomes dominant. It is not known why southern Saturn does not show the same blue hue -- one hypothesis holds that clouds are higher there. It is also not known why Saturn's clouds are colored gold.",
   "date": "2006-05-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0605/saturn4_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0605/saturn4_cassini.jpg"
 }

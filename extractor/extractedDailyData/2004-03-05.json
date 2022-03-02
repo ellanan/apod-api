@@ -1,14 +1,10 @@
 {
   "title": "V838 Mon: Echoes from the Edge",
-  "credit": [
-    "Credit: NASA and the Hubble Heritage Team (AURA/STScI) Explanation",
-    "NASA and the Hubble Heritage Team (AURA/STScI)"
-  ],
+  "credit": "NASA and the Hubble Heritage Team (AURA/STScI)",
   "explanation": "Variable star V838 Monocerotis lies near the edge of our Milky Way Galaxy, about 20,000 light-years from the Sun. Still, ever since a sudden outburst was detected in January 2002, this enigmatic star has taken the center of an astronomical stage while researchers try to understand where it fits into the picture of stellar evolution. As light from the stellar flash echoes across pre-existing dust shells around V838 Mon, its appearance changes dramatically. Revealed in a sharp snapshot recorded in February by the Hubble's Advanced Camera for Surveys, this portion of the dust shell is about six light-years in diameter. But because light reflected from the dust follows only a slightly indirect path compared to the direct line-of-sight to the star, the light echoes visible now are only lagging about two years behind the outburst itself. Astronomers expect the expanding echoes to continue to light up the dusty environs of V838 Mon for at least the rest of the current decade.",
   "date": "2004-03-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0403/v838feb04_hst_bck.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0403/v838feb04_hst_c1.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Red Moon Rising",
-  "credit": [],
   "explanation": "This surreal, wintry scene is a composite picture recorded on December 10 as the Moon rose behind the Zagros Mountains of Iran. A total lunar eclipse was already in progress. The image combines nearly 500 successive frames taken over 1.5 hours beginning in twilight as the eclipsed Moon steadily climbed above the rugged landscape. The reddened lunar disk and deep blue twilight make for a striking contrast, yet the contrasting colors have the same root cause. The eclipsed Moon is red because the Earth's umbral shadow is suffused with a faint red light. The ruddy illumination is from all the reddened sunsets and sunrises, as seen from a lunar perspective. But the sunsets and sunrises are reddened because the Earth's atmosphere scatters blue light more strongly than red, creating the twilight sky's dim, blue glow.",
   "date": "2011-12-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1112/TLE2011Dec10_901oshin1.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Oshin Zakarian (TWAN) Explanation",
-    "Oshin Zakarian (TWAN)"
-  ],
+  "copyright": "Oshin Zakarian (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1112/TLE2011Dec10_901oshin_600h.jpg"
 }

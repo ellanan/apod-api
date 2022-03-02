@@ -1,14 +1,10 @@
 {
   "title": "Telescope with Lightning",
-  "credit": [],
   "explanation": "Telescopes are not very useful during lightning storms. Nevertheless, with lightning illuminating a dark landscape, the picturesque dome of the famous Kitt Peak 2.1-meter Telescope makes for a dramatic photograph. A passing car created the red and yellow streaks visible in the foreground. The 2.1-meter Telescope has participated in many important astronomical discoveries including the discovery of the Lyman-alpha forest, the first gravitational lens, and the first pulsating white dwarf.",
   "date": "1999-01-19",
   "hdurl": "https://apod.nasa.gov/apod/image/9901/kpno2p1_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: AURA/ NOAO Explanation",
-    "AURA/ NOAO"
-  ],
+  "copyright": "AURA/ NOAO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9901/kpno2p1_noao.jpg"
 }

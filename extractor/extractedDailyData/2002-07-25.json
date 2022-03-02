@@ -1,14 +1,10 @@
 {
   "title": "NGC 1569: Heavy Elements from a Small Galaxy",
-  "credit": [
-    "Credit: C. Martin (UCSB / Caltech), H. Kobulnicky (U. Wisconsin), T. Heckman (Johns Hopkins), CXC, NASA Explanation",
-    "C. Martin (UCSB / Caltech), H. Kobulnicky (U. Wisconsin), T. Heckman (Johns Hopkins), CXC, NASA"
-  ],
+  "credit": "C. Martin (UCSB / Caltech), H. Kobulnicky (U. Wisconsin), T. Heckman (Johns Hopkins), CXC, NASA",
   "explanation": "For astronomers, elements other than hydrogen and helium are sometimes considered to be simply \"heavy elements\". It's understandable really, because even lumped all together heavy elements make up an exceedingly small fraction of the Universe. Still, heavy elements can profoundly influence galaxy and star formation ... not to mention the formation of planets and people. In this tantalizing false-color x-ray image from the orbiting Chandra Observatory, small dwarf galaxy NGC 1569 is surrounded by x-ray emitting clouds of gas thousands of light-years across. The gas has recently been observed to contain significant concentrations of astronomers' heavy elements such as oxygen, silicon, and magnesium, supporting the idea that dwarf galaxies, the most common type of galaxy in the Universe, are largely responsible for heavy elements in intergalactic space. A mere 7 million light-years distant toward the long-necked constellation Camelopardalis, NGC 1569 has undergone a recent burst of star formation and stellar supernova explosions. The furious cosmic activity has heated the expanding gas clouds to temperatures of millions of degrees while enriching them with newly synthesized heavy elements.",
   "date": "2002-07-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/ngc1569_cxc_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/ngc1569_cxc.jpg"
 }

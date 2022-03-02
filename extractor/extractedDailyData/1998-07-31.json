@@ -1,14 +1,10 @@
 {
   "title": "IRAS Orion",
-  "credit": [
-    "Credit: IRAS Project, IPAC Explanation",
-    "IRAS Project, IPAC"
-  ],
+  "credit": "IRAS Project, IPAC",
   "explanation": "Do you recognize the constellation Orion? This striking but unfamiliar looking picture of the familiar Orion region of the sky was produced using survey data from the InfraRed Astronomical Satellite (IRAS). It combines information recorded at three different invisible infrared wavelengths in a red, green, and blue color scheme and covers about 30x24 degrees on the sky. Most of Orion's visually impressive stars don't stand out, but bright Betelgeuse does appear as a small purplish dot just above center. Immediately to the right of Betelgeuse and prominent in the IRAS skyview, expanding debris from a stellar explosion, a supernova remnant, is seen as a large bright ring-shaped feature. The famous gas clouds in Orion's sword glow brightly as the yellow regions at the lower right. No longer operational, IRAS used a telescope cooled by liquid helium to detect celestial infrared radiation.",
   "date": "1998-07-31",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/orion_iras_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/orion_iras.jpg"
 }

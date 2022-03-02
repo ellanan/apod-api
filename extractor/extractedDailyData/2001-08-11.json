@@ -1,14 +1,10 @@
 {
   "title": "A Mystery In Gamma Rays",
-  "credit": [
-    "Credit: N. Gehrels, D. Macomb, D. Bertsch, D. Thompson, R. Hartman (GSFC), EGRET, NASA Explanation",
-    "N. Gehrels, D. Macomb, D. Bertsch, D. Thompson, R. Hartman (GSFC), EGRET, NASA"
-  ],
+  "credit": "N. Gehrels, D. Macomb, D. Bertsch, D. Thompson, R. Hartman (GSFC), EGRET, NASA",
   "explanation": "Gamma rays are the most energetic form of light, packing a million or more times the energy of visible light photons. If you could see gamma rays, the familiar skyscape of steady stars would be replaced by some of the most bizarre objects known to modern astrophysics -- and some which are unknown. When the EGRET instrument on the orbiting Compton Gamma-ray Observatory surveyed the sky in the 1990s, it cataloged 271 celestial sources of high-energy gamma-rays. Researchers identified some with exotic black holes, neutron stars, and distant flaring galaxies. But 170 of the cataloged sources, shown in the above all-sky map, remain unidentified. Many sources in this gamma-ray mystery map likely belong to already known classes of gamma-ray emitters and are simply obscured or too faint to be otherwise positively identified. However, astronomers have called attention to the ribbon of sources winding through the plane of the galaxy, projected here along the middle of the map, which may represent a large unknown class of galactic gamma-ray emitters. In any event, the unidentified sources could remain a mystery until the planned launch of the more sensitive Gamma-ray Large Area Space Telescope in 2005.",
   "date": "2001-08-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0108/un_egret_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0108/un_egret.jpg"
 }

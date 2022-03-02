@@ -1,14 +1,10 @@
 {
   "title": "Lunar Transit from STEREO",
-  "credit": [
-    "Credit: STEREO Project, NASA Explanation",
-    "STEREO Project, NASA"
-  ],
+  "credit": "STEREO Project, NASA",
   "explanation": "A million miles from planet Earth, last weekend the STEREO B spacecraft found itself in the shadow of the Moon. So, looking toward the Sun, extreme ultraviolet cameras onboard STEREO B were able to record a stunning movie of a lunar transit (aka solar eclipse), as the Moon tracked across the solar disk. Each frame of the movie is a false-color composite of images made through four different filters that highlight temperature regimes and structures in the upper solar atmosphere. In this frame, large bright active regions, seen as dark sunspots in visible light, flank the Moon's silhouetted disk. The Moon appears small, less than 1/4th the size seen from Earth, because the spacecraft-Moon separation is over four times the Earth-Moon distance. Tonight, the Moon will find itself in planet Earth's shadow in a total lunar eclipse.",
   "date": "2007-03-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0703/transit_label_med4.mov",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0703/transit_still1_stereo.jpg"
 }

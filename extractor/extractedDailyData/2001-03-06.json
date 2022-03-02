@@ -1,14 +1,10 @@
 {
   "title": "M27: The Dumbbell Nebula",
-  "credit": [],
   "explanation": "The first hint of what will become of our Sun was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of \"annoying\" diffuse objects not to be confused with \"interesting\" comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, the type of nebula our Sun will produce when nuclear fusion stops in its core. M27 is one of the brightest planetary nebulae on the sky, and can be seen in the constellation Vulpecula with binoculars. It takes light about 1000 years to reach us from M27, shown above in representative colors. Understanding the physics and significance of M27 was well beyond 18th century science. Even today, many things remain mysterious about bipolar planetary nebula like M27, including the physical mechanism that expels a low-mass star's gaseous outer-envelope, leaving an X-ray hot white dwarf.",
   "date": "2001-03-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0103/dumbbell_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Pierce (Indiana U.) et al., WIYN, AURA, NOAO, NSF Explanation",
-    "Michael Pierce (Indiana U.) et al., WIYN, AURA, NOAO, NSF"
-  ],
+  "copyright": "Michael Pierce (Indiana U.) et al., WIYN, AURA, NOAO, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0103/dumbbell_noao.jpg"
 }

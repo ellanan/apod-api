@@ -1,14 +1,10 @@
 {
   "title": "Spooky Star Forming Region DR 6",
-  "credit": [
-    "Credit: S. Carey (Caltech), JPL-Caltech, NASA Explanation",
-    "S. Carey (Caltech), JPL-Caltech, NASA"
-  ],
+  "credit": "S. Carey (Caltech), JPL-Caltech, NASA",
   "explanation": "How could stars form such a spooky and familiar shape as a human skull? First, the complex process of star formation creates nebulas of many shapes and sizes -- it is human perception that identifies the skull shape. Next, the physical reasons for the large nearly empty cavities that resemble the skull's eyes and mouth in nebula DR 6 are the strong stellar winds and energetic light emanating from about ten bright young stars in the nebula's central \"nose\". The length of the central nasal bridge is about 3.5 light years. Star forming nebula DR 6 is located about 4000 light years away toward the constellation of Cygnus. The Spitzer Space Telescope took the above image last year in four infrared colors. The perhaps-perceived eeriness of nebula DR 6 commemorates today being historically spooky All Hallow's Day, which follows All Hallow's Eve or \"Halloween\".",
   "date": "2004-11-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0411/dr6_spitzer_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0411/dr6_spitzer.jpg"
 }

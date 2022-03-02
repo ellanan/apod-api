@@ -1,14 +1,10 @@
 {
   "title": "Apollo 11: East Crater Panorama",
-  "credit": [
-    "Credit: Apollo 11 Crew, NASA; Mosaic Assembly: Mike Constantine Explanation",
-    "Apollo 11 Crew, NASA; Mosaic Assembly: Mike Constantine"
-  ],
+  "credit": "Apollo 11 Crew, NASA; Mosaic Assembly: Mike Constantine",
   "explanation": "On July 20, 1969, Apollo 11 astronauts Neil Armstrong and Edwin \"Buzz\" Aldrin became the first to walk on the Moon. This panorama of their landing site sweeps across the magnificent desolation of the Moon's Sea of Tranquility, with their Lunar Module, the Eagle, in the background at the far left. East Crater, about 30 meters wide and 4 meters deep, is on the right (scroll right), and was so named because it is about 60 meters east of the Lunar Module. Armstrong had piloted the Eagle safely over the crater. Near the end of his stay on the lunar surface Armstrong strayed far enough from the Lunar Module to take the pictures used to construct this wide-angle view, his shadow appearing at the panorama's left edge. The object near the middle foreground is a stereo close-up camera.",
   "date": "2007-07-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0707/Apollo11EastCrater_panorama.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0707/Apollo11EastCrater_cpan.jpg"
 }

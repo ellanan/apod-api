@@ -1,14 +1,10 @@
 {
   "title": "Intrepid Crater on Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, Cornell, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, Cornell, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, Cornell, JPL, NASA",
   "explanation": "The robotic rover Opportunity has chanced across another small crater on Mars. Pictured above is Intrepid Crater, a 20-meter across impact basin slightly larger than Nereus Crater that Opportunity chanced across last year. The above image is in approximately true color but horizontally compressed to accommodate a wide angle panorama. Intrepid Crater was named after the lunar module Intrepid that carried Apollo 12 astronauts to Earth's Moon 41 years ago last month. Beyond Intrepid Crater and past long patches of rusty Martian desert lie peaks from the rim of large Endeavour Crater, visible on the horizon. If Opportunity can avoid ridged rocks and soft sand, it may reach Endeavour sometime next year.",
   "date": "2010-12-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1012/intrepid_opportunity_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1012/intrepid_opportunity.jpg"
 }

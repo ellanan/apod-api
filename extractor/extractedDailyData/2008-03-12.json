@@ -1,14 +1,10 @@
 {
   "title": "Star Forming Region LH 95",
-  "credit": [
-    "Credit: Hubble Heritage Team, D. Gouliermis (MPI Heidelberg) et al., (STScI/AURA), ESA, NASA Explanation",
-    "Hubble Heritage Team, D. Gouliermis (MPI Heidelberg) et al., (STScI/AURA), ESA, NASA"
-  ],
+  "credit": "Hubble Heritage Team, D. Gouliermis (MPI Heidelberg) et al., (STScI/AURA), ESA, NASA",
   "explanation": "How do stars form? To better understand this complex and chaotic process, astronomers used the Hubble Space Telescope to image in unprecedented detail the star forming region LH 95 in the nearby Large Magellanic Cloud galaxy. Usually only the brightest, bluest, most massive stars in a star forming region are visible, but the above image was taken in such high resolution and in such specific colors that many recently formed stars that are more yellow, more dim, and less massive are also discernable. Also visible in the above scientifically colored image is a blue sheen of diffuse hydrogen gas heated by the young stars, and dark dust created by stars or during supernova explosions. Studying the locations and abundances of lower mass stars in star forming regions and around molecular clouds helps uncover what conditions were present when they formed. LH 95 spans about 150 light years and lies about 160,000 light years away toward the southern constellation of the Swordfish (Dorado).",
   "date": "2008-03-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0803/lh95_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0803/lh95_hst.jpg"
 }

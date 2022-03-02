@@ -1,14 +1,10 @@
 {
   "title": "Jupiter's Triple Shadow Transit",
-  "credit": [],
   "explanation": "This webcam and telescope image of banded gas giant Jupiter shows the transit of three shadows cast by Jupiter's moons in progress, captured in Belgian skies on October 12 at 0528 UT. Such a three shadow transit is a relatively rare event, even for a large planet with many moons. Visible in the frame are the three Galilean moons responsible, Callisto at the far left edge, Io closest to Jupiter's disk, and Europa below and just left of Io. Of their shadows on the sunlit Jovian cloud tops, Callisto casts the most elongated one near the planet's south polar region at the bottom. Io's shadow is above and right of Jupiter's Great Red Spot. Of course viewed from Jupiter's perspective, these shadow crossings could be seen as solar eclipses, analogous to the Moon's shadow crossing the sunlit face of planet Earth.",
   "date": "2013-11-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1311/Jupiter12oktober2013_5h28UTaerts.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Leo Aerts Explanation",
-    "Leo Aerts"
-  ],
+  "copyright": "Leo Aerts",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1311/Jupiter12oktober2013_5h28UTaerts.jpg"
 }

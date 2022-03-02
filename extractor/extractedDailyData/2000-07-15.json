@@ -1,17 +1,11 @@
 {
   "title": "Star Trails In Southern Skies",
-  "credit": [
-    "Credit: Photograph by David Malin Copyright: Anglo-Australian Observatory Explanation",
-    "Photograph by David Malin Copyright: Anglo-Australian Observatory"
-  ],
+  "credit": "Photograph by David Malin Copyright: Anglo-Australian Observatory",
   "explanation": "As the Earth spins on its axis, the stars seem to rotate around us. This motion produces the beautiful concentric arcs traced out by the stars in this time exposure of the southern hemisphere night sky. In the foreground is the dome of the Anglo-Australian Telescope in central New South Wales, Australia. In the middle of the picture is the South Celestial Pole, the projection of Earth's axis of rotation into the southern sky. While the bright star Polaris lies conveniently close to the North Celestial Pole, no bright star similarly marks the pole in the south. Still, the South Celestial Pole is easily identified in the picture as the point in the sky at the center of all the star trail arcs.",
   "date": "2000-07-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0007/startrails_aat.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anglo-Australian Observatory Explanation",
-    "Anglo-Australian Observatory"
-  ],
+  "copyright": "Anglo-Australian Observatory",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0007/startrails_aat1.jpg"
 }

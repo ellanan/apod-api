@@ -1,14 +1,10 @@
 {
   "title": "Rock Nest Panorama from Curiosity on Mars",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, MSSS, Mastcam Explanation",
-    "NASA, JPL-Caltech, MSSS, Mastcam"
-  ],
+  "credit": "NASA, JPL-Caltech, MSSS, Mastcam",
   "explanation": "This is Mars -- have a look around. More specifically, this is one area picked for its promise of holding clues to the habitability of Mars to ancient life. To better search for telling leads, the robotic Curiosity rover took a series of detailed images from a location called Rock Nest. Over 900 of these images were then composed into one of the highest resolution images ever created of the red planet -- a composite containing over one billion pixels. Shown above, toward the middle of this image mosaic, is Mt. Sharp, the central peak of the large crater where the Curiosity rover landed and is currently exploring. An interactive and zoomable version of this image is available here. Over the next few years, Curiosity is scheduled to roll toward the peak of ancient Mt. Sharp, all the while keeping a lookout for distinguishing geological and chemical markers.",
   "date": "2013-06-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1306/gigamars_curiosity_17548.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1306/gigamars_curiosity_4181.jpg"
 }

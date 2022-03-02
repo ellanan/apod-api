@@ -1,14 +1,10 @@
 {
   "title": "X-Rays From Tycho's Supernova Remnant",
-  "credit": [
-    "Credit: SAO, CXC, NASA Explanation",
-    "SAO, CXC, NASA"
-  ],
+  "credit": "SAO, CXC, NASA",
   "explanation": "In 1572, Danish astronomer Tycho Brahe recorded the sudden appearance of a bright new star in the constellation Cassiopeia. The new star faded from view over a period of months and is believed to have been a supernova, one of the last stellar explosions seen in our Milky Way galaxy. Now known as Tycho's Supernova Remnant, the expanding debris cloud is shown in this detailed false-color x-ray image from the orbiting Chandra Observatory. Represented in blue, the highest energy x-rays come from shocked regions along the outer edges of the supernova remnant, corresponding to gas at temperatures of 20 million degrees Celsius. X-rays from cooler gas (only 10 million degrees or so!) dominate the remnant's interior. Unlike some other supernova remnants, no hot central point source can be found, supporting the theory that the origin of this stellar explosion was a runaway nuclear detonation that ultimately destroyed a white dwarf star. At a distance of about 7,500 light-years, Tycho's Supernova Remnant appears to be nearly 20 light-years across. This x-ray picture's field of view slightly cuts off the bottom of the generally spherical cloud.",
   "date": "2002-09-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0209/tychosnr_cxc_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0209/tychosnr_cxc_c1.jpg"
 }

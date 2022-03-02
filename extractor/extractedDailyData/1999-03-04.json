@@ -1,14 +1,10 @@
 {
   "title": "Ganymede Mosaic",
-  "credit": [
-    "Credit: Galileo Project, DLR, JPL, NASA Explanation",
-    "Galileo Project, DLR, JPL, NASA"
-  ],
+  "credit": "Galileo Project, DLR, JPL, NASA",
   "explanation": "Ganymede, one of the four Galilean moons of Jupiter, is the largest moon in the Solar System. With a diameter of 5,260 kilometers it is even larger than planets Mercury and Pluto and just over three quarters the size of Mars. Ganymede is locked in synchronous rotation with Jupiter. This detailed mosaic of images from the Galileo spacecraft shows the trailing hemisphere of this planet-sized moon. Speckled with bright young craters, Ganymede's surface shows a mixture of old, dark, cratered terrain and lighter regions laced with grooves and ridges. Ganymede's true colors tend toward subtle browns and grays, but this mosaic's colors have been enhanced to increase surface contrasts. The violet shades extending from the top and bottom are likely due to frost particles in Ganymede's polar regions.",
   "date": "1999-03-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9903/ganymede_galmosaic_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9903/ganymede_galmosaic.jpg"
 }

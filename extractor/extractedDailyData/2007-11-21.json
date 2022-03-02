@@ -1,14 +1,10 @@
 {
   "title": "Expansive Comet Holmes",
-  "credit": [],
   "explanation": "The spherical coma of Comet Holmes has swollen to a diameter of over 1.4 million kilometers, making the tenuous, dusty cloud even bigger than the Sun. Scattering sunlight, all that dust and gas came from the comet's remarkably active nucleus, whose diameter before the late October outburst was estimated to be a mere 3.4 kilometers. In this sharp image, recorded on November 14 with the Canada-France-Hawaii Telescope, stars are easily visible right through the outer coma, while the nucleus is buried inside the condensed, bright region. The bright region of the coma seems offset from the center, consistent with the idea that a large fragment drifted away from the nucleus and disintegrated, producing the comet's spectacular outburst. Of course, more recent images of Holmes also show the bright star Mirfak (Alpha Persei) shining through as the comet sweeps slowly through the constellation Perseus.",
   "date": "2007-11-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/Holmes-CFHT_Cuillandre.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight Explanation",
-    "Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight"
-  ],
+  "copyright": "Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/Holmes-CFHT_Cuillandre800.jpg"
 }

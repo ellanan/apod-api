@@ -1,14 +1,10 @@
 {
   "title": "Sharpless 171",
-  "credit": [],
   "explanation": "Cosmic pillars of cold molecular gas and clouds of dark dust lie within Sharpless 171, a star-forming region some 3,000 light-years away in the royal constellation Cepheus. This tantalizing false-color skyscape spans about 20 light-years across the nebula's bright central region. It also highlights the pervasive glow of emission from atomic gas using narrowband filters and a color palette made popular in Hubble Space Telescope images. Powering the nebular glow are the young, hot stars of a newly formed cluster, Berkeley 59. Of course, this star-forming region is entry number 171 in the famous 1959 catalog of emission nebulae compiled by astronomer Stewart Sharpless.",
   "date": "2008-10-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0810/s171_v1_fernandez50.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Antonio Fernandez Explanation",
-    "Antonio Fernandez"
-  ],
+  "copyright": "Antonio Fernandez",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0810/s171_v1_fernandez50_c800.jpg"
 }

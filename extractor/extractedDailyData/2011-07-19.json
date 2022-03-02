@@ -1,14 +1,10 @@
 {
   "title": "Vesta Vista",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, UCLA, MPS, DLR, IDA Explanation",
-    "NASA, JPL-Caltech, UCLA, MPS, DLR, IDA"
-  ],
+  "credit": "NASA, JPL-Caltech, UCLA, MPS, DLR, IDA",
   "explanation": "What does the surface of asteroid Vesta look like? The brightest asteroid in the Solar System and the object which takes up about 10 percent of the entire mass of the main asteroid belt had never been seen up close before. Over the past few weeks, however, the robotic Dawn spacecraft became the first spacecraft ever to approach Vesta. A few days ago, just after attaining orbit, Dawn took the above image. Early images show Vesta to be an old and battered world, covered with craters, bulges, grooves, and cliffs. Studying Vesta may give clues to the formative years of our early Solar System, as the unusual world may be one of the largest remaining protoplanets. After a year of studying Vesta, Dawn is scheduled to leave orbit and, in 2015, approach the only asteroid-belt object that is larger: Ceres.",
   "date": "2011-07-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1107/vesta1_dawn_1000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1107/vesta1_dawn_900.jpg"
 }

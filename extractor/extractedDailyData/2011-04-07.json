@@ -1,14 +1,10 @@
 {
   "title": "Planetary Nebula NGC 2438",
-  "credit": [],
   "explanation": "NGC 2438 is a planetary nebula, the gaseous shroud cast off by a dying sunlike star billions of years old whose central reservoir of hydrogen fuel has been exhausted. About 3,000 light-years distant it lies within the boundaries of the nautical constellation Puppis. Remarkably, NGC 2438 also seems to lie on the outskirts of bright, relatively young open star cluster M46. But this planetary nebula's central star is not only much older than the stars of M46, it moves through space at a different speed than the cluster stars. Distance estimates also place NGC 2438 closer than M46 and so the nebula appears in the foreground, only by chance along the line-of-sight to the young star cluster. This deep image of NGC 2438 highlights a halo of glowing atomic gas over 4.5 light-years across, extending beyond the nebula's brighter inner ring. Similar haloes have been found in deep images of other planetary nebulae, produced during the earlier active phases of their aging central stars.",
   "date": "2011-04-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1104/NGC2438_IAC80_DLopez.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Daniel López, IAC Explanation",
-    "Daniel López, IAC"
-  ],
+  "copyright": "Daniel López, IAC",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1104/NGC2438_IAC80_DLopez900.jpg"
 }

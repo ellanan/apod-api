@@ -1,14 +1,10 @@
 {
   "title": "Abell 370: Galaxy Cluster Gravitational Lens",
-  "credit": [
-    "Credit: NASA, ESA, and the Hubble SM4 ERO Team & ST-ECF Explanation",
-    "NASA, ESA, and the Hubble SM4 ERO Team & ST-ECF"
-  ],
+  "credit": "NASA, ESA, and the Hubble SM4 ERO Team & ST-ECF",
   "explanation": "What is that strange arc? While imaging the cluster of galaxies Abell 370, astronomers had noted an unusual arc to the right of many cluster galaxies. Although curious, one initial response was to avoid commenting on the arc because nothing like it had ever been noted before. In the mid-1980s, however, better images allowed astronomers to identify the arc as a prototype of a new kind of astrophysical phenomenon -- the gravitational lens effect of entire cluster of galaxies on background galaxies. Today, we know that this arc actually consists of two distorted images of a fairly normal galaxy that happened to lie far behind the huge cluster. Abell 370's gravity caused the background galaxies' light -- and others -- to spread out and come to the observer along multiple paths, not unlike a distant light appears through the stem of a wine glass. In mid-July of 2009, astronomers used the then just-upgraded Hubble Space Telescope to image Abell 370 and its gravitational lens images in unprecedented detail. Almost all of the yellow images featured here are galaxies in the Abell 370 cluster. An astute eye can pick up many strange arcs and distorted arclets, however, that are actually images of more distant galaxies. Studying Abell 370 and its images gives astronomers a unique window into the distribution of normal and dark matter in galaxy clusters and the universe.",
   "date": "2016-08-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1608/abell370_hubble_2884.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1608/abell370_hubble_960.jpg"
 }

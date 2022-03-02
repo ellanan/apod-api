@@ -1,14 +1,10 @@
 {
   "title": "Sun vs. Super Moon",
-  "credit": [],
   "explanation": "The Super Moon wins, by just a little, when its apparent size is compared to the Sun in this ingenious composite picture. To make it, the Full Moon on May 6 was photographed with the same camera and telescope used to image the Sun (with a dense solar filter!) on the following day. Of course, on May 6 the Moon was at perigee, the closest point to Earth in its eliptical orbit, making it the largest Full Moon of 2012. Two weeks later, on May 20, the Moon will be near apogee, the most distant point in its orbit, so by then it will be nearly at its smallest apparent size. It will also be a dark New Moon on that date. And for some the New Moon will be surprisingly easy to compare to the Sun, because on May 20 the first solar eclipse of 2012 will be visible from much of Asia, the Pacific, and North America. Along a path 240 to 300 kilometers wide, the eclipse will be annular. Near apogee the smaller silhouetted Moon will fit just inside the bright solar disk.",
   "date": "2012-05-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1205/supermoon-unsupersun_csz.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Charlie Szabototh Explanation",
-    "Charlie Szabototh"
-  ],
+  "copyright": "Charlie Szabototh",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1205/supermoon-unsupersun_csz900c.jpg"
 }

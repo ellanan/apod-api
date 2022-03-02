@@ -1,14 +1,10 @@
 {
   "title": "Southern Mars",
-  "credit": [
-    "Credit: MOLA Science Team, NASA Explanation",
-    "MOLA Science Team, NASA"
-  ],
+  "credit": "MOLA Science Team, NASA",
   "explanation": "This topographical map of the southern hemisphere of Mars was generated using data from the Mars Orbiter Laser Altimeter (MOLA). Flying on the Mars Global Surveyor spacecraft, MOLA has bounced a laser beam off the Martian surface over 200,000,000 times producing a wealth of detailed elevation measurements. The MOLA measurements have been color-coded so, for example, the white areas at left are the highest elevations in the southern Tharsis region and not snow-covered peaks. These areas are more than 6 kilometers above the hypothetical Martian \"sea-level\". Likewise, deep blues and purples are not water oceans but correspond to the lowest elevations (more than 4 kilometers below \"sea-level\"), like those found within the giant Hellas impact basin at right. In fact, liquid water is not present on Mars' surface today, but may have been in the past. NASA's Mars Polar Lander spacecraft is scheduled to embark on an investigation of the role of water in the climate history of the Red Planet. The lander is targeted to touch down within the long, thin ellipse indicated here just below the Martian South Pole today at 20:00 UTC.",
   "date": "1999-12-03",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/marssouthpole_mola_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/marssouthpole_mola1.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Comet Hartley Passes a Double Star Cluster",
-  "credit": [],
   "explanation": "Most star clusters are singularly impressive. Open clusters NGC 869 and NGC 884, however, are doubly impressive. Also known as \"h and chi Persei\", this unusual double cluster, shown above, is bright enough to be seen from a dark location without even binoculars. Although their discovery surely predates written history, the Greek astronomer Hipparchus notably cataloged the double cluster. The clusters are over 7,000 light years distant toward the constellation of Perseus, but are separated by only hundreds of light years. Captured earlier this month, the bright comet 103P/Hartley, informally called Comet Hartley 2, passed well in front but only a few degrees away from the famous double cluster. Comet Hartley 2, visible on the right, is now fading but still discernable to northern observers with binoculars. No binoculars are needed, of course, if you go right up to the comet's nucleus, as is the plan for NASA's EPOXI spacecraft on November 4.",
   "date": "2010-10-26",
   "hdurl": "https://apod.nasa.gov/apod/image/1010/hartleydouble_eder_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ivan Eder Explanation",
-    "Ivan Eder"
-  ],
+  "copyright": "Ivan Eder",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1010/hartleydouble_eder.jpg"
 }

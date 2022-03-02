@@ -1,14 +1,10 @@
 {
   "title": "Thirty Thousand Kilometers Above Enceladus",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What does the surface of Saturn's ice-spewing moon Enceladus look like? To help find out, the robotic Cassini spacecraft now orbiting Saturn was sent soaring past the cryovolcanic moon and even right through one of Enceladus' ice plumes. Cassini closed to about 52 kilometers during its closest encounter to date. The above unprocessed image was taken looking down from the north, from about 30,000 kilometers away. Visible are at least two types of terrain. The first type of terrain has more craters than occur near Enceladus' South Pole. The other type of terrain has few craters but many ridges and grooves that may have been created by surface-shifting tectonic activity. Exogeologists are currently poring over this and other Cassini images from last Wednesday's flyby to better understand the moon's patch-work surface, its unusual ice-geysers, and its potential to support life. Cassini is scheduled to fly by Enceladus at least nine more times, including an even closer pass of just 25 kilometers this coming October.",
   "date": "2008-03-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0803/enceladus5_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0803/enceladus5_cassini.jpg"
 }

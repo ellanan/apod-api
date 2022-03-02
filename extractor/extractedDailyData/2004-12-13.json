@@ -1,14 +1,10 @@
 {
   "title": "Announcing Comet Machholz",
-  "credit": [
-    "Credit: Adam Block (NOAO), AURA, NSF Explanation",
-    "Adam Block (NOAO), AURA, NSF"
-  ],
+  "credit": "Adam Block (NOAO), AURA, NSF",
   "explanation": "A comet discovered only this summer is brightening quickly and already visible to the unaided eye. Comet C/2004 Q2 (Machholz) is currently best visible in Earth's Southern Hemisphere where some observers report it brighter than magnitude 5. The comet is moving rapidly to northern skies and should continue to brighten until early January. By coincidence, Comet Machholz will be easy to view as it will be nearly opposite the Sun when appearing its brightest. How bright Comet Machholz will become then remains uncertain, but it will surely stay in northern skies for much of 2005, even approaching Polaris in early March. Pictured above, Comet Machholz was captured in early December already sporting a bright surrounding coma, a white oblong dust tail fading off toward the bottom, and a long wispy ion tail toward the right with a kink near the end.",
   "date": "2004-12-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0412/machholz_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0412/machholz_noao.jpg"
 }

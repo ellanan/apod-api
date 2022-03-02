@@ -1,14 +1,10 @@
 {
   "title": "IC 5146: The Cocoon Nebula",
-  "credit": [],
   "explanation": "How did this nebula get created? The Cocoon Nebula, cataloged as IC 5146, is a strikingly beautiful nebula located about 4,000 light years away toward the constellation of Cygnus. Inside the Cocoon is a newly developing open cluster of stars. Like other stellar nurseries, the Cocoon Nebula is, at the same time, an emission nebula, a reflection nebula, and an absorption nebula. Speculation based on recent measurements holds that the massive star in the center of the above image opened a hole in an existing molecular cloud through which much of the glowing material flows. The same star, which formed about 100,000 years ago, now provides the energy source for much of the emitted and reflected light from this nebula.",
   "date": "2002-10-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0210/cocoon_cfht_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT Explanation",
-    "Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT"
-  ],
+  "copyright": "Jean-Charles Cuillandre (CFHT), Hawaiian Starlight, CFHT",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0210/cocoon_cfht.jpg"
 }

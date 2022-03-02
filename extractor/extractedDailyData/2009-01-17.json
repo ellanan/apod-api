@@ -1,14 +1,10 @@
 {
   "title": "IC 410 and NGC 1893",
-  "credit": [],
   "explanation": "Dusty emission nebula IC 410 lies about 12,000 light-years away in the northern constellation Auriga. The cloud of glowing gas is over 100 light-years across, sculpted by stellar winds and radiation from embedded open star cluster NGC 1893. Formed in the interstellar cloud a mere 4 million years ago, bright cluster stars are seen just below the prominent dark dust cloud near picture center. Notable near the 7 o'clock position are two relatively dense streamers of material trailing away from the nebula's central regions. Potentially sites of ongoing star formation, these cosmic tadpole shapes are about 10 light-years long. Emission from sulfur atoms is shown in red, hydrogen atoms in green, and oxygen in blue hues in this false-color, narrow band composite image.",
   "date": "2009-01-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0901/IC410_bassoe.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jacob Bassøe Explanation",
-    "Jacob Bassøe"
-  ],
+  "copyright": "Jacob Bassøe",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0901/IC410_bassoe_c800.jpg"
 }

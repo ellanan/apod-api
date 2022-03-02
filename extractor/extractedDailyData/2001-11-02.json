@@ -1,14 +1,10 @@
 {
   "title": "THEMIS of Mars",
-  "credit": [
-    "Credit: Mars Odyssey Team, ASU, JPL, NASA Explanation",
-    "Mars Odyssey Team, ASU, JPL, NASA"
-  ],
+  "credit": "Mars Odyssey Team, ASU, JPL, NASA",
   "explanation": "Not an ancient Greek goddess, THEMIS is modern acronese for THermal EMission Imaging System. Above is this remarkable instrument's premier infrared image of Mars, from the newly orbiting Mars Odyssey spacecraft. Taken on October 30th, the sharp infrared picture covers the indicated swath of the martian southern hemisphere and shows surface temperatures in false-colors ranging from red, a warm 0 degrees Celsius, to cool purple shades of -120 degrees C. The striking, cold circular feature is Mars' south polar ice cap. Composed of frozen carbon dioxide, the ice cap is about 900 kilometers wide and shrinking during the onslaught of southern hemisphere summer. Temperatures are also seen to drop as the bottom portion of the THEMIS image sweeps beyond the terminator or shadow line, into the martian night. A thin, light blue crescent along the upper edge of the planet is the martian atmosphere. The THEMIS image data was recorded as a test of the camera system from an altitude of about 22,000 kilometers .",
   "date": "2001-11-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0111/mars1_themis_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0111/mars1_themis.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "3D Ahuna Mons",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, UCLA, MPS/DLR/IDA Explanation",
-    "NASA, JPL-Caltech, UCLA, MPS/DLR/IDA"
-  ],
+  "credit": "NASA, JPL-Caltech, UCLA, MPS/DLR/IDA",
   "explanation": "Get out your red/blue glasses and gaze across Ceres at mysterious mountain Ahuna Mons. Shown in a 3D anaglyph perspective view, the mosaicked image data was captured in December of 2015, taken from the Dawn spacecraft's low-altitude mapping orbit about 385 kilometers above the surface of the dwarf planet. A remarkable dome-shaped feature on Ceres, with steep, smooth sides Ahuna Mons is about 20 kilometers (12 miles) in diameter at its base, rising on average 4 kilometers to a flattened summit. Similar in size to mountains found on planet Earth, no other Cerean surface feature is so tall and well-defined. It is not known what process shaped the lonely Ahuna Mons, or if the bright material streaking its steepest side is the same material responsible for Ceres' famous bright spots.",
   "date": "2016-03-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1603/PIA20349_fig1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1603/PIA20349_fig1c1024.jpg"
 }

@@ -1,13 +1,9 @@
 {
   "title": "GW170817: A Spectacular Multi-Radiation Merger Event Detected",
-  "credit": [
-    "Credit: NASA's Conceptual Imaging Lab Explanation",
-    "NASA's Conceptual Imaging Lab"
-  ],
+  "credit": "NASA's Conceptual Imaging Lab",
   "explanation": "Both gravitational and electromagnetic radiations have been detected in rapid succession for an explosive merging event for the first time. Data from the outburst fit well with a spectacular binary neutron-star death-spiral. The explosive episode was seen on August 17 in nearby NGC 4993, an elliptical galaxy only 130 million light years distant. Gravitational waves were seen first by the ground based LIGO and Virgo observatories, while seconds later the Earth-orbiting Fermi and INTEGRAL observatories detected gamma-rays, and hours after that Hubble and other observatories detected light throughout the electromagnetic spectrum. Pictured is an animated illustrative movie of the event's likely progenitors. The video depicts hot neutron stars as they spiral in toward each other and emit gravitational radiation. As they merge, a powerful jet extends that drives the short-duration gamma-ray burst, followed by clouds of ejecta and, over time, an optical supernova-type episode called a kilonova. This first coincident detection confirms that LIGO events can be associated with short-duration gamma-ray bursts. Such powerful neutron star mergers are thought to have seeded the universe with many heavy nuclei including the iodine needed for life and the uranium and plutonium needed for nuclear fission power. You may already own a souvenir of one of these explosions -- they are also thought to be the original creators of gold.",
   "date": "2017-10-16",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/x_Akn8fUBeQ?rel=0&showinfo=0"
 }

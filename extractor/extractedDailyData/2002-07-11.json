@@ -1,14 +1,10 @@
 {
   "title": "M51: X-Rays from the Whirlpool",
-  "credit": [
-    "Credit: A. Wilson (UMD) et al., CXC, NASA Explanation",
-    "A. Wilson (UMD) et al., CXC, NASA"
-  ],
+  "credit": "A. Wilson (UMD) et al., CXC, NASA",
   "explanation": "Fresh from yesterday's episode, a popular pair of interacting galaxies known as the Whirlpool debut here beyond the realm of visible light -- imaged at high energies by the orbiting Chandra X-ray Observatory. Still turning in a remarkable performance, over 80 glittering x-ray stars are present in the Chandra image data from the region. The number of luminous x-ray sources, likely neutron star and black hole binary systems within the confines of M51, is unusually high for normal spiral or elliptical galaxies and suggests this cosmic whirlpool has experienced intense bursts of massive star formation. The bright cores of both galaxies, NGC 5194 and NGC 5195 (right and left respectively), also exhibit high-energy activity in this false-color x-ray picture showing a diffuse glow from multi-million degree gas. An expanded view of the region near the core of NGC 5194 reveals x-rays from a supernova remnant, the debris from a spectacular stellar explosion, first detected by earthbound astronomers in 1994.",
   "date": "2002-07-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/m51_cxc_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/m51_cxc.jpg"
 }

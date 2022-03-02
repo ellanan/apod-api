@@ -1,14 +1,10 @@
 {
   "title": "The Mysterious Rings of Supernova 1987A",
-  "credit": [
-    "Credit: C. Burrows (ESA/ STScI), HST, NASA Explanation",
-    "C. Burrows (ESA/ STScI), HST, NASA"
-  ],
+  "credit": "C. Burrows (ESA/ STScI), HST, NASA",
   "explanation": "What's causing those odd rings in supernova 1987A? In 1987, the brightest supernova in recent history occurred in the Large Magellanic Clouds. At the center of the picture is an object central to the remains of the violent stellar explosion. When the Hubble Space Telescope was pointed at the supernova remnant in 1994, however, the existence of curious rings was confirmed. The origins of these rings still remains a mystery. Speculation into the cause of the rings includes beamed jets emanating from a dense star left over from the supernova, and a superposition of two stellar winds ionized by the supernova explosion. Meanwhile, astronomers have just reported the possible appearance of a new ring feature.",
   "date": "2000-02-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0002/sn1987a_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0002/sn1987a_hst.jpg"
 }

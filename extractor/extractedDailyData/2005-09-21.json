@@ -1,14 +1,10 @@
 {
   "title": "Shoreline Terrain on Saturn's Titan",
-  "credit": [
-    "Credit: Synthetic Aperture RADAR, JPL, ESA, NASA Explanation",
-    "Synthetic Aperture RADAR, JPL, ESA, NASA"
-  ],
+  "credit": "Synthetic Aperture RADAR, JPL, ESA, NASA",
   "explanation": "What could have created this unusual terrain on Saturn's moon Titan? The robotic Cassini spacecraft now orbiting Saturn swooped once again, earlier this month, past the Solar System's most enigmatic moon and radar imaged a rich but unusual region that appears to be some sort of shoreline. The choppy, light-colored, high regions on the left appears to be have channels cut by a moving fluid, while the smoother dark regions on the right appear to outline bays. Results from the Huygens probe that landed on Titan earlier this year imply that fluids, possibly liquid methane and not water, might only occupy some of these channels and bays intermittently. The radar image shown above spans about 200 kilometers.",
   "date": "2005-09-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0509/titanshore_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0509/titanshore_cassini.jpg"
 }

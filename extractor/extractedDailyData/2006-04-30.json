@@ -1,14 +1,10 @@
 {
   "title": "1006 AD: Supernova in the Sky",
-  "credit": [],
   "explanation": "A new star, likely the brightest supernova in recorded human history, appeared in planet Earth's sky about 1,000 years ago today, in 1006 AD. The expanding debris cloud from the stellar explosion is still visible to modern astronomers, but what did the supernova look like in 1006? In celebration of the millennial anniversary of SN1006, astronomer Tunc Tezel offers this intriguing suggestion, based on a photograph he took on February 22, 1998 from a site overlooking the Mediterranean south of Antalya, Turkey. On that date, bright Venus and a waning crescent Moon shone in the early morning sky. Adopting calculations which put the supernova's apparent brightness between Venus and the crescent Moon, he digitally superposed an appropriate new star in the picture. He placed the star at the supernova's position in the southerly constellation of Lupus and used the water's reflection of moonlight in the final image.",
   "date": "2006-04-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0604/sn1006_tezel_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tunc Tezel Explanation",
-    "Tunc Tezel"
-  ],
+  "copyright": "Tunc Tezel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0604/sn1006_tezel.jpg"
 }

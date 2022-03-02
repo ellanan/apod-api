@@ -1,14 +1,10 @@
 {
   "title": "The Milky Way Over the French Alps",
-  "credit": [],
   "explanation": "Have you ever seen the band of our Milky Way Galaxy? Chances are you have never seen it like this -- nor could you. In a clear sky from a dark location at the right time, a faint band of light is visible across the sky. This band is the disk of our spiral galaxy. Since we are inside this disk, the band appears to encircle the Earth. The above spectacular picture is a bit of a digital trick, though. A first shot was taken in July 2000 with the camera counter-rotating from the Earth so that the stars appear fixed. This allowed a long exposure from which a great amount of detail could emerge from the background star field. Later, after moonrise, a much shorter image was taken from the same location catching details of the French Alps near Mount Blanc, the highest mountain in Western Europe. Reflections in the water were later enhanced digitally.",
   "date": "2002-09-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0209/lacblanc_sylvestre_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Marc Sylvestre (Universia) Explanation",
-    "Marc Sylvestre (Universia)"
-  ],
+  "copyright": "Marc Sylvestre (Universia)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0209/lacblanc_sylvestre.jpg"
 }

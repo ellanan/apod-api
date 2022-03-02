@@ -1,14 +1,10 @@
 {
   "title": "Car Orbiting Earth",
-  "credit": [
-    "Credit: SpaceX Explanation",
-    "SpaceX"
-  ],
+  "credit": "SpaceX",
   "explanation": "Last week, a car orbited the Earth. The car, created by humans and robots on the Earth, was launched by the SpaceX Company to demonstrate the ability of its Falcon Heavy Rocket to place spacecraft out in the Solar System. Purposely fashioned to be whimsical, the iconic car was thought a better demonstration object than concrete blocks. A mannequin clad in a spacesuit -- dubbed the Starman -- sits in the driver's seat. The featured image is a frame from a video taken by one of three cameras mounted on the car. These cameras, connected to the car's battery, are now out of power. The car, attached to a second stage booster, soon left Earth orbit and will orbit the Sun between Earth and the asteroid belt indefinitely -- perhaps until billions of years from now when our Sun expands into a Red Giant. If ever recovered, what's left of the car may become a unique window into technologies developed on Earth in the 20th and early 21st centuries.",
   "date": "2018-02-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1802/CarEarth_SpaceX_1920.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1802/CarEarth_SpaceX_1080.jpg"
 }

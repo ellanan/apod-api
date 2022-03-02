@@ -1,14 +1,10 @@
 {
   "title": "Messier 81",
-  "credit": [],
   "explanation": "One of the brightest galaxies in planet Earth's sky is similar in size to our Milky Way Galaxy: big, beautiful Messier 81. Also known as NGC 3031 or Bode's galaxy for its 18th century discoverer, this grand spiral can be found toward the northern constellation of Ursa Major, the Great Bear. The detailed telescopic view reveals M81's bright yellow nucleus, blue spiral arms, pink starforming regions, and sweeping cosmic dust lanes. Some dust lanes actually run through the galactic disk (left of center), contrary to other prominent spiral features though. The errant dust lanes may be the lingering result of a close encounter between M81 and its smaller companion galaxy, M82. Scrutiny of variable stars in M81 has yielded one of the best determined distances for an external galaxy -- 11.8 million light-years.",
   "date": "2019-04-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1904/M81salvatore.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Paolo De Salvatore (Zenit Observatory) Explanation",
-    "Paolo De Salvatore (Zenit Observatory)"
-  ],
+  "copyright": "Paolo De Salvatore (Zenit Observatory)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1904/M81salvatore1024.jpg"
 }

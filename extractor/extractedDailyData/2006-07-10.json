@@ -1,14 +1,10 @@
 {
   "title": "Dark Sun Sizzling",
-  "credit": [
-    "Credit: TRACE Project, Stanford-Lockheed Institute for Space Research, NASA Explanation",
-    "TRACE Project, Stanford-Lockheed Institute for Space Research, NASA"
-  ],
+  "credit": "TRACE Project, Stanford-Lockheed Institute for Space Research, NASA",
   "explanation": "Is this our Sun? Yes. Even on a normal day, our Sun is sizzling ball of seething hot gas. Unpredictably, regions of strong and tangled magnetic fields arise, causing sunspots and bright active regions. The Sun's surface bubbles as hot hydrogen gas streams along looping magnetic fields. These active regions channel gas along magnetic loops, usually falling back but sometimes escaping into the solar corona or out into space as the solar wind. Pictured above is our Sun in three colors of ultraviolet light. Since only active regions emit significant amounts of energetic ultraviolet light, most of the Sun appears dark. The colorful portions glow spectacularly, pinpointing the Sun's hottest and most violent regions. Although the Sun is constantly changing, the rate of visible light it emits has been relatively stable over the past five billion years, allowing life to emerge on Earth.",
   "date": "2006-07-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0607/uvsun_trace_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0607/uvsun_trace.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Redshift 10: Evidence for a New Farthest Galaxy",
-  "credit": [
-    "Credit: R. Pello (Midi-Pyrénées), D. Schaerer (Geneva Obs.) et al., VLT, ESO Explanation",
-    "R. Pello (Midi-Pyrénées), D. Schaerer (Geneva Obs.) et al., VLT, ESO"
-  ],
+  "credit": "R. Pello (Midi-Pyrénées), D. Schaerer (Geneva Obs.) et al., VLT, ESO",
   "explanation": "What's the farthest galaxy known? The answer keeps changing as astronomers compete to find galaxies that top the list. The new claimed record holder is now the faint smudge indicated in the above images by an 8.2-meter Very Large Telescope (VLT) operating in Chile. Detected light left this galaxy 13.2 billion of years ago, well before the Earth formed, when the universe was younger than 3 percent of its present age. Astronomers have estimated a redshift of 10 for this galaxy, the first double-digit claim for any galaxy. Young galaxies are of much interest to astronomers because many unanswered questions exist on when and how galaxies formed in the early universe. The distant redshift, if confirmed, would also give valuable information about galaxy surroundings at the end of the universe's dark age. Although this galaxy's distance exceeds that of even the farthest known quasar, it is still in front of the pervasive glowing gas that is now seen as the cosmic microwave background radiation.",
   "date": "2004-03-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0403/z10_vlt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0403/z10_vlt.jpg"
 }

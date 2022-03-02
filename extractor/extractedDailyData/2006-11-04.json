@@ -1,14 +1,10 @@
 {
   "title": "Paranal Moonset",
-  "credit": [],
   "explanation": "Just before the rising Sun fully illuminated the 2,635 meter summit of Cerro Paranal in northern Chile, Gordon Gillet captured this stunning moonset. In the telephoto picture, a nearly full October Moon is silhouetting the impressive array of telescopes at ESO's Paranal Observatory. Most prominent from left to right are the four enclosures of the 8.2 meter very large telescopes christened Antu, Kueyen, and Yepun almost hiding Melipal. Fans of Paranal will also note the VLT Survey Telescope at the far right and the small, white auxilliary telescope domes. Antu, Kueyen, Yepun, and Melipal are names taken from the Mapuche language. Fittingly they translate to Sun, Moon, Evening Star, and Southern Cross.",
   "date": "2006-11-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0611/paranalMoonset_gillet_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Gordon Gillet Explanation",
-    "Gordon Gillet"
-  ],
+  "copyright": "Gordon Gillet",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0611/paranalMoonset_gillet_c.jpg"
 }

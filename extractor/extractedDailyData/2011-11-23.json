@@ -1,14 +1,10 @@
 {
   "title": "The View from Chajnantor",
-  "credit": [],
   "explanation": "From an altitude of over 5,000 meters, the night sky view from Chajnantor Plateau in the Chilean Andes is breathtaking in more ways than one. The dark site's rarefied atmosphere, at about 50 percent sea level pressure, is also extremely dry. That makes it ideal for the Atacama Large Millimeter/submillimeter Array (ALMA) designed to explore the universe at wavelengths over 1,000 times longer than visible light. Near the center of the the panoramic scene, ALMA's 7 and 12 meter wide dish antennas are illuminated by a young Moon nestled in the arc of the Milky Way. ALMA's antenna configurations are intended to achieve a resolution comparable to space telescopes by operating as an interferometer. At left, a meteor's streak and the Milky Way's satellite galaxies, the Large (bottom) and Small Magellanic Clouds grace the night.",
   "date": "2011-11-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1111/SGU-ALMA-IMG_0013-2400-cp10.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stéphane Guisard (Los Cielos de America), TWAN Explanation",
-    "Stéphane Guisard (Los Cielos de America), TWAN"
-  ],
+  "copyright": "Stéphane Guisard (Los Cielos de America), TWAN",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1111/SGU-ALMA-IMG_0013-2400-cp10.jpg"
 }

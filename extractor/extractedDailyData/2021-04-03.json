@@ -1,14 +1,10 @@
 {
   "title": "Ingenuity on Sol 39",
-  "credit": [
-    "Credit: NASA / JPL-Caltech / MSSS Explanation",
-    "NASA / JPL-Caltech / MSSS"
-  ],
+  "credit": "NASA / JPL-Caltech / MSSS",
   "explanation": "The Mars Ingenuity Helicopter, all four landing legs down, was captured here on sol 39 (March 30) slung beneath the belly of the Perseverance rover. The near ground level view is a mosaic of images from the WATSON camera on the rover's SHERLOC robotic arm. Near the center of the frame the experimental helicopter is suspended just a few centimeters above the martian surface. Tracks from Perseverance extend beyond the rover's wheels with the rim of Jezero crater visible about 2 kilometers in the distance. Ingenuity has a weight of 1.8 kilograms or 4 pounds on Earth. That corresponds to a weight of 0.68 kilograms or 1.5 pounds on Mars. With rotor blades spanning 1.2 meters it will attempt to make the first powered flight of an aircraft on another planet in the thin martian atmosphere, 1 percent as dense as Earth's, no earlier than April 11.",
   "date": "2021-04-03",
   "hdurl": "https://apod.nasa.gov/apod/image/2104/PIA24449.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2104/PIA24449_1024.jpg"
 }

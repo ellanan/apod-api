@@ -1,14 +1,10 @@
 {
   "title": "Central Cygnus Skyscape",
-  "credit": [],
   "explanation": "In cosmic brush strokes of glowing hydrogen gas, this beautiful skyscape unfolds across the plane of our Milky Way Galaxy and the center of the northern constellation Cygnus the Swan. Recorded from a premier remote observatory site (ROSA) in southern France, the image spans about 6 degrees. Bright supergiant star Gamma Cygni near image center lies in the foreground of the complex gas and dust clouds and crowded star fields. Left of Gamma Cygni, shaped like two luminous wings divided by a long dark dust lane is IC 1318, whose popular name is understandably the Butterfly Nebula. The more compact, bright nebula at the lower right is NGC 6888, the Crescent Nebula. Some distance estimates for Gamma Cygni place it at around 750 light-years while estimates for IC 1318 and NGC 6888 range from 2,000 to 5,000 light-years.",
   "date": "2009-10-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0910/cygn_ha_dani_w.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Daniel Marquardt Explanation",
-    "Daniel Marquardt"
-  ],
+  "copyright": "Daniel Marquardt",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0910/cygn_ha_dani900.jpg"
 }

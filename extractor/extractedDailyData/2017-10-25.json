@@ -1,14 +1,10 @@
 {
   "title": "Marius Hills and a Hole in the Moon",
-  "credit": [
-    "Credit: NASA, Lunar Orbiter 2; Inset: Lunar Reconnaissance Orbiter Explanation",
-    "NASA, Lunar Orbiter 2; Inset: Lunar Reconnaissance Orbiter"
-  ],
+  "credit": "NASA, Lunar Orbiter 2; Inset: Lunar Reconnaissance Orbiter",
   "explanation": "Could humans live beneath the surface of the Moon? This intriguing possibility was bolstered in 2009 when Japan's Moon-orbiting SELENE spacecraft imaged a curious hole beneath the Marius Hills region on the Moon, possibly a skylight to an underground lava tube. Follow-up observations by NASA's Lunar Reconnaissance Orbiter (LRO) indicated that the Marius Hills Hole (MHH) visually extends down nearly 100 meters and is several hundred meters wide. Most recently, ground penetrating radar data from SELENE has been re-analyzed to reveal a series of intriguing second echoes -- indicators that the extensive lava tubes exist under Marius Hills might extend down even kilometers and be large enough to house cities. Such tubes could shelter a future Moon colony from large temperature swings, micro-meteor impacts, and harmful solar radiation. Potentially, underground lava tubes might even be sealed to contain breathable air. These lava tubes likely formed when lunar volcanos were active billions of years ago. Pictured, the surface of Marius Hills region was captured in the 1960s by NASA's Lunar Orbiter 2 mission, while an inset image of the MHH is shown from NASA's continuing LRO. Several volcanic domes are visible, while Marius Crater is visible on the upper right.",
   "date": "2017-10-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1710/MariusHills_LO2LRO_1673.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1710/MariusHills_LO2LRO_1080.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Io Volcano Culann Patera",
-  "credit": [
-    "Credit: Galileo Project, JPL, NASA Explanation",
-    "Galileo Project, JPL, NASA"
-  ],
+  "credit": "Galileo Project, JPL, NASA",
   "explanation": "What causes the unusual colors surrounding Io's volcanoes? Io, the innermost large moon of Jupiter, is known to be the most tumultuous body in the Solar System. Approximately the size of Earth's Moon, Io undergoes nearly continuous volcanic eruptions from an interior heated by gravitational tides from Jupiter and Jupiter's other large moons. The robot spacecraft Galileo currently orbiting Jupiter has been monitoring the active volcano Culann Patera over the past few years. The above images indicate that the volcano has produced not only red and black colored lava flows, but yellow sulfur patches from explosive plumes. Green colors may arise when these processes affect the same terrain. White patches may be caused, in part, by sulfur dioxide snow. As Galileo has fulfilled its mission objectives and is running low on maneuvering fuel, NASA plans to crash the spacecraft into Jupiter during 2003.",
   "date": "2002-12-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0212/iovolcano_gal_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0212/iovolcano_gal.jpg"
 }

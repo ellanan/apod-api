@@ -1,14 +1,10 @@
 {
   "title": "The Andromeda Deep Field",
-  "credit": [
-    "Credit: T. M. Brown (STScI) et al., ESA, NASA Explanation",
-    "T. M. Brown (STScI) et al., ESA, NASA"
-  ],
+  "credit": "T. M. Brown (STScI) et al., ESA, NASA",
   "explanation": "What can you learn from looking into the depths of space? In an effort to find out true ages of stars in neighboring Andromeda galaxy's halo, astronomers stared into the galaxy giant with the new Advanced Camera for Surveys through the Hubble Space Telescope. The resulting exposure of over three days, shown above, is the deepest exposure in visible light ever taken, although shorter in duration than the multi-wavelength effort toward the Hubble Deep Field. The final image illuminated not only Andromeda (M31) but the distant universe. Andromeda's halo stars turned out to be have a wider range of ages than our Milky Way's halo stars, likely indicating more encounters with small neighboring galaxies. Visible on the above left is one of Andromeda's globular star clusters, while literally thousands of background galaxies are seen in the distance universe, far beyond M31.",
   "date": "2003-05-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0305/m31halo_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0305/m31halo_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Topographical Mars",
-  "credit": [
-    "Credit: MOLA Team, MGS Project, NASA Explanation",
-    "MOLA Team, MGS Project, NASA"
-  ],
+  "credit": "MOLA Team, MGS Project, NASA",
   "explanation": "Contrasting colors trace changing elevations in this new high-resolution topographic map of Mars. Just released, the data were gathered in 1998 and 1999 by the Mars Orbiter Laser Altimeter (MOLA) onboard the Mars Global Surveyor spacecraft. The martian topography is seen to range over 19 miles between the highest volcanic peaks (white) and the lowest regions (purple). Along with the striking difference between the Red Planet's low northern hemisphere (top) and high southern regions, one of the most noticeable features on the map is the large blue-purple southern depression corresponding to the Hellas basin. Likely the result of an asteroid impact, Mars' deepest basin is about 1300 miles across making it one of the largest impact features in the Solar System. Explorations of MOLA's rich topographic database are expected to produce insights into water flows and the geologic history of Mars.",
   "date": "1999-05-28",
   "hdurl": "https://apod.nasa.gov/apod/image/9905/mars_fc_flat_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9905/mars_fc_flat.jpg"
 }

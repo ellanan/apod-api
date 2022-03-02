@@ -1,14 +1,10 @@
 {
   "title": "The Crown of the Sun",
-  "credit": [],
   "explanation": "During a total solar eclipse, the Sun's extensive outer atmosphere, or corona, is an inspirational sight. The subtle shades and shimmering features of the corona that engage the eye span a brightness range of over 10,000 to 1, making them notoriously difficult to capture in a single picture. But this composite of 28 digital images ranging in exposure time from 1/1000 to 2 seconds comes close to revealing the crown of the Sun in all its glory. The telescopic views were recorded near Kochenevo, Russia during the August 1 total solar eclipse and also show solar prominences extending just beyond the edge of the eclipsed sun. Remarkably, features on the dark near side of the New Moon can also be made out, illuminated by sunlight reflected from a Full Earth.",
   "date": "2008-08-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0808/TSE2008_luethen.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Hartwig Luethen Explanation",
-    "Hartwig Luethen"
-  ],
+  "copyright": "Hartwig Luethen",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0808/TSE2008_luethen800.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Hole in Mars Close Up",
-  "credit": [
-    "Credit: HiRISE, MRO, LPL (U. Arizona), NASA Explanation",
-    "HiRISE, MRO, LPL (U. Arizona), NASA"
-  ],
+  "credit": "HiRISE, MRO, LPL (U. Arizona), NASA",
   "explanation": "In a close-up from the HiRISE instrument onboard the Mars Reconnaissance Orbiter, this mysterious dark pit, about 150 meters across, lies on the north slope of ancient martian volcano Arsia Mons. Lacking raised rims and other impact crater characteristics, this pit and others like it were originally identified in visible light and infrared images from the Mars Odyssey and Mars Global Surveyor spacecraft. While the visible light images showed only darkness within, infrared thermal signatures indicated that the openings penetrated deep under the martian surface and perhaps were skylights to underground caverns. In this later image, the pit wall is partially illuminated by sunlight and seen to be nearly vertical, though the bottom, at least 78 meters below, is still not visible. The dark martian pits are thought to be related to collapse pits in the lava flow, similar to Hawaiian volcano pit craters.",
   "date": "2007-09-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0709/PSP_004847_1745_cut_b.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0709/PSP_004847_1745_cut_b720.jpg"
 }

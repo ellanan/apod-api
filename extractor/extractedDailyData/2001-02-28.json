@@ -1,14 +1,10 @@
 {
   "title": "A Space Station Meets its Destiny",
-  "credit": [
-    "Credit: STS-98 Crew, NASA Explanation",
-    "STS-98 Crew, NASA"
-  ],
+  "credit": "STS-98 Crew, NASA",
   "explanation": "The International Space Station (ISS) had a date with Destiny earlier this month. More specifically, the crew of the Space Shuttle Atlantis installed the science laboratory named Destiny on the ISS. Destiny, pictured here, will also serve as a control center for the Earth orbiting space station. To help install this module, space shuttle astronauts conducted the 100th space walk by an American, an event that occurred nearly 40 years after Ed White first ventured outside of his Gemini 4 spacecraft. The space shuttle's crew took the above picture after their spacecraft had undocked from the space station. Over two hundred kilometers below lies the Rio Negro region of Argentina.",
   "date": "2001-02-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0102/iss_sts98_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0102/iss_sts98a.jpg"
 }

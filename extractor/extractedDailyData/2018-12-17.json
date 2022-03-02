@@ -1,14 +1,10 @@
 {
   "title": "M31: The Andromeda Galaxy",
-  "credit": [],
   "explanation": "What is the nearest major galaxy to our own Milky Way Galaxy? Andromeda. In fact, our Galaxy is thought to look much like Andromeda. Together these two galaxies dominate the Local Group of galaxies. The diffuse light from Andromeda is caused by the hundreds of billions of stars that compose it. The several distinct stars that surround Andromeda's image are actually stars in our Galaxy that are well in front of the background object. Andromeda is frequently referred to as M31 since it is the 31st object on Messier's list of diffuse sky objects. M31 is so distant it takes about two million years for light to reach us from there. Although visible without aid, the featured image of M31 is a digital mosaic of 20 frames taken with a small telescope. Much about M31 remains unknown, including exactly how long it will be before it collides with our home galaxy.",
   "date": "2018-12-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1812/m31_gendler_2700.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1812/m31_gendler_1080.jpg"
 }

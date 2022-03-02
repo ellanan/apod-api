@@ -1,14 +1,10 @@
 {
   "title": "Sunset Analemma",
-  "credit": [],
   "explanation": "Today, the solstice is at 15:54 Universal Time, the Sun reaching the northernmost declination in its yearly journey through planet Earth's sky. A June solstice marks the astronomical beginning of summer in the northern hemisphere and winter in the south. It also brings the north's longest day, the longest period between sunrise and sunset. In fact the June solstice sun is near the top, at the most northern point in the analemma or figure 8 curve traced by the position of the Sun in this composite photo. The analemma was created (video) from images taken every 10 days at the same time from June 21, 2018 and June 7, 2019. The time was chosen to be the year's earliest sunset near the December solstice, so the analemma's lowest point just kisses the unobstructed sea horizon at the left. Sunsets arranged along the horizon toward the right (north) are centered on the sunset at the September equinox and end with sunset at the June solstice.",
   "date": "2019-06-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1906/AnalemmaSunset.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Marcella Giulia Pace Explanation",
-    "Marcella Giulia Pace"
-  ],
+  "copyright": "Marcella Giulia Pace",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1906/FINALEDIDAkb1024.jpg"
 }

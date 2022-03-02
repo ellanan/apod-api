@@ -1,14 +1,10 @@
 {
   "title": "A Robot's Shadow on Asteroid Itokawa",
-  "credit": [],
   "explanation": "What's that unusual looking spot on asteroid Itokawa? It's the shadow of the robot spacecraft Hayabusa that took the image. Japan's Hayabusa mission arrived at the asteroid in early September and has been imaging and maneuvering around the floating space mountain ever since. The above picture was taken earlier this month. Asteroid Itokawa spans about 300 meters. One scientific goal of the Hayabusa mission is to determine out how much ice, rock and trace elements reside on the asteroid's surface, which should give indications about how asteroids and planets formed in the early Solar System. A can-sized robot MINERVA that was scheduled to hop around the asteroid's surface has not, so far, functioned as hoped. Later this month, Hayabusa is scheduled to descend to asteroid Itokawa and collect surface samples in a return capsule. In December, Hayabusa will fire its rockets toward Earth and drop the return capsule down to Earth's Australian outback in 2007 June.",
   "date": "2005-11-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0511/itokawa2_hayabusa_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: ISAS, JAXA Explanation",
-    "ISAS, JAXA"
-  ],
+  "copyright": "ISAS, JAXA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0511/itokawa2_hayabusa.jpg"
 }

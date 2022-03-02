@@ -1,14 +1,10 @@
 {
   "title": "Zal Patera on Jupiter's Moon Io",
-  "credit": [
-    "Credit: Galileo Project, SSI, University of Arizona, JPL, NASA Explanation",
-    "Galileo Project, SSI, University of Arizona, JPL, NASA"
-  ],
+  "credit": "Galileo Project, SSI, University of Arizona, JPL, NASA",
   "explanation": "",
   "date": "2000-03-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0003/ioclose_gal_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0003/ioclose_gal.jpg"
 }

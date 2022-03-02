@@ -1,14 +1,10 @@
 {
   "title": "Space Station in the Moon",
-  "credit": [],
   "explanation": "On February 2nd, a first quarter Moon shone in planet Earth's early evening sky. As seen from a location on the US west coast near Mt. Hamilton, California, the International Space Station also arched above the horizon, crossing in front of the Moon's sunlit surface. The space station's transit lasted 0.49 seconds. This sharp exposure, a well-timed telescopic image, recorded the space station during the transit against the background of the Moon's smooth Mare Serenitatis (Sea of Serenity). The orbital outpost was traveling northwest to southeast (from 2 o'clock to 8 o'clock) at a range of 389 kilometers or about 230 miles. Of course, the Moon itself was 1,000 times farther away. In the remarkable photo, the glinting station also offers a hint of the bluish reflection of earthlight.",
   "date": "2009-02-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0902/ISS_0082_2009-02-02x2cropped.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Eric J. Zbinden Explanation",
-    "Eric J. Zbinden"
-  ],
+  "copyright": "Eric J. Zbinden",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0902/ISS_0082_2009-02-02x2cropped800.jpg"
 }

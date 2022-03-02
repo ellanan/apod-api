@@ -1,14 +1,10 @@
 {
   "title": "N44C: A Nebular Mystery",
-  "credit": [
-    "Credit: Donald Garnett (U. Arizona) et al., Hubble Heritage Team, NASA Explanation",
-    "Donald Garnett (U. Arizona) et al., Hubble Heritage Team, NASA"
-  ],
+  "credit": "Donald Garnett (U. Arizona) et al., Hubble Heritage Team, NASA",
   "explanation": "Why is N44C glowing so strangely? The star that appears to power the nebula, although young and bright, does not seem hot enough to create some of the colors observed. A search for a hidden hotter star in X-rays has come up empty. One hypothesis is that the known central star has a neutron star companion in a very wide orbit. Hot X-rays might only then be emitted during brief periods when the neutron star nears the known star and crashes through a disk of surrounding gas. Future observations might tell. N44C, pictured in the above Hubble Space Telescope image, is an emission nebula in the Large Magellanic Cloud, a neighboring galaxy to our Milky Way Galaxy. Flowing filaments of colorful gas and dark dust far from the brightest region are likely part of the greater N44 complex. It would take light about 125 years to cross N44C.",
   "date": "2002-05-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0205/n44c_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0205/n44c_hst.jpg"
 }

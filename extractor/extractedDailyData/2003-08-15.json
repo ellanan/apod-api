@@ -1,14 +1,10 @@
 {
   "title": "Sedimentary Mars",
-  "credit": [
-    "Credit: Malin Space Science Systems, MGS, JPL, NASA Explanation",
-    "Malin Space Science Systems, MGS, JPL, NASA"
-  ],
+  "credit": "Malin Space Science Systems, MGS, JPL, NASA",
   "explanation": "High-resolution imaging of an area in the Schiaparelli Basin of Mars on June 3 by the MGS Mars Orbiter camera produced this stunning example of layered formations within an old impact crater. On planet Earth, such structures would be seen in sedimentary rock -- material deposited at the bottom of ancient lakes or oceans and then subsequently weathered away to reveal the layers. With the Sun shining from the left, the central layer appears to stand above the others within the 2.3 kilometer wide crater. The crater could well have been filled with water in Mars' distant past, perhaps resting at the bottom of a lake filling the Schiaparelli impact basin. Still, such layers might also have been formed by material settling out of the windy martian atmosphere. As satellites continue to examine the martian surface from orbit, NASA's Spirit and Opportunity spacecraft will attempt to land on on Mars early next year to further explore the tantalizing history of water on the Red Planet.",
   "date": "2003-08-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0308/schiaparellibasincrater_mgs_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0308/schiaparellibasincrater_mgs_c1.jpg"
 }

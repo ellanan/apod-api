@@ -1,14 +1,10 @@
 {
   "title": "The View from Everest",
-  "credit": [],
   "explanation": "What would it be like to stand atop the tallest mountain on Earth? To see a full panoramic vista from there, scroll right. Visible are snow peaked mountains near and far, tremendous cliffs, distant plateaus, the tops of clouds, and a dark blue sky. Mt. Everest stands 8.85 kilometers above sea level, roughly the maximum height reached by international airplane flights, but much less than the 300 kilometers achieved by a space shuttle. Hundreds of people have tried and failed to climb the behemoth by foot, a feat first accomplished successfully in 1953. About 1000 people have now made it to the summit. Roddy Mackenzie, who climbed the mountain in 1989, captured the above image. Mt. Everest lies in the Himalayan mountains in the country of Nepal. In the native language of Nepal, the mountain's name is \"Sagarmatha\" which means \"goddess of the sky.\"",
   "date": "2002-07-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/everest_mackenzie.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Roddy Mackenzie Explanation",
-    "Roddy Mackenzie"
-  ],
+  "copyright": "Roddy Mackenzie",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/everest_mackenzie.jpg"
 }

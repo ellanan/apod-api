@@ -1,14 +1,10 @@
 {
   "title": "The Matter of the Bullet Cluster",
-  "credit": [
-    "Credit: X-ray: NASA/CXC/CfA/ M.Markevitch et al.; Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/ D.Clowe et al. Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al.; Explanation",
-    "X-ray: NASA/CXC/CfA/ M.Markevitch et al.; Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/ D.Clowe et al. Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al.;"
-  ],
+  "credit": "X-ray: NASA/CXC/CfA/ M.Markevitch et al.; Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/ D.Clowe et al. Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al.;",
   "explanation": "The matter in galaxy cluster 1E 0657-56, fondly known as the \"bullet cluster\", is shown in this composite image. A mere 3.4 billion light-years away, the bullet cluster's individual galaxies are seen in the optical image data, but their total mass adds up to far less than the mass of the cluster's two clouds of hot x-ray emitting gas shown in red. Representing even more mass than the optical galaxies and x-ray gas combined, the blue hues show the distribution of dark matter in the cluster. Otherwise invisible to telescopic views, the dark matter was mapped by observations of gravitational lensing of background galaxies. In a text book example of a shock front, the bullet-shaped cloud of gas at the right was distorted during the titanic collision between two galaxy clusters that created the larger bullet cluster itself. But the dark matter present has not interacted with the cluster gas except by gravity. The clear separation of dark matter and gas clouds is considered direct evidence that dark matter exists.",
   "date": "2006-08-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0608/bulletcluster_comp_f2048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0608/bullet_cluster_c60w.jpg"
 }

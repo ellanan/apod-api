@@ -1,14 +1,10 @@
 {
   "title": "Molecular Cloud Barnard 163",
-  "credit": [],
   "explanation": "It may look to some like a duck, but it lays stars instead of eggs. In the center of the above image lies Barnard 163, a nebula of molecular gas and dust so thick that visible light can't shine through it. With a wing span measured in light years, Barnard 163's insides are surely colder than its exterior, allowing conditions where gas can clump and eventually form stars. Barnard 163 lies about 3,000 light years from Earth toward the constellation of Cepheus the King. The red glow in the background results from IC 1396, a large emission nebula that houses the Elephant's Trunk Nebula. Finding Barnard 163 in an image of its greater emission nebula IC 1396 can be a challenge, but it's possible.",
   "date": "2007-03-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0703/barnard163_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: T. Rector (U. Alaska Anchorage), H. Schweiker, WIYN, NOAO, AURA, NSF Explanation",
-    "T. Rector (U. Alaska Anchorage), H. Schweiker, WIYN, NOAO, AURA, NSF"
-  ],
+  "copyright": "T. Rector (U. Alaska Anchorage), H. Schweiker, WIYN, NOAO, AURA, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0703/barnard163_noao.jpg"
 }

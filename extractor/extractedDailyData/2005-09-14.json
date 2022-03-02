@@ -1,14 +1,10 @@
 {
   "title": "The Boomerang Nebula in Polarized Light",
-  "credit": [
-    "Credit: Hubble Heritage Team, J. Biretta (STScI) et al., (STScI/AURA), ESA, NASA Explanation",
-    "Hubble Heritage Team, J. Biretta (STScI) et al., (STScI/AURA), ESA, NASA"
-  ],
+  "credit": "Hubble Heritage Team, J. Biretta (STScI) et al., (STScI/AURA), ESA, NASA",
   "explanation": "Why did the Boomerang Nebula form? The symmetric cloud dubbed the Boomerang appears to have been created by a high-speed wind of gas and dust blowing from an aging central star at speeds of nearly 600,000 kilometers per hour. What confines the wind remains a mystery though -- it may be a central disk of dense gas or a central magnetic field. The rapid expansion itself, however, has cooled molecules in the nebular gas to about one degree above absolute zero - colder than even the cosmic background radiation - making it the coldest known region in the distant Universe. Shining with light from the central star reflected by dust, the frigid Boomerang Nebula is believed to be a star or stellar system evolving toward the planetary nebula phase. To help better understand the Boomerang's origin, astronomers are studying the above image taken in polarized light, color coded by an angular direction associated with the polarization. Different progenitor scenarios create different amounts and patterns of polarized light. The above image was taken by the Hubble Space Telescope's Advanced Camera for Surveys earlier this year. The Boomerang Nebula spans about one light year and lies about 5,000 light years away toward the constellation Centaurus.",
   "date": "2005-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0509/boomerang_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0509/boomerang_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Impact Moon",
-  "credit": [
-    "Credit: Galileo Project, JPL, NASA Explanation",
-    "Galileo Project, JPL, NASA"
-  ],
+  "credit": "Galileo Project, JPL, NASA",
   "explanation": "The Moon's surface is covered with craters, scars of frequent impacts during the early history of the solar system. Now, recent results from the Lunar Prospector spacecraft support the idea that the Moon itself formed from the debris of a giant impact of a mars-sized planetary body with the Earth nearly 4.5 billion years ago. The impact theory of lunar origin can explain, for example, why Moon rocks returned by the Apollo missions have the same isotopic ratios as Earth rocks while the Moon seems deficient in heavy elements like iron. It can also explain a critical finding of the Lunar Prospector experiments - that the Moon's core is proportionally very small. If the Moon formed simply as a \"sister world\", its origin paralleling Earth's formation from the primordial solar nebula, it should have similar iron content and relative core size. But material blasted from the surface of Earth by an impacting body would lack the iron and heavy elements which had settled to the Earth's core yet retain similar ratios of chemical isotopes. A fraction of this debris cloud would remain in Earth orbit ultimately forming the Moon.",
   "date": "1999-03-26",
   "hdurl": "https://apod.nasa.gov/apod/image/9903/northmoon_gal_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9903/northmoon_gal_c2.jpg"
 }

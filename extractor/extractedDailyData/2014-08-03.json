@@ -1,14 +1,10 @@
 {
   "title": "Dark Shuttle Approaching",
-  "credit": [
-    "Credit: Space Station Expedition 22 Crew, NASA Explanation",
-    "Space Station Expedition 22 Crew, NASA"
-  ],
+  "credit": "Space Station Expedition 22 Crew, NASA",
   "explanation": "What's that approaching? Astronauts on board the International Space Station first saw it in early 2010 far in the distance. Soon it enlarged to become a dark silhouette. As it came even closer, the silhouette appeared to be a spaceship. Finally, the object revealed itself to be the Space Shuttle Endeavour, and it soon docked as expected with the Earth-orbiting space station. Pictured above, Endeavour was imaged near Earth's horizon as it approached, where several layers of the Earth's atmosphere were visible. Directly behind the shuttle is the mesosphere, which appears blue. The atmospheric layer that appears white is the stratosphere, while the orange layer is Earth's Troposphere. This shuttle mission, began with a dramatic night launch. Tasks completed during this shuttle's visit to the ISS included the delivery of the Tranquility Module which contained a cupola bay window complex that allows even better views of spaceships approaching and leaving the space station.",
   "date": "2014-08-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1408/shuttleapproaching_nasa_6048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1408/shuttleapproaching_nasa_960.jpg"
 }

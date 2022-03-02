@@ -1,14 +1,10 @@
 {
   "title": "Descent to a Comet",
-  "credit": [
-    "Credit: ESA/Rosetta/Philae/ROLIS Explanation",
-    "ESA/Rosetta/Philae/ROLIS"
-  ],
+  "credit": "ESA/Rosetta/Philae/ROLIS",
   "explanation": "Yesterday, the first soft landing on a comet took place some 500 million kilometers from planet Earth as the Rosetta mission lander Philae settled on the nucleus of C67/P Churyumov-Gerasimenko. The landing site, dubbed Agilkia, is located near the center of this remarkable image snapped by Philae's ROLIS (ROsetta Lander Imaging System) camera. Taken from a distance of about 3 kilometers the image has a resolution of about 3 meters per pixel at the surface. After Philae's release from the orbiter, its seven-hour long descent was made without propulsion or guidance. Following its descent the lander is in place, though its anchoring harpoon system did not fire. For 2.5 days the lander is intended to conduct its main science mission returning extensive images and data. An extended surface mission may be possible if sunlight and dust conditions allow solar panels to recharge Philae's battery.",
   "date": "2014-11-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1411/ROLIS_descent_image.png",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1411/ROLIS_descent_image900.jpg"
 }

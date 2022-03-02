@@ -1,14 +1,10 @@
 {
   "title": "Herschel's Orion",
-  "credit": [],
   "explanation": "This dramatic image peers within M42, the Orion Nebula, the closest large star-forming region. Using data at infrared wavelengths from the Herschel Space Observatory, the false-color composite explores the natal cosmic cloud a mere 1,500 light-years distant. Cold, dense filaments of dust that would otherwise be dark at visible wavelengths are shown in reddish hues. Light-years long, the filaments weave together bright spots that correspond to regions of collapsing protostars. The brightest bluish area near the top of the frame is warmer dust heated by the hot Trapezium cluster stars that also power the nebula's visible glow. Herschel data has recently indicated ultraviolet starlight from the hot newborn stars likely contributes to the creation of carbon-hydrogen molecules, basic building blocks of life. This Herschel image spans about 3 degrees on the sky. That's about 80 light-years at the distance of the Orion Nebula.",
   "date": "2016-10-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1610/OrionHerschel-nhsc2016-003b.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: ESA/Herschel/PACS/SPIRE Explanation",
-    "ESA/Herschel/PACS/SPIRE"
-  ],
+  "copyright": "ESA/Herschel/PACS/SPIRE",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1610/OrionHerschel-nhsc2016-003b_1024.jpg"
 }

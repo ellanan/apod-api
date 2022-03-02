@@ -1,14 +1,10 @@
 {
   "title": "Leonids and Leica",
-  "credit": [],
   "explanation": "",
   "date": "2006-11-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0611/leonids2002_casado_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Juan Carlos Casado and Isabel Graboleda Explanation",
-    "Juan Carlos Casado and Isabel Graboleda"
-  ],
+  "copyright": "Juan Carlos Casado and Isabel Graboleda",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0611/leonids2002_casado.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Milky Way Voyager",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, Voyager Explanation",
-    "NASA, JPL-Caltech, Voyager"
-  ],
+  "credit": "NASA, JPL-Caltech, Voyager",
   "explanation": "Launched in 1977 on a tour of the outer planets of the Solar System, Voyager 1 and 2 have become the longest operating and most distant spacecraft from Earth. Nearly 16 light-hours from the Sun, Voyager 2 has reached the edge of the heliosphere, the realm defined by the influence of the solar wind and the Sun's magnetic field. Now humanity's first ambassador to the Milky Way, Voyager 1 is over 19 light-hours away, beyond the heliosphere in interstellar space. Celebrate the Voyagers' 40 year journey toward the stars with NASA on September 5.",
   "date": "2017-09-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1709/voyager_modern_poster.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1709/voyager_modern_poster1024.jpg"
 }

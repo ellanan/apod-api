@@ -1,14 +1,10 @@
 {
   "title": "HESS Gamma-Ray Telescope",
-  "credit": [
-    "Credit: The HESS Collaboration Explanation",
-    "The HESS Collaboration"
-  ],
+  "credit": "The HESS Collaboration",
   "explanation": "Most ground-based telescopes with lenses and mirrors are hindered by the Earth's nurturing, protective atmosphere that blurs images and scatters and absorbs light. But this telescope was designed to detect extreme gamma rays - photons with over 100 billion times the energy of visible light - and actually requires the atmosphere to operate. As the gamma rays impact the upper atmosphere they produce air showers of high-energy particles. Adorned with 382 separate mirrors each 60 centimeters in diameter and equipped with a fast camera, the telescope records in detail the brief flashes of optical light, called Cherenkov light, created by the air shower particles. The telescope pictured here was inaugurated this week and is intended to operate as part of the High Energy Stereoscopic System (HESS) array under construction in Namibia. The initial phase of HESS will consist of four telescopes working in concert to provide multiple stereoscopic views of the air showers, relating them to the energies and directions of the incoming cosmic gamma rays.",
   "date": "2002-09-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0209/telescope_hess_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0209/telescope_hess.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Apollo's Analemma",
-  "credit": [],
   "explanation": "Today, the Sun crosses the celestial equator heading south at 20:44 Universal Time. An equinox (equal night), this astronomical event marks the first day of autumn in the northern hemisphere and spring in the south. With the Sun on the celestial equator, Earth dwellers will experience nearly 12 hours of daylight and 12 hours of darkness. To celebrate, consider this remarkable record of the Sun's yearly journey through planet Earth's sky, made with planned multiple exposures captured on a single piece of 35 millimeter film. Exposures were made at the same time of day (9:00am local time), capturing the Sun's position on dates from January 7 through December 20, 2003. The multiple suns trace an intersecting curve known as an analemma. A foreground base exposure of the Temple of Apollo in ancient Corinth, Greece, appropriate for an analemma, was digitally merged with the film image. Equinox dates correspond to the middle points (not the intersection point) of the analemma. The curve is oriented at the corresponding direction and altitude for the temple, so the Sun's position for the September equinox is at the upper midpoint near picture center. Summer and winter solstices are at analemma top and bottom.",
   "date": "2013-09-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1309/solar-analemma-070000-900pix.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anthony Ayiomamitis (TWAN) Explanation",
-    "Anthony Ayiomamitis (TWAN)"
-  ],
+  "copyright": "Anthony Ayiomamitis (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1309/solar-analemma-070000-900pix.jpg"
 }

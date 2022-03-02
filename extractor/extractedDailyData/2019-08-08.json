@@ -1,14 +1,10 @@
 {
   "title": "Curiosity at Teal Ridge",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, MSSS, Curiosity Mars Rover Explanation",
-    "NASA, JPL-Caltech, MSSS, Curiosity Mars Rover"
-  ],
+  "credit": "NASA, JPL-Caltech, MSSS, Curiosity Mars Rover",
   "explanation": "Part of a 360 degree panorama, this view looks out from the Mars rover Curiosity's current location on the Red Planet dubbed Teal Ridge. The mosaicked scene was captured by the rover's Mastcam on Earth calendar date June 18, 2019. That corresponds to Curiosity's sol 2440, or 2,440th martian day on the surface. Since landing seven years ago on August 6, 2012 in Gale Crater, Curiosity has traveled some 21 kilometers (13 miles). On the right, the rover's tracks lead back toward Vera Rubin Ridge with the Gale Crater rim visible in the distance. The robotic rover leaves wheel tracks about 3 meters (10 feet) apart. During its mission, Curiosity has had great successes exploring the history of water in the martian environment. In fact, NASA's Mars 2020 rover is largely based on the Mars Curiosity rover design.",
   "date": "2019-08-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1908/pia23346-16.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1908/pia23346-16_1024.jpg"
 }

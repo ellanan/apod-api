@@ -1,14 +1,10 @@
 {
   "title": "Finding Dark Matter",
-  "credit": [],
   "explanation": "Where is dark matter? Galaxies rotate and move in clusters as if a tremendous amount of unseen matter is present. But does dark matter exist in the greater universe too -- and if so, where? The answer can be found by comparing the distribution of galaxies observed with numerical simulations. This comparison became much more accurate recently when over 100,000 galaxy observations from the 2-Degree Field Galactic Redshift Survey were used. In the above frame from a computer simulation of our universe, a 300 million light-year slice shows dark matter in gray and galaxies as colored circles. The red box indicates the location of a rich cluster of galaxies, while the green box shows a more typical cross-section of our universe. Analyses indicate that the immense gravity of the pervasive dark matter pulls normal matter to it, so that light matter and dark matter actually cluster together.",
   "date": "2001-12-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0112/lss_durham_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: A. J. Benson (Caltech) et al., U. Durham, PPARC Explanation",
-    "A. J. Benson (Caltech) et al., U. Durham, PPARC"
-  ],
+  "copyright": "A. J. Benson (Caltech) et al., U. Durham, PPARC",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0112/lss_durham.jpg"
 }

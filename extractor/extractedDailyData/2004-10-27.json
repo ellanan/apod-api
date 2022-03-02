@@ -1,14 +1,10 @@
 {
   "title": "Total Lunar Eclipse Tonight",
-  "credit": [
-    "Credit: Fred Espenak, Sun-Earth Connection, GSFC, NASA Explanation",
-    "Fred Espenak, Sun-Earth Connection, GSFC, NASA"
-  ],
+  "credit": "Fred Espenak, Sun-Earth Connection, GSFC, NASA",
   "explanation": "Go outside tonight and see the total lunar eclipse. Tonight's eclipse is easy and convenient for much of the world to see. Anyone who can spot a full Moon can see it fade out as the Earth's shadow engulfs it. No protective glasses or expensive telescopes are needed, just a little moxie. The above illustration shows how the eclipse will appear across the Earth. The total lunar eclipse starts at 9:14 pm Eastern Daylight Time, equivalent to 1:14 am UT in the morning for sky enthusiasts in the United Kingdom. From the moment the first part of the Moon disappears to the moment that the last part of the Moon reappears will be 3 hours and 40 minutes. For those unfortunate enough to suffer clouds, the eclipse can also be followed over several live webcasts.",
   "date": "2004-10-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0410/lunareclipse041028_nasa_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0410/lunareclipse041028_nasa.gif"
 }

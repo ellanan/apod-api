@@ -1,14 +1,10 @@
 {
   "title": "Interstellar Interloper 2I/Borisov",
-  "credit": [
-    "Credit: NASA, ESA, and D. Jewitt (UCLA) et al. Explanation",
-    "NASA, ESA, and D. Jewitt (UCLA) et al."
-  ],
+  "credit": "NASA, ESA, and D. Jewitt (UCLA) et al.",
   "explanation": "After the 2017 detecton of 1I/'Oumuamua, comet 2I/Borisov has become the second recognized interstellar interloper. Like 'Oumuamua, Borisov's measured hyperbolic trajectory and speed as it falls toward the Sun confirm that its origin is from beyond our Solar System. But while detailed observations indicate 'Oumuamua is a rocky body with differences from known Solar System objects, Borisov is definitely a far wandering comet. Taken on October 12, 2019 this Hubble Space Telescope image of Borisov reveals a familiar looking comet-like activity and concentration of dust around around its nucleus. Not resolved in the image, some estimates suggest the nucleus could be between 2 and 16 kilometers in diameter. At the time of the Hubble image, comet 2I/Borisov was about 418 million kilometers away. Borisov is still inbound though and will make its closest approach to the Sun on December 7 at a distance of about 300 million kilometers (2 Astronomical units).",
   "date": "2019-10-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1910/STSCI-H-p1953b_1106.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1910/STSCI-H-p1953b_1024.jpg"
 }

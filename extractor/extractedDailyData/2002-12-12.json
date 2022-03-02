@@ -1,14 +1,10 @@
 {
   "title": "Apollo 17: Last on the Moon",
-  "credit": [
-    "Credit: Apollo 17, NASA (Image scanned by Kipp Teague) Explanation",
-    "Apollo 17, NASA (Image scanned by Kipp Teague)"
-  ],
+  "credit": "Apollo 17, NASA (Image scanned by Kipp Teague)",
   "explanation": "In December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, in the Taurus-Littrow valley, while colleague Ronald Evans orbited overhead. Near the beginning of their third and final excursion across the lunar surface, Schmitt took this picture of Cernan flanked by an American flag and their lunar rover's umbrella-shaped high-gain antenna. The prominent Sculptured Hills lie in the background while Schmitt's reflection can just be made out in Cernan's helmet. The Apollo 17 crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. And after thirty years, Cernan and Schmitt are still the last to walk on the Moon.",
   "date": "2002-12-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0212/as17-140-21391.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0212/as17-140-21391c1.jpg"
 }

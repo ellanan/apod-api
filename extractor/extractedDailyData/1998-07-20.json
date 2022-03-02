@@ -1,14 +1,10 @@
 {
   "title": "La Nina Watch",
-  "credit": [
-    "Credit: TRMM Satellite, NASDA, NASA Explanation",
-    "TRMM Satellite, NASDA, NASA"
-  ],
+  "credit": "TRMM Satellite, NASDA, NASA",
   "explanation": "Goodbye El Niño. Hello La Niña? Scientists are watching to see if an evolving pool of relatively cool water in the mid-Pacific Ocean will develop into a full \"La Niña\". Over the past several months, the water temperature in the Equatorial Pacific Ocean has been doing a flip-flop. From being slightly warmer than normal in the winter, a condition called El Niño, much of this water is now slightly colder than normal, a condition that might develop into a La Niña - with global weather consequences. Pictured above is a false-color satellite image showing relative temperature in Equatorial Pacific taken earlier this month. The blue color indicates relatively cool water. Since little has changed since last month, it is possible that the situation has stabilized. The last two La Nina years were 1988 and 1995.",
   "date": "1998-07-20",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/lanina_nasda_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/lanina_nasda.jpg"
 }

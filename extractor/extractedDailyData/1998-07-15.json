@@ -1,14 +1,10 @@
 {
   "title": "Ghost Galaxy NGC 2915",
-  "credit": [
-    "Credit: G. R. Meurer (Johns Hopkins U.), C. Carignan (U. Montreal), S. Beaulieu and K. Freeman (MSSSO), Radio Image: ATCA, Optical Image: AAT Explanation",
-    "G. R. Meurer (Johns Hopkins U.), C. Carignan (U. Montreal), S. Beaulieu and K. Freeman (MSSSO), Radio Image: ATCA, Optical Image: AAT"
-  ],
+  "credit": "G. R. Meurer (Johns Hopkins U.), C. Carignan (U. Montreal), S. Beaulieu and K. Freeman (MSSSO), Radio Image: ATCA, Optical Image: AAT",
   "explanation": "How do you find a nearly invisible galaxy? Pictured above is the blue compact dwarf (BCD) galaxy NGC 2915. In visible light, shown above in yellow, this galaxy appears to be a normal dwarf galaxy, as indicated by the yellow smudge in the image center. Yet when imaged in a very specific color, shown in blue, a whole spiral galaxy appears. This specific color is in the radio band and is preferentially emitted by neutral hydrogen atoms. Much about BCD galaxies remains mysterious, such as how the neutral hydrogen obtained its shape, what drives current star formation, and why there is so much dark matter. NGC 2915 is located at the relatively nearby distance of 15 million light-years - just outside our Local Group of Galaxies.",
   "date": "1998-07-15",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/ngc2915_meurer_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/ngc2915_meurer.jpg"
 }

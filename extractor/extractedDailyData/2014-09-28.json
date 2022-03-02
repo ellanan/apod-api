@@ -1,14 +1,10 @@
 {
   "title": "Two Black Holes Dancing in 3C 75",
-  "credit": [
-    "Credit: X-Ray: NASA/CXC/D. Hudson, T.Reiprich et al. (AIfA); Radio: NRAO/VLA/ NRL Explanation",
-    "X-Ray: NASA/CXC/D. Hudson, T.Reiprich et al. (AIfA); Radio: NRAO/VLA/ NRL"
-  ],
+  "credit": "X-Ray: NASA/CXC/D. Hudson, T.Reiprich et al. (AIfA); Radio: NRAO/VLA/ NRL",
   "explanation": "What's happening at the center of active galaxy 3C 75? The two bright sources at the center of this composite x-ray (blue)/ radio (pink) image are co-orbiting supermassive black holes powering the giant radio source 3C 75. Surrounded by multimillion degree x-ray emitting gas, and blasting out jets of relativistic particles the supermassive black holes are separated by 25,000 light-years. At the cores of two merging galaxies in the Abell 400 galaxy cluster they are some 300 million light-years away. Astronomers conclude that these two supermassive black holes are bound together by gravity in a binary system in part because the jets' consistent swept back appearance is most likely due to their common motion as they speed through the hot cluster gas at 1200 kilometers per second. Such spectacular cosmic mergers are thought to be common in crowded galaxy cluster environments in the distant universe. In their final stages the mergers are expected to be intense sources of gravitational waves.",
   "date": "2014-09-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1409/3c75_chandraNRAO_576.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1409/3c75_chandraNRAO_960.jpg"
 }

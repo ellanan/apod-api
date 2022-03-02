@@ -1,14 +1,10 @@
 {
   "title": "Schwassmann-Wachmann 3: Fragment B",
-  "credit": [
-    "Credit: NASA, ESA, H. Weaver (JHU / APL), M. Mutchler and Z. Levay (STScI) Explanation",
-    "NASA, ESA, H. Weaver (JHU / APL), M. Mutchler and Z. Levay (STScI)"
-  ],
+  "credit": "NASA, ESA, H. Weaver (JHU / APL), M. Mutchler and Z. Levay (STScI)",
   "explanation": "Periodic comet 73P/Schwassmann-Wachmann 3 has fallen apart before. A cosmic souffle of ice and dust left over from the early solar system, this comet was seen to split into several large pieces during the close-in part of its orbit in 1995. However, this time the comet seems to be rapidly disintegrating with over three dozen fragments, named alphabetically, now stretching several degrees across the sky. Since comets are relatively fragile, stresses from heat and gravity and outgassing, for example, could be responsible for their tendency to breakup in such a spectacular fashion. On April 18th, the Hubble Space Telescope recorded this sharp view of prolific Fragment B, itself trailing dozens of smaller pieces, each with its own cometary coma and tail. The picture spans over 3,000 kilometers at the comet's April 18 distance of 32 million kilometers from planet Earth. With its brightest fragment presently too faint to be seen with the naked eye, comet Schwassmann-Wachmann 3 will pass closest to Earth on May 13 at a distance of about 11 million kilometers.",
   "date": "2006-05-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0605/fragb_73p_hst_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0605/fragb_73p_hst_c.jpg"
 }

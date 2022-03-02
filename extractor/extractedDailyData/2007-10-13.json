@@ -1,14 +1,10 @@
 {
   "title": "Enceladus Ice Geysers",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Ice geysers erupt on Enceladus, bright and shiny inner moon of Saturn. Shown in this false-color image, a backlit view of the moon's southern limb, the majestic, icy plumes were discovered by instruments on the Cassini Spacecraft during close encounters with Enceladus in November of 2005. Eight source locations for these geysers have now been identified along substantial surface fractures in the moon's south polar region. Researchers suspect the geysers arise from near-surface pockets of liquid water with temperatures near 273 kelvins (0 degrees C). That's hot when compared to the distant moon's surface temperature of 73 kelvins (-200 degrees C). The cryovolcanism is a dramatic sign that tiny, 500km-diameter Enceladus is surprisingly active. Enceladus ice geysers also likely produce Saturn's faint but extended E ring.",
   "date": "2007-10-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0710/PIA08386_enceladus_r.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0710/PIA08386_enceladus_rc.jpg"
 }

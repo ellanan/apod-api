@@ -1,14 +1,10 @@
 {
   "title": "The Hills of Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, JPL, NASA",
   "explanation": "Distant hills rise above a rocky, windswept plain in this sharp stereo scene from the Spirit rover on Mars. When viewed with red/blue glasses, the picture combines left and right images from Spirit's high resolution panoramic camera to yield a dramatic 3D perspective. The hills were estimated to lie about 2 kilometers away and be approximately 50 to 100 meters high. Along with other features of the landscape, determining their direction and distance will help pinpoint the exact location of the Spirit landing site when compared with high resolution images of the region taken from Mars orbit. Much stereo image data, allowing important estimates of three dimensional shapes, sizes, and distances, is anticipated from the rover's cameras. (Editor's note: Red/blue glasses for viewing stereo pictures can be purchased or simply constructed using red and blue plastic for filters. Try it! To view this image, the red filter is used for the left eye.)",
   "date": "2004-01-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0401/mars_spirit3d_PIA05008.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0401/mars_spirit3d_p5.jpg"
 }

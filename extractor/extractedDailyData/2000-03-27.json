@@ -1,14 +1,10 @@
 {
   "title": "Flying Over Asteroid Eros",
-  "credit": [
-    "Credit: NEAR Shoemaker Project, JHU APL, NASA Explanation",
-    "NEAR Shoemaker Project, JHU APL, NASA"
-  ],
+  "credit": "NEAR Shoemaker Project, JHU APL, NASA",
   "explanation": "What would it look like to fly over an asteroid? Spacecraft NEAR Shoemaker in orbit around asteroid 433 Eros found out earlier this month when it recorded its first fly-over sequence. The saddle region of the Sun-orbiting space-mountain appears to zip past the camera in this condensed hour-long time-lapse sequence. The spacecraft was orbiting about 200 kilometers above the asteroid. Movies such as this are scientifically useful for discerning between regions that are naturally dark and regions that have their brightness dominated by shadows. The week before, a bright X-ray burst from the Sun allowed NEAR's X-ray spectrometer to detect the presence of several elements on Eros' surface by their X-ray fluorescent signatures.",
   "date": "2000-03-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0003/flyover1_near.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0003/flyover1_near_big.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Venus in the Moon",
-  "credit": [],
   "explanation": "",
   "date": "2008-12-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0812/Mond_Venus_comp600.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Johannes Schedler (Panther Observatory) Inset: Vincent Jacques Explanation",
-    "Johannes Schedler (Panther Observatory) Inset: Vincent Jacques"
-  ],
+  "copyright": "Johannes Schedler (Panther Observatory) Inset: Vincent Jacques",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0812/Mond_Venus_comp540a.jpg"
 }

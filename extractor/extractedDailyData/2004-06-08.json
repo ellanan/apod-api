@@ -1,14 +1,10 @@
 {
   "title": "A Planet Transits the Sun",
-  "credit": [],
   "explanation": "Today an astronomical event will occur that no living person has ever seen: Venus will cross directly in front of the Sun. A Venus crossing, called a transit, last occurred in 1882 and was front-page news around the world. Today's transit will be visible in its entirety throughout Europe and most of Asia and Africa. The northeastern half of North America will see the Sun rise with the dark dot of Venus already superposed. Never look directly at the Sun, even when Venus is in front. Mercury's closer proximity to the Sun cause it to transit every few years. In fact, the above image mosaic of Mercury crossing the Sun is from two transits ago, in November 1999. Will anyone living see the next Venus transit? Surely yes since it occurs in 2012.",
   "date": "2004-06-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0406/mercurytransit1_dantowitz_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ronald F. Dantowitz (The Clay Center) Explanation",
-    "Ronald F. Dantowitz (The Clay Center)"
-  ],
+  "copyright": "Ronald F. Dantowitz (The Clay Center)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0406/mercurytransit1_dantowitz.jpg"
 }

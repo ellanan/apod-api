@@ -1,14 +1,10 @@
 {
   "title": "The Yardangs Of Mars",
-  "credit": [
-    "Credit: Malin Space Science Systems, MGS, JPL, NASA Explanation",
-    "Malin Space Science Systems, MGS, JPL, NASA"
-  ],
+  "credit": "Malin Space Science Systems, MGS, JPL, NASA",
   "explanation": "OK, fans of classic science fiction might be disappointed. The yardangs are not barsoomian warriors in a newly discovered Edgar Rice Burroughs tale of adventure and conquest on the Red Planet. In fact yardangs, geologists' term for narrow, wind-eroded ridges, are common land features in the desert regions of planet Earth. Such Eolian (wind related) landforms are common on Mars too, and this recently released Mars Global Surveyor picture shows long, sculpted yardangs in the eastern Aeolis region of southern Elysium Planitia. These martian yardangs may have formed in deposits of volcanic ash. Covering a swath of the martian surface 2.5 kilometers high, this composite image does offer special effects, though. If you have red/blue glasses (red for the left eye) you can view the yardangs of Mars in astounding 3-D!",
   "date": "2000-11-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0011/yardangs_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0011/yardangs_mgs.jpg"
 }

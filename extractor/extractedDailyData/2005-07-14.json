@@ -1,14 +1,10 @@
 {
   "title": "Star Trails Over Vienna",
-  "credit": [],
   "explanation": "",
   "date": "2005-07-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0507/startrails_wienerroither_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Peter Wienerroither (U. Wien) Explanation",
-    "Peter Wienerroither (U. Wien)"
-  ],
+  "copyright": "Peter Wienerroither (U. Wien)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0507/startrails_wienerroither.jpg"
 }

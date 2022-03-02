@@ -1,14 +1,10 @@
 {
   "title": "New Horizons at Jupiter",
-  "credit": [],
   "explanation": "Headed for the first close-up exploration of the Pluto-Charon system and the icy denizens of the Kuiper belt, NASA's New Horizons spacecraft is pictured here in an artist's vision of the robot probe outward bound. The dramatic scene depicts the 465 kilogram spacecraft about one year after a planned 2006 launch, following a flyby of gas giant Jupiter. While the Jupiter flyby will be used as a gravity assist maneuver to save fuel and cut travel time to the outer reaches of the Solar System, it will also provide an opportunity to test instruments and study the giant planet, its moons, and magnetic fields. The Sun is seen from eight hundred million kilometers away, with inner planets Earth, Venus, and Mercury aligned on the left. A dim crescent of outermost Galilean moon Callisto, orbiting Jupiter just inside of the spacecraft's trajectory, appears to the upper right of the fading Sun. Left of Jupiter itself is Europa and in the distant background are the faint, unresolved stars and dust clouds of the Milky Way. New Horizons' planned arrival at Pluto-Charon is in the summer of 2015.",
   "date": "2003-12-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0312/NHatJupiter2_durda_fullg2.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dan Durda (SwRI) Explanation",
-    "Dan Durda (SwRI)"
-  ],
+  "copyright": "Dan Durda (SwRI)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0312/NHatJupiter2_durda_c1.jpg"
 }

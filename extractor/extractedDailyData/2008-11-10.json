@@ -1,14 +1,10 @@
 {
   "title": "Our Galaxy's Central Molecular Zone",
-  "credit": [
-    "Credit: A. Ginsburg (U. Colorado - Boulder) et al., BGPS Team, GLIMPSE II Team Explanation",
-    "A. Ginsburg (U. Colorado - Boulder) et al., BGPS Team, GLIMPSE II Team"
-  ],
+  "credit": "A. Ginsburg (U. Colorado - Boulder) et al., BGPS Team, GLIMPSE II Team",
   "explanation": "The central region of our Milky Way Galaxy is a mysterious and complex place. Pictured here in radio and infrared light, the galaxy's central square degree is highlighted in fine detail. The region is known as the Central Molecular Zone. While much of the extended emission is due to dense gas laced with molecules, also seen are emission nebulas lit up by massive young stars, glowing supernova remnants, and the curving Galactic Center Radio Arc in purple. The identity and root cause for many other features remains unknown. Besides a massive black hole named Sgr A*, the Galactic Center houses the galaxy's most active star forming region. This image is not just interesting scientifically. It's esthetic beauty won first prize this year in the AUI/NRAO Image Contest.",
   "date": "2008-11-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/galacticcenter_glimpse_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/galacticcenter_glimpse.jpg"
 }

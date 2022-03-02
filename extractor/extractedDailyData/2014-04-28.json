@@ -1,13 +1,9 @@
 {
   "title": "Time Lapse of a Total Lunar Eclipse",
-  "credit": [
-    "Credit: Adam Block, Mt. Lemmon SkyCenter, U. Arizona Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, U. Arizona"
-  ],
+  "credit": "Adam Block, Mt. Lemmon SkyCenter, U. Arizona",
   "explanation": "Why would a bright full Moon suddenly become dark? Because it entered the shadow of the Earth. Almost two weeks ago this exact event happened as the Moon underwent a total lunar eclipse. That eclipse, visible from the half of the Earth then facing the Moon, was captured in numerous spectacular photographs and is depicted in the above time lapse video covering about an hour. The above video, recorded from Mt. Lemmon Sky Center in Arizona, USA, keeps the Earth shadow centered and shows the Moon moving through it from west to east. The temporarily good alignment between Earth, Moon, and Sun will show itself again tomorrow -- precisely half a moon-th (month) later -- when part of the Earth will pass through part of the new Moon's shadow.",
   "date": "2014-04-28",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "//www.youtube.com/embed/KBBFzHLvrvA?rel=0"
 }

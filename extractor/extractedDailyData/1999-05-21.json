@@ -1,14 +1,10 @@
 {
   "title": "Star Party Trails",
-  "credit": [],
   "explanation": "Stargazing is fun! If you'd like to try it, this weekend may be your chance as many astronomy clubs and organizations will be hosting public celebrations of Astronomy Day on Saturday, May 22nd. In recent years, open house nights at observatories, astronomy club gatherings, and star parties have become increasingly popular. They offer great opportunities for beginners to view the sky through a variety of telescopes and veterans to swap stories and ideas. This time exposure of star trails was made last month at the Sentinel, Arizona \"Stargaze\" star party. On the right, a brilliant trail tracks the setting evening star, Venus. Stars in Orion are near the center and bright Sirius produced the prominent trail at the left. City lights from nearby Yuma glow on the horizon while party-goers' red filtered flashlights create the eerie foreground effect. The red flashlights are courteously used to provide a safe level of illumination but still preserve night vision for enjoyable stargazing.",
   "date": "1999-05-21",
   "hdurl": "https://apod.nasa.gov/apod/image/9905/trails_990417orman_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Joe Orman Explanation",
-    "Joe Orman"
-  ],
+  "copyright": "Joe Orman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9905/trails_990417orman.jpg"
 }

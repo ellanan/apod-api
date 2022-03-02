@@ -1,14 +1,10 @@
 {
   "title": "NGC 4414: A Telling Spiral",
-  "credit": [
-    "Credit: W. Freedman (Carnigie Obs.) , L. Frattare (STScI) et al., & the Hubble Heritage Team (AURA/ STScI/ NASA) Explanation",
-    "W. Freedman (Carnigie Obs.) , L. Frattare (STScI) et al., & the Hubble Heritage Team (AURA/ STScI/ NASA)"
-  ],
+  "credit": "W. Freedman (Carnigie Obs.) , L. Frattare (STScI) et al., & the Hubble Heritage Team (AURA/ STScI/ NASA)",
   "explanation": "How far away is this galaxy? Cosmologists the world over have been working hard to find out. Spiral galaxy NGC 4414 contains many Cepheid variable stars that oscillate in a way that allows astronomers to estimate their distance. From analyzing distances to galaxies like this, some astronomers have recently announced that they have again refined their estimate of the expansion rate of the universe. The running debate over this rate is not yet over, however, as another group of astronomers has recently announced a distance that corresponds to a smaller universe expansion rate from a completely new method. NGC 4414 shows many classic spiral galaxy features, including thick dust lanes, a central region rich in old red stars, and winding spiral arms glowing with young blue stars. Even classic spirals contain new surprises, though, as an unusual blue variable object has recently been found in NGC 4414.",
   "date": "1999-06-09",
   "hdurl": "https://apod.nasa.gov/apod/image/9906/ngc4414_heritage_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9906/ngc4414_heritage.jpg"
 }

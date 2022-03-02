@@ -1,14 +1,10 @@
 {
   "title": "Welcome to the International Year of Astronomy",
-  "credit": [
-    "Credit: IYA2009, IAU, UNESCO Explanation",
-    "IYA2009, IAU, UNESCO"
-  ],
+  "credit": "IYA2009, IAU, UNESCO",
   "explanation": "Astronomers all over planet Earth invite you to experience the night sky as part of the International Year of Astronomy 2009. This year was picked by the International Astronomical Union and the United Nations Educational, Scientific, and Cultural Organization because it occurs 400 years after Galileo turned one of the first telescopes toward the heavens. Peering through that small window, Galileo discovered that the Moon has craters, Venus has phases, Jupiter has moons, and Saturn has rings. This year you can discover these and many modern wonders of the amazing overhead tapestry that is shared by all of humanity. If, like many others, you find the night sky wondrous and educational, be sure to attend an IYA2009 event in your area, and tell any schools and children that might be interested. Also, please feel free to explore the extensive IYA2009 web pages to find international media events that include blogs, webcasts and much much more.",
   "date": "2009-01-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0901/logo_iya2009_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0901/logo_iya2009.jpg"
 }

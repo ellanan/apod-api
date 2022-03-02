@@ -1,14 +1,10 @@
 {
   "title": "Saturn's Dragon Storm",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Dubbed the \"Dragon Storm\", convoluted, swirling cloud features are tinted orange in this false-color, near-infrared image of Saturn's southern hemisphere. In one of a series of discoveries announced by Cassini researchers, the Dragon Storm was found to be responsible for mysterious bursts of radio static monitored by Cassini instruments during the last year as the spacecraft orbited the ringed planet. The storm is now thought to be a giant Saturnian thunderstorm, like storms on Earth, with radio noise produced in high-voltage lightning discharges. The Cassini observations are also consistent with the Dragon Storm being a long-lived storm, deep within the gas giant's atmosphere, that periodically flares-up to produce large, visible storm regions.",
   "date": "2005-02-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0502/dragonstorm_cassini_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0502/dragonstorm_cassini_c62.jpg"
 }

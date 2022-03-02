@@ -1,14 +1,10 @@
 {
   "title": "Venusian Volcano Imagined",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, Peter Rubin Explanation",
-    "NASA, JPL-Caltech, Peter Rubin"
-  ],
+  "credit": "NASA, JPL-Caltech, Peter Rubin",
   "explanation": "What would an erupting volcano on Venus look like? Evidence of currently active volcanoes on Venus was announced earlier this year with the unexplained warmth of regions thought to contain only ancient volcanoes. Although large scale images of Venus have been taken with radar, thick sulfuric acid clouds would inhibit the taking of optical light vistas. Nevertheless, an artist's reconstruction of a Venusian volcano erupting is featured. Volcanoes could play an important role in a life cycle on Venus as they could push chemical foods into the cooler upper atmosphere where hungry microbes might float. Pictured, the plume from an erupting volcano billows upwards, while a vast lava field covers part of the hot and cracked surface of Earth's overheated twin. The possibility of airborne microbial Venusians is certainly exciting, but currently controversial.",
   "date": "2020-10-27",
   "hdurl": "https://apod.nasa.gov/apod/image/2010/VenusVolcano_NasaRubin_1600.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2010/VenusVolcano_NasaRubin_1080.jpg"
 }

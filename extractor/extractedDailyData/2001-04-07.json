@@ -1,14 +1,10 @@
 {
   "title": "Stereo Sun",
-  "credit": [
-    "Credit: SOHO - EIT Consortium: Stereo Image by Patrick Vantuyne Explanation",
-    "SOHO - EIT Consortium: Stereo Image by Patrick Vantuyne"
-  ],
+  "credit": "SOHO - EIT Consortium: Stereo Image by Patrick Vantuyne",
   "explanation": "This week's stereo offering features the now famous Active Region 9393, the largest sunspot group in the last 10 years. Viewed with red/blue glasses, the stereo pair of images merges into one 3D representation of the Sun with AR9393 above and right of center. The images were recorded in extreme ultraviolet light and AR9393 is seen as an extensive array of bright patches laced with large graceful loops of arcing plasma. In the extreme ultraviolet, active regions outshine the solar surface, just the reverse of their appearance as dark sunspots against a bright photosphere when viewed in visible light. Recorded 96 minutes apart on March 30 by the space-based SOHO EIT camera, the pair produces an exaggerated but pleasing stereo effect due to solar rotation -- the Sun's surface moving slightly between the two exposures to offer different perspectives.",
   "date": "2001-04-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0104/stereo9393_vantuyne.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0104/stereo9393_vantuyne_c.jpg"
 }

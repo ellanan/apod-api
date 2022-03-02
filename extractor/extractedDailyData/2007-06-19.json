@@ -1,14 +1,10 @@
 {
   "title": "Eris: More Massive than Pluto",
-  "credit": [],
   "explanation": "Eris, a dwarf planet currently orbiting the Sun at about twice Pluto's distance, has been measured to have about 27 percent more mass than Pluto. The mass was calculated by timing the orbit of Eris' moon Dysnomia. Images taken with a ground-based Keck telescope, when combined with existing images taken by Hubble Space Telescope, show that Dysnomia has a nearly circular orbit lasting about 16 days. Cataloged as 2003 UB313 only a year ago, infrared images also showed previously that Eris is actually larger in diameter than Pluto. The plane of Eris' orbit is well out of the plane of the Solar System's planets. In the above drawing, a scientific artist has imagined Eris and Dysnomia orbiting our distant Sun. No space missions are currently planned to Eris, although the robotic New Horizons spacecraft bound for Pluto has recently passed Jupiter.",
   "date": "2007-06-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0706/eris_lombry_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Thierry Lombry Explanation",
-    "Thierry Lombry"
-  ],
+  "copyright": "Thierry Lombry",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0706/eris_lombry.jpg"
 }

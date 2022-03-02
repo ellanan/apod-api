@@ -1,14 +1,10 @@
 {
   "title": "The Center of the Circinus Galaxy in X-Rays",
-  "credit": [
-    "Credit: F. Bauer (Penn State) et al., Chandra, NASA Explanation",
-    "F. Bauer (Penn State) et al., Chandra, NASA"
-  ],
+  "credit": "F. Bauer (Penn State) et al., Chandra, NASA",
   "explanation": "Are black holes the cause of X-rays that pour out from the center of the Circinus galaxy? A new high-resolution image from the orbiting Chandra X-ray Observatory has resolved the inner regions of this nearby galaxy into several smaller sources. The image is shown above in representative-color. Extended X-ray emission from the center appears to match optical light and appears consistent with a model where hot gas is escaping from a supermassive black hole at Circinus' center. At least one of the other sources varies its X-ray brightness as expected from a binary star system, indicating that the system is small yet massive, and giving credence to a model where a black hole is surrounded by doughnut-shaped ring. The region shown spans about 5000 light-years across.",
   "date": "2001-05-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0105/circinus_chandra_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0105/circinus_chandra.jpg"
 }

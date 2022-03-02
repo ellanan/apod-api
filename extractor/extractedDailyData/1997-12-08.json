@@ -1,14 +1,10 @@
 {
   "title": "The Trifid Nebula in Red, White and Blue",
-  "credit": [],
   "explanation": "Three dark dust lanes give the picturesque Trifid Nebula its name. The red and blue colors of the Trifid Nebula are present in different regions and are created by different processes. A big bright star near the center of the red region appears white hot and emits light so energetic it knocks electrons away from gas surrounding it. When an electron is recaptured by a proton, red light is frequently emitted. The blue region is centered on another bright star but this region's dust reflects light to us. The two regions are thus called an emission nebula and reflection nebula, respectively. The Trifid Nebula can be seen in Sagittarius toward the Galactic Center with a small telescope.",
   "date": "1997-12-08",
   "hdurl": "https://apod.nasa.gov/apod/image/9712/trifid_ware_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jason Ware Explanation",
-    "Jason Ware"
-  ],
+  "copyright": "Jason Ware",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9712/trifid_ware.jpg"
 }

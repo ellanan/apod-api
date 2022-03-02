@@ -1,14 +1,10 @@
 {
   "title": "Antarctic Ice Shelf Vista",
-  "credit": [],
   "explanation": "It's all gone but the mountains. Most of the sprawling landscape of ice that lies between the mountains visible above has now disintegrated. The above picture was taken in Antarctica from the top of Grey Nunatak, one of three Seal Nunatak mountains that border the Larsen B Ice-Shelf. The other two nunataks are visible in the picture taken in 1994. Over the past several years large chunks of the 200-meter thick Larsen B Ice-Shelf have been breaking off and disintegrating. The cause is the local high temperatures of recent years, part of a planet wide climate change called global warming. Over the past few years, the area that has disintegrated is roughly the size of Luxembourg. As ice-shelves break up, they unblock other ice sheets that fall onto the ocean, raising sea levels everywhere. Scientists are watching the much-larger Ross Ice Shelf, which, if it fully collapses, could cause global sea levels to rise five meters over the next few hundred years.",
   "date": "2009-02-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0902/larsen03_rotts.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Helmut Rott (U. Innsbruck) Explanation",
-    "Helmut Rott (U. Innsbruck)"
-  ],
+  "copyright": "Helmut Rott (U. Innsbruck)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0902/larsen03_rotts_big.jpg"
 }

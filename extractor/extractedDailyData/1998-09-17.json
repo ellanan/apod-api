@@ -1,14 +1,10 @@
 {
   "title": "Radio, The Big Ear, And The Wow! Signal",
-  "credit": [],
   "explanation": "Since the early days of radio and television we have been freely broadcasting signals into space. For some time now, we have been listening too. Ohio State University's radio telescope, affectionately known as \"The Big Ear\" , was one of the first and largest listeners. Designed by John Kraus, OSU's Big Ear (about the size of three football fields) consisted of an immense metal ground plane with two fence-like reflectors (one fixed and one tiltable) and relied on the Earth's rotation to help scan the sky. This photo, taken by former Big Ear student volunteer Rick Scott, looks out across the ground plane toward the fixed reflector with the \"receiver horns\" in the foreground. This May, the final pieces of the Big Ear were torn down, but its explorations of the radio universe will be long remembered. Starting in 1965, the Big Ear was used in an ambitious premier survey of the radio sky, ultimately finding over 20,000 celestial radio sources. Changing its focus in the 1970s, it became the first telescope to continuously listen for signals from extraterrestrial civilizations. For an exciting moment during August 1977 a very strong and unanticipated signal, dubbed the Wow! Signal, was detected by the Big Ear. But alas, heard only once, the cause of the signal could not be determined.",
   "date": "1998-09-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9809/bigear_rickscott_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rick Scott Explanation",
-    "Rick Scott"
-  ],
+  "copyright": "Rick Scott",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9809/bigear_rickscott.jpg"
 }

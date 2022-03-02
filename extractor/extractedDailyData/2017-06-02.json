@@ -1,14 +1,10 @@
 {
   "title": "Black Holes of Known Mass",
-  "credit": [
-    "Credit: LIGO, NSF, Aurore Simonnet (Sonoma State U.) Explanation",
-    "LIGO, NSF, Aurore Simonnet (Sonoma State U.)"
-  ],
+  "credit": "LIGO, NSF, Aurore Simonnet (Sonoma State U.)",
   "explanation": "Add GW170104 to the chart of black holes with known mass. The extremely energetic merger of two smaller black holes corresponds to the Laser Interferometer Gravitational-wave Observatory's (LIGO) third detection of gravitational waves. The newfound black hole has a mass about 49 times that of the Sun, filling a gap between the masses of the two merged black holes detected previously by LIGO, with solar masses of 62 (GW150914) and 21 (GW151226). In all three cases, the signal in each of the twin LIGO detectors was unambiguously identified as coming from black hole mergers while a fourth case (LVT151012) resulted in a lower confidence detection. GW170104 is estimated to be some 3 billion light-years away, more distant than present estimates for GW150914 and GW151226. The ripples in spacetime were discovered during LIGO's current observing run, which began November 30, 2016 and will continue through the summer.",
   "date": "2017-06-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1706/BHmassChartGW17a.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1706/BHmassChartGW17a1024.jpg"
 }

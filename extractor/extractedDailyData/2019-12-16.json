@@ -1,14 +1,10 @@
 {
   "title": "The Magnetic Fields of Spiral Galaxy M77",
-  "credit": [
-    "Credit: NASA, SOFIA, HAWC+; JPL-Caltech, Roma Tre. U.; ESA, Hubble, NuSTAR, SDSS Explanation",
-    "NASA, SOFIA, HAWC+; JPL-Caltech, Roma Tre. U.; ESA, Hubble, NuSTAR, SDSS"
-  ],
+  "credit": "NASA, SOFIA, HAWC+; JPL-Caltech, Roma Tre. U.; ESA, Hubble, NuSTAR, SDSS",
   "explanation": "Can magnetic fields help tell us how spiral galaxies form and evolve? To find out, the HAWC+ instrument on NASA's airborne (747) SOFIA observatory observed nearby spiral galaxy M77. HAWC+ maps magnetism by observing polarized infrared light emitted by elongated dust grains rotating in alignment with the local magnetic field. The HAWC+ image shows that magnetic fields do appear to trace the spiral arms in the inner regions of M77, arms that likely highlight density waves in the inflowing gas, dust and stars caused by the gravity of the galaxy's oval shape. The featured picture superposes the HAWC+ image over diffuse X-ray emission mapped by NASA's NuSTAR satellite and visible light images taken by Hubble and the SDSS. M77 is located about 47 million light years away toward the constellation of the Sea Monster (Cetus).",
   "date": "2019-12-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1912/M77Bfield_NASA_1200.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1912/M77Bfield_NASA_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Movie: A Green Flash Over Italy",
-  "credit": [],
   "explanation": "How could the Sun turn green? Difficult to observe, the momentary green flash above the rising or setting sun has been documented as a phenomenon caused by the atmospheric bending or refraction of sunlight. Like a weak prism, the Earth's atmosphere breaks white sunlight into colors, bending red colors slightly and green and blue colors through increasingly larger angles. When the sky is clear, a green flash just above the sun's edge can sometimes be seen for a second or so, when the sun is close to a distant horizon. Still, from a site atop Mt. Autore (altitude 1,850 meters) in Italy astrophotographer Danilo Pivato captured this dramatic green flash movie. The time between frames varies from over one minute in the beginning to about one second as the flash becomes visible.",
   "date": "2007-01-29",
   "hdurl": "https://apod.nasa.gov/apod/image/0701/greenset_pivato.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Danilo Pivato (Beyond the Moon) Explanation",
-    "Danilo Pivato (Beyond the Moon)"
-  ],
+  "copyright": "Danilo Pivato (Beyond the Moon)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0701/greenset_pivato.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Search for Life on Mars",
-  "credit": [
-    "Credit: NASA,Viking Project, Explanation",
-    "NASA,Viking Project,"
-  ],
+  "credit": "NASA,Viking Project,",
   "explanation": "",
   "date": "1995-07-21",
   "hdurl": "https://apod.nasa.gov/apod/image/marslander.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/marslander.gif"
 }

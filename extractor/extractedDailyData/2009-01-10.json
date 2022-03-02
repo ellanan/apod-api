@@ -1,14 +1,10 @@
 {
   "title": "Martian Sunset",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, Texas A&M, Cornell, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, Texas A&M, Cornell, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, Texas A&M, Cornell, JPL, NASA",
   "explanation": "This month, the Mars Exploration Rovers are celebrating their 5th anniversary of operations on the surface of the Red Planet. The serene sunset view, part of their extensive legacy of images from the martian surface, was recorded by the Spirit rover on May 19, 2005. Colors in the image have been slightly exaggerated but would likely be apparent to a human explorer's eye. Of course, fine martian dust particles suspended in the thin atmosphere lend the sky a reddish color, but the dust also scatters blue light in the forward direction, creating a bluish sky glow near the setting Sun. The Sun is setting behind the Gusev crater rim wall some 80 kilometers (50 miles) in the distance. Because Mars is farther away, the Sun is less bright and only about two thirds the size seen from planet Earth.",
   "date": "2009-01-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0901/PIA07997_spiritmars.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0901/PIA07997_spiritmars_c800.jpg"
 }

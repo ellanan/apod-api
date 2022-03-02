@@ -1,14 +1,10 @@
 {
   "title": "Perseverance from Ingenuity",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, Ingenuity Explanation",
-    "NASA, JPL-Caltech, Ingenuity"
-  ],
+  "credit": "NASA, JPL-Caltech, Ingenuity",
   "explanation": "Flying at an altitude of 5 meters (just over 16 feet), on April 25 the Ingenuity helicopter snapped this sharp image. On its second flight above the surface of Mars, its color camera was looking back toward Ingenuity's current base at Wright Brothers Field and Octavia E. Butler Landing marked by the tracks of the Perseverance rover at the top of the frame. Perseverance itself looks on from the upper left corner about 85 meters away. Tips of Ingenuity's landing legs just peek over the left and right edges of the camera's field of view. Its record setting fourth flight completed on April 30, Ingenuity collected images of a potential new landing zone before returning to Wright Brothers Field. Ingenuity's fifth flight would be one-way though as the Mars aircraft moves on to the new airfield, anticipating a new phase of operational demonstration flights.",
   "date": "2021-05-01",
   "hdurl": "https://apod.nasa.gov/apod/image/2105/PIA24625fromIngenuity.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2105/PIA24625fromIngenuity1024.jpg"
 }

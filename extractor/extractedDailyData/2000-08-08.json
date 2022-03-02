@@ -1,14 +1,10 @@
 {
   "title": "Comet LINEAR Disperses",
-  "credit": [
-    "Credit: H. Weaver (JHU) et al., WFPC2, HST, NASA Explanation",
-    "H. Weaver (JHU) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "H. Weaver (JHU) et al., WFPC2, HST, NASA",
   "explanation": "What's happened to the nucleus of Comet LINEAR? The brightest comet this year has unexpectedly broken up into many smaller pieces. The break-up occurred on or about July 25 and was noted by many astronomers around the world with particularly pioneering work by Mark Kidger (IAC). Since then astronomers had been searching in vain to find any fragments left of the nucleus, and watching to see how fast the remaining debris fades. Just three days ago the Hubble Space Telescope was maneuvered to photograph the region and recovered some of the disintegrating fragments that used to compose Comet LINEAR's nucleus. The above image covers only the very tip of an elongated diffuse train of slowly dispersing gas, dust, ice fragments, and gravel. The largest bits remaining of the badly fractured nucleus appear to be less than 30 meters across. This debris train will not collide with the Earth and so will not cause a meteor shower. Interested astronomers are now theorizing why Comet LINEAR's nucleus disintegrated into such small pieces.",
   "date": "2000-08-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0008/linear2pieces_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0008/linear2pieces_hst.jpg"
 }

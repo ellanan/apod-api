@@ -1,14 +1,10 @@
 {
   "title": "Galaxy Cluster in the Early Universe",
-  "credit": [
-    "Credit: P.Rosati (ESO) et al.; X-Ray: CXC, NASA / Optical: ESO, VLT Explanation",
-    "P.Rosati (ESO) et al.; X-Ray: CXC, NASA / Optical: ESO, VLT"
-  ],
+  "credit": "P.Rosati (ESO) et al.; X-Ray: CXC, NASA / Optical: ESO, VLT",
   "explanation": "Long before medieval alchemists dreamed of transmuting base metals to gold, stellar furnaces in this massive cluster of galaxies - cataloged as RDCS 1252.9-2927 - had transformed light elements into heavy ones. In the false-color composite image individual cluster galaxies can be seen at optical and near-infrared wavelengths, shown in red, yellow, and green colors. X-ray data (in purple) reveal the hot intracluster gas, enriched in heavy elements. Attracting the attention of astronomers using the orbiting Chandra and XMM-Newton x-ray telescopes, as well as the Hubble Space Telescope and ground based VLT, the galaxy cluster lies nearly 9 billion light-years away ... and so existed at a time when the Universe was less than 5 billion years old. A measured mass of more than 200 trillion Suns makes this galaxy cluster the most massive object ever found when the Universe was so young. The cluster elemental abundances are consistent with the idea that most heavy elements were synthesized early on by massive stars, but current theories suggest that such a massive cluster should be rare in the early Universe.",
   "date": "2004-02-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0402/rdcs1252_xray_opt_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0402/rdcs1252_xray_opt_c1.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Northern Mercury",
-  "credit": [
-    "Credit: NASA / JHU Applied Physics Lab / Carnegie Inst. Washington Explanation",
-    "NASA / JHU Applied Physics Lab / Carnegie Inst. Washington"
-  ],
+  "credit": "NASA / JHU Applied Physics Lab / Carnegie Inst. Washington",
   "explanation": "Innermost planet Mercury would probably not be a good location for an interplanetary winter olympics. But new results based on data from the Mercury orbiting MESSENGER spacecraft indicate that it does have substantial water ice in permanently shadowed regions within craters near its north pole. The possibility of ice on Mercury has been entertained for years, inspired by the discovery of radar bright, hence highly reflective, regions near the north pole. Highlighted in yellow in this map based on projected MESSENGER images, radar bright regions are seen to correspond with floors and walls of north polar impact craters. Farther from the pole the regions are concentrated on the north facing crater walls. MESSENGER's neutron spectroscopy and thermal models for the craters indicate material in these regions has a hydrogen content consistent with nearly pure water ice and is trapped in an area with temperatures that remain below 100 kelvins (-280 deg.F, -173 deg.C). In circumstances similar to permanent shadows in craters of the Moon, debris from comet impacts is thought to be the source of ice on Mercury.",
   "date": "2012-12-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1212/Lawrence_3aMercurycomposite.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1212/Lawrence_3aMercurycomposite900c.jpg"
 }

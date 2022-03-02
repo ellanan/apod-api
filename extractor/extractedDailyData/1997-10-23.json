@@ -1,17 +1,11 @@
 {
   "title": "Echos of Supernova 1987A",
-  "credit": [
-    "Credit: Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board Explanation",
-    "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board"
-  ],
+  "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
   "explanation": "Can you find Supernova 1987a? It's not hard - it occurred in the center of the bulls-eye pattern. Although this stellar detonation was seen more than a decade ago, light from it continues to bounce off nearby interstellar dust and be reflected to us. These two rings are thus echoes of the powerful supernova. As time goes on, these echoes appear to expand outward from the center. The above image was created by subtracting a picture taken before 1987, from a picture taken after.",
   "date": "1997-10-23",
   "hdurl": "https://apod.nasa.gov/apod/image/9710/sn87echo_aat.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anglo-Australian Telescope Board Explanation",
-    "Anglo-Australian Telescope Board"
-  ],
+  "copyright": "Anglo-Australian Telescope Board",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9710/sn87echo_aat_big.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Seaside Moon Mirage",
-  "credit": [],
   "explanation": "This surprising view of the Full Moon rising on June 7 was captured with a telephoto lens from a seaside balcony near Nice, France. The orange Moon's dark markings and odd shape put the photographer in mind of an alien creature's face staring down at the passing ship. Of course, the Moon's distorted appearance is due to the unusual bending (refraction) of light rays creating multiple images or mirages, similar to sunset and sunrise mirages. The effects are most pronounced when temperature layers in the atmosphere produce sharp changes in air density and refractive index. Acting over long sight-lines to the rising and setting Sun or Moon, the refraction significantly alters the path of light rays creating merged, distorted images. Such mirages are also associated with the Green Flash.",
   "date": "2009-06-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0906/Navires013_audrin.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Marc Audrin Explanation",
-    "Jean-Marc Audrin"
-  ],
+  "copyright": "Jean-Marc Audrin",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0906/Navires013_audrin900.jpg"
 }

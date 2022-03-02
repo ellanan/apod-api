@@ -1,14 +1,10 @@
 {
   "title": "Titan Landscape",
-  "credit": [
-    "Credit: ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL) Explanation",
-    "ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL)"
-  ],
+  "credit": "ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL)",
   "explanation": "",
   "date": "2005-01-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0501/titancolor_huygensP7_f.tif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0501/titancolor_huygensP7_c120.jpg"
 }

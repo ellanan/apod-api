@@ -1,14 +1,10 @@
 {
   "title": "NGC 1999: Reflection Nebula in Orion",
-  "credit": [
-    "Credit: Hubble Heritage Team (STScI) and NASA Explanation",
-    "Hubble Heritage Team (STScI) and NASA"
-  ],
+  "credit": "Hubble Heritage Team (STScI) and NASA",
   "explanation": "A dusty bright nebula contrasts dramatically with a dusty dark nebula in this Hubble Space Telescope image recorded shortly after December's orbital servicing mission. The nebula, cataloged as NGC 1999, is a reflection nebula, which shines by reflecting light from a nearby star. Unlike emission nebulae, whose reddish glow comes from excited atoms of gas, reflection nebulae have a bluish cast as their interstellar dust grains preferentially reflect blue starlight. While perhaps the most famous reflection nebulae surround the bright young stars of the Pleiades star cluster, NGC 1999's stellar illumination is provided by the embedded variable star V380 Orionis, seen here just left of center. Extending right of center, the ominous dark nebula is actually a condensation of cold molecular gas and dust so thick and dense that it blocks light. From our perspective it lies in front of the bright nebula, silhouetted against the ghostly nebular glow. New stars will likely form within the dark cloud, called a Bok globule, as self-gravity continues to compress its dense gas and dust. Reflection nebula NGC 1999 lies about 1500 light-years away in the constellation Orion, just south of Orion's well known emission nebula, M42.",
   "date": "2000-03-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0003/ngc1999_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0003/ngc1999_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Oceans Under Jupiter's Moon Ganymede?",
-  "credit": [
-    "Credit: DLR, Brown U., Galileo Project, JPL, NASA Explanation",
-    "DLR, Brown U., Galileo Project, JPL, NASA"
-  ],
+  "credit": "DLR, Brown U., Galileo Project, JPL, NASA",
   "explanation": "The search for extraterrestrial life came back into our own Solar System last week with the announcement that there may be liquid oceans under the surface of Jupiter's moon Ganymede. Ganymede now joins Callisto and Europa as moons of Jupiter that may harbor seas of liquid water under layers of surface ice. The ocean hypothesis surfaced as an explanation for Ganymede's unusually strong magnetic field. Ganymede, the largest moon in the Solar System, also has the largest measured magnetic field of any moon. Some exobiologists hypothesize that life may be able to emerge in such an ocean, much as it did in the oceans of ancient Earth. Above, a frame from a computer simulation shows what it would look like to fly over the surface of Ganymede, as extrapolated from photographs of the grooved moon taken by the robot spacecraft Galileo currently orbiting Jupiter.",
   "date": "2000-12-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0012/flyganymede_gal.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0012/flyganymede_gal_big.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Composite Messier 20 and 21",
-  "credit": [],
   "explanation": "The beautiful Trifid Nebula, also known as Messier 20, lies about 5,000 light-years away, a colorful study in cosmic contrasts. It shares this nearly 1 degree wide field with open star cluster Messier 21 (top left). Trisected by dust lanes the Trifid itself is about 40 light-years across and a mere 300,000 years old. That makes it one of the youngest star forming regions in our sky, with newborn and embryonic stars embedded in its natal dust and gas clouds. Estimates of the distance to open star cluster M21 are similar to M20's, but though they share this gorgeous telescopic skyscape there is no apparent connection between the two. M21's stars are much older, about 8 million years old. M20 and M21 are easy to find with even a small telescope in the nebula rich constellation Sagittarius. In fact, this well-composed scene is a composite from two different telescopes. Using narrowband data it blends a high resolution image of M20 with a wider field image extending to M21.",
   "date": "2017-06-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1706/M20_M21CompositeMP.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Martin Pugh Explanation",
-    "Martin Pugh"
-  ],
+  "copyright": "Martin Pugh",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1706/M20_M21CompositeMP1024.jpg"
 }

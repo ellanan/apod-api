@@ -1,14 +1,10 @@
 {
   "title": "Cosmic Rays and Supernova Dust",
-  "credit": [
-    "Credit: M. DeBord, R. Ramaty and B. Kozlovsky (GSFC), R. Lingenfelter (UCSD), NASA Explanation",
-    "M. DeBord, R. Ramaty and B. Kozlovsky (GSFC), R. Lingenfelter (UCSD), NASA"
-  ],
+  "credit": "M. DeBord, R. Ramaty and B. Kozlovsky (GSFC), R. Lingenfelter (UCSD), NASA",
   "explanation": "Cosmic Rays are celestial high energy particles traveling at nearly the speed of light, which constantly bombard the Earth. Discovered during high altitude balloon flights in 1912 their source has been a long standing mystery. But a recent theory suggests that cosmic ray particles are atomic nuclei blasted from dust grains formed in supernovae, the death explosions of massive stars. This artist's illustration shows a supernova explosion (at left) and a conical section of the expanding cloud of ejected material. Atoms are torn from the brownish bands of \"dust\" material by shock waves (represented by orange rings). The shocks in the expanding blast wave then accelerate the atoms to near light speeds firing them into interstellar space like cosmic bullets. The theory is supported by observations indicating that high velocity dust was formed in the nearby supernova 1987A, and that Beryllium, a light element created in Cosmic Ray collisions, is found equally in both old an young stars. NASA's Advanced Composition Explorer (ACE) satellite can also test details of the theory by directly measuring Cosmic Rays.",
   "date": "1998-06-18",
   "hdurl": "https://apod.nasa.gov/apod/image/9806/crejecta_ramaty_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9806/crejecta_ramaty.jpg"
 }

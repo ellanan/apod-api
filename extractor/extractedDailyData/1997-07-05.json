@@ -1,14 +1,10 @@
 {
   "title": "Pathfinder on Mars",
-  "credit": [
-    "Credit: IMP Team, JPL, NASA Explanation",
-    "IMP Team, JPL, NASA"
-  ],
+  "credit": "IMP Team, JPL, NASA",
   "explanation": "Yesterday, July 4th, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft successfully bounced and came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. And the news is wonderful - the spacecraft appears to be in good health after having performed its complicated landing sequence superbly. Above is a mosaic of images from the martian surface transmitted shortly after Pathfinder reestablished communication with its mission operators on Earth. The solar powered, two foot long, 25 pound Mars Sojourner robot rover is visible crouched on the unfolded spacecraft. Surrounding Pathfinder are deflated airbags and a rock-strewn terrain. In the distance martian hills appear against a dusty brownish sky. The IMP camera which produced this view is also capable of stereo images and promises further spectacular pictures from Mars.",
   "date": "1997-07-05",
   "hdurl": "https://apod.nasa.gov/apod/image/9707/mars1_pathfinder_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9707/mars1_pathfinder.jpg"
 }

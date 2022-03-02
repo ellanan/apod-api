@@ -1,14 +1,10 @@
 {
   "title": "Mir Dreams",
-  "credit": [
-    "Credit: STS-76 Crew, NASA Explanation",
-    "STS-76 Crew, NASA"
-  ],
+  "credit": "STS-76 Crew, NASA",
   "explanation": "This dream-like image of Mir was recorded by astronauts as the space shuttle orbiter Atlantis approached the Russian space station prior to docking during the STS-76 mission in 1996. Sporting spindly appendages and solar panels, Mir resembles a whimsical flying insect hovering about 350 kilometers above New Zealand's South Island and the city of Nelson near Cook Strait. Mir was launched 20 years ago this week, and served as a continuously occupied orbital outpost until August 1999. Mir was visited by over 100 spacefarers from the nations of planet Earth including, Russia, the United States, Great Britain, Germany, France, Japan, Austria, Kazakhstan and Slovakia. The Mir was deorbited in March 2001.",
   "date": "2006-02-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0602/mirdream_sts76_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0602/mirdream_sts76.jpg"
 }

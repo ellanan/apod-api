@@ -1,14 +1,10 @@
 {
   "title": "Return To Cydonia",
-  "credit": [
-    "Credit: Mars Global Surveyor Project, NASA Explanation",
-    "Mars Global Surveyor Project, NASA"
-  ],
+  "credit": "Mars Global Surveyor Project, NASA",
   "explanation": "Yesterday the Mars Global Surveyor project released a new close-up image of a portion of the Cydonia region on Mars. This cropped and processed version shows an area about 2 miles wide (the full version covers a strip nearly 2.6 miles wide by 25 miles long) and at full resolution has a pixel size of about 14 feet. The rock formation visible is the famous feature seen as the \"Face on Mars\" in 1976 Viking orbiter images. Such complex looking landforms in the Cydonia region are thought to be the result of erosion and weathering of ancient crust by Martian winds, frost, and possibly surface water. Mars Global Surveyor is scheduled to take other images of the Cydonia region and the Mars Pathfinder and Viking landing sites this month.",
   "date": "1998-04-07",
   "hdurl": "https://apod.nasa.gov/apod/image/9804/marsface3_mgs_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9804/marsface3_mgs.jpg"
 }

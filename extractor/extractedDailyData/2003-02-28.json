@@ -1,14 +1,10 @@
 {
   "title": "Fox Fur, the Unicorn, and a Christmas Tree",
-  "credit": [],
   "explanation": "Glowing hydrogen gas fills this gorgeously detailed sky view centered on the variable star S Mon in the faint but fanciful constellation Monoceros, the Unicorn. A star forming region (NGC 2264), the complex jumble of cosmic gas and dust is about 2,700 light-years distant and mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. Where the otherwise obscuring dust clouds lie close to stars they also reflect starlight, forming blue reflection nebulae. The wide vista spans about 1.5 degrees or nearly 3 full moons, covering 70 light-years at the distance of NGC 2264. Its cast of cosmic characters includes the Cone Nebula (far left), the Fox Fur Nebula, whose convoluted pelt lies just below S Mon, and the Christmas Tree star cluster. The triangular Christmas Tree cluster appears sideways here, with its apex at the Cone Nebula and its broader base centered on S Mon.",
   "date": "2003-02-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0302/ngc2264_croman_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Russell Croman Explanation",
-    "Russell Croman"
-  ],
+  "copyright": "Russell Croman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0302/ngc2264_croman_c3.jpg"
 }

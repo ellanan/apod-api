@@ -1,14 +1,10 @@
 {
   "title": "Meteor in the Milky Way",
-  "credit": [],
   "explanation": "Earth's April showers include the Lyrid Meteor Shower, observed for more than 2,000 years when the planet makes its annual passage through the dust stream of long-period Comet Thatcher. A grain of that comet's dust, moving 48 kilometers per second at an altitude of 100 kilometers or so, is swept up in this night sky view from the early hours of April 21. Flashing toward the southeastern horizon, the meteor's brilliant streak crosses the central region of the rising Milky Way. Its trail points back toward the shower's radiant in the constellation Lyra, high in the northern springtime sky and off the top of the frame. The yellowish hue of giant star Antares shines to the right of the Milky Way's bulge. Higher still is bright planet Saturn, near the right edge. Seen from Istra, Croatia, the Lyrid meteor's greenish glow reflects in the waters of the Adriatic Sea.",
   "date": "2015-04-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1504/IMG_2999korosecMilkyMet.png",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Marko Korosec Explanation",
-    "Marko Korosec"
-  ],
+  "copyright": "Marko Korosec",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1504/IMG_2999korosecMilkyMet.jpg"
 }

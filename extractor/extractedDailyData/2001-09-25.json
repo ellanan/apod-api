@@ -1,14 +1,10 @@
 {
   "title": "The Highs and Lows of Earth",
-  "credit": [
-    "Credit: GLOBE, NGDC, NOAA Explanation",
-    "GLOBE, NGDC, NOAA"
-  ],
+  "credit": "GLOBE, NGDC, NOAA",
   "explanation": "What's up on planet Earth? A truly global answer has now been created by the Global Land One-km Base Elevation (GLOBE) Project. Pictured above is the best digital elevation map yet created for our home planet, a map it took over ten years to make that incorporates data provided by many different countries around the world. The relief map is color coded with sea level shown in black, relatively low areas shown in green, higher areas shown in brown, and the highest areas shown in white. Can you find your hometown? Clicking on the map will bring up a higher resolution version. Even more detailed versions are also available.",
   "date": "2001-09-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0109/earthheight_ngdc_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0109/earthheight_ngdc.jpg"
 }

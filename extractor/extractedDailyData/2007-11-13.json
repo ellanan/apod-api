@@ -1,14 +1,10 @@
 {
   "title": "The Inner Coma of Comet Holmes",
-  "credit": [],
   "explanation": "What's happening to Comet Holmes? The rare comet remains visible to the unaided eyes of northern observers as an unusual small puff ball in the constellation of Perseus. A high resolution set of images of the comet's inner coma, taken last week and shown above, reveals significant detail. Close inspection shows numerous faint streamers that are possibly the result of jets emanating from the comet's nucleus. Comet Holmes has remained surprisingly bright over the past week, with luminosity estimates ranging from between visual magnitudes 2 to 3, making it brighter than most stars visible on a dark sky. The above image of Comet Holmes was made with a small automated 0.38-meter telescope hirable over the web for a small fee.",
   "date": "2007-11-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/holmes_masi_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Gianluca Masi (The Virtual Telescope) Explanation",
-    "Gianluca Masi (The Virtual Telescope)"
-  ],
+  "copyright": "Gianluca Masi (The Virtual Telescope)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/holmes_masi.jpg"
 }

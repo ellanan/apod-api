@@ -1,14 +1,10 @@
 {
   "title": "Utopia on Mars",
-  "credit": [
-    "Credit: The Viking Project, M. Dale-Bannister WU StL, NASA Explanation",
-    "The Viking Project, M. Dale-Bannister WU StL, NASA"
-  ],
+  "credit": "The Viking Project, M. Dale-Bannister WU StL, NASA",
   "explanation": "",
   "date": "1996-07-22",
   "hdurl": "https://apod.nasa.gov/apod/image/mars_surface_vik2_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/mars_surface_vik2.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "On the Possibility of Ascending to Mars",
-  "credit": [],
   "explanation": "On another October 19, in 1899, a 17 year-old Robert Goddard climbed a cherry tree on a beautiful autumn afternoon in Worcester, Massachusetts. Inspired by H.G. Wells' War of the Worlds and gazing out across a meadow, young Goddard imagined it would be wonderful to make a device that had the possibility of ascending to Mars. Forever more he felt his life had a purpose and in the following years his diary entries record October 19th as \"Anniversary Day\", the anniversary of his ascent into the cherry tree. By 1926 he had designed, built, and flown the world's first liquid fuel rocket. Mars is just visible through the trees at the lower right in this dramatic sky view that also features the Moon and Venus -- all visited by liquid fuel rockets constructed on principles developed by Goddard.",
   "date": "2005-10-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0510/MoonVenusMars_espenak_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fred Espenak ( www.MrEclipse.com) Explanation",
-    "Fred Espenak ( www.MrEclipse.com)"
-  ],
+  "copyright": "Fred Espenak ( www.MrEclipse.com)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0510/MoonVenusMars_espenak.jpg"
 }

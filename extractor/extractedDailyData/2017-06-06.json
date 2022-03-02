@@ -1,14 +1,10 @@
 {
   "title": "The Case of the Missing Star",
-  "credit": [
-    "Credit: NASA, ESA, Hubble, C. Kochanek (OSU) Explanation",
-    "NASA, ESA, Hubble, C. Kochanek (OSU)"
-  ],
+  "credit": "NASA, ESA, Hubble, C. Kochanek (OSU)",
   "explanation": "What's happened to giant star N6946-BH1? It was there just a few years ago -- Hubble imaged it. Now there's only a faint glow. What's curiouser, no bright supernova occurred -- although the star did brighten significantly for a few months. The leading theory is that, at about 25 times the mass of our Sun, N6946-BH1's great gravity held much of the star together during its final tumultuous death throes, after which most of the star sank into a black hole of its own making. If so, then some of what remained outside of the black hole likely then formed an accretion disk that emits comparatively faint infrared light as it swirls around, before falling in. If this mode of star death is confirmed with other stars, it gives direct evidence that a very massive star can end its life with a whimper rather than a bang.",
   "date": "2017-06-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1706/StarGone_Hubble_1350.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1706/StarGone_Hubble_960.jpg"
 }

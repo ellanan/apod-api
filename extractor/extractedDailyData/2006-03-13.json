@@ -1,14 +1,10 @@
 {
   "title": "Z Machine Sets Unexpected Earth Temperature Record",
-  "credit": [
-    "Credit: Z Machine Collaboration, Sandia National Lab, Lockheed Martin, NNSA, DOE Explanation",
-    "Z Machine Collaboration, Sandia National Lab, Lockheed Martin, NNSA, DOE"
-  ],
+  "credit": "Z Machine Collaboration, Sandia National Lab, Lockheed Martin, NNSA, DOE",
   "explanation": "Why is this plasma so hot? Physicists aren't sure. What is known for sure is that the Z Machine running at Sandia National Laboratories created a plasma that was unexpectedly hot. The plasma reached a temperature in excess of two billion Kelvin, making it arguably the hottest human made thing ever in the history of the Earth and, for a brief time, hotter than the interiors of stars. The Z Machine experiment, pictured above, purposely creates high temperatures by focusing 20 million amps of electricity into a small region further confined by a magnetic field. Vertical wires give the Z Machine its name. During the unexpected powerful contained explosion, the Z machine released about 80 times the world's entire electrical power usage for a brief fraction of a second. Experiments with the Z Machine are helping to explain the physics of Solar flares, design more efficient nuclear fusion plants, test materials under extreme heat, and gather data for the computer modeling of nuclear explosions.",
   "date": "2006-03-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0603/zmachine_sandia_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0603/zmachine_sandia.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Polar Ring Galaxy NGC 660",
-  "credit": [],
   "explanation": "NGC 660 lies near the center of this intriguing skyscape, swimming in the boundaries of the constellation Pisces. Over 20 million light-years away, its peculiar appearance marks it as a polar ring galaxy. A rare galaxy type, polar ring galaxies have a substantial population of stars, gas, and dust orbiting in rings nearly perpendicular to the plane of the galactic disk. The bizarre configuration could have been caused by the chance capture of material from a passing galaxy by the disk galaxy, with the captured debris strung out in a rotating ring. The polar ring component can be used to explore the shape of the galaxy's otherwise unseen dark matter halo by calculating the dark matter's gravitational influence on the rotation of the ring and disk. Broader than the disk, NGC 660's ring spans about 40,000 light-years.",
   "date": "2011-01-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1101/NGC660_LRGB_leshin.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephen Leshin Explanation",
-    "Stephen Leshin"
-  ],
+  "copyright": "Stephen Leshin",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1101/NGC660_LRGB_leshin900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Aurora Over Antarctica",
-  "credit": [],
   "explanation": "Looking out from the bottom of the world, strange and spectacular sights are sometimes observed. Such was the case during the long Antarctic night of 1998, as awesome aurora sub-storms were photographed above scientific outposts. Visible in the left foreground of the above photograph is the Martin A. Pomerantz Observatory while the now defunct SPIREX telescope canvas dome is visible to its right. The outside temperature at the time this photograph was taken was about -73 Celsius (-100 Fahrenheit), although a slightly heated box sheltered the camera.",
   "date": "2002-03-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0203/spaurora1_schwarz.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Schwarz (U. Wisconsin) Explanation",
-    "Robert Schwarz (U. Wisconsin)"
-  ],
+  "copyright": "Robert Schwarz (U. Wisconsin)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0203/spaurora1_schwarz.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "NGC 6822: Barnard's Galaxy",
-  "credit": [],
   "explanation": "Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small galaxies form stars too, like nearby NGC 6822, also known as Barnard's Galaxy. Beyond the rich starfields in the constellation Sagittarius, NGC 6822 is a mere 1.5 million light-years away, a member of our Local Group of galaxies. About 7,000 light-years across, the dwarf irregular galaxy is seen to be filled with young blue stars and mottled with the telltale pinkish hydrogen glow of star forming regions in the deep color composite image. Contributing to the science of LITTLE THINGS, this portrait of a small galaxy was made as part of the Lowell Amateur Research Initiative (LARI), welcoming collaborations with amateur astronomers.",
   "date": "2013-02-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1302/NGC6822_L_HaR_GB_final2000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephen Leshin, Collaboration: Deidre Hunter and LARI Explanation",
-    "Stephen Leshin, Collaboration: Deidre Hunter and LARI"
-  ],
+  "copyright": "Stephen Leshin, Collaboration: Deidre Hunter and LARI",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1302/NGC6822_L_HaR_GB_final900.jpg"
 }

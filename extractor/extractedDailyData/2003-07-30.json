@@ -1,14 +1,10 @@
 {
   "title": "Frosty Mountains on Mars",
-  "credit": [
-    "Credit: MSSS, JPL, NASA Explanation",
-    "MSSS, JPL, NASA"
-  ],
+  "credit": "MSSS, JPL, NASA",
   "explanation": "What causes the unusual white color on some Martian mountains? The answer can be guessed by noticing that the bright areas disappear as springtime takes hold in the south of Mars: dry ice. Dry carbon dioxide ice sublimates directly to gas from its frozen state. The frosty mountains, named Charitum Montes, have been covered with carbon dioxide ice over the Martian winter. The serene scene pictured above is not a photograph, but rather a computationally constructed digital illusion resulting from the fusion of two color images from the Mars Orbital Camera and topographic data from the Mars Orbiter Laser Altimeter. Both instruments operate from the Mars Global Surveyor robot spacecraft currently orbiting Mars. The red planet continues to grow larger in terrestrial skies as Earth and Mars move closer to their recent-record closest approach on August 27.",
   "date": "2003-07-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0307/frostymnts_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0307/frostymnts_mgs.jpg"
 }

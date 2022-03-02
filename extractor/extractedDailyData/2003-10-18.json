@@ -1,14 +1,10 @@
 {
   "title": "The Last Moon Shot",
-  "credit": [
-    "Credit: The Apollo Program, NASA (image scanned by J.L. Pickering) Explanation",
-    "The Apollo Program, NASA (image scanned by J.L. Pickering)"
-  ],
+  "credit": "The Apollo Program, NASA (image scanned by J.L. Pickering)",
   "explanation": "In 1865 Jules Verne predicted the invention of a space capsule that could carry people. In his science fiction story \"From the Earth to the Moon\", he outlined his vision of a cannon in Florida so powerful that it could shoot a \"Projectile-Vehicle\" carrying three adventurers to the Moon. Over 100 years later, NASA, guided by Wernher Von Braun's vision, produced the Saturn V rocket. From a spaceport in Florida, this rocket turned Verne's fiction into fact, launching 9 Apollo Lunar missions and allowing 12 astronauts to walk on the Moon. Pictured is the last moon shot, Apollo 17, awaiting its December 1972 night launch. Spotlights play on the rocket and launch pad at dusk. Humans have not walked on on the lunar surface since.",
   "date": "2003-10-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0310/ap17ksc_72pc589_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0310/ap17ksc_72pc589_c1.jpg"
 }

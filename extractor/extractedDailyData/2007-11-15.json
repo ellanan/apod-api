@@ -1,14 +1,10 @@
 {
   "title": "M13: The Great Globular Cluster in Hercules",
-  "credit": [],
   "explanation": "M13 is modestly recognized as the Great Globular Cluster in Hercules. A system of stars numbering in the hundreds of thousands, it is one of the brightest globular star clusters in the northern sky. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter, but approaching the cluster core over 100 stars would be contained in a cube just 3 light-years on a side. For comparison, the closest star to the Sun is over 4 light-years away. This stunning view of the cluster combines recent telescopic images of the cluster's dense core with digitized photographic plates recorded between 1987 and 1991 using the Samuel Oschin Telescope, a wide-field survey instrument at Palomar Observatory. The resulting composite highlights both inner and outer reaches of the giant star cluster. Among the distant background galaxies also visible, NGC 6207 is above and to the left of the Great Globular Cluster M13.",
   "date": "2007-11-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/M13_DSS_Noel.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Noel Carboni, Digitized Sky Survey Explanation",
-    "Noel Carboni, Digitized Sky Survey"
-  ],
+  "copyright": "Noel Carboni, Digitized Sky Survey",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/M13_DSS_Noel_c800.jpg"
 }

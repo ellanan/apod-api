@@ -1,14 +1,10 @@
 {
   "title": "A Prominent Solar Prominence from SOHO",
-  "credit": [
-    "Credit: SOHO - EIT Consortium, ESA, NASA Explanation",
-    "SOHO - EIT Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - EIT Consortium, ESA, NASA",
   "explanation": "One of the most spectacular solar sights is a prominence. A solar prominence is a cloud of solar gas held above the Sun's surface by the Sun's magnetic field. Last month, NASA's Sun-orbiting SOHO spacecraft imaged an impressively large prominence hovering over the surface, pictured above. The Earth would easily fit under the hovering curtain of hot gas. A quiescent prominence typically lasts about a month, and may erupt in a Coronal Mass Ejection (CME) expelling hot gas into the Solar System. Although somehow related to the Sun's changing magnetic field, the energy mechanism that creates and sustains a Solar prominence is still a topic of research.",
   "date": "2004-03-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0403/sunprom2_soho_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0403/sunprom2_soho.jpg"
 }

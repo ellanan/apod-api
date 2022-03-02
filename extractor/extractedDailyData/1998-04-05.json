@@ -1,14 +1,10 @@
 {
   "title": "X-Ray Pleiades",
-  "credit": [
-    "Credit: T. Preibisch (Univ. Wuerzburg), ROSAT Project, MPE, NASA Explanation",
-    "T. Preibisch (Univ. Wuerzburg), ROSAT Project, MPE, NASA"
-  ],
+  "credit": "T. Preibisch (Univ. Wuerzburg), ROSAT Project, MPE, NASA",
   "explanation": "The Pleiades star cluster is one of the jewels of the northern sky. To the unaided eye it appears as a lovely and tantalizing grouping of stars in the constellation of Taurus, while telescopic views reveal cluster stars surrounded by delicate blue wisps of dust-reflected starlight. To the X-ray telescopes on board the orbiting ROSAT observatory, the cluster also presents an impressive, but slightly altered, appearance. This false color image was produced from ROSAT observations by translating different X-ray energy bands to visual colors - the lowest energies are shown in red, medium in green, and highest energies in blue. (The green boxes mark the position of the seven brightest visual stars.) The Pleiades stars seen in X-rays have extremely hot, tenuous outer atmospheres called coronas and the range of colors corresponds to different coronal temperatures.",
   "date": "1998-04-05",
   "hdurl": "https://apod.nasa.gov/apod/image/9703/pleiades_rosat.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9703/pleiades_rosat.jpg"
 }

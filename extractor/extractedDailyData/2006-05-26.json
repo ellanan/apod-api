@@ -1,14 +1,10 @@
 {
   "title": "Omega Centauri",
-  "credit": [],
   "explanation": "Centaurus, the Centaur, is one of the most striking constellations in the southern sky. The Milky Way flows through this celestial expanse whose wonders also include the closest star to the Sun, Alpha Centauri, and the largest globular star cluster in our galaxy, Omega Centauri. This gorgeous wide-field telescopic view of Omega Centauri shows off the cluster of about 10 million stars and the surrounding star field, with very faint dust clouds and distant background galaxies. Omega Cen itself is about 15,000 light-years away and 150 light-years in diameter - one of 150 or so known globular star clusters that roam the halo of our galaxy. The stars in globular clusters are much older, cooler, and less massive than our Sun.",
   "date": "2006-05-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0605/omegacen_crouch_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Crouch Explanation",
-    "Steve Crouch"
-  ],
+  "copyright": "Steve Crouch",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0605/omegacen_crouch_c60.jpg"
 }

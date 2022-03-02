@@ -1,14 +1,10 @@
 {
   "title": "The Big Corona",
-  "credit": [],
   "explanation": "Most photographs don't adequately portray the magnificence of the Sun's corona. Seeing the corona first-hand during a total solar eclipse is best. The human eye can adapt to see features and extent that photographic film usually cannot. Welcome, however, to the digital age. The above picture is a combination of twenty-two photographs that were digitally processed to highlight faint features of a total eclipe that occurred in August of 1999. The outer pictures of the Sun's corona were digitally altered to enhance dim, outlying waves and filaments. The inner pictures of the usually dark Moon were enhanced to bring out its faint glow from doubly reflected sunlight. Shadow seekers need not fret, though, since as yet there is no way that digital image processing can mimic the fun involved in experiencing a total solar eclipse. The next total solar eclipse will be visible from parts of Africa on June 21.",
   "date": "2001-04-08",
   "hdurl": "https://apod.nasa.gov/apod/image/9909/corona99_espanek.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fred Espenak (NASA/GSFC) Explanation",
-    "Fred Espenak (NASA/GSFC)"
-  ],
+  "copyright": "Fred Espenak (NASA/GSFC)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9909/corona99_espanek_big.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Western Sky at Twilight",
-  "credit": [],
   "explanation": "On April 23rd, the Moon along with planets Saturn, Mars, and Venus (and planet Earth of course ...) were all visible in the west at twilight, captured here from a site near Saylorvillle Lake north of Des Moines, Iowa, USA. Putting your cursor over the image will label our fellow solar system wanderers and also reveal the approximate trajectory of the ecliptic plane - defined by Earth's orbit around the Sun - angling above the western horizon. After sunset tonight, the western sky will present a similar arrangement of planets, although the Moon will have moved east out of the picture, passing bright Jupiter along the ecliptic and heading for May 4th's total lunar eclipse. May could also be a good month for comets.",
   "date": "2004-05-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0405/mvms_042304_richard_f1.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stan Richard Explanation",
-    "Stan Richard"
-  ],
+  "copyright": "Stan Richard",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0405/mvms_042304_richard_f2.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "NGC 6960: The Witch's Broom Nebula",
-  "credit": [],
   "explanation": "Ten thousand years ago, before the dawn of recorded human history, a new light must suddenly have appeared in the night sky and faded after a few weeks. Today we know this light was an exploding star and record the colorful expanding cloud as the Veil Nebula. Pictured above is the west end of the Veil Nebula known technically as NGC 6960 but less formally as the Witch's Broom Nebula. The rampaging gas gains its colors by impacting and exciting existing nearby gas. The supernova remnant lies about 1400 light-years away towards the constellation of Cygnus. This Witch's Broom actually spans over three times the angular size of the full Moon. The bright star 52 Cygnus is visible with the unaided eye from a dark location but unrelated to the ancient supernova.",
   "date": "2007-01-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0701/veil_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: T. A. Rector (U. Alaska), WIYN, NOAO, AURA, NSF Explanation",
-    "T. A. Rector (U. Alaska), WIYN, NOAO, AURA, NSF"
-  ],
+  "copyright": "T. A. Rector (U. Alaska), WIYN, NOAO, AURA, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0701/veil_noao.jpg"
 }

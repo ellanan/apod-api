@@ -1,14 +1,10 @@
 {
   "title": "Hidden Galaxy IC 342 from Kitt Peak",
-  "credit": [],
   "explanation": "Beautiful nearby spiral galaxy IC 342 could be more famous if it wasn't so hidden. A sprawling island universe, IC 342 would be a prominent galaxy in our night sky, but it is almost hidden from view behind the veil of stars, gas and dust clouds in the plane of our Milky Way galaxy. Similar in size to other large, bright spiral galaxies IC 342 is a mere 7 million light-years distant in the long-necked, northern constellation of the Giraffe (Camelopardalis). Even though IC 342's light is dimmed by intervening cosmic clouds, this remarkably sharp telescopic image traces the galaxy's own obscuring dust, blue star clusters, and glowing pink star forming regions along spiral arms that wind far from the galaxy's core. IC 342 may have undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.",
   "date": "2008-01-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0801/ic342_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: T. Rector (U. Alaska Anchorage), H. Schweiker, WIYN, NOAO, AURA, NSF Explanation",
-    "T. Rector (U. Alaska Anchorage), H. Schweiker, WIYN, NOAO, AURA, NSF"
-  ],
+  "copyright": "T. Rector (U. Alaska Anchorage), H. Schweiker, WIYN, NOAO, AURA, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0801/ic342_noao.jpg"
 }

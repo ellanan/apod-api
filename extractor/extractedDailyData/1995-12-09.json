@@ -1,14 +1,10 @@
 {
   "title": "Apollo 14 on the Moon",
-  "credit": [
-    "Credit: NASA, Johnson Space Center Explanation",
-    "NASA, Johnson Space Center"
-  ],
+  "credit": "NASA, Johnson Space Center",
   "explanation": "",
   "date": "1995-12-09",
   "hdurl": "https://apod.nasa.gov/apod/image/lander_a14_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/lander_a14.gif"
 }

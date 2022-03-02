@@ -1,14 +1,10 @@
 {
   "title": "The Sloan Digital Sky Survey Telescope",
-  "credit": [
-    "Credit: SDSS Team, Fermilab Visual Media Services Explanation",
-    "SDSS Team, Fermilab Visual Media Services"
-  ],
+  "credit": "SDSS Team, Fermilab Visual Media Services",
   "explanation": "The Sloan Digital Sky Survey (SDSS) will soon begin. Pictured above is the 2.5-meter telescope poised to create the most ambitious sky map in the history of astronomy. SDSS will catalog one quarter of the sky down past 23rd magnitude ( R), obtaining redshifts for galaxies and quasars brighter than magnitude 19. SDSS is expected to store about 200 Gigabytes of data each night. Astronomers will work to cull from this information an unprecedented three-dimensional view of our local universe. However, the SDSS may one day be remembered not only for the hundreds of millions of objects which it could see, but for how it indicated the nature and composition of the rest of the universe which it could not see.",
   "date": "1998-06-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9806/sloan_fermilab_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9806/sloan_fermilab.jpg"
 }

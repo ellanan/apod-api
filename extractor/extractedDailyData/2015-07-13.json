@@ -1,14 +1,10 @@
 {
   "title": "Last Look at Pluto's Charon Side",
-  "credit": [],
   "explanation": "Pluto surface is strange. As the robotic New Horizons barrels toward its closest approach to Pluto and its moons tomorrow, images already coming back show Pluto's surface to be curiouser and curiouser. The featured image, taken two days ago, shows the side of Pluto that always faces Pluto's largest moon Charon. Particularly noteworthy is the dark belt near the bottom that circles Pluto's equator. It is currently unclear whether regions in this dark belt are mountainous or flat, why boundaries are so sharply defined, and why the light regions seem to be nearly evenly spaced. As New Horizons will be flying past the other side of Pluto, this should be the best image of this distant landscape that humanity sees for a long time. Assuming the robotic spacecraft operates as hoped, images taken of the other side of Pluto, taken near closest approach, will be about 300 times more detailed.",
   "date": "2015-07-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1507/Pluto03_NewHorizons_1041.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: NASA, Johns Hopkins Univ./APL, Southwest Research Inst. Explanation",
-    "NASA, Johns Hopkins Univ./APL, Southwest Research Inst."
-  ],
+  "copyright": "NASA, Johns Hopkins Univ./APL, Southwest Research Inst.",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1507/Pluto03_NewHorizons_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Incredible Expanding Cat's Eye",
-  "credit": [
-    "Credit: Arsen R. Hajian (USNO), Yervant Terzian (Cornell) Explanation",
-    "Arsen R. Hajian (USNO), Yervant Terzian (Cornell)"
-  ],
+  "credit": "Arsen R. Hajian (USNO), Yervant Terzian (Cornell)",
   "explanation": "Watch closely. As this animation blinks between two Hubble Space Telescope images of NGC 6543 - the first from 1994 and the second from 1997 - the intricate filaments of this nebula are seen to shift. The shift is due to the actual expansion of this gaseous shroud shed by a dying star! NGC 6543 is more popularly known as the Cat's Eye Nebula. Classified as a \"planetary nebula\", its complex, interwoven shells of expanding gas have been castoff by the central star as it evolves from a red giant to its final white dwarf phase. The planetary nebula phase of a star's life is known to be relatively brief, lasting 10,000 years or so. In fact, combined with other data, this nebula's detectable shift over a three year period allows the expansion age of its bright inner shells to be estimated at only around 1,000 years while its distance can be gauged at about 3,000 light-years.",
   "date": "1999-09-16",
   "hdurl": "https://apod.nasa.gov/apod/image/9909/catseye_expand.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9909/catseye_expand.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "X-ray Moon and X-ray Star",
-  "credit": [
-    "Credit: ROSAT, MPE, NASA Explanation",
-    "ROSAT, MPE, NASA"
-  ],
+  "credit": "ROSAT, MPE, NASA",
   "explanation": "",
   "date": "1996-02-27",
   "hdurl": "https://apod.nasa.gov/apod/image/gx5moon_rosat.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/gx5moon_rosat_crop.gif"
 }

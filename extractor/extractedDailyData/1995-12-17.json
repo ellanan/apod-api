@@ -1,14 +1,10 @@
 {
   "title": "The Space Shuttle Docks with Mir",
-  "credit": [
-    "Credit: NASA, Russian Space Research Institute Explanation",
-    "NASA, Russian Space Research Institute"
-  ],
+  "credit": "NASA, Russian Space Research Institute",
   "explanation": "",
   "date": "1995-12-17",
   "hdurl": "https://apod.nasa.gov/apod/image/atlantis_mir_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/atlantis_mir.gif"
 }

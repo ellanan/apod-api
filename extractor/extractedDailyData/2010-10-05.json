@@ -1,14 +1,10 @@
 {
   "title": "Horsehead and Orion Nebulas",
-  "credit": [],
   "explanation": "The dark Horsehead Nebula and the glowing Orion Nebula are contrasting cosmic vistas. Adrift 1,500 light-years away in one of the night sky's most recognizable constellations, they appear in opposite corners of the above stunning mosaic. The familiar Horsehead nebula appears as a dark cloud, a small silhouette notched against the long red glow at the lower left. Alnitak is the easternmost star in Orion's belt and is seen as the brightest star to the left of the Horsehead. Below Alnitak is the Flame Nebula, with clouds of bright emission and dramatic dark dust lanes. The magnificent emission region, the Orion Nebula (aka M42), lies at the upper right. Immediately to its left is a prominent bluish reflection nebula sometimes called the Running Man. Pervasive tendrils of glowing hydrogen gas are easily traced throughout the region.",
   "date": "2010-10-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1010/orionwide_tljj_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Maurice Toet, Steve Loughran, Darren Jehan & Tim Jardine Explanation",
-    "Maurice Toet, Steve Loughran, Darren Jehan & Tim Jardine"
-  ],
+  "copyright": "Maurice Toet, Steve Loughran, Darren Jehan & Tim Jardine",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1010/orionwide_tljj.jpg"
 }

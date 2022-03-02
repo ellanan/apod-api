@@ -1,14 +1,10 @@
 {
   "title": "WISE: Heart and Soul Nebulas in Infrared",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, WISE Team Explanation",
-    "NASA, JPL-Caltech, WISE Team"
-  ],
+  "credit": "NASA, JPL-Caltech, WISE Team",
   "explanation": "Is the heart and soul of our Galaxy located in Cassiopeia? Possibly not, but that is where two bright emission nebulas nicknamed Heart and Soul can be found. The Heart Nebula, officially dubbed IC 1805 and visible in the above right, has a shape in optical light reminiscent of a classical heart symbol. The above image, however, was taken in infrared light by the recently launched WISE telescope. Infrared light penetrates well inside the vast and complex bubbles created by newly formed stars in the interior of these two massive star forming regions. Studies of stars and dust like those found in the Heart and Soul Nebulas have focussed on how massive stars form and how they affect their environment. Light takes about 6,000 years to reach us from these nebulas, which together span roughly 300 light years.",
   "date": "2010-06-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1006/heartsoul_wise_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1006/heartsoul_wise.jpg"
 }

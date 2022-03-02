@@ -1,14 +1,10 @@
 {
   "title": "Galaxy Group HCG 87",
-  "credit": [
-    "Credit: GMOS-S Commissioning Team, Gemini Observatory Explanation",
-    "GMOS-S Commissioning Team, Gemini Observatory"
-  ],
+  "credit": "GMOS-S Commissioning Team, Gemini Observatory",
   "explanation": "Posing for this cosmic family photo are the galaxies of HCG (Hickson Compact Group) 87, about four hundred million light-years distant toward the amphibious constellation Capricornus. The large edge-on spiral near picture center, the fuzzy elliptical galaxy immediately to its right, and the spiral near the top of the image are identified members of the group, while the small spiral galaxy in the middle is likely a more distant background galaxy. In any event, a careful examination of the deep image reveals other galaxies which certainly lie far beyond HCG 87. While not exactly locked in a group hug, the HCG 87 galaxies are interacting gravitationally, influencing their fellow group members' structure and evolution. This image is from the commissioning phase of an instrument on the Gemini Observatory's South Telescope at Cerro Pachon, Chile. It compares favorably with views of this photogenic galaxy group recorded by the Hubble Space Telescope.",
   "date": "2005-07-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0507/hcg87_gmoss_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0507/hcg87_gmoss_c1.jpg"
 }

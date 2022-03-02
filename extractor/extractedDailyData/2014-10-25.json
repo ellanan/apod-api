@@ -1,14 +1,10 @@
 {
   "title": "Sunspots and Solar Eclipse",
-  "credit": [],
   "explanation": "A New Moon joined giant sunspot group AR 2192 to dim the bright solar disk during Thursday's much anticipated partial solar eclipse. Visible from much of North America, the Moon's broad silhouette is captured in this extreme telephoto snapshot near eclipse maximum from Santa Cruz, California. About the size of Jupiter, the remarkable AR 2192 itself darkens a noticeable fraction of the Sun, near center and below the curved lunar limb. As the sunspot group slowly rotates across the Sun and out of view in the coming days its activity is difficult to forecast. But the timing of solar eclipses is easier to predict. The next will be a total solar eclipse on March 20, 2015.",
   "date": "2014-10-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1410/pse_bigbolte.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Bolte (UCSC) Explanation",
-    "Michael Bolte (UCSC)"
-  ],
+  "copyright": "Michael Bolte (UCSC)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1410/pse_bigbolte1024.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Young Star Cluster Westerlund 2",
-  "credit": [
-    "Credit: X-ray; Y.Nazé, G.Rauw, J.Manfroid (Université de Liège), CXC, NASA Infrared; E.Churchwell (University of Wisconsin), JPL, Caltech, NASA Explanation",
-    "X-ray; Y.Nazé, G.Rauw, J.Manfroid (Université de Liège), CXC, NASA Infrared; E.Churchwell (University of Wisconsin), JPL, Caltech, NASA"
-  ],
+  "credit": "X-ray; Y.Nazé, G.Rauw, J.Manfroid (Université de Liège), CXC, NASA Infrared; E.Churchwell (University of Wisconsin), JPL, Caltech, NASA",
   "explanation": "Dusty stellar nursery RCW 49 surrounds young star cluster Westerlund 2 in this remarkable composite skyscape from beyond the visible spectrum of light. Infrared data from the Spitzer Space Telescope is shown in black and white, complimenting the Chandra X-ray image data (in false color) of the hot energetic stars within the cluster's central region. Looking toward the grand southern constellation Centaurus, both views reveal stars and structures hidden from optical telescopes by obscuring dust. Westerlund 2 itself is a mere 2 million years old or less, and contains some of our galaxy's most luminous, massive and therefore short-lived stars. The infrared signatures of proto-planetary disks have also been identified in the intense star forming region. At the cluster's estimated distance of 20,000 light-years, the square marking the Chandra field of view would be about 50 light-years on a side.",
   "date": "2008-01-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0801/wd2_xrayir.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0801/wd2_xrayir_c790.jpg"
 }

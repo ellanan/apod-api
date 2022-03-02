@@ -1,14 +1,10 @@
 {
   "title": "Across the Sun",
-  "credit": [],
   "explanation": "A long solar filament stretches across the relatively calm surface of the Sun in this telescopic snap shot from April 27. The negative or inverted narrowband image was made in the light of ionized hydrogen atoms. Seen at the upper left, the magnificent curtain of magnetized plasma towers above surface and actually reaches beyond the Sun's edge. How long is the solar filament? About as long as the distance from Earth to Moon, illustrated by the scale insert at the left. Tracking toward the right across the solar disk a day later the long filament erupted, lifting away from the Sun's surface. Monitored by Sun staring satellites, a coronal mass ejection was also blasted from the site but is expected to swing wide of our fair planet.",
   "date": "2015-04-30",
   "hdurl": "https://apod.nasa.gov/apod/image/1504/GS_20150427_Sun_1500.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Göran Strand Explanation",
-    "Göran Strand"
-  ],
+  "copyright": "Göran Strand",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1504/GS_20150427_Sun_1024.jpg"
 }

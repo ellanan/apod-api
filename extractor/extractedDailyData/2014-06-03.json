@@ -1,14 +1,10 @@
 {
   "title": "WR 104: A Pinwheel Star System",
-  "credit": [],
   "explanation": "Might this giant pinwheel one-day destroy us? Probably not, but investigation of the unusual star system Wolf-Rayet 104 has turned up an unexpected threat. The unusual pinwheel pattern has been found to be created by energetic winds of gas and dust that are expelled and intertwine as two massive stars orbit each other. One system component is a Wolf-Rayet star, a tumultuous orb in the last stage of evolution before it explodes in a supernova -- an event possible anytime in the next million years. Research into the spiral pattern of the emitted dust, however, indicates the we are looking nearly straight down the spin axis of the system -- possibly the same axis along which a powerful jet would emerge were the supernova accompanied by a gamma-ray burst. Now the WR 104 supernova itself will likely be an impressive but harmless spectacle. Conversely, were Earth really near the center of the powerful GRB beam, even the explosion's 8,000 light year distance might not be far enough to protect us. Currently, neither WR 104 nor GRB beams are understood well enough to know the real level of danger.",
   "date": "2014-06-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1406/wr104_keck_2200.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P. Tuthill (U. Sydney) & J. Monnier (U. Michigan), Keck Obs., ARC, NSF Explanation",
-    "P. Tuthill (U. Sydney) & J. Monnier (U. Michigan), Keck Obs., ARC, NSF"
-  ],
+  "copyright": "P. Tuthill (U. Sydney) & J. Monnier (U. Michigan), Keck Obs., ARC, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1406/wr104_keck_960.jpg"
 }

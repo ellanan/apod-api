@@ -1,13 +1,9 @@
 {
   "title": "Through the Shadow of the Moon",
-  "credit": [],
   "explanation": "What would it look like to fly through a total eclipse of the Sun? On a typical place on Earth in the path of the dark shadow of the Moon during a total eclipse, an observer would see the Moon cross the face of the Sun, completely blocking it for a few minutes. A particularly clear view of the darkness created on Earth during last month's total solar eclipse was captured by an aircraft flying through the Moon's umbral shadow. One second of time in the featured time-lapse video corresponds to about one minute of real time. The Moon's shadow comes in from the right and leaves on the left, all while locations on Earth outside the umbral shadow -- over 100 kilometers away -- remain partly sunlit. During the next solar eclipse in mid-September, the Moon will, at most, block only part of the Sun.",
   "date": "2015-04-14",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephan Heinsius (Eclipseland) Explanation",
-    "Stephan Heinsius (Eclipseland)"
-  ],
+  "copyright": "Stephan Heinsius (Eclipseland)",
   "media_type": "video",
   "url": "https://www.youtube.com/embed/nTZQn19EwAU?rel=0&controls=0"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Hydrogen Blob N88A in the Small Magellanic Cloud",
-  "credit": [
-    "Credit: M. Heydari-Malayeri (Paris Observatory) et al., WFPC2, HST, ESA, NASA Explanation",
-    "M. Heydari-Malayeri (Paris Observatory) et al., WFPC2, HST, ESA, NASA"
-  ],
+  "credit": "M. Heydari-Malayeri (Paris Observatory) et al., WFPC2, HST, ESA, NASA",
   "explanation": "The bright blob of hydrogen gas cataloged as N88A is seen at the right. It measures a mere 3 light years across. Emerging from the cool, dusty interstellar medium in a nearby irregular galaxy known as the Small Magellanic Cloud, N88A hides hot young stars at its core. The false-color Hubble Space Telescope image was recorded in the characteristic \"H-alpha\" light emitted by hydrogen atoms as they are ionized by the young star's energetic ultraviolet light and then recombine. Other regions of ionized hydrogen (H II regions) which surround new born stars can be over a thousand light-years across but astronomers now recognize that these small ionized hydrogen blobs contain some of the most massive stars known.",
   "date": "1999-07-29",
   "hdurl": "https://apod.nasa.gov/apod/image/9907/n88_hst.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9907/n88_hst.jpg"
 }

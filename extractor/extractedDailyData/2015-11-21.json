@@ -1,14 +1,10 @@
 {
   "title": "Recycling NGC 5291",
-  "credit": [],
   "explanation": "Following an ancient galaxy-galaxy collision 200 million light-years from Earth, debris from a gas-rich galaxy, NGC 5291, was flung far into intergalactic space. NGC 5291 and the likely interloper, also known as the \"Seashell\" galaxy, are captured near the center of this spectacular scene. The sharp, ground-based telescopic image looks toward the galaxy cluster Abell 3574 in the southern constellation Centaurus. Stretched along the 100,000 light-year long tidal tails, are clumps resembling dwarf galaxies, but lacking old stars, apparently dominated by young stars and active star forming regions. Found to be unusually rich in elements heavier than hydrogen and helium, the dwarf galaxies were likely born in intergalactic space, recycling the enriched debris from NGC 5291 itself.",
   "date": "2015-11-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1511/NGC5291_c80aSchedler.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: CHART32 Team, Processing - Johannes Schedler Explanation",
-    "CHART32 Team, Processing - Johannes Schedler"
-  ],
+  "copyright": "CHART32 Team, Processing - Johannes Schedler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1511/NGC5291_c80aSchedler1024.jpg"
 }

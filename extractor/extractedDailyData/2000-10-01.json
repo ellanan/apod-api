@@ -1,14 +1,10 @@
 {
   "title": "The Center of Centaurus A",
-  "credit": [
-    "Credit: E.J. Schreier (STScI) et al., HST, NASA Explanation",
-    "E.J. Schreier (STScI) et al., HST, NASA"
-  ],
+  "credit": "E.J. Schreier (STScI) et al., HST, NASA",
   "explanation": "A fantastic jumble of young blue star clusters, gigantic glowing gas clouds, and imposing dark dust lanes surrounds the central region of the active galaxy Centaurus A. This mosaic of Hubble Space Telescope images taken in blue, green, and red light has been processed to present a natural color picture of this cosmic maelstrom. Infrared images from the Hubble have also shown that hidden at the center of this activity are what seem to be disks of matter spiraling into a black hole with a billion times the mass of the Sun! Centaurus A itself is apparently the result of a collision of two galaxies and the left over debris is steadily being consumed by the black hole. Astronomers believe that such black hole central engines generate the radio, X-ray, and gamma-ray energy radiated by Centaurus A and other active galaxies. But for an active galaxy Centaurus A is close, a mere 10 million light-years away, and is a relatively convenient laboratory for exploring these powerful sources of energy.",
   "date": "2000-10-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0010/CenA_wfpc2_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0010/CenA_wfpc2.jpg"
 }

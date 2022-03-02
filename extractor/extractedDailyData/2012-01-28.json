@@ -1,14 +1,10 @@
 {
   "title": "Planet Aurora Borealis",
-  "credit": [],
   "explanation": "Illuminated by an eerie greenish light, this remarkable little planet is covered with ice and snow and ringed by tall pine trees. Of course, this little planet is actually planet Earth, and the surrounding stars are above the horizon near Östersund, Sweden. The pale greenish illumination is from a curtain of shimmering Aurora Borealis also known as the Northern Lights. The display was triggered when a giant solar coronal mass ejection (CME) rocked planet Earth's magnetosphere on January 24th and produced a strong geomagnetic storm. Northern hemisphere skygazers will also recognize the familiar orientation of stars at the left, including the Pleiades and Hyades star clusters and the stars of Orion. Increasing solar activity has caused recent auroral displays to be wide spread, including Aurora Australis, the Southern Lights, at high southern latitudes.",
   "date": "2012-01-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1201/GS_20120124_Aurora_0044_Planet.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Göran Strand Explanation",
-    "Göran Strand"
-  ],
+  "copyright": "Göran Strand",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1201/GS_20120124_Aurora_0044_Planet900c.jpg"
 }

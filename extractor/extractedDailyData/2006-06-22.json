@@ -1,14 +1,10 @@
 {
   "title": "Planets, Bees, and a Donkey",
-  "credit": [],
   "explanation": "The heralded alignment of wandering planets Saturn and Mars with the well-known Beehive Cluster took place last weekend on Saturday, June 17. Recorded in dark Arizona skies on that date, this view finds Mars above and right of Saturn - the brightest celestial beacons in the scene - with the Beehive cluster of stars (M44) at the lower right. The two planets appear in conjunction separated by just over half a degree. But about another half a degree along a line joining the two and continuing towards the lower left lies the third brightest object in the image, giant star Asellus Australis. Asellus Australis is also known as Delta Cancri, a middling bright star 136 light-years away in the constellation Cancer, the Crab. Of course, this star's Latin name translates to \"Southern Donkey\".",
   "date": "2006-06-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0606/satmars_schur_f1600.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Chris Schur Explanation",
-    "Chris Schur"
-  ],
+  "copyright": "Chris Schur",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0606/satmars_schur_c600.jpg"
 }

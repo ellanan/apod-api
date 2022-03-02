@@ -1,14 +1,10 @@
 {
   "title": "IC 5146: The Cocoon Nebula",
-  "credit": [],
   "explanation": "Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide, located some 4,000 light years away toward the northern constellation Cygnus. Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars and blue, dust-reflected starlight at the edge of an otherwise invisible molecular cloud. In fact, the bright star near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. This exceptionally deep color view of the Cocoon Nebula traces tantalizing features within and surrounding the dusty stellar nursery.",
   "date": "2009-03-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0903/IC5146_fleming50.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Neil Fleming, David Plesko Explanation",
-    "Neil Fleming, David Plesko"
-  ],
+  "copyright": "Neil Fleming, David Plesko",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0903/IC5146_fleming_c800.jpg"
 }

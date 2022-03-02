@@ -1,14 +1,10 @@
 {
   "title": "Gamma Rays from Galactic Center Dark Matter?",
-  "credit": [
-    "Credit: T. Daylan et al., Fermi Space Telescope, NASA Explanation",
-    "T. Daylan et al., Fermi Space Telescope, NASA"
-  ],
+  "credit": "T. Daylan et al., Fermi Space Telescope, NASA",
   "explanation": "What is creating the gamma rays at the center of our Galaxy? Excitement is building that one answer is elusive dark matter. Over the past few years the orbiting Fermi Gamma-ray Space Telescope has been imaging our Galaxy's center in gamma-rays. Repeated detailed analyses indicate that the region surrounding the Galactic center seems too bright to be accounted by known gamma-ray sources. A raw image of the Galactic Center region in gamma-rays is shown above on the left, while the image on the right has all known sources subtracted -- leaving an unexpected excess. An exciting hypothetical model that seems to fit the excess involves a type of dark matter known as WIMPs, which may be colliding with themselves to create the detected gamma-rays. This hypothesis is controversial, however, and debate and more detailed investigations are ongoing. Finding the nature of dark matter is one of the great quests of modern science, as previously this unusual type of cosmologically pervasive matter has shown itself only through gravitation.",
   "date": "2014-03-10",
   "hdurl": "https://apod.nasa.gov/apod/image/1403/gcenterbump_fermi_960.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1403/gcenterbump_fermi_960.jpg"
 }

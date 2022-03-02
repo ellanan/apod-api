@@ -1,14 +1,10 @@
 {
   "title": "La Niña Earth",
-  "credit": [
-    "Credit: TOPEX/Poseidon Team, CNES, JPL, NASA Explanation",
-    "TOPEX/Poseidon Team, CNES, JPL, NASA"
-  ],
+  "credit": "TOPEX/Poseidon Team, CNES, JPL, NASA",
   "explanation": "La Niña is a temporary climate change caused by unusually cold water in the central Pacific Ocean. Cold water topping an unusually low sea level is shown as purple in the above false-color picture taken by the orbiting TOPEX/Poseidon satellite in mid-January. Such cold water tends to deflect winds around it, changing the course of weather systems locally and the nature of weather patterns globally. This year's La Niña appears to have weakened over the past few months, indicating a slow return to more normal seasonal weather. The full effects of the preceding El Niño and the present La Niña are still under study.",
   "date": "1999-02-15",
   "hdurl": "https://apod.nasa.gov/apod/image/9902/lanina2_topex_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9902/lanina2_topex.jpg"
 }

@@ -1,17 +1,11 @@
 {
   "title": "The Small Cloud of Magellan",
-  "credit": [
-    "Credit: Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board Explanation",
-    "Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board"
-  ],
+  "credit": "Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board",
   "explanation": "The southern sky contains wonders almost unknown in the north. These wonders include the Large and Small Magellanic Clouds: small irregular galaxies orbiting our own larger Milky Way spiral galaxy. The Small Magellanic Cloud (SMC), pictured here, is about 250,000 light years away. The SMC contains many young, hot, blue stars indicating it has undergone a recent period of star formation, possibly due to a collision with the LMC 500 million years ago. The bright object on the right is a globular cluster near the outskirts of the Milky Way.",
   "date": "1997-07-19",
   "hdurl": "https://apod.nasa.gov/apod/image/smc_uks.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anglo-Australian Telescope Board Explanation",
-    "Anglo-Australian Telescope Board"
-  ],
+  "copyright": "Anglo-Australian Telescope Board",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/smc_uks.gif"
 }

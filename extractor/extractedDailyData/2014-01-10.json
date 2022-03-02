@@ -1,14 +1,10 @@
 {
   "title": "NGC 7293: The Helix Nebula",
-  "credit": [],
   "explanation": "A mere seven hundred light years from Earth, in the constellation Aquarius, a sun-like star is dying. Its last few thousand years have produced the Helix Nebula (NGC 7293), a well studied and nearby example of a Planetary Nebula, typical of this final phase of stellar evolution. A total of 28.5 hours of exposure time have gone in to creating this deep view of the nebula. Combining narrow band image data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, it shows remarkable details of the Helix's brighter inner region, about 3 light-years across, but also follows fainter outer halo features that give the nebula a span of well over six light-years. The white dot at the Helix's center is this Planetary Nebula's hot, central star. A simple looking nebula at first glance, the Helix is now understood to have a surprisingly complex geometry.",
   "date": "2014-01-10",
   "hdurl": "https://apod.nasa.gov/apod/image/1401/HelixGoldmanLarge.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Don Goldman Explanation",
-    "Don Goldman"
-  ],
+  "copyright": "Don Goldman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1401/HelixGoldmanSmall.jpg"
 }

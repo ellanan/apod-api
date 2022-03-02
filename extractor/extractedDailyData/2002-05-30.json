@@ -1,14 +1,10 @@
 {
   "title": "Orion Nebulosities",
-  "credit": [],
   "explanation": "",
   "date": "2002-05-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0205/orione_mallart_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Emmanuel Mallart Explanation",
-    "Emmanuel Mallart"
-  ],
+  "copyright": "Emmanuel Mallart",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0205/orione_mallart_c1.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Mystery Feature Now Disappears in Titan Lake",
-  "credit": [
-    "Credit: Cassini Radar Mapper, Cornell, JPL, ESA, NASA Explanation",
-    "Cassini Radar Mapper, Cornell, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Radar Mapper, Cornell, JPL, ESA, NASA",
   "explanation": "What is that changing object in a cold hydrocarbon sea of Titan? Radar images from the robotic Cassini spacecraft orbiting Saturn have been recording the surface of the cloud-engulfed moon Titan for years. When imaging the flat -- and hence radar dark -- surface of the methane and ethane lake called Ligeia Mare, an object appeared in 2013 July just was not there in 2007. Subsequent observations in 2014 August found the object remained -- but had changed. In an image released last week, the mystery object seems to have disappeared in 2015 January. The featured false-color image shows how the 20-km long object has come, changed, and gone. Current origin speculative explanations include waves, bubbling foam and floating solids, but still no one is sure. Future observations, in particular Cassini's final close flyby of Titan in 2017 April, may either resolve the enigma or open up more speculation.",
   "date": "2016-03-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1603/TitanLakeThing_Cassini_2000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1603/TitanLakeThing_Cassini_960.jpg"
 }

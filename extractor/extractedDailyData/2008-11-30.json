@@ -1,14 +1,10 @@
 {
   "title": "An Apollo 15 Panorama: Astronaut Exploring",
-  "credit": [
-    "Credit: Apollo 15 Crew, USGS, NASA Explanation",
-    "Apollo 15 Crew, USGS, NASA"
-  ],
+  "credit": "Apollo 15 Crew, USGS, NASA",
   "explanation": "What would it be like to explore the Moon? NASA's Apollo missions gave humans just this chance in the late 1960s and early 1970s. In particular, the Apollo 15 mission was dedicated to better understanding the surface of the Moon by exploring mountains, valleys, maria, and highlands. Astronauts David Scott and James Irwin spent nearly three days on the Moon while Alfred Worden orbited above in the Command Module. The mission, which blasted off from Earth on 1971 July 26, was the first to deploy a Lunar Roving Vehicle. Pictured above in this digitally stitched mosaic panorama, David Scott examines a boulder in front of the summit of Mt. Hadley Delta. The shadow of James Irwin is visible to the right, while scrolling to the right will reveal a well-lit and diverse lunar terrain. The Apollo 15 mission returned about 76 kilograms of moon rocks for detailed study. In the future, NASA and other space agencies plan to continue to lead humanity's exploration of the Moon, Mars, and beyond.",
   "date": "2008-11-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/hillpan_apollo15_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/hillpan_apollo15.jpg"
 }

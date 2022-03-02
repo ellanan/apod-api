@@ -1,14 +1,10 @@
 {
   "title": "The Solar Neighborhood",
-  "credit": [],
   "explanation": "You are here. The orange dot in the above false-color drawing represents the current location of the Sun among local gas clouds in the spiral Milky Way Galaxy. These gas clouds are so thin that we usually see right through them. Nearly spherical bubbles surround regions of recent star formation. The purple filaments near the Sun are gas shells resulting from star formation 4 million years ago in the Scorpius-Centaurus Association, located to the Sun's lower left. The Sun has been between spiral arms moving through relatively low density gas for the past 5 million years. In contrast, the Sun oscillates in the Milky Way plane every 66 million years, and circles the Galactic Center every 250 million years.",
   "date": "1998-02-25",
   "hdurl": "https://apod.nasa.gov/apod/image/9802/sunjourney_pf_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P. C. Frisch (U. Chicago), with thanks to C. Wellman Explanation",
-    "P. C. Frisch (U. Chicago), with thanks to C. Wellman"
-  ],
+  "copyright": "P. C. Frisch (U. Chicago), with thanks to C. Wellman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9802/sunjourney_pf.jpg"
 }

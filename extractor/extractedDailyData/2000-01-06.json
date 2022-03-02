@@ -1,14 +1,10 @@
 {
   "title": "Mars in the New Year",
-  "credit": [
-    "Credit: Malin Space Science Systems, MGS, JPL, NASA Explanation",
-    "Malin Space Science Systems, MGS, JPL, NASA"
-  ],
+  "credit": "Malin Space Science Systems, MGS, JPL, NASA",
   "explanation": "",
   "date": "2000-01-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0001/marsy2k_mgs_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0001/marsy2k_mgs_c1.jpg"
 }

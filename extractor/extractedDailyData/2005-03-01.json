@@ -1,14 +1,10 @@
 {
   "title": "NGC 1531/2: Interacting Galaxies",
-  "credit": [],
   "explanation": "This dramatic image of an interacting pair of galaxies was made using 8-meter Gemini South telescope at Cerro Pachon, Chile. NGC 1531 is the background galaxy with a bright core just above center and NGC 1532 is the foreground spiral galaxy laced with dust lanes. The pair is about 55 million light-years away in the southern constellation Eridanus. These galaxies lie close enough together so that each feels the influence of the other's gravity. The gravitational tug-of-war has triggered star formation in the foreground spiral as evidenced by the young, bright blue star clusters along the upper edge of the front spiral arm. Though the spiral galaxy in this pair is viewed nearly edge-on, astronomers believe the system is similar to the face-on spiral and companion known as M51, the Whirlpool Galaxy.",
   "date": "2005-03-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0503/ngc1532_gemini_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: T. Rector (U. Alaska Anchorage), Gemini Obs., AURA, NSF Explanation",
-    "T. Rector (U. Alaska Anchorage), Gemini Obs., AURA, NSF"
-  ],
+  "copyright": "T. Rector (U. Alaska Anchorage), Gemini Obs., AURA, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0503/ngc1532_gemini.jpg"
 }

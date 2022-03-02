@@ -1,14 +1,10 @@
 {
   "title": "Planet Near a Galaxy Core",
-  "credit": [
-    "Credit: J. Gitlin (Space Telescope Science Institute), NASA Explanation",
-    "J. Gitlin (Space Telescope Science Institute), NASA"
-  ],
+  "credit": "J. Gitlin (Space Telescope Science Institute), NASA",
   "explanation": "",
   "date": "1996-05-05",
   "hdurl": "https://apod.nasa.gov/apod/image/ngc4261_art_jg_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/ngc4261_art_jg.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The First Image of an Extra Solar Planet",
-  "credit": [
-    "Credit: NaCo, VLT, ESO Explanation",
-    "NaCo, VLT, ESO"
-  ],
+  "credit": "NaCo, VLT, ESO",
   "explanation": "It's the faint red object, not the bright white one that might be a historic find. The white object is surely a brown dwarf star. Quite possibly, however, the red object is the first direct image of a planet beyond our Solar System. The intriguing possibility was first reported last year, but many astronomers weren't then convinced that the \"planet\" was not just a background star. Earlier this year, the 2M1207 star system was imaged twice more in an effort to resolve the issue. To the delight of the scientific team, the objects kept the same separation, indicating that they are gravitationally bound. The faint red object 2M1207b is therefore 100 times fainter, intrinsically, than the bright white brown dwarf 2M1207a -- a characteristic well explained by a planet roughly five times the mass of Jupiter. The discovery - still subject to further confirmation - is considered a step toward the more ambitious goal of imaging Earth-like planets orbiting distant stars. The above image was taken with the high-resolution adaptive-optic NaCo camera attached to the 8-meter Very Large Telescope Yepun in Chile.",
   "date": "2005-05-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0505/brownplanet_eso_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0505/brownplanet_eso.jpg"
 }

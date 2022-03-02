@@ -1,14 +1,10 @@
 {
   "title": "Moon And Venus Share The Sky",
-  "credit": [],
   "explanation": "",
   "date": "2000-07-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0007/mve1997_tezel_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tunc Tezel Explanation",
-    "Tunc Tezel"
-  ],
+  "copyright": "Tunc Tezel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0007/mve1997_tezel.jpg"
 }

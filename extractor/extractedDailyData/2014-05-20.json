@@ -1,14 +1,10 @@
 {
   "title": "In the Center of Spiral Galaxy M61",
-  "credit": [
-    "Credit: ESA/Hubble, NASA; Acknowledgements: G. Chapdelaine & L. Limatola Explanation",
-    "ESA/Hubble, NASA; Acknowledgements: G. Chapdelaine & L. Limatola"
-  ],
+  "credit": "ESA/Hubble, NASA; Acknowledgements: G. Chapdelaine & L. Limatola",
   "explanation": "M61 is a barred spiral galaxy located in the nearby Virgo Cluster of Galaxies. Visible in M61 are a host of features common to spiral galaxies: bright spiral arms, a central bar, dust lanes, and bright knots of stars. M61, also known as NGC 4303, in similar to our own Milky Way Galaxy. M61 was discovered by telescope in 1779 twice on the same day, but one observer initially mistook the galaxy for a comet. Light from M61 takes about 55 million years to reach us. The above image of the central regions of M61 was taken with the Hubble Space Telescope and adapted for release as part of the Hubble's Hidden Treasures image processing competition.",
   "date": "2014-05-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1405/m61_hubble_1497.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1405/m61_hubble_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Fomalhaut Dust Disk Indicates Planets",
-  "credit": [
-    "Credit: David A. Hardy, ROE, ATC, NSF, NASA Explanation",
-    "David A. Hardy, ROE, ATC, NSF, NASA"
-  ],
+  "credit": "David A. Hardy, ROE, ATC, NSF, NASA",
   "explanation": "One of the brightest stars on the sky likely has planets. Fomalhaut, actually the 17th brightest star in the night sky, is a mere 22 light-years away but only a fraction of the age of our Sun. Recent observations in far infrared light with a detector cooled to near zero kelvins indicate a dust disk surrounding Fomalhaut that has both a hole in the center and a warped edge. Now the hole in the center indicates that dust has fallen onto interior planets -- possibly like the Earth -- while the warp at the edge indicates the gravitational pull of a planet like Jupiter or Saturn. The discovery image was taken with the SCUBA instrument through the James Clerk Maxwell Telescope in Hawaii, USA. The above illustration shows what the Fomalhaut dusty planetary system might look like from near the large planet.",
   "date": "2002-10-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0210/fomalhaut_atc_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0210/fomalhaut_atc.jpg"
 }

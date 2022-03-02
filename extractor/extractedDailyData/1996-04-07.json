@@ -1,14 +1,10 @@
 {
   "title": "Uranus's Moon Umbriel: A Mysterious Dark World",
-  "credit": [
-    "Credit: Photo Credit: NASA, Voyager 2, Copyright Calvin J. Hamilton Explanation",
-    "Photo Credit: NASA, Voyager 2, Copyright Calvin J. Hamilton"
-  ],
+  "credit": "Photo Credit: NASA, Voyager 2, Copyright Calvin J. Hamilton",
   "explanation": "",
   "date": "1996-04-07",
   "hdurl": "https://apod.nasa.gov/apod/image/umbriel_vg2_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/umbriel_vg2.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Planetary Nebula Abell 36",
-  "credit": [],
   "explanation": "The gorgeous, gaseous shroud of a dying sunlike star, planetary nebula Abell 36 lies a mere 800 light-years away in the constellation of Virgo. At that distance it spans over 1.5 light-years in this sharp telescopic view. Shrugging off its outer layers, the nebula's central star is contracting and becoming hotter, evolving towards a final white dwarf phase. In fact, in Abell 36, the central star is estimated to have a surface temperature of over 73,000 K, compared to the Sun's present 6,000 K temperature. As a result, the intensely hot star is much brighter in ultraviolet light, compared to its visual appearance here. The invisible ultraviolet light ionizes hydrogen and oxygen atoms in the nebula and ultimately powers the beautiful visible light glow.",
   "date": "2014-05-30",
   "hdurl": "https://apod.nasa.gov/apod/image/1405/abell36Block.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mt. Lemmon SkyCenter, Univ. Arizona Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, Univ. Arizona"
-  ],
+  "copyright": "Adam Block, Mt. Lemmon SkyCenter, Univ. Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1405/abell36sBlock.jpg"
 }

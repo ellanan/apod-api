@@ -1,14 +1,10 @@
 {
   "title": "Curiosity on Mars: Still Life with Rover",
-  "credit": [
-    "Credit: NASA, JPL-Caltech Explanation",
-    "NASA, JPL-Caltech"
-  ],
+  "credit": "NASA, JPL-Caltech",
   "explanation": "What does the Curiosity rover look like on Mars? To help find out, NASA engineers digitally synthesized multiple navigation camera images taken last week into what appears to be the view of a single camera. Besides clods of Martian dirt, many of Curiosity's science instruments are visible and appear in good shape. Near the middle of the rover is an augmented reality tag intended to enable smartphones to provide background information. Far in the distance is a wall of Gale Crater. As Curiosity will begin to roll soon, its first destination has now been chosen: an intriguing intersection of three types of terrain named Glenelg.",
   "date": "2012-08-18",
   "hdurl": "https://apod.nasa.gov/apod/image/1208/curiosity_curiosity_5341.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1208/curiosity_curiosity_960.jpg"
 }

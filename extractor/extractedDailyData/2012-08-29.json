@@ -1,14 +1,10 @@
 {
   "title": "A Dark Earth with a Red Sprite",
-  "credit": [
-    "Credit: ISS Expedition 31 Crew, NASA Explanation",
-    "ISS Expedition 31 Crew, NASA"
-  ],
+  "credit": "ISS Expedition 31 Crew, NASA",
   "explanation": "There is something very unusual in this picture of the Earth -- can you find it? A fleeting phenomenon once thought to be only a legend has been newly caught if you know just where to look. The above image was taken from the orbiting International Space Station (ISS) in late April and shows familiar ISS solar panels on the far left and part of a robotic arm to the far right. The rarely imaged phenomenon is known as a red sprite and it can be seen, albeit faintly, just over the bright area on the image right. This bright area and the red sprite are different types of lightning, with the white flash the more typical type. Although sprites have been reported anecdotally for as long as 300 years, they were first caught on film in 1989 -- by accident. Much remains unknown about sprites including how they occur, their effect on the atmospheric global electric circuit, and if they are somehow related to other upper atmospheric lightning phenomena such as blue jets or terrestrial gamma flashes.",
   "date": "2012-08-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1208/spritenight_iss_4256.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1208/spritenight_iss_960.jpg"
 }

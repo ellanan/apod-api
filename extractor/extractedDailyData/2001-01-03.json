@@ -1,14 +1,10 @@
 {
   "title": "M8: In the Center of the Lagoon Nebula",
-  "credit": [],
   "explanation": "In the center of the Lagoon Nebula one finds glowing gas, star clusters, and dense knots of gas and dust just now forming stars. The young open cluster of stars, designated NGC 6523, can be seen in the center of the above image. These stars emit energetic light that ionizes the surrounding hydrogen gas. As this gas reacquires electrons, it emits red light. The Lagoon Nebula lies about 5000 light-years away and spans about 100 light-years across. The nebula occupies an area on the sky larger than a full moon, and can be seen even without binoculars from a dark location towards the constellation of Sagittarius.",
   "date": "2001-01-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0101/m8_kitahara_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Yuugi Kitahara Explanation",
-    "Yuugi Kitahara"
-  ],
+  "copyright": "Yuugi Kitahara",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0101/m8_kitahara.jpg"
 }

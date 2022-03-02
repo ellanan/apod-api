@@ -1,14 +1,10 @@
 {
   "title": "Cold Comet Halley",
-  "credit": [
-    "Credit: O. Hainaut (ESO-Chile) et al., VLT Project, European Southern Observatory Explanation",
-    "O. Hainaut (ESO-Chile) et al., VLT Project, European Southern Observatory"
-  ],
+  "credit": "O. Hainaut (ESO-Chile) et al., VLT Project, European Southern Observatory",
   "explanation": "While this may not be the most esthetic image of Comet Halley that you have ever seen, it is likely the most unique. The tiny cluster of pixels circled is the famous comet along its orbit over 4 billion (4,000,000,000) kilometers or 28 AU from the Sun -- a record distance for a comet observation. Its last passage through our neck of the woods in 1986, Comet Halley presently cruises through the dim reaches of the outer solar system, almost as far away as outermost gas giant Neptune, and shows no sign of activity. Captured in March, this negative image is a composite of digital exposures made with three of ESO's Very Large Telescopes. The exposures are registered on the moving comet, so the picture shows background stars and galaxies as elongated smudges. An earth-orbiting satellite appears as a dark streak at the top. Comet Halley is clearly extremely faint here, but large earthbound telescopes will be able to follow it as it grows fainter still, reaching the most distant point in its orbit, more than 5 billion kilometers (35 AU) from the Sun, in 2023.",
   "date": "2003-10-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0310/coldhalley_vlt_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0310/coldhalley_vlt_c1.jpg"
 }

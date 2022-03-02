@@ -1,14 +1,10 @@
 {
   "title": "A Lunar Eclipse in Three Exposures",
-  "credit": [],
   "explanation": "Our Moon turned red last week. The reason was that during the night of January 20, a total lunar eclipse occurred. The above digitally superimposed photographs captured the Moon three times during this lunar eclipse, once just as the Moon entered the Earth's shadow, once when the Moon was near the middle of the shadow, and once just before the Moon exited. The red tint of the eclipsed Moon is created by sunlight first passing through the Earth's atmosphere, which preferentially scatters blue light (making the sky blue) but passes and refracts red light, before reflecting back off the Moon. Differing amounts of clouds and volcanic dust in the Earth's atmosphere make each lunar eclipse appear differently.",
   "date": "2000-01-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0001/tripleeclipse_barnes_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephen Barnes Explanation",
-    "Stephen Barnes"
-  ],
+  "copyright": "Stephen Barnes",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0001/tripleeclipse_barnes.jpg"
 }

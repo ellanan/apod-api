@@ -1,14 +1,10 @@
 {
   "title": "Milky Way and Zodiacal Light over Chile",
-  "credit": [],
   "explanation": "What is the band of light connecting the ground to the Milky Way? Zodiacal light -- a stream of dust that orbits the Sun in the inner Solar System. It is most easily seen just before sunrise, where it has been called a false dawn, or just after sunset. The origin of zodiacal dust remains a topic of research, but is hypothesized to result from asteroid collisions and comet tails. The featured wide-angle image shows the central band of our Milky Way Galaxy arching across the top, while the Large Magellanic Cloud (LMC), a satellite galaxy to our Milky Way, is visible on the far left. The image is a combination of over 30 exposures taken last July near La Serena among the mountains of Chile. During the next two months, zodiacal light can appear quite prominent in northern skies just after sunset.",
   "date": "2020-03-09",
   "hdurl": "https://apod.nasa.gov/apod/image/2003/ZodiacalMw_Ponca_5834.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Roman Ponča (ht: Masaryk U.) Explanation",
-    "Roman Ponča (ht: Masaryk U.)"
-  ],
+  "copyright": "Roman Ponča (ht: Masaryk U.)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2003/ZodiacalMw_Ponca_960.jpg"
 }

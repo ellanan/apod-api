@@ -1,14 +1,10 @@
 {
   "title": "Noctilucent Clouds and Comet NEOWISE",
-  "credit": [],
   "explanation": "These silvery blue waves washing over a tree-lined horizon in the eastern French Alps are noctilucent clouds. From high in planet Earth's mesosphere, they reflect sunlight in this predawn skyscape taken on July 8. This summer, the night-shining clouds are not new to the northern high-latitudes. Comet NEOWISE is though. Also known as C/2020 F3, the comet was discovered in March by the Earth-orbiting Near Earth Object Wide-field Infrared Survey Explorer (NEOWISE) satellite. It's now emerging in morning twilight only just visible to the unaided eye from a clear location above the northeastern horizon.",
   "date": "2020-07-09",
   "hdurl": "https://apod.nasa.gov/apod/image/2007/noctilucentNeowisePaoly.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Emmanuel Paoly Explanation",
-    "Emmanuel Paoly"
-  ],
+  "copyright": "Emmanuel Paoly",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2007/noctilucentNeowisePaoly600h.jpg"
 }

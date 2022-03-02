@@ -1,17 +1,11 @@
 {
   "title": "The Perseus Cluster of Galaxies",
-  "credit": [
-    "Credit: Digitized Sky Survey (ROE), SkyView Copyright: STScI, AAO, UK-PPARC, ROE Explanation",
-    "Digitized Sky Survey (ROE), SkyView Copyright: STScI, AAO, UK-PPARC, ROE"
-  ],
+  "credit": "Digitized Sky Survey (ROE), SkyView Copyright: STScI, AAO, UK-PPARC, ROE",
   "explanation": "Here is one of the largest objects that anyone will ever see on the sky. Each of the fuzzy blobs in the above picture is a galaxy, together making up the Perseus Cluster, one of the closest clusters of galaxies. We view the cluster through the foreground of faint stars in our own Milky Way Galaxy. It takes light roughly 300 million years to get here from there, so we only see this cluster as it existed during the age of the dinosaurs. Also known as Abell 426, the center of Perseus cluster is a prodigious source of X-ray radiation, and so helps astronomers study how clusters formed and how gas and dark matter interact. The Perseus Cluster of Galaxies is part of the Pisces-Perseus supercluster of galaxies, which spans over 15 degrees and contains over 1000 galaxies.",
   "date": "1997-04-26",
   "hdurl": "https://apod.nasa.gov/apod/image/perseus_pss.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: STScI, AAO, UK-PPARC, ROE Explanation",
-    "STScI, AAO, UK-PPARC, ROE"
-  ],
+  "copyright": "STScI, AAO, UK-PPARC, ROE",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/perseus_pss.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "AR1520: Islands in the Photosphere",
-  "credit": [],
   "explanation": "Awash in a sea of plasma and anchored in magnetic fields, sunspots are planet-sized, dark islands in the solar photosphere, the bright surface of the Sun. Dark because they are slightly cooler than the surrounding surface, this group of sunspots is captured in a close-up telescopic snapshot from July 11. The field of view spans nearly 100,000 miles. They lie in the center of active region AR1520, now crossing the Sun's visible face. In fact, an X-class solar flare and coronal mass ejection erupted from AR1520 on July 12, releasing some of the energy stored in the region's twisted magnetic fields. Headed this way, the coronal mass ejection is expected to arrive today and may trigger geomagnetic storms. As a result, some weekend auroral displays could grace planet Earth's skies along with Sunday's predawn conjunction of bright planets and crescent Moon.",
   "date": "2012-07-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1207/AR1520_071112friedman.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alan Friedman (Averted Imagination) Explanation",
-    "Alan Friedman (Averted Imagination)"
-  ],
+  "copyright": "Alan Friedman (Averted Imagination)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1207/AR1520_071112friedman900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Centaurus A: Young Blue Star Stream",
-  "credit": [
-    "Credit: E. Peng and H. Ford (JHU), K. Freeman (ANU), R. White (STScI), CTIO, NOAO, NSF Explanation",
-    "E. Peng and H. Ford (JHU), K. Freeman (ANU), R. White (STScI), CTIO, NOAO, NSF"
-  ],
+  "credit": "E. Peng and H. Ford (JHU), K. Freeman (ANU), R. White (STScI), CTIO, NOAO, NSF",
   "explanation": "Almost lost in this cosmic jumble of stars, gas and dust is a faint but definite blue arc -- a stream of young stars whose formation was probably triggered as a small dwarf galaxy was torn apart approaching the giant elliptical galaxy Centaurus A. The 2,000 light-year long arc is revealed in the upper right corner of this processed color digital image, while the dense central region of Centaurus A is near the bottom. Star clusters that make up the blue arc are likely strung out along the incoming trajectory of the small galaxy and are estimated to be only 200-400 million years old. The remarkable result suggests that astronomers have identified a spectacular example of a kind of galactic cannibalism in progress, a process which is believed to contribute to the formation and evolution of large galaxies, including our own Milky Way. Over time, stars and star clusters in this stream should eventually disperse and merge with tumultuous Centaurus A. The image data was recorded with the four meter Blanco telescope at Cerro Tololo Inter-American Observatory.",
   "date": "2002-10-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0210/cena_peng_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0210/cena_peng_c1.jpg"
 }

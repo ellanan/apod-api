@@ -1,14 +1,10 @@
 {
   "title": "Bright Star Regulus near the Leo 1 Dwarf Galaxy",
-  "credit": [],
   "explanation": "The star on the upper left is so bright it is sometimes hard to notice the galaxy on the lower right. Both the star, Regulus, and the galaxy, Leo I, can be found within one degree of each other toward the constellation of Leo. Regulus is part of a multiple star system, with a close companion double star visible to the upper right of the young main sequence star. Leo I is a dwarf spheroidal galaxy in the Local Group of galaxies dominated by our Milky Way Galaxy and M31. Leo I is thought to be the most distant of the several known small satellite galaxies orbiting our Milky Way Galaxy. Regulus is located about 75 light years away, in contrast to Leo 1 which is located about 800,000 light years away.",
   "date": "2006-06-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0606/leoregulus_croman_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Russell Croman Explanation",
-    "Russell Croman"
-  ],
+  "copyright": "Russell Croman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0606/leoregulus_croman.jpg"
 }

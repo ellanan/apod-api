@@ -1,14 +1,10 @@
 {
   "title": "The Bubble and M52",
-  "credit": [],
   "explanation": "To the eye, this cosmic composition nicely balances the Bubble Nebula at the lower left with open star cluster M52 above it and to the right. The pair would be lopsided on other scales, though. Embedded in a complex of interstellar dust and gas and blown by the winds from a single, massive O-type star, the Bubble Nebula, also known as NGC 7635, is a mere 10 light-years wide. On the other hand, M52 is a rich open cluster of around a thousand stars. The cluster is about 25 light-years across. Seen toward the northern boundary of Cassiopeia, distance estimates for the Bubble Nebula and associated cloud complex are around 11,000 light-years, while star cluster M52 lies nearly 5,000 light-years away. The wide telescopic field of view spans about two degrees on the sky or four times the apparent size of the Full Moon.",
   "date": "2013-10-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1310/bubble52_colombari_1824.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Colombari Explanation",
-    "Robert Colombari"
-  ],
+  "copyright": "Robert Colombari",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1310/bubble52_colombari_960.jpg"
 }

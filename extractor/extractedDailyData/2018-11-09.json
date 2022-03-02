@@ -1,14 +1,10 @@
 {
   "title": "Little Planet Lookout",
-  "credit": [],
   "explanation": "Don't panic. This little planet projection looks confusing, but it's actually just a digitally warped and stitched, nadir centered mosaic of images that covers nearly 360x180 degrees. The images were taken on the night of October 31 from a 30 meter tall hill-top lookout tower near Tatabanya, Hungary, planet Earth. The laticed lookout tower construction was converted from a local mine elevator. Since planet Earth is rotating, the 126 frames of 75 second long exposures also show warped, concentric star trails with the north celestial pole at the left. Of course at this location the south celestial pole is just right of center but below the the little planet's horizon.",
   "date": "2018-11-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1811/prisonplanet_small.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Gyorgy Soponyai Explanation",
-    "Gyorgy Soponyai"
-  ],
+  "copyright": "Gyorgy Soponyai",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1811/prisonplanet_small1024.jpg"
 }

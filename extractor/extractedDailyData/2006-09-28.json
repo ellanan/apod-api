@@ -1,14 +1,10 @@
 {
   "title": "RCW 86: Historical Supernova Remnant",
-  "credit": [
-    "Credit: Jacco Vink (Univ. Utrecht) et al., XMM-Newton: ESA Chandra: NASA / CXC Explanation",
-    "Jacco Vink (Univ. Utrecht) et al., XMM-Newton: ESA Chandra: NASA / CXC"
-  ],
+  "credit": "Jacco Vink (Univ. Utrecht) et al., XMM-Newton: ESA Chandra: NASA / CXC",
   "explanation": "In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism - a part of the sky identified with Alpha and Beta Centauri on modern star charts. The new star was visible for months and is thought to be the earliest recorded supernova. Data from two orbiting X-ray telescopes of the 21st century, XMM-Newton and Chandra, now offer evidence that supernova remnant RCW 86 is indeed the debris from that stellar explosion. Their composite, false-color view of RCW 86 shows the expanding shell of material glowing in x-rays with high, medium, and low energies shown in blue, green, and red hues. Shock velocities measured in the x-ray emitting shell and an estimated radius of about 50 light-years can be used to find the apparent age of the remnant. The results indicate that light from the initial explosion could well have first reached planet Earth in 185 AD. Near the plane of our Milky Way Galaxy, RCW 86 is about 8,200 light-years away.",
   "date": "2006-09-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/rcw86_xmmchandra_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/rcw86_xmmchandra_c95.jpg"
 }

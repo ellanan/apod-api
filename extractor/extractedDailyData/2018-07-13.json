@@ -1,14 +1,10 @@
 {
   "title": "Star Trails and the Bracewell Radio Sundial",
-  "credit": [],
   "explanation": "Sundials use the location of a shadow to measure the Earth's rotation and indicate the time of day. So it's fitting that this sundial, at the Very Large Array Radio Telescope Observatory in New Mexico, commemorates the history of radio astronomy and radio astronomy pioneer Ronald Bracewell. The radio sundial was constructed using pieces of a solar mapping radio telescope array that Bracewell orginaly built near the Stanford University campus. Bracewell's array was used to contribute data to plan the first Moon landing, its pillars signed by visiting scientists and radio astronomers, including two Nobel prize winners. As for most sundials the shadow cast by the central gnomon follows markers that show the solar time of day, along with solstices and equinoxes. But markers on the radio sundial are also laid out according to local sidereal time. They show the position of the invisible radio shadows of three bright radio sources in Earth's sky, supernova remnant Cassiopeia A, active galaxy Cygnus A, and active galaxy Centaurus A. Sidereal time is just star time, the Earth's rotation as measured with the stars and distant galaxies. That rotation is reflected in this composited hour-long exposure. Above the Bracewell Radio Sundial, the stars trace concentric trails around the north celestial pole.",
   "date": "2018-07-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1807/bracewellradiosundial.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Miles Lucas at NRAO Explanation",
-    "Miles Lucas at NRAO"
-  ],
+  "copyright": "Miles Lucas at NRAO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1807/bracewellradiosundial1024.jpg"
 }

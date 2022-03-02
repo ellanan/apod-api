@@ -1,14 +1,10 @@
 {
   "title": "Leonids Over Joshua Tree National Park",
-  "credit": [],
   "explanation": "This year's Leonid Meteor Shower is predicted to have two peaks, like last year's. The first peak should come at about 04:00 hours Universal Time (UT) on November 19 and be primarily visible from Western Europe before sunrise. The second peak is predicted to occur at about 10:30 UT and be primarily visible from North America before local sunrise. During these times, the Leonid Meteor Shower might well develop into a true meteor storm, with rates possibly exceeding those measured during last year's storm. The meteors in these two peaks come from sand-sized particles ejected from Comet Tempel-Tuttle during trips to the inner Solar System in 1767 and 1866, respectively. If you're stuck without a view you can still catch the shower by looking for streaks caught by the web cameras of the Night Sky Live Project. Pictured above are several meteors from the 2001 Leonids streaking over Joshua Tree National Park in California, USA.",
   "date": "2002-11-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0211/leonids01_pacholka_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Wally Pacholka (Astropics) & Tony Hallas (Astrophoto) Explanation",
-    "Wally Pacholka (Astropics) & Tony Hallas (Astrophoto)"
-  ],
+  "copyright": "Wally Pacholka (Astropics) & Tony Hallas (Astrophoto)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0211/leonids01_pacholka.jpg"
 }

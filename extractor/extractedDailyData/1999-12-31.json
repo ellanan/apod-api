@@ -1,14 +1,10 @@
 {
   "title": "The Millennium that Defined Earth",
-  "credit": [
-    "Credit: Apollo 8 Crew, NASA Explanation",
-    "Apollo 8 Crew, NASA"
-  ],
+  "credit": "Apollo 8 Crew, NASA",
   "explanation": "When the second millennium began, people generally knew that the Earth was round, but few saw much of it beyond their local village. As the millennium progressed, humans mapped the continents, circumnavigated the globe, and determined the composition of the Earth. The Earth started as the center of everything, but became a planet placed in the Solar System, which became placed in a Galaxy, which became placed in the Local Group of Galaxies, which became placed in an expanse so vast we call it just the Universe. As millennium two ends people generally know what Earth looks like from afar, and how it is that all of humanity is confined to the surface of this fragile and watery globe.",
   "date": "1999-12-31",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/earthrise_apollo8_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/earthrise_apollo8.jpg"
 }

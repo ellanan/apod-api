@@ -1,14 +1,10 @@
 {
   "title": "The Hubble Deep Field in Infrared",
-  "credit": [
-    "Credit: R. I. Thompson (U. Arizona), NICMOS, HST, NASA Explanation",
-    "R. I. Thompson (U. Arizona), NICMOS, HST, NASA"
-  ],
+  "credit": "R. I. Thompson (U. Arizona), NICMOS, HST, NASA",
   "explanation": "Galaxies this faint have never been seen before. In 1996 the Hubble Space Telescope (HST) created one of the most famous pictures of modern astronomy, the Hubble Deep Field (HDF). Now HST has returned to a piece of the HDF for a long exposure by its new NICMOS camera, sensitive to infrared light. The resulting image, shown above in representative color, shows known galaxies in a new light, and previously unknown galaxies probably farther than anything ever seen before. Galaxies as dim as magnitude 30 are visible. Astronomers are learning from the HDF how different the young universe was from the familiar universe of today.",
   "date": "1998-10-12",
   "hdurl": "https://apod.nasa.gov/apod/image/9810/hdfir_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9810/hdfir_hst.jpg"
 }

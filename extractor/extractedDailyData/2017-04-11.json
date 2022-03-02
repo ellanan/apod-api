@@ -1,14 +1,10 @@
 {
   "title": "Man, Dog, Sun",
-  "credit": [],
   "explanation": "This was supposed to be a shot of trees in front of a setting Sun. Sometimes, though, the unexpected can be photogenic. During some planning shots, a man walking his dog unexpected crossed the ridge. The result was so striking that, after cropping, it became the main shot. The reason the Sun appears so large is that the image was taken from about a kilometer away through a telephoto lens. Scattering of blue light by the Earth's atmosphere makes the bottom of the Sun appear slightly more red that the top. Also, if you look closely at the Sun, just above the man's head, a large group of sunspots is visible. The image was taken just last week in Bad Mergentheim, Germany.",
   "date": "2017-04-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1704/ManDogSun_Hackmann_1600.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jens Hackmann Explanation",
-    "Jens Hackmann"
-  ],
+  "copyright": "Jens Hackmann",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1704/ManDogSun_Hackmann_960.jpg"
 }

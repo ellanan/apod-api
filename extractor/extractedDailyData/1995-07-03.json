@@ -1,14 +1,10 @@
 {
   "title": "The Great Nebula in Orion",
-  "credit": [
-    "Credit: NASA, Hubble Space Telescope Explanation",
-    "NASA, Hubble Space Telescope"
-  ],
+  "credit": "NASA, Hubble Space Telescope",
   "explanation": "",
   "date": "1995-07-03",
   "hdurl": "https://apod.nasa.gov/apod/image/orion_hst.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/orion_hst.gif"
 }

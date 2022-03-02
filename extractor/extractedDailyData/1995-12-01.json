@@ -1,17 +1,11 @@
 {
   "title": "51 Pegasi: A New Planet Discovered",
-  "credit": [
-    "Credit: UK Schmidt Telescope, Skyview Copyright: Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA Explanation",
-    "UK Schmidt Telescope, Skyview Copyright: Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA"
-  ],
+  "credit": "UK Schmidt Telescope, Skyview Copyright: Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA",
   "explanation": "",
   "date": "1995-12-01",
   "hdurl": "https://apod.nasa.gov/apod/image/peg51_skyview.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA Explanation",
-    "Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA"
-  ],
+  "copyright": "Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/peg51_skyview.gif"
 }

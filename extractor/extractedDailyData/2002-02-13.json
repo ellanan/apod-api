@@ -1,14 +1,10 @@
 {
   "title": "The Great Nebula in Orion",
-  "credit": [],
   "explanation": "Few astronomical sights excite the imagination like the nearby stellar nursery known as the Orion Nebula. The Nebula's glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. The Great Nebula in Orion can be found with the unaided eye just below and to the left of the easily identifiable belt of three stars in the popular constellation Orion. The above image has been contrast balanced to bring out Orion's detail in spectacular fashion. Visible simultaneously are the bright stars of the Trapezium in Orion's heart, the sweeping lanes of dark dust that cross the center, the pervasive red glowing hydrogen gas, and the blue tinted dust that reflects the light of newborn stars. The whole Orion Nebula cloud complex, which includes the Horsehead Nebula, will slowly disperse over the next 100,000 years.",
   "date": "2002-02-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0202/orion_gendler_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0202/orion_gendler.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Superior Conjunction Of Mercury",
-  "credit": [
-    "Credit: SOHO - LASCO Consortium, ESA, NASA Explanation",
-    "SOHO - LASCO Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - LASCO Consortium, ESA, NASA",
   "explanation": "In astronomical parlance, an interior planet is at superior conjunction when it is located on the opposite side of the Sun from Earth. Mercury, the solar system's innermost planet, zips past this point in its orbit today. In fact, this recent picture from a solar coronagraph on board the the space-based SOHO observatory shows Mercury positioned very close to the Sun as seen from a near Earth vantage point. The coronagraph uses an internal occulting disk to block the intense solar glare which otherwise hides this sight from ground-based observers. The shadow of the occulting disk is at the center with the Sun's size and position indicated by the white circle. Mercury is the bright dot with a horizontal line (a digital artifact), while faint dots scattered throughout the field are stars. Bright regions of the sun's outer atmosphere are also visible. As Mercury continues in its orbit, on November 15 it will actually appear to cross the disk of the Sun as viewed from Earth.",
   "date": "1999-09-08",
   "hdurl": "https://apod.nasa.gov/apod/image/9909/lasco_merc2_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9909/lasco_merc2.jpg"
 }

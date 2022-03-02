@@ -1,14 +1,10 @@
 {
   "title": "X-ray Transit of Mercury",
-  "credit": [
-    "Credit: ISAS, Yohkoh Project Explanation",
-    "ISAS, Yohkoh Project"
-  ],
+  "credit": "ISAS, Yohkoh Project",
   "explanation": "This sequence of false color X-ray images captures a rare event - the passage or transit of planet Mercury in front of the Sun. Mercury's small disk is silhouetted against the bright background of X-rays from the hot Solar Corona. It appears just to the right of center in the top frame and moves farther right as the sequence progresses toward the bottom. The dark notch is a coronal hole near the Solar South Pole, while a flaring coronal bright point can be seen to the left of the notch in the top frames. The frames were recorded on November 6, 1993 by the Soft X-ray Telescope on board the orbiting Yohkoh satellite. Transits of Mercury (and Venus) were historically used to discover the geometry of the solar system and to map planet Earth itself. The next transit of Mercury will occur on November 15.",
   "date": "1999-11-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/merctransit_yohkoh_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/merctransit_yohkoh.jpg"
 }

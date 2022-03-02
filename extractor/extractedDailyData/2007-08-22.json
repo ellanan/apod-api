@@ -1,14 +1,10 @@
 {
   "title": "Tentacles of the Tarantula Nebula",
-  "credit": [],
   "explanation": "The largest, most violent star forming region known in the whole Local Group of galaxies lies in our neighboring galaxy the Large Magellanic Cloud (LMC). Were the Tarantula Nebula at the distance of the Orion Nebula -- a local star forming region -- it would take up fully half the sky. Also called 30 Doradus, the red and pink gas indicates a massive emission nebula, although supernova remnants and dark nebula also exist there. The bright knot of stars left of center is called R136 and contains many of the most massive, hottest, and brightest stars known. The above image taken with the European Southern Observatory's (ESO's) Wide Field Imager is one of the most detailed ever of this vast star forming region. ESO has made it possible to fly around and into this detailed image by clicking here.",
   "date": "2007-08-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0708/tarantula_eso_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: WFI, MPG/ESO 2.2-m Telescope, La Silla, ESO Explanation",
-    "WFI, MPG/ESO 2.2-m Telescope, La Silla, ESO"
-  ],
+  "copyright": "WFI, MPG/ESO 2.2-m Telescope, La Silla, ESO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0708/tarantula_eso.jpg"
 }

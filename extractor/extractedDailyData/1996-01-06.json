@@ -1,14 +1,10 @@
 {
   "title": "Dwarf Elliptical Galaxy M32",
-  "credit": [
-    "Credit: 1.1 Meter Hall Telescope, Lowell Observatory, Bill Keel (U. Alabama) Explanation",
-    "1.1 Meter Hall Telescope, Lowell Observatory, Bill Keel (U. Alabama)"
-  ],
+  "credit": "1.1 Meter Hall Telescope, Lowell Observatory, Bill Keel (U. Alabama)",
   "explanation": "",
   "date": "1996-01-06",
   "hdurl": "https://apod.nasa.gov/apod/image/m32_lowell_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/m32_lowell.gif"
 }

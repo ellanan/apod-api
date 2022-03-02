@@ -1,14 +1,10 @@
 {
   "title": "Spirit Rover at Engineering Flats on Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, JPL, NASA",
   "explanation": "Is it art? Here the paintbrush was the Spirit robotic rover, the canvas was the soil on Mars, and the artists were the scientists and engineers of the Mars Exploration Rover Mission. The picture created was mostly unintentional -- the MERS team was primarily instructing Spirit to investigate rocks in and around Hank's Hollow in a location called Engineering Flats on Mars. After creating the ground display with its treads, the Spirit rover was instructed to photograph the area along with itself in silhouette. Both Mars rovers, Spirit and Opportunity, are now back in contact after an expected radio blackout caused by Mars moving behind the Sun. NASA has also announced that it is extending the rovers missions for six months, so long as they keep working.",
   "date": "2004-09-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0409/eflat_spirit_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0409/eflat_spirit.jpg"
 }

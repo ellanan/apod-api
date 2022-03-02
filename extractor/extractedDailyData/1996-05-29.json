@@ -1,14 +1,10 @@
 {
   "title": "The COMPTEL Gamma-Ray Sky",
-  "credit": [
-    "Credit: The COMPTEL Collaboration, Compton Gamma Ray Observatory, NASA Explanation",
-    "The COMPTEL Collaboration, Compton Gamma Ray Observatory, NASA"
-  ],
+  "credit": "The COMPTEL Collaboration, Compton Gamma Ray Observatory, NASA",
   "explanation": "",
   "date": "1996-05-29",
   "hdurl": "https://apod.nasa.gov/apod/image/comptel_allsky_1to3_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/comptel_allsky_1to3.gif"
 }

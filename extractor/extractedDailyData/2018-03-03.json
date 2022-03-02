@@ -1,17 +1,11 @@
 {
   "title": "Southwest Mare Fecunditatis",
-  "credit": [
-    "Credit: Apollo 8, NASA - Stereo Image Copyright: Patrick Vantuyne Explanation",
-    "Apollo 8, NASA - Stereo Image Copyright: Patrick Vantuyne"
-  ],
+  "credit": "Apollo 8, NASA - Stereo Image Copyright: Patrick Vantuyne",
   "explanation": "Frank Borman, James Lovell, and William Anders journeyed from Earth to the Moon and back again in December of 1968. From lunar orbit, their view of craters in southwest Mare Fecunditatis is featured in this stereo anaglyph, best experienced from armchairs on planet Earth with red/blue glasses. Goclenius is the large impact crater in the foreground. About 70 kilometers (45 miles) in diameter its lava-flooded floor is scarred by rilles or grooves, long, narrow depressions in the surface. Crossing the crater walls and central peaks the rilles were likely formed after the crater itself. In the background, the two large craters with smooth floors are Colombo A (top) and Magelhaens. Magelhaens A, the background crater with the irregular floor, is about 35 kilometers (20 miles) in diameter.",
   "date": "2018-03-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1803/as08-13-2224_25_public.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Patrick Vantuyne Explanation",
-    "Patrick Vantuyne"
-  ],
+  "copyright": "Patrick Vantuyne",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1803/as08-13-2224_25_public.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Crater on Mimas",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Whatever hit Mimas nearly destroyed it. What remains is one of the largest impact craters on one of Saturn's smallest moons. The crater, named Herschel after the 1789 discoverer of Mimas, Sir William Herschel, spans about 130 kilometers and is pictured above in the dramatic light of its terminator. Mimas' low mass produces a surface gravity just strong enough to create a spherical body but weak enough to allow such relatively large surface features. Mimas is made of mostly water ice with a smattering of rock - so it is accurately described as a big dirty snowball. The above image was taken during the 2005 January flyby of the robot spacecraft Cassini now in orbit around Saturn.",
   "date": "2005-03-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0503/mimas_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0503/mimas_cassini.jpg"
 }

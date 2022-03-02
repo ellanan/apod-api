@@ -1,13 +1,9 @@
 {
   "title": "Two Million Stars on the Move",
-  "credit": [
-    "Credit: ESA, Gaia, DPAC Explanation",
-    "ESA, Gaia, DPAC"
-  ],
+  "credit": "ESA, Gaia, DPAC",
   "explanation": "If you could watch the night sky for one million years -- how would it change? Besides local effects caused by the Earth's spin and the reorientation of the Earth's spin axis, the stars themselves will move. Combining positional data of unprecedented accuracy for two-million stars taken over years by ESA's Earth-orbiting Hipparcos (now defunct) and Gaia satellites, a future extrapolation of star movements was made over millions years. As shown in the featured video, many stars make only small angular adjustments, but some stars -- typically those nearby -- will zip across the sky. Once familiar constellations and asterisms will become unrecognizable as the bright stars that formed them move around. Not shown are many local nebulas that will surely dissipate while new ones will likely form in different places. Perhaps reassuringly, future Earth inhabitants will still be able to recognize the central band of our Milky Way Galaxy.",
   "date": "2017-04-17",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/p4xuA-OeaBc?rel=0&showinfo=0"
 }

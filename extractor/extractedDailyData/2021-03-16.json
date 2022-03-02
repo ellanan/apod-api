@@ -1,14 +1,10 @@
 {
   "title": "IC 1318: The Butterfly Nebula in Gas and Dust",
-  "credit": [],
   "explanation": "In the constellation of the swan near the nebula of the pelican lies the gas cloud of the butterfly next to a star known as the hen. That star, given the proper name Sadr, is just to the right of the featured frame, but the central Butterfly Nebula, designated IC 1318, is shown in high resolution. The intricate patterns in the bright gas and dark dust are caused by complex interactions between interstellar winds, radiation pressures, magnetic fields, and gravity. The featured telescopic view captures IC 1318's characteristic emission from ionized sulfur, hydrogen, and oxygen atoms mapped to the red, green, and blue hues of the popular Hubble Palette. The portion of the Butterfly Nebula pictured spans about 100 light years and lies about 4000 light years away.",
   "date": "2021-03-16",
   "hdurl": "https://apod.nasa.gov/apod/image/2103/IC1318_Pham_3200.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alan Pham Explanation",
-    "Alan Pham"
-  ],
+  "copyright": "Alan Pham",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2103/IC1318_Pham_960.jpg"
 }

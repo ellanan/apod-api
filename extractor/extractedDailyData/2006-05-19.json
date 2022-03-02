@@ -1,14 +1,10 @@
 {
   "title": "The Gum Nebula",
-  "credit": [],
   "explanation": "Named for Australian astronomer Colin Stanley Gum (1924-1960), The Gum Nebula is so large and close it is actually hard to see. In fact, we are only about 450 light-years from the front edge and 1,500 light-years from the back edge of this cosmic cloud of glowing hydrogen gas. Covered in this 41 degree-wide mosaic of H-alpha images, the faint emission region is otherwise easy to lose against the background of Milky Way stars. The complex nebula is thought to be a supernova remnant over a million years old, sprawling across the southern constellations Vela and Puppis. Sliding your cursor over this spectacular wide field view will reveal the location of objects embedded in The Gum Nebula, including the Vela supernova remnant.",
   "date": "2006-05-19",
   "hdurl": "https://apod.nasa.gov/apod/image/0605/Vela_50mm_HaRGB_1000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Axel Mellinger Explanation",
-    "Axel Mellinger"
-  ],
+  "copyright": "Axel Mellinger",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0605/Vela_50mm_HaRGB_f88.jpg"
 }

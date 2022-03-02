@@ -1,14 +1,10 @@
 {
   "title": "Stars and Dust Across Corona Australis",
-  "credit": [],
   "explanation": "Cosmic dust clouds sprawl across a rich field of stars in this sweeping telescopic vista near the northern boundary of Corona Australis, the Southern Crown. Probably less than 500 light-years away and effectively blocking light from more distant, background stars in the Milky Way, the densest part of the dust cloud is about 8 light-years long. At its tip (upper right) is a group of lovely reflection nebulae cataloged as NGC 6726, 6727, 6729, and IC 4812. A characteristic blue color is produced as light from hot stars is reflected by the cosmic dust. The smaller yellowish nebula (NGC 6729) surrounds young variable star R Coronae Australis. Magnificent globular star cluster NGC 6723 is at the upper right corner of the view. While NGC 6723 appears to be part of the group, it actually lies nearly 30,000 light-years away, far beyond the Corona Australis dust clouds.",
   "date": "2009-06-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0906/Korona_oreshko1800.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Andrey Oreshko Explanation",
-    "Andrey Oreshko"
-  ],
+  "copyright": "Andrey Oreshko",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0906/Korona_oreshko900.jpg"
 }

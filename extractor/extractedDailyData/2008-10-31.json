@@ -1,14 +1,10 @@
 {
   "title": "A Witch by Starlight",
-  "credit": [],
   "explanation": "By starlight this eerie visage shines in the dark, a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression the witch has fixed her gaze on Orion's bright supergiant star Rigel. Spanning over 50 light-years, the dusty cosmic cloud strongly reflects nearby Rigel's blue light, giving it the characteristic color of a reflection nebula. Cataloged as IC 2118, the Witch Head Nebula is about 1,000 light-years away. Of course, you might see a witch this scary tonight, but don't panic. Have a safe and Happy Halloween!",
   "date": "2008-10-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0810/ic2118_ssro.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Star Shadows Remote Observatory (Steve Mazlin, Jack Harvey, Rick Gilbert, Teri Smoot, Daniel Verschatse) Explanation",
-    "Star Shadows Remote Observatory (Steve Mazlin, Jack Harvey, Rick Gilbert, Teri Smoot, Daniel Verschatse)"
-  ],
+  "copyright": "Star Shadows Remote Observatory (Steve Mazlin, Jack Harvey, Rick Gilbert, Teri Smoot, Daniel Verschatse)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0810/ic2118_ssro800.jpg"
 }

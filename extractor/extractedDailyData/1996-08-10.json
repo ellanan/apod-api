@@ -1,17 +1,11 @@
 {
   "title": "Unusual Spiral Galaxy M66",
-  "credit": [
-    "Credit: Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board Explanation",
-    "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board"
-  ],
+  "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
   "explanation": "",
   "date": "1996-08-10",
   "hdurl": "https://apod.nasa.gov/apod/image/m66_aat.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anglo-Australian Telescope Board Explanation",
-    "Anglo-Australian Telescope Board"
-  ],
+  "copyright": "Anglo-Australian Telescope Board",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/m66_aat_big.gif"
 }

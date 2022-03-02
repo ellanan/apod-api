@@ -1,14 +1,10 @@
 {
   "title": "Luna 9: First Soft Lander",
-  "credit": [
-    "Credit: Unknown Explanation",
-    "Unknown"
-  ],
+  "credit": "Unknown",
   "explanation": "",
   "date": "1996-08-25",
   "hdurl": "https://apod.nasa.gov/apod/image/luna_9_unk_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/luna_9_unk.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Martian Dust Devil Trails",
-  "credit": [
-    "Credit: HiRISE, MRO, LPL (U. Arizona), NASA Explanation",
-    "HiRISE, MRO, LPL (U. Arizona), NASA"
-  ],
+  "credit": "HiRISE, MRO, LPL (U. Arizona), NASA",
   "explanation": "Who's been marking up Mars? This portion of a recent high-resolution picture from the HiRISE camera on board the Mars Reconnaissance Orbiter shows twisting dark trails criss-crossing light colored terrain on the martian surface. Newly formed trails like these had presented researchers with a tantalizing martian mystery but are now known to be the work of miniature wind vortices known to occur on the red planet - martian dust devils. Such spinning columns of rising air heated by the warm surface are also common in dry and desert areas on planet Earth. Typically lasting only a few minutes, dust devils become visible as they pick up loose red-colored dust leaving the darker and heavier sand beneath intact. On Mars, dust devils can be up to 8 kilometers high. Dust devils have been credited with unexpected cleanings of mars rover solar panels.",
   "date": "2009-10-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0910/deviltrails_mro_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0910/deviltrails_mro.jpg"
 }

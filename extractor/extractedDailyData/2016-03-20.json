@@ -1,14 +1,10 @@
 {
   "title": "A Picturesque Equinox Sunset",
-  "credit": [],
   "explanation": "What's that at the end of the road? The Sun. Many towns have roads that run east - west, and on two days each year, the Sun rises and sets right down the middle. Today is one of those days: an equinox. Not only is today a day of equal night (\"aequus\"-\"nox\") and day time, but also a day when the sun rises precisely to the east and sets due west. Featured here is a picturesque road in northwest Illinois, USA that runs approximately east -west. The image was taken one year ago today, during the March Equinox of 2015, and shows the Sun down the road at sunset. In many cultures, this March equinox is taken to be the first day of a season, typically spring in Earth's northern hemisphere, and autumn in the south. Does your favorite street run east - west? Tonight at sunset, with a quick glance, you can actually find out.",
   "date": "2016-03-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1603/EquinoxSunset_Christen_1852.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Roland Christen Explanation",
-    "Roland Christen"
-  ],
+  "copyright": "Roland Christen",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1603/EquinoxSunset_Christen_960.jpg"
 }

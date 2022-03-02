@@ -1,14 +1,10 @@
 {
   "title": "Cassini To Venus",
-  "credit": [
-    "Credit: KSC, NASA Explanation",
-    "KSC, NASA"
-  ],
+  "credit": "KSC, NASA",
   "explanation": "NASA's Saturn Explorer Cassini with ESA's Titan Probe Huygens attached successfully rocketed into the skies early yesterday morning. The mighty Titan 4B Centaur rocket is seen here across the water gracefully arcing away from Launch Complex 40 at Cape Canaveral Air Station. Cassini, a sophisticated, bus-sized robot spacecraft is now on its way ... to Venus, the first planetary way point in its 7 year, 2.2 billion mile journey to Saturn. The mission profile calls for Cassini to swing by Venus during April 1998 and June 1999, Earth in August 1999, and Jupiter in December 2000. During each of these \"gravity assist\" encounters the six ton spacecraft will pick up energy needed to reach Saturn in July 2004. Cassini's mission is the most ambitious voyage of interplanetary exploration ever mounted by humanity and the Huygens Probe's planned descent to the surface of Titan will be the most distant landing ever attempted.",
   "date": "1997-10-16",
   "hdurl": "https://apod.nasa.gov/apod/image/9710/cass_titan_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9710/cass_titan.jpg"
 }

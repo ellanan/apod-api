@@ -1,14 +1,10 @@
 {
   "title": "Asteroid or Potato?",
-  "credit": [
-    "Credit: Jack Sutton Explanation",
-    "Jack Sutton"
-  ],
+  "credit": "Jack Sutton",
   "explanation": "Is this asteroid Arrokoth or a potato? Perhaps, after all the data was beamed back to Earth from NASA's robotic New Horizons spacecraft, the featured high resolution image of asteroid Arrokoth was constructed. Perhaps, alternatively, the featured image is of a potato. Let's consider some facts. Arrokoth is the most distant asteroid ever visited and a surviving remnant of the early years of our Solar System. A potato is a root vegetable that you can eat. Happy April Fool's Day from the folks at APOD! Although asteroid Arrokoth may look like a potato, in fact very much like the featured potato, Arrokoth (formerly known as Ultima Thule) is about 200,000 times wider and much harder to eat.",
   "date": "2020-04-01",
   "hdurl": "https://apod.nasa.gov/apod/image/2004/PotatoPod_Sutton_5332.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2004/PotatoPod_Sutton_960.jpg"
 }

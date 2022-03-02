@@ -1,14 +1,10 @@
 {
   "title": "3D Homunculus Nebula",
-  "credit": [
-    "Credit: W. Steffen (UNAM), M. Teodoro, T.I. Madura, J.H. Groh, T.R. Gull, A. Mehner, M.F. Corcoran, A. Damineli, K. Hamaguchi Image Credit: NASA, Goddard Space Flight Center/SVS - Inset: NASA, ESA, Hubble SM4 ERO Team Explanation",
-    "W. Steffen (UNAM), M. Teodoro, T.I. Madura, J.H. Groh, T.R. Gull, A. Mehner, M.F. Corcoran, A. Damineli, K. Hamaguchi Image Credit: NASA, Goddard Space Flight Center/SVS - Inset: NASA, ESA, Hubble SM4 ERO Team"
-  ],
+  "credit": "W. Steffen (UNAM), M. Teodoro, T.I. Madura, J.H. Groh, T.R. Gull, A. Mehner, M.F. Corcoran, A. Damineli, K. Hamaguchi Image Credit: NASA, Goddard Space Flight Center/SVS - Inset: NASA, ESA, Hubble SM4 ERO Team",
   "explanation": "If you're looking for something to print with that new 3D printer, try out a copy of the Homunculus Nebula. The dusty, bipolar cosmic cloud is around 1 light-year across but is slightly scaled down for printing to about 1/4 light-nanosecond or 80 millimeters. The full scale Homunculus surrounds Eta Carinae, famously unstable massive stars in a binary system embedded in the extensive Carina Nebula about 7,500 light-years distant. Between 1838 and 1845, Eta Carinae underwent the Great Eruption becoming the second brightest star in planet Earth's night sky and ejecting the Homunculus Nebula. The new 3D model of the still expanding Homunculus was created by exploring the nebula with the European Southern Observatory's VLT/X-Shooter. That instrument is capable of mapping the velocity of molecular hydrogen gas through the nebula's dust at a fine resolution. It reveals trenches, divots and protrusions, even in the dust obscured regions that face away from Earth. Eta Carinae itself still undergoes violent outbursts, a candidate to explode in a spectacular supernova in the next few million years.",
   "date": "2014-07-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1407/etacarinae_model_comparison_labels2048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1407/etacarinae_model_comparison_labels1024.jpg"
 }

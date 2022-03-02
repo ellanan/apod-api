@@ -1,14 +1,10 @@
 {
   "title": "The Regolith of Asteroid Eros",
-  "credit": [
-    "Credit: NEAR Project, JHU APL, NASA Explanation",
-    "NEAR Project, JHU APL, NASA"
-  ],
+  "credit": "NEAR Project, JHU APL, NASA",
   "explanation": "From fifty kilometers above asteroid Eros, the surface inside one of its largest craters appears covered with an unusual substance: regolith. The thickness and composition of the surface dust that is regolith remains a topic of much research. Much of the regolith on 433 Eros was probably created by numerous small impacts during its long history. In this representative-color view taken by the robot spacecraft NEAR-SHOEMAKER that orbited Eros in 2000 and 2001, brown areas indicate regolith that has been chemically altered by exposure to the solar wind during micrometeorite impacts. White areas are thought to have undergone relatively less exposure. The boulders visible inside the crater appear brown, indicating either that they are old enough to have a surface itself tanned by the solar wind, or that they have somehow become covered with some dark surface dust. This July, NASA's Dawn spacecraft will orbit giant main belt asteroid Vesta.",
   "date": "2011-06-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1106/regolith_near_375.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1106/regolith_near_481.jpg"
 }

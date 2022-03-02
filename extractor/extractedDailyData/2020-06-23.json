@@ -1,14 +1,10 @@
 {
   "title": "The X-Ray Sky from eROSITA",
-  "credit": [],
   "explanation": "What if you could see X-rays? The night sky would seem a strange and unfamiliar place. X-rays are about 1,000 times more energetic than visible light photons and are produced by violent explosions and high temperature astronomical environments. Instead of the familiar steady stars, the sky would seem to be filled with exotic stars, active galaxies, and hot supernova remnants. The featured X-ray image captures in unprecedented detail the entire sky in X-rays as seen by the eROSITA telescope onboard Spektr-RG satellite, orbiting around the L2 point of the Sun-Earth system, launched last year. The image shows the plane of our Milky Way galaxy across the center, a diffuse and pervasive X-ray background, the hot interstellar bubble known as the North Polar Spur, sizzling supernova remnants such as Vela, the Cygnus Loop and Cas A, energetic binary stars including Cyg X-1 and Cyg X-2, the LMC galaxy, and the Coma, Virgo, and Fornax clusters of galaxies. This first sky scan by eROSITA located over one million X-ray sources, some of which are not understood and will surely be topics for future research.",
   "date": "2020-06-23",
   "hdurl": "https://apod.nasa.gov/apod/image/2006/SkyMapB_eROSITA_2998.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: J. Sanders, H. Brunner, A. Merloni & eSASS Team (MPE); E. Churazov, M. Gilfanov, R. Sunyaev (IKI) Explanation",
-    "J. Sanders, H. Brunner, A. Merloni & eSASS Team (MPE); E. Churazov, M. Gilfanov, R. Sunyaev (IKI)"
-  ],
+  "copyright": "J. Sanders, H. Brunner, A. Merloni & eSASS Team (MPE); E. Churazov, M. Gilfanov, R. Sunyaev (IKI)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2006/SkyMapB_eROSITA_960.jpg"
 }

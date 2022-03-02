@@ -1,14 +1,10 @@
 {
   "title": "Unusual Gas Filaments Surround Galaxy NGC 1275",
-  "credit": [],
   "explanation": "How were the unusual gas filaments surrounding galaxy NGC 1275 created? No one is sure. Galaxy NGC 1275 is the central dominant galaxy of the Perseus Cluster of Galaxies, a cluster with many member galaxies visible in the above image. In visible light, NGC 1275 appears to show a spectacular collision between two distinct galaxies. The galaxy and cluster are also bright emitters of X-rays. The unusual gas filaments are shown above in a very specific color of light emitted by hydrogen, here artificially colored pink. Possible origins for the filaments may involve details of the collision between the two galaxies, or alternatively, interactions between a galactic center black hole and the surrounding intracluster gas. NGC 1275, pictured above, spans about 100,000 light years and lies about 230 million light years distant toward the constellation of Perseus.",
   "date": "2005-07-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0507/ngc1275_wiyn_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: C. Conselice (Caltech), WIYN, AURA, NOAO, NSF Explanation",
-    "C. Conselice (Caltech), WIYN, AURA, NOAO, NSF"
-  ],
+  "copyright": "C. Conselice (Caltech), WIYN, AURA, NOAO, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0507/ngc1275_wiyn.jpg"
 }

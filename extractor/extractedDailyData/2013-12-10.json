@@ -1,14 +1,10 @@
 {
   "title": "Seyfert's Sextet",
-  "credit": [
-    "Credit: Hubble Legacy Archive, NASA, ESA; Processing: Judy Schmidt Explanation",
-    "Hubble Legacy Archive, NASA, ESA; Processing: Judy Schmidt"
-  ],
+  "credit": "Hubble Legacy Archive, NASA, ESA; Processing: Judy Schmidt",
   "explanation": "What will survive this battle of the galaxies? Known as Seyfert's Sextet, this intriguing group of galaxies lies in the head portion of the split constellation of the Snake (Serpens). The sextet actually contains only four interacting galaxies, though. Near the center of this Hubble Space Telescope picture, the small face-on spiral galaxy lies in the distant background and appears only by chance aligned with the main group. Also, the prominent condensation on the upper left is likely not a separate galaxy at all, but a tidal tail of stars flung out by the galaxies' gravitational interactions. About 190 million light-years away, the interacting galaxies are tightly packed into a region around 100,000 light-years across, comparable to the size of our own Milky Way galaxy, making this one of the densest known galaxy groups. Bound by gravity, the close-knit group may coalesce into a single large galaxy over the next few billion years.",
   "date": "2013-12-10",
   "hdurl": "https://apod.nasa.gov/apod/image/1312/seyfertsextet_HLAschmidt_1496.png",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1312/seyfertsextet_HLAschmidt_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Phoenix Rises Toward Mars",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "Can Mars sustain life? To help answer this question, last week NASA launched the Phoenix mission to Mars. In May 2008, Phoenix is expected to land in an unexplored north polar region of Mars that is rich in water-ice. Although Phoenix cannot move, it can deploy its cameras, robotic arm, and a small chemistry laboratory to inspect, dig, and chemically analyze its landing area. One hope is that Phoenix will be able to discern telling clues to the history of ice and water on Mars. Phoenix is also poised to explore the boundary between ice and soil in hopes of finding clues of a habitable zone there that could support microbial life. Phoenix has a planned lifetime of three months on the Martian surface.",
   "date": "2007-08-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0708/phoenix_nasa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0708/phoenix_nasa.jpg"
 }

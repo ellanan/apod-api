@@ -1,14 +1,10 @@
 {
   "title": "Gamma-Ray Bursting",
-  "credit": [
-    "Credit: Laura Whitlock (Imagine The Universe!), GSFC, NASA Explanation",
-    "Laura Whitlock (Imagine The Universe!), GSFC, NASA"
-  ],
+  "credit": "Laura Whitlock (Imagine The Universe!), GSFC, NASA",
   "explanation": "Using graphics and data from NASA's Compton Gamma Ray Observatory, this animation illustrates one of the most exciting mysteries of modern astrophysics, gamma-ray bursts. Incredibly gamma-ray bursts, sudden flashes of radiation with over 100,000 times the energy of visible light photons, occur several times a day. They typically last from fractions of a second to many minutes and appear from random directions, unexpectedly triggering space-based gamma-ray instruments. At left a burst suddenly appears, flickers and fades in a false-color gamma-ray all-sky map, briefly overwhelming all other sources of celestial gamma-rays. The graph at right shows the corresponding response of an orbiting gamma-ray detector as its counting rate suddenly climbs and falls recording the passage of the mysterious burst. Originating far across the Universe, gamma-ray bursts are now known to be the most powerful explosions since the big bang and may yet prove to be useful tools for exploring the distant cosmos. Future space and ground-based observatories will also work to discover the nature of the bursters and the source of their extreme energy.",
   "date": "1999-11-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9911/grb_animation.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9911/grb_animation.gif"
 }

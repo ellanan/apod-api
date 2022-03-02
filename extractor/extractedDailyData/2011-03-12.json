@@ -1,14 +1,10 @@
 {
   "title": "Mare Orientale",
-  "credit": [
-    "Credit: NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter Explanation",
-    "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter"
-  ],
+  "credit": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter",
   "explanation": "Shaped like a target ring bull's-eye, the Mare Orientale is one of the most striking large scale lunar features. Located on the Moon's extreme western edge, it is unfortunately difficult to see from an earthbound perspective. Still, this mosaic of the multi-ring impact basin, the youngest of the large lunar basins shows off intriguing details (full resolution mosaic), based on Wide Angle Camera images from the Lunar Reconnaissance Orbiter. Only partially flooded by lava the Mare Orientale is over 3 billion years old, about 600 miles (950 kilometers) across and was formed by the impact of an asteroid sized object. The collision caused ripples in the lunar crust resulting in the concentric circular features. Though it may seem a little ironic to denizens of the space age who recognize the Moon as a dry and airless world, a dark, smooth lunar region is called a mare (plural maria), latin for sea, because astronomers once thought such regions might actually be seas.",
   "date": "2011-03-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1103/orientale_lro.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1103/orientale_lro_crop800.jpg"
 }

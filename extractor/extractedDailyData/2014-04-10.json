@@ -1,14 +1,10 @@
 {
   "title": "Mars, Ceres, Vesta",
-  "credit": [],
   "explanation": "That bright, ruddy star you've recently noticed rising just after sunset isn't a star at all. That's Mars, the Red Planet. Mars is now near its 2014 opposition (April 8) and closest approach (April 14), looping through the constellation Virgo opposite the Sun in planet Earth's sky. Clearly outshining bluish Spica, alpha star of Virgo, Mars is centered in this labeled skyview from early April, that includes two other solar system worlds approaching their opposition. On the left, small and faint asteroid Vesta and dwarf planet Ceres are seen near star Tau Virginis. But you'll just have to imagine NASA's Dawn spacecraft cruising between the small worlds. Having left Vesta in September of 2012, Dawn's ion engine has been steadily driving it to match orbits with Ceres, scheduled to arrive there in February 2015. Of course, you can also look near Mars for the Moon opposite the Sun in Earth's sky on the night of April 14/15 ... and see a total lunar eclipse.",
   "date": "2014-04-10",
   "hdurl": "https://apod.nasa.gov/apod/image/1404/MarsCeresVesta2014La.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tunç Tezel (TWAN) Explanation",
-    "Tunç Tezel (TWAN)"
-  ],
+  "copyright": "Tunç Tezel (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1404/MarsCeresVesta2014La950.jpg"
 }

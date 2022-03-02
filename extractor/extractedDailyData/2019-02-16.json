@@ -1,14 +1,10 @@
 {
   "title": "NGC 2359: Thor's Helmet",
-  "credit": [],
   "explanation": "NGC 2359 is a helmet-shaped cosmic cloud with wing-like appendages popularly called Thor's Helmet. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the helmet is more like an interstellar bubble, blown as a fast wind from the bright, massive star near the bubble's center inflates a region within the surrounding molecular cloud. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away in the constellation Canis Major. The remarkably detailed image is a mixed cocktail of data from broadband and narrowband filters that captures natural looking stars and the glow of the nebula's filamentary structures. It highlights a blue-green color from strong emission due to oxygen atoms in the glowing gas.",
   "date": "2019-02-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1902/thor_LHORHGOBO_final.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ignacio Diaz Bobillo Explanation",
-    "Ignacio Diaz Bobillo"
-  ],
+  "copyright": "Ignacio Diaz Bobillo",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1902/thor_LHORHGOBO_final1024.jpg"
 }

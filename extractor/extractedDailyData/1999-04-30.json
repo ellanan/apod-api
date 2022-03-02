@@ -1,14 +1,10 @@
 {
   "title": "Solar Shock Wave",
-  "credit": [
-    "Credit: Barry Reynolds (Perth, Australia) and the SOHO - EIT Consortium Explanation",
-    "Barry Reynolds (Perth, Australia) and the SOHO - EIT Consortium"
-  ],
+  "credit": "Barry Reynolds (Perth, Australia) and the SOHO - EIT Consortium",
   "explanation": "On September 24, 1997 a shock wave blasted across the surface of the sun at speeds of 250 to 600 kilometers per second. On planet Earth, observer Barry Reynolds photographed the expanding shock front (left) in the light emitted by hydrogen atoms at the solar surface. His discovery image was nicely confirmed by a space-based extreme ultraviolet image (right) of the shock ramming through the sun's upper atmosphere as recorded by the SOHO satellite observatory. In both pictures a bright solar flare is seen near the center of a circular arc-like feature representing a shock front. The shock front is dark in the ground based photo and bright in the ultraviolet image. These shock fronts are believed to be tracers of a 3-dimensional disturbance caused by the flare but researchers are uncertain as to the exact physical mechanisms which produced it. Along with other violent events called coronal mass ejections, solar flares are known to generate streams of energetic particles which can affect the Earth's magnetosphere and Earth orbiting satellites.",
   "date": "1999-04-30",
   "hdurl": "https://apod.nasa.gov/apod/image/9904/moreton_halpha_eit.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9904/moreton_halpha_eit.jpg"
 }

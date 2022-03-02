@@ -1,14 +1,10 @@
 {
   "title": "NGC 6826: The Blinking Eye",
-  "credit": [
-    "Credit: B. Balick, J. Alexander (University of Washington), et al., NASA Explanation",
-    "B. Balick, J. Alexander (University of Washington), et al., NASA"
-  ],
+  "credit": "B. Balick, J. Alexander (University of Washington), et al., NASA",
   "explanation": "The colorful planetary nebula phase of a sun-like star's life is brief. Almost in the \"blink of an eye\" - cosmically speaking - the star's outer layers are cast off, forming an expanding emission nebula. This nebula lasts perhaps 10 thousand years compared to a 10 billion year stellar life span. Spectacular planetary nebulae are familiar objects to both professional and amateur astronomers, but they still contain a few surprises. For instance, the lovely nebula NGC 6826, also known as the Blinking Eye Nebula, has mysterious red FLIERS seen on either side of the Hubble Space Telescope image above. Are they also expanding outward from the central star? If so, their \"bow shocks\" point in the wrong direction!",
   "date": "2001-05-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0105/ngc6826_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0105/ngc6826_hst.jpg"
 }

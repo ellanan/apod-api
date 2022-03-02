@@ -1,13 +1,9 @@
 {
   "title": "Geostationary Satellites Beyond the Alps",
-  "credit": [],
   "explanation": "Why don't those stars move? Stars in the sky will typically appear to rise and set as the Earth turns. Those far to the north or south will appear to circle the pole. If you look closely at the above time-lapse movie, however, there are points of light that appear stationary. These objects are not stars but human-launched robotic spacecraft that remain fixed high above the Earth's equator. Called geostationary satellites, they don't fall down because they do orbit the Earth -- they just orbit at exactly the same speed that the Earth rotates. The orbital distance where this is possible is much farther than the International Space Station but much closer than the Moon. The video was taken from one of the highest revolving restaurants in the world located on the Mittelallalin in the Swiss Alps. In the foreground is a mountain known as the Allalinhorn. An even closer inspection will show that the geostationary satellites flash with glints of reflected sunlight. The satellites also all appear on a single line -- actually the projection of the Earth's equator onto the sky.",
   "date": "2012-04-11",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Kunze Explanation",
-    "Michael Kunze"
-  ],
+  "copyright": "Michael Kunze",
   "media_type": "video",
   "url": "https://player.vimeo.com/video/39536582?title=0&byline=0&portrait=0&autoplay=1"
 }

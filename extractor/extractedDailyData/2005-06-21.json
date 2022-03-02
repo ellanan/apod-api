@@ -1,14 +1,10 @@
 {
   "title": "The Cygnus Wall of Star Formation",
-  "credit": [],
   "explanation": "The North America Nebula in the sky can do what North Americans on Earth cannot -- form stars. Specifically, in analogy to the Earth-confined continent, the bright part that appears as Central America and Mexico is actually a hot bed of gas, dust, and newly formed stars known as the Cygnus Wall. The above image in representative colors shows the star forming wall lit and eroded by bright young stars, and partly hidden by the dark dust they have created. The part of the North America nebula (NGC 7000) shown spans about 15 light years and lies about 1,500 light years away toward the constellation of Cygnus.",
   "date": "2005-06-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0506/goldenwall_sherick_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Sherick Explanation",
-    "Michael Sherick"
-  ],
+  "copyright": "Michael Sherick",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0506/goldenwall_sherick.jpg"
 }

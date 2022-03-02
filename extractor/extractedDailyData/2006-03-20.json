@@ -1,14 +1,10 @@
 {
   "title": "Super-Earths May Circle Other Stars",
-  "credit": [],
   "explanation": "Are \"super-Earths\" common around other star systems? Quite possibly. Unexpected evidence for this came to light recently when a planet orbiting a distant star gravitationally magnified the light of an even more distant star. Assuming the planet's parent star is normal red dwarf, the brightening is best explained if the planet is about 13 times the mass of the Earth and orbiting at the distance of the asteroid belt in our own Solar System. Given the small number of objects observed and similar determinations already obtained for other star systems, these super-Earths might be relatively common. Astronomers speculate that the planet might have grown into a Jupiter-sized planet if its star system had more gas. Since the planet was not observed directly, significant uncertainty remains in its defining attributes, and future research will be aimed at better understanding this intriguing system. The above drawing gives an artist's depiction of what a super-Earth orbiting a distant red dwarf star might look like, complete with a hypothetical moon.",
   "date": "2006-03-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0603/superearths_cfa_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: MicroFUN Collaboration, CfA, NSF Explanation",
-    "MicroFUN Collaboration, CfA, NSF"
-  ],
+  "copyright": "MicroFUN Collaboration, CfA, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0603/superearths_cfa.jpg"
 }

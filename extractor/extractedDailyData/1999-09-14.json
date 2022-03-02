@@ -1,17 +1,11 @@
 {
   "title": "The Colorful Orion Nebula",
-  "credit": [
-    "Credit: Gary Bernstein (U. Michigan); Copyright: U. Michigan, Lucent Explanation",
-    "Gary Bernstein (U. Michigan); Copyright: U. Michigan, Lucent"
-  ],
+  "credit": "Gary Bernstein (U. Michigan); Copyright: U. Michigan, Lucent",
   "explanation": "",
   "date": "1999-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/9909/orion_btc_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: U. Michigan, Lucent Explanation",
-    "U. Michigan, Lucent"
-  ],
+  "copyright": "U. Michigan, Lucent",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9909/orion_btc.jpg"
 }

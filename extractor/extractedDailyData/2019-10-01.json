@@ -1,13 +1,9 @@
 {
   "title": "Black Hole Safety Video",
-  "credit": [
-    "Credit: NASA's GSFC, SVS; Music: Prim and Proper from Universal Production Music Explanation",
-    "NASA's GSFC, SVS; Music: Prim and Proper from Universal Production Music"
-  ],
+  "credit": "NASA's GSFC, SVS; Music: Prim and Proper from Universal Production Music",
   "explanation": "If you were a small one-eyed monster, would you want to visit a black hole? Well the one in this video does -- but should it? No, actually, but since our little friend is insistent on going, the video informs it what black holes really are, and how to be as safe as possible when visiting. Black holes are clumps of matter so dense that light cannot escape. Pairs of black holes, each several times the mass of our Sun, have recently been found to merge by detection of unusual gravitational radiation. The regions surrounding supermassive black holes in the centers of galaxies can light up as stars that near them get shredded. The closest known black hole to the Earth is V616 Mon, which is about 3,300 light years away. The best way for our monster friend to stay safe, the video informs, is to not go too close.",
   "date": "2019-10-01",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/aMTwtb3TVIk"
 }

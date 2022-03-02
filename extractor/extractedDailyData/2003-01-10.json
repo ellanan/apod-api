@@ -1,14 +1,10 @@
 {
   "title": "The Crab that Played with the Planet",
-  "credit": [],
   "explanation": "Wandering through the constellation Taurus, Saturn made its closest approach to planet Earth last month, tilting its lovely rings toward appreciative skygazers while rising high in midnight skies. On January 4th and 5th, Saturn also crossed in front of the high and far-off Crab Nebula (M1), a cosmic cloud of debris from a stellar explosion and first on the list of astronomer Charles Messier's celestial sights. But Saturn and the Crab made poor playmates, as light from the bright planet overwhelmed the the diffuse nebula, all but hiding the Crab during the transit. Taken on January 2nd, a few days before their closest encounter, this composite digital image illustrates the problem. The subtle nebula is just visible at the right, while on the left, light from a drastically over-exposed Saturn overflows its pixels. Composited into the image is a correctly exposed picture of ringed Saturn with the Saturnian moons labeled. The well-exposed Saturn image was also taken on January 2nd, but captured with an exposure lasting only a fraction of a second, in contrast with the tens of seconds of exposure time required to reveal the Crab.",
   "date": "2003-01-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0301/saturnm1_wodaski_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ron Wodaski, Newastro Remote Telescope at New Mexico Skies Explanation",
-    "Ron Wodaski, Newastro Remote Telescope at New Mexico Skies"
-  ],
+  "copyright": "Ron Wodaski, Newastro Remote Telescope at New Mexico Skies",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0301/saturnm1_wodaski_c2.jpg"
 }

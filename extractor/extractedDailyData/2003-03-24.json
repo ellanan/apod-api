@@ -1,17 +1,11 @@
 {
   "title": "A Digital Sunset Over Europe and Africa",
-  "credit": [
-    "Credit: NASA; Copyright: The Living Earth, Inc.; Used with Permission Explanation",
-    "NASA; Copyright: The Living Earth, Inc.; Used with Permission"
-  ],
+  "credit": "NASA; Copyright: The Living Earth, Inc.; Used with Permission",
   "explanation": "No single spacecraft or astronaut took this picture. It is a digital composite of archived images taken by several Earth-orbiting satellites and ocean-faring ships. Similar images can be digitally stitched together for any Earth location by John Walker's Earth and Moon Viewer website. Specifically, the daytime land images were taken by the MODIS instrument on NASA's Terra satellite, while the nighttime images were taken by the DMSP satellites. This image is different from what an astronaut would see for reasons including a complete lack of clouds and an unrealistic exaggeration of lights and contrasts. The image has become both an internet wave in that it continues to circulate as an attachment to digital correspondence, and a modern urban legend. Another image like that is Earth at Night. The reason for the image's continued popularity might be simple: it is really cool looking.",
   "date": "2003-03-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0303/europesunset_livingearth_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: The Living Earth, Inc.; Used with Permission Explanation",
-    "The Living Earth, Inc.; Used with Permission"
-  ],
+  "copyright": "The Living Earth, Inc.; Used with Permission",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0303/europesunset_livingearth.jpg"
 }

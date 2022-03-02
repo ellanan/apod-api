@@ -1,14 +1,10 @@
 {
   "title": "Comet NEOWISE over Stonehenge",
-  "credit": [],
   "explanation": "Have you ever seen a comet? Tonight -- and likely the next few nights -- should be a good chance. Go outside just at sunset and look to your northwest. The lower your horizon, the better. Binoculars may help, but if your sky is cloudless and dark, all you should need is your unaided eyes and patience. As the Sun sets, the sky will darken, and there will be an unusual faint streak pointing diagonally near the horizon. That is Comet NEOWISE. It is a 5-kilometer-wide evaporating dirty iceberg visiting from -- and returning to -- the outer Solar System. As the Earth turns, the comet will soon set, so you might want to take a picture. In the featured image, Comet C/2020 F3 (NEOWISE) was captured two mornings ago rising over Stonehenge in the UK. Discovered with the NASA satellite NEOWISE toward the end of March, Comet NEOWISE has surprised many by surviving its closest approach to the Sun, brightening dramatically, and developing impressive (blue) ion and (white) dust tails.",
   "date": "2020-07-14",
   "hdurl": "https://apod.nasa.gov/apod/image/2007/NeowiseStonehenge_Deval_5572.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Declan Deval Explanation",
-    "Declan Deval"
-  ],
+  "copyright": "Declan Deval",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2007/NeowiseStonehenge_Deval_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "All of Mars",
-  "credit": [
-    "Credit: MOC Team, MGS, NASA Explanation",
-    "MOC Team, MGS, NASA"
-  ],
+  "credit": "MOC Team, MGS, NASA",
   "explanation": "Mars Global Surveyor is photographing Mars. The robot spacecraft arrived last September and continues to use solar panel aerobraking to help maneuver it to a better orbit to survey all of Mars The above image is a reconstruction of several photographs digitally combined to simulate a single vantage point 2700 kilometers above the Martian surface. The images were taken by the Mars Orbital Camera in wide angle mode in late December 1997. Visible features include the Valles Marineris canyon across the top, and the South Polar Cap of frozen carbon dioxide at the bottom. Many finer features that would normally be visible are hidden by dust remaining from a planet-wide storm that subsided only three weeks before these images were recorded.",
   "date": "1998-02-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9802/marsfull1_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9802/marsfull1_mgs.jpg"
 }

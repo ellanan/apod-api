@@ -1,14 +1,10 @@
 {
   "title": "Sunrise at Tycho",
-  "credit": [
-    "Credit: NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter Explanation",
-    "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter"
-  ],
+  "credit": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter",
   "explanation": "Tycho crater's central peak complex casts a long, dark shadow near local sunrise in this spectacular lunarscape. The dramatic oblique view was recorded on June 10 by the Lunar Reconnaissance Orbiter. Shown in amazing detail, boulder strewn slopes and jagged shadows appear in the highest resolution version at 1.5 meters per pixel. The rugged complex is about 15 kilometers wide, formed in uplift by the giant impact that created the well-known ray crater 100 million years ago. The summit of its central peak reaches 2 kilometers above the Tycho crater floor.",
   "date": "2011-07-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1107/tychoCentralPeaks_lro.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1107/tychoCentralPeaks_lro950.jpg"
 }

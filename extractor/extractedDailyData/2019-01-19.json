@@ -1,14 +1,10 @@
 {
   "title": "Total Lunar Eclipse at Moonset",
-  "credit": [],
   "explanation": "The Moon slid through Earth's shadow on January 31, 2018 in a total lunar eclipse. In this time-lapse sequence of that eclipse from Portal, Arizona, USA, the partial eclipse starts with the Moon high in the western sky. The eclipse total phase lasted about 76 minutes, but totality ended after the dark, reddened Moon set below the horizon. The upcoming total lunar eclipse, on the night of January 20/21, will be better placed for skygazers across the Americas, though. There, all 62 minutes of the total phase, when the Moon is completely immersed in Earth's dark umbral shadow, will take place with the Moon above the horizon. Watch it if you can. The next total lunar eclipse visible from anywhere on planet Earth won't take place until May 26, 2021, and then the total eclipse will last a mere 15 minutes.",
   "date": "2019-01-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1901/TLE2018Jan-seq3w.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fred Espenak (MrEclipse.com, TWAN) Explanation",
-    "Fred Espenak (MrEclipse.com, TWAN)"
-  ],
+  "copyright": "Fred Espenak (MrEclipse.com, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1901/TLE2018Jan-seq3w.jpg"
 }

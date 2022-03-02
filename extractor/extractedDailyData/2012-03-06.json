@@ -1,14 +1,10 @@
 {
   "title": "NGC 2170: Celestial Still Life",
-  "credit": [],
   "explanation": "Is this a painting or a photograph? In this beautiful celestial still life composed with a cosmic brush, dusty nebula NGC 2170 shines near the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items still life painters often choose for their subjects, the clouds of gas, dust, and hot stars pictured above are also commonly found in this setting - a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud, Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.",
   "date": "2012-03-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1203/ngc2170_julio_1920.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Leonardo Julio & Carlos Milovic (Astronomia Pampeana) Explanation",
-    "Leonardo Julio & Carlos Milovic (Astronomia Pampeana)"
-  ],
+  "copyright": "Leonardo Julio & Carlos Milovic (Astronomia Pampeana)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1203/ngc2170_julio_960.jpg"
 }

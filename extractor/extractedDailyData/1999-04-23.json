@@ -1,14 +1,10 @@
 {
   "title": "Io Shadow",
-  "credit": [
-    "Credit: John Spencer (Lowell Observatory), NASA Explanation",
-    "John Spencer (Lowell Observatory), NASA"
-  ],
+  "credit": "John Spencer (Lowell Observatory), NASA",
   "explanation": "Orbiting Jupiter once every 43 hours, the volcanic moon Io cruises 500,000 kilometers above swirling, banded cloud-tops. Orbiting Earth once every 1.5 hours, the Hubble Space Telescope watched as Io accompanied by its shadow crossed the face of the reigning gas giant planet in 1997. This and other sharp false-color images have recently been chosen to celebrate the ninth anniversary of the Hubble's launch (April 24, 1990). Reflective patches of sulfur dioxide \"frost\" are visible on Io's surface while Io's round dark shadow is seen passing over brownish white regions of Jupiter's high altitude haze and clouds. In October and November of this year, the Galileo spacecraft currently operating in the Jovian system is scheduled to make two daring close approaches to Io, possibly flying through a volcanic plume.",
   "date": "1999-04-23",
   "hdurl": "https://apod.nasa.gov/apod/image/9904/ioshadowc_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9904/ioshadowc_hst1.jpg"
 }

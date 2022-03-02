@@ -1,14 +1,10 @@
 {
   "title": "Mercury And The Moon",
-  "credit": [],
   "explanation": "Mercury is the closest planet to the Sun and never moves far from our parent star in Earth's sky. Racing around its tight orbit, this well-done world is a little over 1/3 the diameter of Earth and is often lost to our view in the solar glare. But, just one day before the August 11 total solar eclipse, astronomer Tunc Tezel captured this fleeting view of a close conjunction of Mercury and the soon to be silhouetted Moon as seen from Turkey. Mercury at the lower right shines brightly in reflected sunlight while only a thin crescent of the almost new Moon is directly illuminated. The rest of the lunar nearside is faintly visible though, illuminated by light from an almost full Earth. On Monday, November 15th, Mercury will actually be seen to transit or pass across the disk of the Sun for well placed observers in the pacific hemisphere.",
   "date": "1999-11-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9911/moonmerc_tezel.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tunc Tezel Explanation",
-    "Tunc Tezel"
-  ],
+  "copyright": "Tunc Tezel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9911/moonmerc_tezel.jpg"
 }

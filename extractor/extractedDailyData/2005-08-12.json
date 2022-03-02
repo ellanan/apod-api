@@ -1,14 +1,10 @@
 {
   "title": "A Meteor Shower Fireball Movie",
-  "credit": [],
   "explanation": "Go outside tonight and see a celestial light show -- the later the better. Tonight is the peak of the month-long Perseid Meteor Shower. Although visible every year at this time, the Perseids are expected to appear particularly active this year due to the relative absence of glare from the Moon during the peak. Tonight, a thin moon will set a few hours after the Sun, leaving a moonless and dark sky. All through the night, all over the sky, meteors will appear to shoot out the constellation Perseus and across the sky. The rate of meteors and fireballs is not known for sure, but expected by some to be as high as one meteor flash every minute. Lucky sky gazers might be treated to a bright fireball like the one pictured above. That fireball was captured by a digital recorded over Wise Observatory during the 2001 Leonid Meteor Shower. The meteor shower poses no danger as few, if any, of the sand-sized flaring bits are expected to reach the ground.",
   "date": "2005-08-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0508/MeteorMovie_brosch_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: D. Polishook, N. Brosch, & I. Manulis (Tel-Aviv U., Wise Obs.), and Spacegaurd Israel Explanation",
-    "D. Polishook, N. Brosch, & I. Manulis (Tel-Aviv U., Wise Obs.), and Spacegaurd Israel"
-  ],
+  "copyright": "D. Polishook, N. Brosch, & I. Manulis (Tel-Aviv U., Wise Obs.), and Spacegaurd Israel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0508/MeteorMovie_brosch.gif"
 }

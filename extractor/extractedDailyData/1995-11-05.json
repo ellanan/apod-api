@@ -1,14 +1,10 @@
 {
   "title": "Vela Satellites: The Watchers",
-  "credit": [
-    "Credit: Courtesy of HEASARC, at NASA/GSFC. Explanation",
-    "Courtesy of HEASARC, at NASA/GSFC."
-  ],
+  "credit": "Courtesy of HEASARC, at NASA/GSFC.",
   "explanation": "",
   "date": "1995-11-05",
   "hdurl": "https://apod.nasa.gov/apod/image/vela.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/vela.gif"
 }

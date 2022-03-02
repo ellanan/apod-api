@@ -1,14 +1,10 @@
 {
   "title": "Stars and Dust of the Lagoon Nebula",
-  "credit": [],
   "explanation": "The large majestic Lagoon Nebula is home for many young stars and hot gas. Spanning 100 light years across while lying only about 5000 light years distant, the Lagoon Nebulae is so big and bright that it can be seen without a telescope toward the constellation of Sagittarius. Many bright stars are visible from NGC 6530, an open cluster that formed in the nebula only several million years ago. The greater nebula, also known as M8 and NGC 6523, is named \"Lagoon\" for the band of dust seen to the left of the open cluster's center. A bright knot of gas and dust in the nebula's center is known as the Hourglass Nebula. The above picture is a digitally sharpened composite of exposures taken in specific colors of light emitted by sulfur (red), hydrogen (green), and oxygen (blue). Star formation continues in the Lagoon Nebula as witnessed by the many globules that exist there.",
   "date": "2003-09-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0309/m8_crisp_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Richard Crisp Explanation",
-    "Richard Crisp"
-  ],
+  "copyright": "Richard Crisp",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0309/m8_crisp.jpg"
 }

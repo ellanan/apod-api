@@ -1,14 +1,10 @@
 {
   "title": "T Tauri and Hind's Variable Nebula",
-  "credit": [],
   "explanation": "The star with an orange tint near top center in this dusty telescopic frame is T Tauri, prototype of the class of T Tauri variable stars. Next to it (right) is a yellow cosmic cloud historically known as Hind's Variable Nebula (NGC 1555). About 650 light-years away, at the boundary of the local bubble and the Taurus molecular cloud, both star and nebula are seen to vary significantly in brightness but not necessarily at the same time, adding to the mystery of the intriguing region. T Tauri stars are now generally recognized as young (less than a few million years old), sun-like stars still in the early stages of formation. To further complicate the picture, infrared observations indicate that T Tauri itself is part of a multiple system and suggest that the associated Hind's Nebula may also contain a very young stellar object. The well-composed image spans about 8 light-years at the estimated distance of T Tauri.",
   "date": "2022-02-10",
   "hdurl": "https://apod.nasa.gov/apod/image/2202/NGC1555texas2021.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dawn Lowry, Gian Lorenzo Ferretti, Ewa Pasiak and Terry Felty Explanation",
-    "Dawn Lowry, Gian Lorenzo Ferretti, Ewa Pasiak and Terry Felty"
-  ],
+  "copyright": "Dawn Lowry, Gian Lorenzo Ferretti, Ewa Pasiak and Terry Felty",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2202/NGC1555texas2021_1094.jpg"
 }

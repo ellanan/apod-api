@@ -1,14 +1,10 @@
 {
   "title": "Surveyor Slides",
-  "credit": [
-    "Credit: The Surveyor Project, NASA Explanation",
-    "The Surveyor Project, NASA"
-  ],
+  "credit": "The Surveyor Project, NASA",
   "explanation": "\"Safe!\" In September 1967 (during regular season play), the Surveyor 5 lander actually slid several feet while making a successful soft landing on the Moon's Mare Tranquillitatis. Equipped with television cameras and soil sampling experiments, the US Surveyor spacecraft were intended to determine if the lunar surface at chosen locations was safe for manned landings. Surveyor 5 touched down on the inside edge of a small crater inclined at about 20 degrees. Its footpad slipped and dug the trench visible in the picture. Covered with lunar soil, the footpad is about 20 inches in diameter.",
   "date": "1997-11-09",
   "hdurl": "https://apod.nasa.gov/apod/image/moonslide_surveyor5_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/moonslide_surveyor5.gif"
 }

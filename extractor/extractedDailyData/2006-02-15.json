@@ -1,14 +1,10 @@
 {
   "title": "Rotating Titan in Infrared Light",
-  "credit": [
-    "Credit: VIMS Team, U. Arizona, ESA, NASA Explanation",
-    "VIMS Team, U. Arizona, ESA, NASA"
-  ],
+  "credit": "VIMS Team, U. Arizona, ESA, NASA",
   "explanation": "Titan is one of the strangest places in our Solar System. The only moon known with thick clouds, this unusual satellite of Saturn shows evidence of evaporating lakes created by methane rain. The clouds that make Titan featureless in visible light have now been pierced several times in infrared light by the robot Cassini spacecraft currently orbiting Saturn. These images have been compiled into the above time-lapse movie. Like Earth's Moon, Titan always shows the same face toward its central planet. It therefore takes Titan about 16 days to complete one rotation. Titan has numerous areas of light terrain with some large areas of dark terrain visible near the equator. Small areas of brightest terrain might arise from ice-volcanoes and have a high amount of reflective frozen water-ice. Titan's surface was imaged for the first time early last year by the Huygens probe, which survived for three hours on a cold and sandy dark region.",
   "date": "2006-02-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0602/titanrotating_cassini_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0602/titanrotating_cassini.gif"
 }

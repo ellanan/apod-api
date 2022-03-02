@@ -1,14 +1,10 @@
 {
   "title": "One Small Step",
-  "credit": [
-    "Credit: NASA, Kennedy Space Center, Neil Armstrong Explanation",
-    "NASA, Kennedy Space Center, Neil Armstrong"
-  ],
+  "credit": "NASA, Kennedy Space Center, Neil Armstrong",
   "explanation": "",
   "date": "1995-09-21",
   "hdurl": "https://apod.nasa.gov/apod/image/foot_a11.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/foot_a11.gif"
 }

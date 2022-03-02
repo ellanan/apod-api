@@ -1,14 +1,10 @@
 {
   "title": "The International Space Station from Above",
-  "credit": [
-    "Credit: STS-130 Crew, NASA Explanation",
-    "STS-130 Crew, NASA"
-  ],
+  "credit": "STS-130 Crew, NASA",
   "explanation": "The International Space Station (ISS) is the largest human-made object ever to orbit the Earth. The ISS is so large that it can be seen drifting overhead with the unaided eye, and is frequently imaged from the ground in picturesque fashion. Last month, the station was visited again by space shuttle, which resupplied the station and added a new module. The ISS is currently operated by the Expedition 22 crew, now consisting five astronauts including two supplied by USA's NASA, two by Russia's RKA, and one by Japan's JAXA. After departing the ISS, the crew of the space shuttle Endeavour captured the above spectacular vista of the orbiting space city high above the clouds, waters, and lands of Earth. Visible components include modules, trusses, and expansive solar arrays that gather sunlight that is turned into needed electricity.",
   "date": "2010-03-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1003/iss_sts130_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1003/iss_sts130.jpg"
 }

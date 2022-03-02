@@ -1,14 +1,10 @@
 {
   "title": "M63: The Sunflower Galaxy from Hubble",
-  "credit": [
-    "Credit: ESA, NASA, Hubble Explanation",
-    "ESA, NASA, Hubble"
-  ],
+  "credit": "ESA, NASA, Hubble",
   "explanation": "One of the bright spiral galaxies visible in the north sky is M63, the Sunflower Galaxy. M63, also catalogued as NGC 5055, can be found with a small telescope toward the constellation of Hunting Dogs (Canes Venatici). The featured picture from the Hubble Space Telescope exhibits the center of M63, complete with long winding spiral arms glowing blue from a few bright young stars, emission nebulae glowing red from hot ionized hydrogen gas, and dark dust in numerous filaments. M63 interacts gravitationally with M51 (the Whirlpool Galaxy) and several smaller galaxies. Light takes about 35 million years to reach us from M63, and about 60,000 years to cross the spiral galaxy. Stars in the outer regions of the Sunflower Galaxy rotate about the center at a speed so high that, given the matter seen and assuming normal gravity, they should fly off into space. The fact that the stars remain indicates the presence of sort of invisible, gravitationally-binding, dark matter.",
   "date": "2016-11-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1611/M63_Hubble_1098.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1611/M63_Hubble_960.jpg"
 }

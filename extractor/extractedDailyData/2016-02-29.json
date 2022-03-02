@@ -1,14 +1,10 @@
 {
   "title": "Julius Caesar and Leap Days",
-  "credit": [
-    "Credit: Classical Numismatic Group, Inc., Wikimedia Explanation",
-    "Classical Numismatic Group, Inc., Wikimedia"
-  ],
+  "credit": "Classical Numismatic Group, Inc., Wikimedia",
   "explanation": "Today, February 29th, is a leap day - a relatively rare occurrence. In 46 BC, Julius Caesar, featured here in a self-decreed minted coin, created a calendar system that added one leap day every four years. Acting on advice by Alexandrian astronomer Sosigenes, Caesar did this to make up for the fact that the Earth's year is slightly more than 365 days. In modern terms, the time it takes for the Earth to circle the Sun is slightly more than the time it takes for the Earth to rotate 365 times (with respect to the Sun -- actually we now know this takes about 365.24219 rotations). So, if calendar years contained 365 days they would drift from the actual year by about 1 day every 4 years. Eventually July (named posthumously for Julius Caesar himself) would occur during the northern hemisphere winter! By adopting a leap year with an extra day every four years, the calendar year would drift much less. This Julian Calendar system was used until the year 1582 when Pope Gregory XIII provided further fine-tuning when he added that leap days should not occur in years ending in \"00\", unless divisible by 400. This Gregorian Calendar system is the one in common use today.",
   "date": "2016-02-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1602/CaesarCoin_Wikipedia_960.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1602/CaesarCoin_Wikipedia_960.jpg"
 }

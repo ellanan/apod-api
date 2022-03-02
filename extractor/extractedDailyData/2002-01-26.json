@@ -1,14 +1,10 @@
 {
   "title": "Shuttle Engine Blast",
-  "credit": [
-    "Credit: STS-51 Crew, NASA Explanation",
-    "STS-51 Crew, NASA"
-  ],
+  "credit": "STS-51 Crew, NASA",
   "explanation": "The Space Shuttle Discovery's orbital maneuvering system (OMS) engine firing produced this dramatic flare as it cruised \"upside down\" in low Earth orbit. Discovery was named for a ship commanded by Captain James Cook RN, the 18th Century English astronomer and navigator. Cook's voyages of discovery established new standards in scientific exploration and brought extensive knowledge of the Pacific regions, including Australia, New Zealand, and the Hawaiian Island archipelago to Europeans. The Space Shuttle Endeavor, also named after one of Cook's ships, is the newest of NASA's four-orbiter shuttle fleet.",
   "date": "2002-01-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0201/engine_sts51_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0201/engine_sts51.jpg"
 }

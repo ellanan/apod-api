@@ -1,14 +1,10 @@
 {
   "title": "GRO J1655-40: Evidence for a Spinning Black Hole",
-  "credit": [
-    "Credit: April Hobart, CXC Explanation",
-    "April Hobart, CXC"
-  ],
+  "credit": "April Hobart, CXC",
   "explanation": "In the center of a swirling whirlpool of hot gas is likely a beast that has never been seen directly: a black hole. Studies of the bright light emitted by the swirling gas frequently indicate not only that a black hole is present, but also likely attributes. The gas surrounding GRO J1655-40, for example, has been found to display an unusual flickering at a rate of 450 times a second. Given a previous mass estimate for the central object of seven times the mass of our Sun, the rate of the fast flickering can be explained by a black hole that is rotating very rapidly. What physical mechanisms actually cause the flickering -- and a slower quasi-periodic oscillation (QPO) -- in accretion disks surrounding black holes and neutron stars remains a topic of much research.",
   "date": "2010-09-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0904/blackhole_hobart_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0904/blackhole_hobart.jpg"
 }

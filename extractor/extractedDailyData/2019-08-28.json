@@ -1,17 +1,11 @@
 {
   "title": "Messier 61 Close Up",
-  "credit": [
-    "Credit: NASA, ESA, Hubble, ESO, Amateur Data; Processing & Copyright: Robert Gendler & Roberto Colombari Explanation",
-    "NASA, ESA, Hubble, ESO, Amateur Data; Processing & Copyright: Robert Gendler & Roberto Colombari"
-  ],
+  "credit": "NASA, ESA, Hubble, ESO, Amateur Data; Processing & Copyright: Robert Gendler & Roberto Colombari",
   "explanation": "Image data from the Hubble Space Telescope, the European Southern Observatory, and small telescopes on planet Earth are combined in this magnificent portrait of face-on spiral galaxy Messier 61 (M61). A mere 55 million light-years away in the Virgo Cluster of Galaxies, M61 is also known as NGC 4303. It's considered to be an example of a barred spiral galaxy similar to our own Milky Way. Like other spiral galaxies, M61 also features sweeping spiral arms, cosmic dust lanes, pinkish star forming regions, and young blue star clusters. The bright galactic core is offset to the left in this 50 thousand light-year wide close-up.",
   "date": "2019-08-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1908/M61-HST-ESO-L.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler & Roberto Colombari Explanation",
-    "Robert Gendler & Roberto Colombari"
-  ],
+  "copyright": "Robert Gendler & Roberto Colombari",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1908/M61-HST-ESO-S1024.jpg"
 }

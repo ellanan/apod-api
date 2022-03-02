@@ -1,14 +1,10 @@
 {
   "title": "Iapetus in Black and White",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "Iapetus, Saturn's third largest moon, is a candidate for the strangest moon of Saturn. Tidally locked in its orbit around the ringed gas giant, Iapetus is sometimes called the yin-yang moon because its leading hemisphere is very dark, reflecting about 5 percent of the Sun's light, while its trailing hemisphere is almost as bright as snow. This recent Cassini spacecraft flyby image is one of the closest views ever. It spans about 35 kilometers across a cratered transition zone between bright and dark terrain. Iapetus itself has a density close to that of water ice, but the detailed reflective properties of the dark material suggest an organic composition. Honoring the moon's discoverer, the dark terrain is called Cassini Regio.",
   "date": "2007-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0709/PIA08374_cassini.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0709/PIA08374_cassini_c720.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "M51: The Whirlpool Galaxy",
-  "credit": [
-    "Credit: W. Keel (U. Alabama), 1.1-meter Hall Telescope, Lowell Observatory Explanation",
-    "W. Keel (U. Alabama), 1.1-meter Hall Telescope, Lowell Observatory"
-  ],
+  "credit": "W. Keel (U. Alabama), 1.1-meter Hall Telescope, Lowell Observatory",
   "explanation": "The Whirlpool Galaxy is a classic spiral galaxy. At only 15 million light years distant, M51, also cataloged as NGC 5194, is one of the brighter and more picturesque galaxies on the sky. The smaller galaxy appearing here above and to the right is also well behind M51, as can be inferred by the dust in M51's spiral arm blocking light from this smaller galaxy. Astronomers speculate that M51's spiral structure is primarily due to it's gravitational interaction with this smaller galaxy.",
   "date": "1997-01-25",
   "hdurl": "https://apod.nasa.gov/apod/image/m51_hall.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/m51_hall.gif"
 }

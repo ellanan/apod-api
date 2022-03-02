@@ -1,14 +1,10 @@
 {
   "title": "To Fly Free in Space",
-  "credit": [
-    "Credit: STS 41-B Crew, NASA Explanation",
-    "STS 41-B Crew, NASA"
-  ],
+  "credit": "STS 41-B Crew, NASA",
   "explanation": "What would it be like to fly free over the seas and clouds of Earth? The first to experience such an \"untethered space walk\" were NASA astronauts Bruce McCandless and Robert Stewart during Space Shuttle mission 41-B in 1984. McCandless, pictured above, used a Manned Maneuvering Unit (MMU) to move in and around the cargo bay of the space shuttle. The MMU works by shooting jets of nitrogen and has since been used to help deploy and retrieve satellites. With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless in space. The MMU was replaced in 2001 with the SAFER backpack propulsion unit.",
   "date": "2002-09-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0209/spacewalk_sts41b_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0209/spacewalk_sts41b.jpg"
 }

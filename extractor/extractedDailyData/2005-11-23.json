@@ -1,14 +1,10 @@
 {
   "title": "Pandora: A Shepherd Moon of Saturn",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What does Saturn's small moon Pandora look like? To help find out, the robot Cassini spacecraft now orbiting Saturn passed about 50,000 kilometers from the unusual moon in early September. The highest resolution image of Pandora ever taken was then captured and is shown above in representative colors. Features as small as 300 meters can be discerned on 80-kilometer wide Pandora. Craters on Pandora appear to be covered over by some sort of material, providing a more smooth appearance than sponge-like Hyperion, another small moon of Saturn. Curious grooves and ridges also appear to cross the surface of the small moon. Pandora is partly interesting because, along with its companion moon Prometheus, it helps shepherd the particles of Saturn's F ring into a distinct ring.",
   "date": "2005-11-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0511/pandora_cassini.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0511/pandora_cassini_big.jpg"
 }

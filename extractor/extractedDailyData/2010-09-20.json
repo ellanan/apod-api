@@ -1,14 +1,10 @@
 {
   "title": "Aurora Over Norway",
-  "credit": [],
   "explanation": "Auroras can make spectacular sights. Photographed above last weekend, flowing multi-colored auroras helped illuminate a busy sky above Troms�, Norway. Besides the spectacular aurora pictured above, the photographer caught three satellites streaks, one airplane streak, and a friend trying to capture the same sight. Although auroras might first appear to be moonlit clouds, they only add light to the sky and do not block background stars from view. Called northern lights in the northern hemisphere, auroras are caused by collisions between charged particles from the magnetosphere and air molecules high in the Earth's atmosphere. If viewed from space, auroras can be seen to glow in X-ray and ultraviolet light as well. Predictable auroras might occur a few days after a powerful magnetic event has been seen on the Sun.",
   "date": "2010-09-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1009/aurora_salomonsen_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ole Christian Salomonsen Explanation",
-    "Ole Christian Salomonsen"
-  ],
+  "copyright": "Ole Christian Salomonsen",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1009/aurora_salomonsen.jpg"
 }

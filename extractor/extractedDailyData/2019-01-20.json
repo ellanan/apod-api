@@ -1,13 +1,9 @@
 {
   "title": "A Total Lunar Eclipse Video",
-  "credit": [],
   "explanation": "Tonight a bright full Moon will fade to red. Tonight's moon will be particularly bright because it is reaching its fully lit phase when it is relatively close to the Earth in its elliptical orbit. In fact, by some measures of size and brightness, tonight's full Moon is designated a supermoon, although perhaps the \"super\" is overstated because it will be only a few percent larger and brighter than the average full Moon. However, our Moon will fade to a dim red because it will also undergo a total lunar eclipse -- an episode when the Moon becomes completely engulfed in Earth's shadow. The faint red color results from blue sunlight being more strongly scattered away by the Earth's atmosphere. A January full moon, like the one visible tonight, is referred to as a Wolf Moon in some cultures. Tonight's supermoon total eclipse will last over an hour and be best visible from North and South America after sunset. The featured time-lapse video shows the last total lunar eclipse -- which occurred in 2018 July. The next total lunar eclipse will occur only in 2021 May.",
   "date": "2019-01-20",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jun Ho Oh (KAIST, HuboLab), Kwon O Chul (TWAN), Jeong ByoungJun (RainbowAstro) Explanation",
-    "Jun Ho Oh (KAIST, HuboLab), Kwon O Chul (TWAN), Jeong ByoungJun (RainbowAstro)"
-  ],
+  "copyright": "Jun Ho Oh (KAIST, HuboLab), Kwon O Chul (TWAN), Jeong ByoungJun (RainbowAstro)",
   "media_type": "video",
   "url": "https://player.vimeo.com/video/284290238?portrait=0"
 }

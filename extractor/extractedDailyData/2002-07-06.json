@@ -1,14 +1,10 @@
 {
   "title": "Io: Moon Over Jupiter",
-  "credit": [
-    "Credit: Cassini Imaging Team, Cassini Project, NASA Explanation",
-    "Cassini Imaging Team, Cassini Project, NASA"
-  ],
+  "credit": "Cassini Imaging Team, Cassini Project, NASA",
   "explanation": "How big is the Jovian moon Io? The most volcanic body in the Solar System, Io (usually pronounced \"EYE-oh\") is 3,600 kilometers in diameter, about the size of planet Earth's single large natural satellite. Gliding past Jupiter at the turn of the millennium, the Cassini spacecraft captured this awe inspiring view of active Io with the largest gas giant as a backdrop, offering a stunning demonstration of the ruling planet's relative size. Although in the picture Io appears to be located just in front of the swirling Jovian clouds, Io hurtles around its orbit once every 42 hours at a distance of 420,000 kilometers or so from the center of Jupiter. That puts it nearly 350,000 kilometers above Jupiter's cloud tops, roughly equivalent to the distance between Earth and Moon. The Cassini spacecraft itself was about 10 million kilometers from Jupiter when recording the image data.",
   "date": "2002-07-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0207/iojup_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0207/iojup_cassini.jpg"
 }

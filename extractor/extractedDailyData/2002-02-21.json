@@ -1,14 +1,10 @@
 {
   "title": "Comet Ikeya-Zhang",
-  "credit": [],
   "explanation": "Comet Ikeya-Zhang is presently heading north in planet Earth's sky, framed by stars of the constellation Cetus. The comet was discovered as a faint, telescopic object near the western horizon on the evening of February 1st independently by Kaoru Ikeya of Shizuoka prefecture, Japan, Daqing Zhang in Henan province, China, and later by observer Paulo Raymundo of Salvador, Brazil. But Ikeya-Zhang is expected to brighten significantly and in March and April could become visible to the unaided eye. This picture, taken near Tucson, Arizona, USA on the evening of February 9th, covers a field a bit less than the width of the full moon showing the comet's condensed coma and narrow, developing tail. Ikeya-Zhang should pass closest to the Sun (perihelion) on March 18 at a point roughly midway between the orbits of Mercury and Venus. Based on preliminary calculations of this comet's orbit, Ikeya-Zhang is suspected of being a periodic comet, returning to the inner Solar System every 500 years or so. In fact, it is speculated that Ikeya-Zhang may be directly connected with a historic bright comet seen in 1532.",
   "date": "2002-02-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0202/ikeyazhang_cooper_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Andrew Cooper Explanation",
-    "Andrew Cooper"
-  ],
+  "copyright": "Andrew Cooper",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0202/ikeyazhang_cooper.jpg"
 }

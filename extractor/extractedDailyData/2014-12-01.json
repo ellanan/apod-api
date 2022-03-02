@@ -1,14 +1,10 @@
 {
   "title": "Stars and Dust Pillars in NGC 7822 from WISE",
-  "credit": [
-    "Credit: WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci Explanation",
-    "WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci"
-  ],
+  "credit": "WISE, IRSA, NASA; Processing & Copyright : Francesco Antonucci",
   "explanation": "Hot, young stars and cosmic pillars of gas and dust seem to crowd into NGC 7822. At the edge of a giant molecular cloud toward the northern constellation Cepheus, this glowing star forming region lies about 3,000 light-years away. Within the nebula, bright edges and complex dust sculptures dominate this detailed skyscape taken in infrared light by NASA's Wide Field Infrared Survey Explorer (WISE) satellite. The atomic emission by the cluster's gas is powered by energetic radiation from the hot stars, whose powerful winds and light also sculpt and erode the denser pillar shapes. Stars could still be forming inside the pillars by gravitational collapse, but as the pillars are eroded away, any forming stars will ultimately be cut off from their reservoir of star stuff. This field spans around 40 light-years at the estimated distance of NGC 7822.",
   "date": "2014-12-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1412/ngc7822_WISEantonucci_1824c.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1412/ngc7822_WISEantonucci_1080c.jpg"
 }

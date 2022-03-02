@@ -1,14 +1,10 @@
 {
   "title": "Hale-Bopp: The Crowd Pleaser Comet",
-  "credit": [],
   "explanation": "In 1997, the bright comet Hale-Bopp may have become the most viewed comet in history -- visible even to casual skywatchers in light polluted cities around the globe. In this picture, taken by photographer Joe Orman on the evening of May 8, 1997, Hale-Bopp easily competes with near twilight skies and a shining, over-exposed, crescent moon above Mobile, Arizona, USA. Where is Hale-Bopp now? Still visible to telescopic observers in the Southern Hemisphere, the comet is outbound, presently about 537 million miles from the Sun. (Jupiter orbits at about 480 million miles.) The long lead time provided by the early discovery of Hale-Bopp has allowed extensive observing campaigns producing a bonanza of information about this primordial chunk of our Solar System.",
   "date": "1998-07-09",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/hale-bopp_orman_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: J. Orman Explanation",
-    "J. Orman"
-  ],
+  "copyright": "J. Orman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/hale-bopp_orman.jpg"
 }

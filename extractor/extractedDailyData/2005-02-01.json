@@ -1,14 +1,10 @@
 {
   "title": "Saturn's Iapetus: Moon with a Strange Surface",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What has happened to Saturn's moon Iapetus? A strange ridge crosses the moon near the equator, visible near the bottom of the above image, making Iapetus appear similar to the pit of a peach. Half of Iapetus is so dark that it can nearly disappear when viewed from Earth. Recent observations show that the degree of darkness of the terrain is strangely uniform, like a dark coating was somehow recently applied to an ancient and highly cratered surface. The other half of Iapetus is relatively bright but oddly covered with long and thin streaks of dark. A 400-kilometer wide impact basin is visible near the image center, delineated by deep scarps that drop sharply to the crater floor. The above image was taken by the Saturn-orbiting Cassini spacecraft during a flyby of Iapetus at the end of last year.",
   "date": "2005-02-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0502/iapetus_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0502/iapetus_cassini.jpg"
 }

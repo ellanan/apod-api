@@ -1,14 +1,10 @@
 {
   "title": "All-Sky Panorama",
-  "credit": [],
   "explanation": "This quite stunning panorama of the entire sky is a mosaic of 51 wide-angle photographs. Made over a three year period from locations in California (USA), South Africa, and Germany, the individual pictures were digitized and stitched together to create an apparently seamless 360 by 180 degree view. Using a mathematical prescription like one often used to map the whole Earth's surface onto a single flat image, the complete digital mosaic was distorted and projected onto an oval shape. The image is oriented so the plane of our Milky Way Galaxy runs horizontally through the middle with the Galactic center at image center and Galactic north at the top. Most striking are the \"milky\" bands of starlight from the multitude of stars in the galactic plane cut by the dark, obscuring dust clouds strewn through the local spiral arms. In fact, almost everything visible here is within our own Milky Way Galaxy. Two fuzzy patches in the lower right quadrant of the mosaic do correspond to external galaxies, though. Known as the Magellanic Clouds, these are small, nearby satellite galaxies of the magnificent Milky Way.",
   "date": "2001-02-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0102/allsky_mellinger_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Axel Mellinger Explanation",
-    "Axel Mellinger"
-  ],
+  "copyright": "Axel Mellinger",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0102/allsky_mellinger_c2.jpg"
 }

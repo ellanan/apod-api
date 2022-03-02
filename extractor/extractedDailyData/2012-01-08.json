@@ -1,14 +1,10 @@
 {
   "title": "Lighthouse and Meteor",
-  "credit": [],
   "explanation": "Named for a forgotten constellation, the Quadrantid Meteor Shower is an annual event for planet Earth's northern hemisphere skygazers. It usually peaks briefly in the cold, early morning hours of January 4. The shower's radiant point on the sky lies within the old, astronomically obsolete constellation Quadrans Muralis. That position is situated near the boundaries of the modern constellations Hercules, Bootes, and Draco. Many of this year's Quadrantid meteors were dim, but the one captured in this north-looking view is bright and easy to spot. In the foreground is the Maurice River's East Point Lighthouse located near the southern tip of New Jersey on the US east coast. The likely source of the dust stream that produces Quadrantid meteors was identified in 2003 as an asteroid.",
   "date": "2012-01-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1201/LighthouseMeteor_fusco.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jack Fusco Explanation",
-    "Jack Fusco"
-  ],
+  "copyright": "Jack Fusco",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1201/LighthouseMeteor_fusco900.jpg"
 }

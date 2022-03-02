@@ -1,14 +1,10 @@
 {
   "title": "NGC 1850: Not Found in the Milky Way",
-  "credit": [
-    "Credit: M. Romaniello (ESO) et al., ESA, NASA Explanation",
-    "M. Romaniello (ESO) et al., ESA, NASA"
-  ],
+  "credit": "M. Romaniello (ESO) et al., ESA, NASA",
   "explanation": "A mere 168,000 light-years distant, this large, lovely cluster of stars, NGC 1850, is located near the outskirts of the central bar structure in our neighboring galaxy, the Large Magellanic Cloud. A first glance at this Hubble Space Telescope composite image suggests that this cluster's size and shape are reminiscent of the ancient globular star clusters which roam our own Milky Way Galaxy's halo. But NGC 1850's stars are young ... making it a type of star cluster with no known counterpart in the Milky Way. NGC 1850 is also a double star cluster, with a second, compact cluster of stars visible here below and to the right of the large cluster's central region. Stars in the large cluster are estimated to be 50 million years young, while stars in the compact cluster are younger still, with an age of about 4 million years. In fact, the smaller cluster contains T-Tauri stars, thought to be low mass, solar-type stars still in the process of formation. The glowing nebula at the left, like the supernova remnants in our own galaxy, testifies to violent stellar explosions, indicating short-lived massive stars were also present in NGC 1850.",
   "date": "2001-07-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0107/ngc1850_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0107/ngc1850_hst.jpg"
 }

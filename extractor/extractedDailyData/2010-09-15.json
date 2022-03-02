@@ -1,14 +1,10 @@
 {
   "title": "Clouds, Birds, Moon, Venus",
-  "credit": [],
   "explanation": "Sometimes the sky above can become quite a show. Last week, for example, the Moon and Venus converged, creating quite a sight by itself for sky enthusiasts around the globe. From some locations, though, the sky was even more picturesque. In the above image taken last week from Spain, a crescent Moon and the planet Venus, on the far right, were captured during sunset posing against a deep blue sky. In the foreground, dark storm clouds loom across the image bottom, while a white anvil cloud shape appears above. Black specks dot the frame, caused by a flock of birds taking flight. Very soon after this picture was taken, however, the birds passed by, the storm ended, and Venus and the Moon set. The Moon and Venus have now separated, although Venus will remain visible at sunset for the rest of this month.",
   "date": "2010-09-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1009/venusmoon_pascual_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Isaac Guti�rrez Pascual (Spain) Explanation",
-    "Isaac Guti�rrez Pascual (Spain)"
-  ],
+  "copyright": "Isaac Guti�rrez Pascual (Spain)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1009/venusmoon_pascual.jpg"
 }

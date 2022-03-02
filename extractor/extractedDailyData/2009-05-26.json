@@ -1,14 +1,10 @@
 {
   "title": "Whirlpool Galaxy Deep Field",
-  "credit": [],
   "explanation": "Follow the handle of the Big Dipper away from the dipper's bowl, until you get to the handle's last bright star. Then, just slide your telescope a little south and west and you might find this stunning pair of interacting galaxies, the 51st entry in Charles Messier's famous catalog. Perhaps the original spiral nebula, the large galaxy with well defined spiral structure is also cataloged as NGC 5194. Its spiral arms and dust lanes clearly sweep in front of its companion galaxy (left), NGC 5195. The pair are about 31 million light-years distant and officially lie within the angular boundaries of the small constellation Canes Venatici. Though M51 looks faint and fuzzy to the human eye, the above long-exposure, deep-field image taken last month shows much of the faint complexity that actually surrounds the smaller galaxy.",
   "date": "2009-05-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0905/m51deep_christensen_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jon Christensen Explanation",
-    "Jon Christensen"
-  ],
+  "copyright": "Jon Christensen",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0905/m51deep_christensen.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "At the Edge of Victoria Crater",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, Cornell, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, Cornell, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, Cornell, JPL, NASA",
   "explanation": "We're going in. The robotic Opportunity rover currently rolling across Mars has been prowling around the edge of the largest crater it has visited since landing over three years ago. It has been studying Victoria crater and looking for a way in. Now scientists on Earth have decided to take a calculated risk and plan to send Opportunity right into this ancient Martian crater over the next few weeks. Pictured is Cape St. Vincent, part of the wall of Victoria Crater next to where Opportunity will descend. The wall itself appears to contain clues about the Martian terrain before the impact that created Victoria crater, and so will be studied during the daring descent. Above the crater wall, far in the distance, lies a relatively featureless Martian horizon.",
   "date": "2007-07-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0707/victoria2_opportunity_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0707/victoria2_opportunity.jpg"
 }

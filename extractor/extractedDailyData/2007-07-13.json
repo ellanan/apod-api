@@ -1,14 +1,10 @@
 {
   "title": "Manhattanhenge: A New York Sunset",
-  "credit": [],
   "explanation": "Today, if it is clear, well placed New Yorkers can go outside at sunset and watch their city act like a modern version of Stonehenge. Manhattan will flood dramatically with sunlight just as the Sun sets precisely on the centreline of every street. Usually, the tall buildings that line the gridded streets of New York City's tallest borough will hide the setting Sun. This effect makes Manhattan a type of modern Stonehenge, although only aligned to about 30 degrees east of north. Were Manhattan's road grid perfectly aligned to east and west, today's effect would occur on the Vernal and Autumnal Equinox, March 21 and September 21, the only two days that the Sun rises and sets due east and west. Pictured above in this horizontally stretched image, the Sun sets down 34th Street as viewed from Park Avenue. If today's sunset is hidden by clouds do not despair -- the same thing happens twice each year, in late May and mid July. On none of these occasions, however, should you ever look directly at the Sun.",
   "date": "2007-07-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0707/nycsunset_tyson_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Neil deGrasse Tyson (AMNH) Explanation",
-    "Neil deGrasse Tyson (AMNH)"
-  ],
+  "copyright": "Neil deGrasse Tyson (AMNH)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0707/nycsunset_tyson.jpg"
 }

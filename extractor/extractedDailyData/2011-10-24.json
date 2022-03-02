@@ -1,14 +1,10 @@
 {
   "title": "HH-222: The Waterfall Nebula",
-  "credit": [
-    "Credit: Z. Levay (STScI/AURA/NASA), T.A. Rector (U. Alaska Anchorage) & H. Schweiker (NOAO/AURA/NSF), KPNO, NOAO Explanation",
-    "Z. Levay (STScI/AURA/NASA), T.A. Rector (U. Alaska Anchorage) & H. Schweiker (NOAO/AURA/NSF), KPNO, NOAO"
-  ],
+  "credit": "Z. Levay (STScI/AURA/NASA), T.A. Rector (U. Alaska Anchorage) & H. Schweiker (NOAO/AURA/NSF), KPNO, NOAO",
   "explanation": "What created the Waterfall Nebula? No one knows. The structure seen in the region of NGC 1999 in the Great Orion Molecular Cloud complex is one of the more mysterious structures yet found on the sky. Designated HH-222, the elongated gaseous stream stretches about ten light years and emits an unusual array of colors. One hypothesis is that the gas filament results from the wind from a young star impacting a nearby molecular cloud. That would not explain, however, why the Waterfall and fainter streams all appear to converge on a bright but unusual non thermal radio source located toward the upper left of the curving structure. Another hypothesis is that the unusual radio source originates from a binary system containing a hot white dwarf, neutron star, or black hole, and that the Waterfall is just a jet from this energetic system. Such systems, though, are typically strong X-rays emitters, and no X-rays have been detected. For now, this case remains unsolved. Perhaps well-chosen future observations and clever deductive reasoning will unlock the true origin of this enigmatic wisp in the future.",
   "date": "2011-10-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1110/waterfall2_kpno_900.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1110/waterfall2_kpno_900.jpg"
 }

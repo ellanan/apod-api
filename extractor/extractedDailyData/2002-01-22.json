@@ -1,14 +1,10 @@
 {
   "title": "Neutron Bounce Quantized in Earth Gravity",
-  "credit": [
-    "Credit: Mark Bowick (U. Syracuse) et al., NPAC Explanation",
-    "Mark Bowick (U. Syracuse) et al., NPAC"
-  ],
+  "credit": "Mark Bowick (U. Syracuse) et al., NPAC",
   "explanation": "For the first time, Earth's gravity has been used to isolate quantum energy levels of the neutron. The effect may be used in the future to test for slightly different effects of gravity on neutrally charged particles of different mass. In an experiment by Valery Nesvizhevsky and colleagues at the Laue-Langevin Institute, carefully dropped neutrons were seen to appear at only discrete heights. The effect is also of interest because it involves the intersection of two branches of physics that remain formally separate. A theory known as Quantum Mechanics tells us about how the universe works on the smallest scales, while Einstein's General Theory of Relativity tells us about how gravity and the universe works on the largest scales. The effect does not in itself, however, imply attributes of a possible quantum field nature of gravity. Pictured above is a false-color surface that might be created by the evolution of a one-dimensional string. By describing fundamental particles as tiny strings, many physicists are working toward the creation of a truly quantum theory of gravity.",
   "date": "2002-01-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0201/quantumgravity_npac_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0201/quantumgravity_npac.jpg"
 }

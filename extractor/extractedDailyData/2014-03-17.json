@@ -1,14 +1,10 @@
 {
   "title": "Warped Sky: Star Trails over Arches National Park",
-  "credit": [],
   "explanation": "What's happened to the sky? A time warp, of sorts, and a digital space warp too. The time warp occurs because this image captured in a single frame a two and a half hour exposure of the night sky. As a result, prominent star trails are visible. The space warp occurs because the picture is actually a full 360 degree panorama, horizontally compressed to fit your browser. As the Earth rotated, stars appeared to circle both the North Celestial Pole, on the left, and the South Celestial Pole, just below the horizon on the right. The above panorama over Arches National Park in Utah, USA, was captured two weeks ago during early morning hours. While the eye-catching texture of ancient layered sandstone covers the image foreground, twenty-meter tall Delicate Arch is visible on the far right, and the distant arch of our Milky Way Galaxy is visible near the image center.",
   "date": "2014-03-17",
   "hdurl": "https://apod.nasa.gov/apod/image/1403/archtrails_brady_2000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Vincent Brady Explanation",
-    "Vincent Brady"
-  ],
+  "copyright": "Vincent Brady",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1403/archtrails_brady_960.jpg"
 }

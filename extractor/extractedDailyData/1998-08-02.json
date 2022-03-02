@@ -1,14 +1,10 @@
 {
   "title": "Galaxy Dwingeloo 1 Emerges",
-  "credit": [
-    "Credit: G. S. Hughes, & S. Maddox (RGO) et al., Isaac Newton Telescope Explanation",
-    "G. S. Hughes, & S. Maddox (RGO) et al., Isaac Newton Telescope"
-  ],
+  "credit": "G. S. Hughes, & S. Maddox (RGO) et al., Isaac Newton Telescope",
   "explanation": "Sometimes you can't see the forest for the trees. But if you look closely at the center of the above photograph, you will see a whole spiral galaxy behind the field of stars. Named Dwingeloo 1, this nearby galaxy was only discovered recently (1994) because much of its light was obscured by dust, gas and bright stars of our own Milky Way Galaxy. In fact, all the individually discernible stars in the above photograph are in our Galaxy. Dwingeloo 1 turned out to be a large galaxy located only five times as distant as the closest major galaxy - M31.",
   "date": "1998-08-02",
   "hdurl": "https://apod.nasa.gov/apod/image/9703/dwingeloo1_int_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9703/dwingeloo1_int.gif"
 }

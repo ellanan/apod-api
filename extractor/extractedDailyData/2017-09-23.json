@@ -1,14 +1,10 @@
 {
   "title": "A Conjunction of Comets",
-  "credit": [],
   "explanation": "A conjunction of comets is captured in this pretty star field from the morning of September 17. Discovered in July by a robotic sky survey searching for supernovae, comet C/2017 O1 ASASSN is at the lower left. The visible greenish glow of its coma is produced by the fluorescence of diatomic carbon molecules in sunlight. Nearing its closest approach to the Sun, the binocular comet was only about 7.2 light-minutes from Earth. In the same telescopic field of view is the long-tailed, outbound comet C/2015 ER61 PanSTARRS at the upper right, almost 14 light-minutes away. Many light-years distant, the starry background includes faint, dusty nebulae of the Milky Way. The well-known Pleiades star cluster lies just off the top right of the frame.",
   "date": "2017-09-23",
   "hdurl": "https://apod.nasa.gov/apod/image/1709/2017O1&2015ER61_170917_2400_clean.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jose J. Chambo (Cometografia) Explanation",
-    "Jose J. Chambo (Cometografia)"
-  ],
+  "copyright": "Jose J. Chambo (Cometografia)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1709/2017O1&2015ER61_170917_1024_clean.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Lunar Eclipse Mosaic",
-  "credit": [],
   "explanation": "From start to finish, this impressive digital mosaic covers May 4th's total eclipse of the Moon. Astronomer Anthony Ayiomamitis reports that the eclipse viewing was wonderful from Greece, where skies cleared shortly before the celestial show began. His mosaic includes images, recorded at five minute intervals and arranged sequentially in an arc, that trace the progress of the inner portion of the Earth's shadow or umbra across the lunar disk. A series depicting a surprisingly dark, totally eclipsed Moon is featured in the center. While May 4th's total lunar eclipse favored observers in Europe, Africa, and Asia, the Moon's next trip through Earth's shadow, scheduled for October 28, will give skygazers in the Americas a turn.",
   "date": "2004-05-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0405/tle_may2004_ayiomamitis.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anthony Ayiomamitis Explanation",
-    "Anthony Ayiomamitis"
-  ],
+  "copyright": "Anthony Ayiomamitis",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0405/tle_may2004_ayiomamitis.jpg"
 }

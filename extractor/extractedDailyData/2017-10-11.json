@@ -1,14 +1,10 @@
 {
   "title": "Star Cluster NGC 362 from Hubble",
-  "credit": [
-    "Credit: Hubble WFC3, NASA, ESA, J. Heyl, I. Caiazzo, & Javiera Parada (UBC) Explanation",
-    "Hubble WFC3, NASA, ESA, J. Heyl, I. Caiazzo, & Javiera Parada (UBC)"
-  ],
+  "credit": "Hubble WFC3, NASA, ESA, J. Heyl, I. Caiazzo, & Javiera Parada (UBC)",
   "explanation": "If our Sun were near the center of NGC 362, the night sky would glow like a jewel box of bright stars. Hundreds of stars would glow brighter than Sirius, and in many different colors. Although these stars could become part of breathtaking constellations and intricate folklore, it would be difficult for planetary inhabitants there to see -- and hence understand -- the greater universe beyond. NGC 362 is one of only about 170 globular clusters of stars that exist in our Milky Way Galaxy. This star cluster is one of the younger globulars, forming likely well after our Galaxy. NGC 362 can be found with the unaided eye nearly in front of the Small Magellanic Cloud, and angularly close to the second brightest globular cluster known, 47 Tucanae. The featured image was taken with the Hubble Space Telescope to help better understand how massive stars end up near the center of some globular clusters.",
   "date": "2017-10-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1710/ngc362_HubbleHeyl_3617.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1710/ngc362_HubbleHeyl_1080.jpg"
 }

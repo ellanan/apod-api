@@ -1,14 +1,10 @@
 {
   "title": "Nebulae in the Northern Cross",
-  "credit": [],
   "explanation": "Explore a beautiful and complex region of nebulae strewn along the plane of our Milky Way Galaxy in this widefield skyscape. The image emphasizes cosmic gas clouds in a 25 by 25 degree view centered on the Northern Cross, the famous asterism in the constellation Cygnus. Bright, hot, supergiant star Deneb at the top of the cross, Sadr near the center, and beautiful Albireo run diagonally through the scene. Popular telescopic tour destinations such as the North America and Pelican emission regions, the Butterfly Nebula (IC 1318), and the Crescent and Veil nebulae can be identified by placing your cursor over the image. Silhouetted by the glowing interstellar clouds and crowded star fields, the dark Northern Coal Sack also stands out, part of a series of obscuring dust clouds forming the Great Rift in the Milky Way. These Northern Cross nebulosities are all located about 2,000 light-years away. Along with the Sun, they lie within the Orion spiral arm of our galaxy.",
   "date": "2010-11-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1011/cygnusNeb_geissinger1200.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rolf Geissinger Explanation",
-    "Rolf Geissinger"
-  ],
+  "copyright": "Rolf Geissinger",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1011/cygnusNeb_geissinger800.jpg"
 }

@@ -1,17 +1,11 @@
 {
   "title": "The Large Cloud of Magellan (LMC)",
-  "credit": [
-    "Credit: Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board Explanation",
-    "Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board"
-  ],
+  "credit": "Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board",
   "explanation": "Magellan and his crew had plenty of time to study the southern sky during their famous voyage around the world. As a result, two fuzzy cloud like objects in the southern sky are now known as the Clouds of Magellan. These star clouds are small irregular galaxies, satellites of our larger Milky Way spiral galaxy. The Large Magellanic Cloud (LMC) pictured above is only about 180,000 light-years distant - the only known galaxy closer is the Sagittarius Dwarf. Both the LMC and the Small Magellanic Clouds (SMC) are joined to the Milky Way by a stream of cold hydrogen gas whose origin is still controversial. An unusual effect called gravitational lensing has recently been detected in a few LMC stars, and there is hope this could tell us important information about the true composition of our universe.",
   "date": "1996-10-23",
   "hdurl": "https://apod.nasa.gov/apod/image/lmc_uks.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anglo-Australian Telescope Board Explanation",
-    "Anglo-Australian Telescope Board"
-  ],
+  "copyright": "Anglo-Australian Telescope Board",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/lmc_uks_big.gif"
 }

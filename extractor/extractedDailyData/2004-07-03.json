@@ -1,14 +1,10 @@
 {
   "title": "Cassini To Venus",
-  "credit": [
-    "Credit: KSC, NASA Explanation",
-    "KSC, NASA"
-  ],
+  "credit": "KSC, NASA",
   "explanation": "Saturn Orbiter Cassini with Titan Probe Huygens attached rocketed into early morning skies on October 15, 1997. The mighty Titan 4B Centaur rocket is seen here across the water, arcing away from Launch Complex 40 at Cape Canaveral Air Station. Cassini, a sophisticated robot spacecraft was actually headed toward inner planet Venus, the first way point in its 7 year, 2.2 billion mile interplanetary journey to Saturn. In fact, Cassini swung by Venus during April 1998 and June 1999, Earth in August 1999, and Jupiter in December 2000. During each of these \"gravity assist\" encounters the six ton spacecraft picked up speed, reaching Saturn only three days ago. Cassini is now orbiting the ringed gas giant, with the Huygens Probe scheduled to separate from the spacecraft in December. The probe's descent to the surface of Saturn's large moon Titan will be the most distant landing ever attempted.",
   "date": "2004-07-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0407/cass_titan_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0407/cass_titan.jpg"
 }

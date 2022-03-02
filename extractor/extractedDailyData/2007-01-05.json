@@ -1,14 +1,10 @@
 {
   "title": "Comet McNaught Heads for the Sun",
-  "credit": [],
   "explanation": "Early morning risers with a clear and unobstructed eastern horizon can enjoy the sight of Comet McNaught (C/2006 P1) in dawn skies over the next few days. Discovered in August by R. H. McNaught (Siding Spring Survey) the comet has grown bright enough to see with the unaided eye but will soon be lost in the glare of the Sun. Still, by January 11 sun-staring spacecraft SOHO should be able to offer web-based views as the comet heads toward a perihelion passage inside the orbit of Mercury. This image captures the new naked-eye comet at about 2nd magnitude in twilight skies near sunset on January 3rd. After rounding the Sun and emerging from the solar glare later this month, Comet McNaught could be even brighter.",
   "date": "2007-01-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0701/c2006p1_rhemann_mid.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Jager and Gerald Rhemann Explanation",
-    "Michael Jager and Gerald Rhemann"
-  ],
+  "copyright": "Michael Jager and Gerald Rhemann",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0701/c2006p1_rhemann_mid720.jpg"
 }

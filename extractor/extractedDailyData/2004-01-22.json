@@ -1,14 +1,10 @@
 {
   "title": "Columbia Memorial Station",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, JPL, NASA",
   "explanation": "After leaving its nest, the Spirit rover turned to capture this spectacular view over the Columbia Memorial Station and the floor of Gusev crater on the 16th sol of its visit to Mars. The sharp picture looks toward the northeast. Over 2 meters wide, the lander platform surrounded by deflated airbags, and the egress ramp used by the rover to complete its journey to the martian surface, are in the foreground. In the background lie Spirit's likely future waypoints and destination - initially toward a ridge on the left bordering an impact crater about 200 meters across and finally toward the hills visible on the horizon at the right. The crater is about 250 meters away while the hills are about 3 kilometers distant. Searching for evidence of ancient watery environments, Spirit's scientific instruments have begun to return data on the composition of the surface in the lander's vicinity, suggesting that iron-bearing volcanic minerals are present.",
   "date": "2004-01-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0401/columbiastation_spirit_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0401/columbiastation_spirit_c3.jpg"
 }

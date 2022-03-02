@@ -1,14 +1,10 @@
 {
   "title": "Blasting Off from the Moon",
-  "credit": [
-    "Credit: Apollo 16, NASA Explanation",
-    "Apollo 16, NASA"
-  ],
+  "credit": "Apollo 16, NASA",
   "explanation": "How did the astronauts get back from the Moon? The Lunar Module that landed two astronauts on the Moon actually came apart. The top part containing the astronauts carried additional rocket fuel which allowed it to blast away, leaving the bottom part on the Moon forever. The top part would later meet up with the Command Module and its astronaut pilot, which were continually orbiting the Moon. All would then return to Earth together. The above picture was taken by a robot TV camera left on the Moon by the crew of Apollo 16. The frame above captures the top part of the Lunar Module just at it was blasting off.",
   "date": "1998-12-13",
   "hdurl": "https://apod.nasa.gov/apod/image/apollo16_blastoff_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/apollo16_blastoff.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Leonid Bolide Over Kansas",
-  "credit": [],
   "explanation": "",
   "date": "1998-11-25",
   "hdurl": "https://apod.nasa.gov/apod/image/9811/leonidbolide_vw.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: V. Winter & J. Dudley, ICSTARS Astronomy Explanation",
-    "V. Winter & J. Dudley, ICSTARS Astronomy"
-  ],
+  "copyright": "V. Winter & J. Dudley, ICSTARS Astronomy",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9811/leonidbolide_vw.jpg"
 }

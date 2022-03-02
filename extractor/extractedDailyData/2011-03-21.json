@@ -1,14 +1,10 @@
 {
   "title": "The CMB Cold Spot",
-  "credit": [
-    "Credit: WMAP Science Team, NASA Explanation",
-    "WMAP Science Team, NASA"
-  ],
+  "credit": "WMAP Science Team, NASA",
   "explanation": "How could part of the early universe be so cold? No one is sure, and many astronomers now think that the CMB Cold Spot on the cosmic microwave background (CMB) radiation is not particularly noteworthy. As the early universe expanded and cooled, it suddenly and predictably became transparent. The photons that come to us from that epoch are seen all around us as the CMB. Now this radiation field is quite uniform but does have slight warm and cool spots that tell us a great deal about the early universe that could have imprinted them. Except, possibly, one spot. This CMB Cold Spot, circled above on the WMAP 7-year all-sky map, has attracted attention as possibly being too large and too cold to be easily explained. Published speculation has included spectacular progenitor hypotheses that involve a supervoid, a cosmic texture, or even quantum entanglement with a parallel universe. Quite possibly, though, even a more mundane universe might be expected to show such a statistical peculiarity, and so explanations of the CMB Cold Spot like these might say more about human imagination than the early universe.",
   "date": "2011-03-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1103/cmb7_wmap_circle_2048.png",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1103/cmb7_wmap_circle_900.jpg"
 }

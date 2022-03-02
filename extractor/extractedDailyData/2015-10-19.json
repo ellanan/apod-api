@@ -1,14 +1,10 @@
 {
   "title": "The Southern Cross in a Southern Sky",
-  "credit": [],
   "explanation": "Have you ever seen the Southern Cross? This famous constellation is best seen from Earth's Southern Hemisphere. Captured from Rio de Janeiro, Brazil, the four bright stars that mark the Southern Cross are visible just above the horizon in the featured image. On the left of this constellation, also known as The Crux, is the orange star Gamma Crucis. The band of stars, dust, and gas rising through the middle of the image mosaic is part our Milky Way Galaxy. Just to the right of the Southern Cross is the dark Coal Sack Nebula, and the bright nebula at the top of the image is the Carina Nebula. The Southern Cross is such a famous constellation that it is depicted on the national flags of Australia and New Zealand.",
   "date": "2015-10-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1510/SouthernCrossSky_Fairbairn_1824.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Carlos Fairbairn Explanation",
-    "Carlos Fairbairn"
-  ],
+  "copyright": "Carlos Fairbairn",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1510/SouthernCrossSky_Fairbairn_960.jpg"
 }

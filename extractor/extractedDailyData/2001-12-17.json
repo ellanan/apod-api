@@ -1,14 +1,10 @@
 {
   "title": "Leaving the International Space Station",
-  "credit": [
-    "Credit: Rosaviakosmos, CNES, NASA Explanation",
-    "Rosaviakosmos, CNES, NASA"
-  ],
+  "credit": "Rosaviakosmos, CNES, NASA",
   "explanation": "It was time to go home. During their eight days aboard the Earth-orbiting International Space Station (ISS), ESA Flight Engineer Claudie Haigner, Russian Commander Victor Afanasyev, and Russian Flight Engineer Konstantin Kozeev had completed several experiments and successfully delivered a new lifeboat. The lifeboat was actually the new Soyuz capsule they arrived in -- they returned home in an older Soyuz capsule that had been left six months ago. Haigner, an expert in rheumatology and neuroscience, studied the development of frog embryos under microgravity conditions. Pictured above on October 31, their Soyuz spacecraft undocks from the ISS while dark space and a blue Earth hover in the background.",
   "date": "2001-12-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0112/leavingiss_nasa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0112/leavingiss_nasa.jpg"
 }

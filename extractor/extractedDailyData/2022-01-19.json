@@ -1,17 +1,11 @@
 {
   "title": "M31: The Andromeda Galaxy",
-  "credit": [
-    "Credit: Subaru (NAOJ), Hubble (NASA/ESA), Mayall (NSF); Processing & Copyright: R. Gendler & R. Croman Explanation",
-    "Subaru (NAOJ), Hubble (NASA/ESA), Mayall (NSF); Processing & Copyright: R. Gendler & R. Croman"
-  ],
+  "credit": "Subaru (NAOJ), Hubble (NASA/ESA), Mayall (NSF); Processing & Copyright: R. Gendler & R. Croman",
   "explanation": "The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy. Even at some two and a half million light-years distant, this immense spiral galaxy -- spanning over 200,000 light years -- is visible, although as a faint, nebulous cloud in the constellation Andromeda. In contrast, a bright yellow nucleus, dark winding dust lanes, and expansive spiral arms dotted with blue star clusters and red nebulae, are recorded in this stunning telescopic image which combines data from orbiting Hubble with ground-based images from Subaru and Mayall. In only about 5 billion years, the Andromeda galaxy may be even easier to see -- as it will likely span the entire night sky -- just before it merges with our Milky Way Galaxy.",
   "date": "2022-01-19",
   "hdurl": "https://apod.nasa.gov/apod/image/2201/M31_HstSubaruGendler_5000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: R. Gendler & R. Croman Explanation",
-    "R. Gendler & R. Croman"
-  ],
+  "copyright": "R. Gendler & R. Croman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2201/M31_HstSubaruGendler_960.jpg"
 }

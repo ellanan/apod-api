@@ -1,14 +1,10 @@
 {
   "title": "Night Sky Reflections from the World's Largest Mirror",
-  "credit": [],
   "explanation": "What's being reflected in the world's largest mirror? Stars, galaxies, and a planet. Many of these stars are confined to the grand arch that runs across the image, an arch that is the central plane of our home Milky Way Galaxy. Inside the arch is another galaxy -- the neighboring Large Magellanic Cloud (LMC). Stars that are individually visible include Antares on the far left and Sirius on the far right. The planet Jupiter shines brightly just below Antares. The featured picture is composed of 15 vertical frames taken consecutively over ten minutes from the Uyuni Salt Flat in Bolivia. Uyuni Salt Flat (Salar de Uyuni) is the largest salt flat on Earth and is so large and so extraordinarily flat that, after a rain, it can become the world's largest mirror -- spanning 130 kilometers. This expansive mirror was captured in early April reflecting each of the galaxies, stars, and planet mentioned above.",
   "date": "2019-10-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1910/MilkyWaySaltFlat_Huerta_2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jheison Huerta Explanation",
-    "Jheison Huerta"
-  ],
+  "copyright": "Jheison Huerta",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1910/MilkyWaySaltFlat_Huerta_960.jpg"
 }

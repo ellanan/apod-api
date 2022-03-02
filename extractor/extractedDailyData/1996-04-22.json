@@ -1,14 +1,10 @@
 {
   "title": "At the Edge of the Helix",
-  "credit": [
-    "Credit: R. O'Dell and K. Handron (Rice University), NASA Explanation",
-    "R. O'Dell and K. Handron (Rice University), NASA"
-  ],
+  "credit": "R. O'Dell and K. Handron (Rice University), NASA",
   "explanation": "",
   "date": "1996-04-22",
   "hdurl": "https://apod.nasa.gov/apod/image/helixF_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/helixF_hst.gif"
 }

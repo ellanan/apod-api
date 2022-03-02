@@ -1,14 +1,10 @@
 {
   "title": "The UV SMC from UIT",
-  "credit": [
-    "Credit: R.Cornett et al. (GSFC/LASP), UIT Team, NASA Explanation",
-    "R.Cornett et al. (GSFC/LASP), UIT Team, NASA"
-  ],
+  "credit": "R.Cornett et al. (GSFC/LASP), UIT Team, NASA",
   "explanation": "Translated from the \"acronese\" the title reads - The UltraViolet Small Magellanic Cloud from the Ultraviolet Imaging Telescope. FYI, the four ultraviolet images used in this mosaic of the nearby irregular galaxy known as the Small Magellanic Cloud were taken by the UIT instrument during the Astro-1 and Astro-2 shuttle missions in 1990 and 1995. Each separate image field is slightly wider than the apparent size of the full moon. These ultraviolet pictures, shown in false color, must be taken above the Earth's absorbing atmosphere. They highlight concentrations of hot, newly formed stars only a few millions of years old, and reveal the progress of recent star formation in the SMC.",
   "date": "2001-03-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0103/smc4_uit_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0103/smc4_uit.jpg"
 }

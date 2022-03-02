@@ -1,14 +1,10 @@
 {
   "title": "Symbiotic R Aquarii",
-  "credit": [
-    "Credit: Hubble, NASA, ESA; Processing & License: Judy Schmidt Explanation",
-    "Hubble, NASA, ESA; Processing & License: Judy Schmidt"
-  ],
+  "credit": "Hubble, NASA, ESA; Processing & License: Judy Schmidt",
   "explanation": "You can see it change in brightness with just binoculars over the course of a year. Variable star R Aquarii is actually an interacting binary star system, two stars that seem to have a close, symbiotic relationship. About 710 light years away, this intriguing system consists of a cool red giant star and hot, dense white dwarf star in mutual orbit around their common center of mass. The binary system's visible light is dominated by the red giant, itself a Mira-type long period variable star. But material in the cool giant star's extended envelope is pulled by gravity onto the surface of the smaller, denser white dwarf, eventually triggering a thermonuclear explosion and blasting material into space. The featured image from the Hubble Space Telescope shows the still-expanding ring of debris which spans less than a light year and originated from a blast that would have been seen in the early 1770s. The evolution of less understood energetic events producing high energy emission in the R Aquarii system has been monitored since 2000 using Chandra X-ray Observatory data.",
   "date": "2018-07-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1807/Raquarii_HubbleSchmidt_3116.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1807/Raquarii_HubbleSchmidt_1080.jpg"
 }

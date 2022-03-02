@@ -1,14 +1,10 @@
 {
   "title": "Space Walz",
-  "credit": [
-    "Credit: STS-51 Crew, NASA Explanation",
-    "STS-51 Crew, NASA"
-  ],
+  "credit": "STS-51 Crew, NASA",
   "explanation": "Astronaut Carl Walz waves at his colleagues from the aft end of the Space Shuttle Discovery's payload bay - during a 1993 spacewalk to evaluate tools, tethers, and a foot restraint slated for use in the first Hubble Space Telescope servicing mission. Today's successful launch of Discovery begins the second servicing mission to the Hubble. Discovery's crew will rendezvous with the orbiting telescope and capture it with the shuttle's manipulator arm. With Hubble in the payload bay the crew will conduct spacewalks to replace two existing instruments with new ones. To be installed are the Space Telescope Imaging Spectrograph and the Near Infrared Camera and Multi-Object Spectrometer. Other hardware will also be replaced and upgraded including the telescope's Fine Guidance Sensor. The improved instrumentation will extend the Hubble's ability to explore the distant Universe.",
   "date": "1997-02-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9702/walz_sts51_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9702/walz_sts51.jpg"
 }

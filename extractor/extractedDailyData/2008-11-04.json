@@ -1,14 +1,10 @@
 {
   "title": "The Double Ring Galaxies of Arp 147 from Hubble",
-  "credit": [
-    "Credit: M Livio et al. (STScI), ESA, NASA Explanation",
-    "M Livio et al. (STScI), ESA, NASA"
-  ],
+  "credit": "M Livio et al. (STScI), ESA, NASA",
   "explanation": "How could a galaxy become shaped like a ring? Even more strange: how could two? The rim of the blue galaxy pictured on the right shows an immense ring-like structure 30,000 light years in diameter composed of newly formed, extremely bright, massive stars. This blue galaxy is part of the interacting galaxy system known as Arp 147, and shows a ring because it has recently collided with the other galaxy in the frame, the red galaxy on the left. Unusually, even this red galaxy shows a ring like band, although it is seen nearly edge-on. When galaxies collide, they pass through each other -- their individual stars rarely come into contact. Clouds of interstellar gas and dust become condensed, causing a wave of star formation to move out from the impact point like a ripple across the surface of a pond. The above image was taken last week by NASA's Hubble Space Telescope to demonstrate the ability of its Wide Field Planetary Camera 2 after some recent technical difficulties.",
   "date": "2008-11-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/arp147_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/arp147_hst.jpg"
 }

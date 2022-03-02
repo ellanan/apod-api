@@ -1,14 +1,10 @@
 {
   "title": "Lyrids in Southern Skies",
-  "credit": [],
   "explanation": "Earth's annual Lyrid meteor shower peaked before dawn on April 22nd, as our fair planet plowed through dust from the tail of long-period comet Thatcher. Even in the dry and dark Atacama desert along Chile's Pacific coast, light from a last quarter Moon made the night sky bright, washing out fainter meteor streaks. But brighter Lyrid meteors still put on a show. Captured in this composited earth-and-sky view recorded during early morning hours, the meteors stream away from the shower's radiant near Vega, alpha star of the constellation Lyra. The radiant effect is due to perspective as the parallel meteor tracks appear to converge in the distance. Rich starfields and dust clouds of our own Milky Way galaxy stretch across the background.",
   "date": "2014-04-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1404/lyridsbeletsky_nolabels.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Yuri Beletsky (Las Campanas Observatory, Carnegie Institution) Explanation",
-    "Yuri Beletsky (Las Campanas Observatory, Carnegie Institution)"
-  ],
+  "copyright": "Yuri Beletsky (Las Campanas Observatory, Carnegie Institution)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1404/lyridsbeletsky_nolabels900h.jpg"
 }

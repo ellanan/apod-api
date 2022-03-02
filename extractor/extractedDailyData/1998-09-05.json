@@ -1,14 +1,10 @@
 {
   "title": "The Pulsar Powered Crab",
-  "credit": [
-    "Credit: J. Hester and P. Scowen (ASU), NASA Explanation",
-    "J. Hester and P. Scowen (ASU), NASA"
-  ],
+  "credit": "J. Hester and P. Scowen (ASU), NASA",
   "explanation": "In the Summer of 1054 A.D. Chinese astronomers reported that a star in the constellation of Taurus suddenly became as bright as the full Moon. Fading slowly, it remained visible for over a year. It is now understood that a spectacular supernova explosion - the detonation of a massive star whose remains are now visible as the Crab Nebula- was responsible for the apparition. The core of the star collapsed to form a rotating neutron star or pulsar, one of the most exotic objects known to 20th century astronomy. Like a cosmic lighthouse, the rotating Crab pulsar generates beams of radio, visible, x-ray and gamma-ray energy which, as the name suggests, produce pulses as they sweep across our view. Using a stunning series of visible light images taken with the Hubble Space Telescope (HST), astronomers have discovered spectacular pulsar powered motions within the Crab nebula. Highlights of this HST Crab \"movie\" show wisps of material moving away from the pulsar at half the speed of light, a scintillating halo, and an intense knot of emission dancing, sprite-like, above the pulsar's pole. Only 6 miles wide but more massive than the sun, the pulsar's energy drives the dynamics and emission of the nebula itself which is more than 10 lightyears across. In this HST image, the pulsar is the left most of the two bright central stars.",
   "date": "1998-09-05",
   "hdurl": "https://apod.nasa.gov/apod/image/9809/crab_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9809/crab_hst.jpg"
 }

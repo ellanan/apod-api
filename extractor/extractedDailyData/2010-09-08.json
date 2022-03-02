@@ -1,14 +1,10 @@
 {
   "title": "NGC 4911: Spiral Diving into a Dense Cluster",
-  "credit": [
-    "Credit: NASA, ESA, and the Hubble Heritage Team (STScI/AURA); Acknowledgment: K. Cook (LLNL) et al. Explanation",
-    "NASA, ESA, and the Hubble Heritage Team (STScI/AURA); Acknowledgment: K. Cook (LLNL) et al."
-  ],
+  "credit": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA); Acknowledgment: K. Cook (LLNL) et al.",
   "explanation": "Why are there faint rings around this spiral galaxy? Possibly because the galaxy, NGC 4911, is being pulled at by its neighbors as it falls into the enormous Coma Cluster of Galaxies. If NGC 4911 ends up like most of the galaxies in the central Coma cluster, it will become a yellowish elliptical galaxy, losing not only its outer layers, but dust, gas, and its cadre of surrounding satellite galaxies as well. Currently, however, this process is just beginning. Visible in the above deep image from the Hubble Space Telescope are NGC 4911's bright nucleus, distorted spiral arms laced with dark dust, clusters of recently formed stars, unusual faint outer rings, dwarf companion galaxies, and even faint globular clusters of stars. Far in the distance many unassociated galaxies from the early universe are visible, some even through NGC 4911 itself. The Coma Cluster contains over 1,000 galaxies making it among the most massive objects known. NGC 4911 can be found to the lower left of the great cluster's center.",
   "date": "2010-09-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1009/ngc4911_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1009/ngc4911_hst.jpg"
 }

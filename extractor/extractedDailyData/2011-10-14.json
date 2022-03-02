@@ -1,14 +1,10 @@
 {
   "title": "MAGIC Star Trails",
-  "credit": [],
   "explanation": "Colorful star trails arc across the night in this surreal timelapse skyscape from the Roque de los Muchachos Observatory on the Canary island of La Palma. A reflection of the Earth's daily rotation on its axis, the star trails are also reflected in one of a pair of 17 meter diameter, multi-mirrored MAGIC telescopes. The MAGIC (Major Atmospheric Gamma Imaging Cherenkov) telescope itself is intended to detect gamma rays - photons with over 100 billion times the energy of visible light. As the high energy gamma rays impact the upper atmosphere they produce air showers of high-energy particles. A fast camera monitoring the multi-mirrored surface records in detail brief flashes of optical light, called Cherenkov light, created by the air shower particles. Astronomers can then ultimately relate the optical flashes to cosmic sources of extreme gamma-rays.",
   "date": "2011-10-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1110/MagicTrails_tafreshi.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Babak Tafreshi (TWAN) Explanation",
-    "Babak Tafreshi (TWAN)"
-  ],
+  "copyright": "Babak Tafreshi (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1110/MagicTrails_tafreshi.jpg"
 }

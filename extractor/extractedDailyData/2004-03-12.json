@@ -1,14 +1,10 @@
 {
   "title": "X-Ray Saturn",
-  "credit": [
-    "Credit: J.Ness (Univ.Hamburg), et al., CXC, NASA Explanation",
-    "J.Ness (Univ.Hamburg), et al., CXC, NASA"
-  ],
+  "credit": "J.Ness (Univ.Hamburg), et al., CXC, NASA",
   "explanation": "Above, the ringed planet Saturn shines in x-rays. Otherwise beyond the range of human vision, the eerie x-ray view was created by overlaying a computer generated outline of the gas giant's disk and ring system on a false-color picture of smoothed, reconstructed x-ray data from the orbiting Chandra Observatory. The data represent the first clear detection of Saturn's disk at x-ray energies and held some surprises for researchers. For starters, the x-rays seem concentrated near the planet's equator rather than the poles, in marked contrast to observations of Jupiter, the only other gas giant seen at such high energies. And while Saturn's high energy emission is found to be consistent with the reflection of x-rays from the Sun, the intensity of the reflected x-rays was also found to be unusually strong. Outside the planet's disk, only a faint suggestion of x-rays from Saturn's magnificent ring system is visible at the left.",
   "date": "2004-03-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0403/xraySaturn_cxc_bck.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0403/xraySaturn_cxc_c1.jpg"
 }

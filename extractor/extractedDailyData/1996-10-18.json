@@ -1,14 +1,10 @@
 {
   "title": "Jupiter's Auroras",
-  "credit": [
-    "Credit: J. Clark (U. Mich.) et al., HST, NASA Explanation",
-    "J. Clark (U. Mich.) et al., HST, NASA"
-  ],
+  "credit": "J. Clark (U. Mich.) et al., HST, NASA",
   "explanation": "Auroras are especially large on Jupiter. In pictures released yesterday, the Hubble Space Telescope imaged these unusual light displays in more detail than ever before. Jupiter's auroras are linked to its volcanic moon Io. Io's volcanoes release particles, some of which become ionized, trapped by Jupiter's magnetic field, and rain down on the gas giant. The resulting auroral displays may be thousands of times brighter than any auroral display on Earth, and involve unusual spots. The above pictures show how the extended auroral emissions rotate with Jupiter, while the auroral spots stay synchronized to Io as it circles Jupiter.",
   "date": "1996-10-18",
   "hdurl": "https://apod.nasa.gov/apod/image/jupaurora_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/jupaurora_hst.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "GLAST Gamma-Ray Sky Simulation",
-  "credit": [
-    "Credit: S. Digel (Raytheon/ LHEA/ GSFC), NASA Explanation",
-    "S. Digel (Raytheon/ LHEA/ GSFC), NASA"
-  ],
+  "credit": "S. Digel (Raytheon/ LHEA/ GSFC), NASA",
   "explanation": "This simulated image models the intensities of gamma rays with over 40 million times the energy of visible light, and represents how the sky might appear to the proposed Gamma-ray Large Area Space Telescope (GLAST) after its first year in orbit. Familiar steady stars are absent from the dramatic 80x80 degree field which looks directly away from the center of the Galaxy. Instead, the Geminga and Crab pulsars - bizarre, spinning stellar corpses known to be neutron stars - are the two brightest gamma-ray sources. These and other bright objects in the field, dense pulsars, monstrous active galaxies, and still unknown sources, have been detected by the Energetic Gamma-Ray Experiment Telescope (EGRET) on the orbiting Compton Gamma-Ray Observatory. However, most of the simulated point sources are new - extrapolating current ideas and anticipating discoveries resulting from GLAST's improved gamma-ray vision. The central broad band of faint gamma-ray emission is due to high-energy cosmic rays colliding with interstellar gas in the outer spiral arms of the Milky Way, while below is a diffuse energetic glow from prominent molecular clouds in Monoceros, Orion, Auriga, and Taurus. Intended to explore the most extreme energy sources in the distant cosmos and planned for launch in 2005, the GLAST mission is under development by NASA and a collaboration of U. S. and international partners.",
   "date": "1998-11-12",
   "hdurl": "https://apod.nasa.gov/apod/image/9811/anticenter_glastsim_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9811/anticenter_glastsim.jpg"
 }

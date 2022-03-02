@@ -1,14 +1,10 @@
 {
   "title": "X-Ray Stars of 47 Tuc",
-  "credit": [
-    "Credit: C.Heinke (Northwestern U.) et al. CXC, NASA Explanation",
-    "C.Heinke (Northwestern U.) et al. CXC, NASA"
-  ],
+  "credit": "C.Heinke (Northwestern U.) et al. CXC, NASA",
   "explanation": "Visible light images show the central region of globular cluster 47 Tucanae is closely packed, with stars less than a tenth of a light-year apart. This Chandra false-color x-ray view of central 47 Tuc also shows the cluster is a popular neighborhood for x-ray stars, many of which are \"normal\" stars co-orbiting with extremely dense neutron stars -- stars with the mass of the Sun but the diameter of Manhattan Island. One of the most remarkable of these exotic binary systems is cataloged as 47 Tuc W, a bright source near the center of this image. The system consists of a low mass star and a a neutron star that spins once every 2.35 milliseconds. Such neutron stars are known to radio astronomers as millisecond pulsars, believed to be driven to such rapid rotation by material falling from the normal star onto its dense companion. In fact, x-ray observations of the 47 Tuc W system link this spin-up mechanism observed to operate in other x-ray binary stars with fast rotating millisecond pulsars.",
   "date": "2005-07-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0507/47tuc_chandra_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0507/47tuc_chandra_c.jpg"
 }

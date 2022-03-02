@@ -1,14 +1,10 @@
 {
   "title": "A Planet For Gliese 876",
-  "credit": [],
   "explanation": "Centered in this unremarkable, 1/4 degree wide patch of sky in the constellation Aquarius is the star Gliese 876. Gliese 876 is smaller than the Sun, only about 1/3 as massive, and too faint to be seen without a telescope. But it is known to be one of the nearest stars, only 15 light-years distant. Astronomers have just announced findings that imply Gliese 876 has a planet at least 1.6 times as massive as Jupiter - making this now one of the closest suspected planetary systems. Like many recent discoveries, this planet's detection is not based on direct imaging but on spectroscopic measurements of the periodic change in motion or \"Doppler wobble\" produced in the parent star as the planet orbits. The Doppler wobble of Gliese 876 indicates that its planet orbits once every 61 days at an average distance of about 1/5 the radius of the Earth's orbit.",
   "date": "1998-06-26",
   "hdurl": "https://apod.nasa.gov/apod/image/9806/gliese876_dss_1.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Digitized Sky Survey Explanation",
-    "Digitized Sky Survey"
-  ],
+  "copyright": "Digitized Sky Survey",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9806/gliese876_dss_1.jpg"
 }

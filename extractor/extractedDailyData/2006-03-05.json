@@ -1,14 +1,10 @@
 {
   "title": "Colorful Light Pillars",
-  "credit": [],
   "explanation": "How can an aurora appear so near the ground? Pictured above are not aurora but nearby light pillars, a local phenomenon that can appear as a distant one. In most places on Earth, a lucky viewer can see a Sun-pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere. Usually these ice ice crystals evaporate before reaching the ground. During freezing temperatures, however, flat fluttering ice crystals may form near the ground in a form of light snow, sometimes known as a crystal fog. These ice crystals may then reflect ground lights in columns not unlike a Sun-pillar. In the above picture, the colorful lights causing the light pillars surround a ice-skating rink in Fairbanks, Alaska.",
   "date": "2006-03-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0603/pillars_tape_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Walter Tape (Alaska Fairbanks), Figure 8-1, Atmospheric Halos Explanation",
-    "Walter Tape (Alaska Fairbanks), Figure 8-1, Atmospheric Halos"
-  ],
+  "copyright": "Walter Tape (Alaska Fairbanks), Figure 8-1, Atmospheric Halos",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0603/pillars_tape.jpg"
 }

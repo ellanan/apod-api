@@ -1,14 +1,10 @@
 {
   "title": "Three Kilometers Above Titan",
-  "credit": [
-    "Credit: ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL) Explanation",
-    "ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL)"
-  ],
+  "credit": "ESA, NASA, Descent Imager/Spectral Radiometer Team (LPL)",
   "explanation": "What did the Huygens probe see as it descended toward Saturn's Moon Titan? In January the robot Cassini spacecraft now orbiting Saturn released a probe through the dense cloud decks of one of the Solar System's most mysterious moons. Below the clouds, as it descended, the probe took images of the approaching surface as well as several images from the surface itself. Many of the images have now been digitally merged and scaled into the above perspective from 3,000 meters high. The above stereographic projection shows a 360-degree wide-angle view of the surface of Titan. The bright areas toward the top and left of the image are thought to be relatively high ground laced with drainage channels cut by rivers of methane. The bright shapes on the right are now hypothesized to be ridges of ice gravel. Huygen's landing site, labeled, appears to be on a type of dark dry lakebed, once fed by a large dark flow channel on the left. The Huygen's probe lasted an unexpectedly long three hours on Titan's harsh surface.",
   "date": "2005-05-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0505/titan_huygens_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0505/titan_huygens.jpg"
 }

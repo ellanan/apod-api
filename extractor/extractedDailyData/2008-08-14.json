@@ -1,14 +1,10 @@
 {
   "title": "Perseid Trail",
-  "credit": [],
   "explanation": "This bright and colorful meteor flashed through Tuesday's early morning skies, part of the annual Perseid Meteor Shower. The lovely image is one of over 350 frames captured on August 12 from the Joshua Tree National Park, in California, USA . Dust from comet Swift-Tuttle is responsible for the Perseids, creating the northern hemisphere's regular summer sky show. The comet dust is vaporized as it enters the atmosphere at upwards of 60 kilometers per second, producing visible trails that begin at altitudes of around 100 kilometers. Of course, the trails point back to a radiant point in the constellation Perseus, giving the meteor shower its name. Recorded after moonset, the starry background features the bright star Vega on the right. Extending below the western horizon is the faint band of the northern Milky Way.",
   "date": "2008-08-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0808/Perseid_pacholka_750wp.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Wally Pacholka (Astropics.com / TWAN) Explanation",
-    "Wally Pacholka (Astropics.com / TWAN)"
-  ],
+  "copyright": "Wally Pacholka (Astropics.com / TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0808/Perseid_pacholka_750wp.jpg"
 }

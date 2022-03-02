@@ -1,14 +1,10 @@
 {
   "title": "Reflection Nebula NGC 1435",
-  "credit": [],
   "explanation": "Reflection nebulae reflect light from a nearby star. Many small carbon grains in the nebula reflect the light. The blue color typical of reflection nebula is caused by blue light being more efficiently scattered by the carbon dust than red light. The brightness of the nebula is determined by the size and density of the reflecting grains, and by the color and brightness of the neighboring star(s). NGC 1435, pictured above, surrounds Merope (23 Tau), one of the brightest stars in the Pleiades (M45). The Pleiades nebulosity is caused by a chance encounter between an open cluster of stars and a molecular cloud. The unusual area on the far left, known as Bernard's Merope Nebula (IC 349), reflects visible light with unusually high efficiency.",
   "date": "1999-03-01",
   "hdurl": "https://apod.nasa.gov/apod/image/9903/ngc1435_kitahara_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Yuugi Kitahara Explanation",
-    "Yuugi Kitahara"
-  ],
+  "copyright": "Yuugi Kitahara",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9903/ngc1435_kitahara.jpg"
 }

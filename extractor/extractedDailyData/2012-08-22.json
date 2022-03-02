@@ -1,14 +1,10 @@
 {
   "title": "Clouds Near the Edge of Space",
-  "credit": [],
   "explanation": "Noctilucent or night-shining clouds lie near the edge of space. From about 80 kilometers above Earth's surface, the icy clouds can still reflect sunlight even though the Sun itself is below the horizon as seen from the ground. Usually occurring at high latitudes in summer months, the diaphanous apparitions are also known as polar mesospheric clouds and may be connected to global change in the lower atmosphere. This serene view features a lovely display of noctilucent clouds over water recorded last month near the coastal town of Vaxholm, Sweden. The picture was taken near local midnight.",
   "date": "2012-08-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1208/NLCWatersmall_pmheden.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P-M Hedén (Clear Skies, TWAN) Explanation",
-    "P-M Hedén (Clear Skies, TWAN)"
-  ],
+  "copyright": "P-M Hedén (Clear Skies, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1208/NLCWatersmall_pmheden900.jpg"
 }

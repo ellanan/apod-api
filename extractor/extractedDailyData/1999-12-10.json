@@ -1,14 +1,10 @@
 {
   "title": "Spot The Planet",
-  "credit": [],
   "explanation": "OK, it's a picture of the Sun (duh!), but can you spot the planet? Of course, most of the spots you've spotted are sunspots, as large or larger than planet Earth itself. The sunspots are regions of strong surface magnetic fields which are dark in this picture only because they are relatively cool compared to their surroundings. Over the past few years, the number of sunspots has been steadily increasing as the Sun approaches the maximum in its 11 year activity cycle. But also visible in this photograph from November 15, is planet Mercury. At just over 1/3 Earth's size, Mercury is passing in front of the Sun, its silhouette briefly creating a diminutive dark spot drifting across an enormous solar disk. While \"transits\" of Mercury do occur 13 times a century, this one was additionally a very rare grazing transit of our Solar System's innermost planet. Spotted Mercury yet? Click on the picture for a hint.",
   "date": "1999-12-10",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/991115_orman.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rick Scott and Joe Orman Explanation",
-    "Rick Scott and Joe Orman"
-  ],
+  "copyright": "Rick Scott and Joe Orman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/991115_scott.jpg"
 }

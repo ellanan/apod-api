@@ -1,14 +1,10 @@
 {
   "title": "A Mercury Transit Sequence",
-  "credit": [],
   "explanation": "This coming Monday, Mercury will cross the face of the Sun, as seen from Earth. Called a transit, the last time this happened was in 2006. Because the plane of Mercury's orbit is not exactly coincident with the plane of Earth's orbit, Mercury usually appears to pass over or under the Sun. The above time-lapse sequence, superimposed on a single frame, was taken from a balcony in Belgium shows the entire transit of 2003 May 7. The solar crossing lasted over five hours, so that the above 23 images were taken roughly 15 minutes apart. The north pole of the Sun, the Earth's orbit, and Mercury's orbit, although all different, all occur in directions slightly above the left of the image. Near the center and on the far right, sunspots are visible. After Monday, the next transit of Mercury will occur in 2019.",
   "date": "2016-05-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1605/MercuryTransit_Dierick_1500.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dominique Dierick Explanation",
-    "Dominique Dierick"
-  ],
+  "copyright": "Dominique Dierick",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1605/MercuryTransit_Dierick_960.jpg"
 }

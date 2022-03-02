@@ -1,14 +1,10 @@
 {
   "title": "Jupiter Swallows Comet Shoemaker Levy 9",
-  "credit": [
-    "Credit: H. Hammel (MIT), WFPC2, HST, NASA Explanation",
-    "H. Hammel (MIT), WFPC2, HST, NASA"
-  ],
+  "credit": "H. Hammel (MIT), WFPC2, HST, NASA",
   "explanation": "What happens when a comet encounters a planet? If the planet has a rocky surface, a huge impact feature will form. A giant planet like Jupiter, however, is mostly gas. When Comet Shoemaker-Levy 9 struck Jupiter in 1994, each piece was swallowed into the vast Jovian atmosphere. Pictured above is a time-lapse sequence of the result of two fragments striking Jupiter. As the comet plunged in, it created large dark marks that gradually faded. The high temperature of gas under Jupiter's cloud tops surely caused the comet fragment to melt before it plunged very far. Because Jupiter is much more massive than any comet, the orbit of Jupiter around the Sun did not change noticeably.",
   "date": "1998-08-04",
   "hdurl": "https://apod.nasa.gov/apod/image/9808/sl9gevol_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9808/sl9gevol_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Rainbow Perseid",
-  "credit": [],
   "explanation": "While meteors do show colors, the colors aren't always seen with the unaided eye. Still, high speed color film recorded this rainbow-like trail as a meteor streaked through the early morning sky on August 13 above Sedona, Arizona, USA. Part of the annual Perseid meteor shower, this bit of dust from the tail of Comet Swift-Tuttle entered Earth's atmosphere at over 200,000 kilometers per hour. The trail it left glowed briefly as friction with the atmosphere vaporized the dust grain and ionized atoms along its path. The initial green color is thought to be the glow from oxygen in the atmosphere at altitudes above 100 kilometers or so, while sodium atoms and other constituents of the cometary dust grain itself contribute to the orange hues.",
   "date": "2002-08-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0208/perseid_obudzinski1_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Dirk Obudzinski Explanation",
-    "Dirk Obudzinski"
-  ],
+  "copyright": "Dirk Obudzinski",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0208/perseid_obudzinski1.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Mercury's Surface in Exaggerated Color",
-  "credit": [
-    "Credit: NASA/JHU APL/CIW Explanation",
-    "NASA/JHU APL/CIW"
-  ],
+  "credit": "NASA/JHU APL/CIW",
   "explanation": "The robotic MESSENGER spacecraft recently completed over 100 orbits of Mercury. MESSENGER's cameras have recorded detailed pictures utilizing eight different colors across visible and near infrared light, exploring the surface composition and looking for clues to the history and evolution of the solar system's innermost planet. This sharp image combines three of the MESSENGER wide angle camera's colors, but in exaggerated fashion. Otherwise, to the unaided human eye, Mercury's surface colors would appear comparatively muted. The image is about 1,000 kilometers across and features as small as a single kilometer are discernible at the original resolution. Today, the MESSENGER project will release new images and science findings from the first spacecraft to orbit Mercury.",
   "date": "2011-06-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1106/mercurymulticolor_messenger_1137.png",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1106/mercurymulticolor_messenger_900.jpg"
 }

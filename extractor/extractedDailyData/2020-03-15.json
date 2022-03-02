@@ -1,14 +1,10 @@
 {
   "title": "The Snows of Churyumov-Gerasimenko",
-  "credit": [
-    "Credit: ESA, Rosetta, MPS, OSIRIS; UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA; Animation: Jacint Roger Perez Explanation",
-    "ESA, Rosetta, MPS, OSIRIS; UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA; Animation: Jacint Roger Perez"
-  ],
+  "credit": "ESA, Rosetta, MPS, OSIRIS; UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA; Animation: Jacint Roger Perez",
   "explanation": "You couldn't really be caught in this blizzard while standing by a cliff on Churyumov-Gerasimenko. Orbiting the comet -- frequently abbreviated as 67P or CG -- in June of 2016, the Rosetta spacecraft's narrow angle camera did record streaks of dust and ice particles -- similar to snow -- as they drifted across the field of view near the camera and above the comet's surface. Some of the bright specks in the scene, however, are likely due to a rain of energetic charged particles or cosmic rays hitting the camera, and the dense background of stars in the direction of the constellation of the Big Dog (Canis Major). In the featured video, these background stars are easy to spot trailing from top to bottom. The stunning movie was constructed from 33 consecutive images taken over 25 minutes while Rosetta cruised some 13 kilometers from the comet's nucleus.",
   "date": "2020-03-15",
   "hdurl": "https://apod.nasa.gov/apod/image/1804/RosettaOsirisC67P_JacintRoger.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/PpyPgJHKxSw?rel=0"
 }

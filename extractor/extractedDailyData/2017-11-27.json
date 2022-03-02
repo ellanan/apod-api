@@ -1,13 +1,9 @@
 {
   "title": "Hurricane Season Animated",
-  "credit": [
-    "Credit: M. R. Radcliff (USRA) et al., NASA's GSFC, SVS; Music: Elapsing Time by C. Telford & R. A. Navarro (ASCAP) Explanation",
-    "M. R. Radcliff (USRA) et al., NASA's GSFC, SVS; Music: Elapsing Time by C. Telford & R. A. Navarro (ASCAP)"
-  ],
+  "credit": "M. R. Radcliff (USRA) et al., NASA's GSFC, SVS; Music: Elapsing Time by C. Telford & R. A. Navarro (ASCAP)",
   "explanation": "Where do hurricanes go? To better understand dangerous storms, NASA compiled data from several satellites into a supercomputer simulation of this past year's hurricane season. Specifically, the featured video shows how smoke (white), sea salt (blue), and dust (brown) tracked from 2017 August through October across the northern half of Earth's Western Hemisphere. These aerosols usefully trace sometimes invisible winds. In the midst of the many mesmerizing flows, hurricanes can be seen swirling across the Atlantic Ocean on the right. Some of these hurricanes lashed islands and coastal regions in North America before dissipating in the northern Atlantic. Studying this year's weather patterns may bolster more accurate storm forecasts as soon as next year.",
   "date": "2017-11-27",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/h1eRp0EGOmE?rel=0&showinfo=0"
 }

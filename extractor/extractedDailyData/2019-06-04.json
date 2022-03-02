@@ -1,14 +1,10 @@
 {
   "title": "SEIS: Listening for Marsquakes",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, Mars Insight Explanation",
-    "NASA, JPL-Caltech, Mars Insight"
-  ],
+  "credit": "NASA, JPL-Caltech, Mars Insight",
   "explanation": "If you put your ear to Mars, what would you hear? To find out, and to explore the unknown interior of Mars, NASA's Insight Lander deployed SEIS late last year, a sensitive seismometer that can detect marsquakes. In early April, after hearing the wind and motions initiated by the lander itself, SEIS recorded an unprecedented event that matches what was expected for a marsquake. This event can be heard on this YouTube video. Although Mars is not thought to have tectonic plates like the Earth, numerous faults are visible on the Martian surface which likely occurred as the hot interior of Mars cooled -- and continues to cool. Were strong enough marsquakes to occur, SEIS could hear their rumbles reflected from large structures internal to Mars, like a liquid core, if one exists. Pictured last week, SEIS sits quietly on the Martian surface, taking in some Sun while light clouds are visible over the horizon.",
   "date": "2019-06-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1906/SeismometerClouds_Insight_1021.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1906/SeismometerClouds_Insight_1021.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "HH111's 12 Light-Year Star Jet",
-  "credit": [
-    "Credit: Bo Reipurth (CASA/U. Colorado) et al., HST, NASA Explanation",
-    "Bo Reipurth (CASA/U. Colorado) et al., HST, NASA"
-  ],
+  "credit": "Bo Reipurth (CASA/U. Colorado) et al., HST, NASA",
   "explanation": "",
   "date": "2000-03-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0003/hh111_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0003/hh111_hst.jpg"
 }

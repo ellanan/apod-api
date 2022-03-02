@@ -1,14 +1,10 @@
 {
   "title": "Tycho's Supernova Remnant",
-  "credit": [
-    "Credit: NASA / CXC / F.J. Lu (Chinese Academy of Sciences) et al. Poem: Alice Allen (apologies to William Blake) Explanation",
-    "NASA / CXC / F.J. Lu (Chinese Academy of Sciences) et al. Poem: Alice Allen (apologies to William Blake)"
-  ],
+  "credit": "NASA / CXC / F.J. Lu (Chinese Academy of Sciences) et al. Poem: Alice Allen (apologies to William Blake)",
   "explanation": "",
   "date": "2011-04-30",
   "hdurl": "https://apod.nasa.gov/apod/image/1104/tychosnr_chandra2000c.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1104/tychosnr_chandra900c.jpg"
 }

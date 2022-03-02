@@ -1,14 +1,10 @@
 {
   "title": "Zodiacal Light and the False Dawn",
-  "credit": [
-    "Credit: Night Sky Live Project, CONCAM, NSF Explanation",
-    "Night Sky Live Project, CONCAM, NSF"
-  ],
+  "credit": "Night Sky Live Project, CONCAM, NSF",
   "explanation": "An unusual triangle of light will be particularly bright near the eastern horizon before sunrise during the next two months for observers in Earth's northern hemisphere. Once considered a false dawn, this triangle of light is actually Zodiacal Light, light reflected from interplanetary dust particles. The triangle is clearly visible on the left of the above frame taken from Mauna Kea in Hawaii on September 8 by one of the developing global network of fisheye nighttime web cameras, called CONCAMs, of the Night Sky Live Project. Zodiacal dust orbits the Sun predominantly in the same plane as the planets: the ecliptic. Zodiacal light is so bright this time of year because the dust band is oriented nearly vertical at sunrise, so that the thick air near the horizon does not block out relatively bright reflecting dust. Zodiacal light is also bright for people in Earth's northern hemisphere in March and April just after sunset.",
   "date": "2002-09-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0209/zodiacal_nsl_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0209/zodiacal_nsl.jpg"
 }

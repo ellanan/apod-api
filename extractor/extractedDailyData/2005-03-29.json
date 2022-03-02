@@ -1,14 +1,10 @@
 {
   "title": "Crescents of Titan and Dione",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What would it be like to see a sky with many moons? Such is the sky above Saturn. When appearing close to each other, moons will show a similar phase. A view with two of the more famous moons of Saturn in crescent phase was captured last month by the robot spacecraft Cassini now orbiting Saturn. Titan, on the lower left, is among the largest moons in the Solar System and is perpetually shrouded in clouds. Recently, the Huygens probe landed on Titan and gave humanity its first view of its unusual surface. Dione, on the upper right, has less than a quarter of Titan's diameter and has no significant atmosphere. Dione, although appearing smaller, was only half the distance to Titan when the above image was taken.",
   "date": "2005-03-29",
   "hdurl": "https://apod.nasa.gov/apod/image/0503/titandione_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0503/titandione_cassini.jpg"
 }

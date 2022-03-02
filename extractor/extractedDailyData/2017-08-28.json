@@ -1,14 +1,10 @@
 {
   "title": "A Fleeting Double Eclipse of the Sun",
-  "credit": [],
   "explanation": "Last week, for a fraction of a second, the Sun was eclipsed twice. One week ago today, many people in North America were treated to a standard, single, partial solar eclipse. Fewer people, all congregated along a narrow path, experienced the eerie daytime darkness of a total solar eclipse. A dedicated few with fast enough camera equipment, however, were able to capture a double eclipse -- a simultaneous partial eclipse of the Sun by both the Moon and the International Space Station (ISS). The Earth-orbiting ISS crossed the Sun in less than a second, but to keep the ISS from appearing blurry, exposure times must be less than 1/1000th of a second. The featured image composite captured the ISS multiple times in succession as it zipped across the face of the Sun. The picture was taken from Huron, California in a specific color emitted by hydrogen which highlights the Sun's chromosphere, a layer hotter and higher up than the usually photographed photosphere.",
   "date": "2017-08-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1708/ISSeclipse_Tang_1221.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Simon Tang Explanation",
-    "Simon Tang"
-  ],
+  "copyright": "Simon Tang",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1708/ISSeclipse_Tang_960.jpg"
 }

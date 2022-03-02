@@ -1,14 +1,10 @@
 {
   "title": "Asteroid Ryugu from Hayabusa2",
-  "credit": [],
   "explanation": "This big space diamond has an estimated value of over 80 billion dollars. It's only diamond in shape, though -- asteroid 162173 Ryugu is thought to be composed of mostly nickel and iron. Asteroids like Ryugu are interesting for several reasons, perhaps foremost because they are near the Earth and might, one day in the far future, pose an impact threat. In the nearer term, Ryugu is interesting because it may be possible to send future spacecraft there to mine it, thus providing humanity with a new source of valuable metals. Scientifically, Ryugu is interesting because it carries information about how our Solar System formed billions of years ago, and why its orbit takes it so close to Earth. Japan's robotic spacecraft Hayabusa2 just arrived at this one-kilometer wide asteroid in late June. The featured image shows surface structures unknown before spacecraft Hayabusa2's arrival, including rock fields and craters. Within the next three months, Hayabusa2 is scheduled to unleash several probes, some that will land on Ryugu and hop around, while Hayabusa2 itself will mine just a little bit of the asteroid for return to Earth.",
   "date": "2018-08-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1808/Ryugu_Hayabusa2_1024.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: ISAS, JAXA, Explanation",
-    "ISAS, JAXA,"
-  ],
+  "copyright": "ISAS, JAXA,",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1808/Ryugu_Hayabusa2_1024.jpg"
 }

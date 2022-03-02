@@ -1,14 +1,10 @@
 {
   "title": "COBE Hotspots: The Oldest Structures Known",
-  "credit": [
-    "Credit: DMR, COBE, NASA, Two-Year Sky Map Explanation",
-    "DMR, COBE, NASA, Two-Year Sky Map"
-  ],
+  "credit": "DMR, COBE, NASA, Two-Year Sky Map",
   "explanation": "Above is a microwave image of the entire sky. The plane of our galaxy runs horizontally through the center. This historic all-sky map is based on the first two years of data from NASA's COsmic Background Explorer (COBE) satellite. After computer processing to remove contributions from nearby objects and the effects of the earth's motion, the map shows temperature variations in the early Universe as red \"spots\". These spots are the oldest, most distant structures known. As our Universe expanded and cooled, conglomerations of mass formed. The COBE images confirm that only a million years after the big-bang - which occurred roughly 15 billion years ago - parts of the universe were visibly hotter than other parts. By studying the size and distribution of the spots found with COBE and future missions, astronomers hope to learn what matter and processes caused the spots to form - and hence determine the composition, density, and future of our Universe.",
   "date": "1998-02-07",
   "hdurl": "https://apod.nasa.gov/apod/image/9802/cmb_cobe2yr_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9802/cmb_cobe2yr.jpg"
 }

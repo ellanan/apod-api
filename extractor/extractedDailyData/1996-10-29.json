@@ -1,14 +1,10 @@
 {
   "title": "Io Full Face",
-  "credit": [
-    "Credit: Galileo Mission, JPL, NASA Explanation",
-    "Galileo Mission, JPL, NASA"
-  ],
+  "credit": "Galileo Mission, JPL, NASA",
   "explanation": "Io is a colorful place. The closest large moon of Jupiter, Io is the most volcanic moon in the Solar System with its surface being completely buried in volcanic lava every few thousand years. The black and red material corresponds to the most recent volcanic eruptions and is probably no more than a few years old. This image by the automated spacecraft Galileo highlights the side of Io that always faces away from Jupiter. In this image released last week, picture colors have been adjusted to enhance contrast, but are based on real composite infrared, green and violet-light images.",
   "date": "1996-10-29",
   "hdurl": "https://apod.nasa.gov/apod/image/iofullface_gal_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/iofullface_gal.gif"
 }

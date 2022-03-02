@@ -1,14 +1,10 @@
 {
   "title": "Herschel's Cocoon",
-  "credit": [
-    "Credit: ESA, SPIRE & PACS Consortia, Doris Arzoumanian (CEA Saclay), et al. Explanation",
-    "ESA, SPIRE & PACS Consortia, Doris Arzoumanian (CEA Saclay), et al."
-  ],
+  "credit": "ESA, SPIRE & PACS Consortia, Doris Arzoumanian (CEA Saclay), et al.",
   "explanation": "In this remarkable infrared skyscape of interstellar clouds adrift in the high flying constellation Cygnus, the eye is drawn to the Cocoon Nebula. Also known as IC5146, the dusty star forming region is shown in blue hues in the Herschel Space Observatory false color image, at wavelengths more than 100 times longer than visible red light. And while visible light images show the Cocoon nebula at the end of long dark nebula Barnard 168, Hershel's infrared view finds the cosmic Cocoon punctuating a trail of filamentary clouds of glowing dust. The filaments have widths that suggest they are formed as shockwaves from exploding stars travel through the medium, sweeping up and compressing the interstellar dust and gas. Herschel data also indicate stars are forming along the dusty filaments. The Cocoon Nebula itself is about 15 light-years wide and 4,000 light-years away.",
   "date": "2011-08-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1108/cocoon_herschelPIA14038.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1108/cocoon_herschelPIA14038c.jpg"
 }

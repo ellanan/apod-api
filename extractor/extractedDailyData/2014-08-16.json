@@ -1,14 +1,10 @@
 {
   "title": "No X-rays from SN 2014J",
-  "credit": [
-    "Credit: NASA / CXC / SAO / R. Margutti et al. Explanation",
-    "NASA / CXC / SAO / R. Margutti et al."
-  ],
+  "credit": "NASA / CXC / SAO / R. Margutti et al.",
   "explanation": "Last January, telescopes in observatories around planet Earth were eagerly used to watch the rise of SN 2014J, a bright supernova in nearby galaxy M82. Still, the most important observations may have been from orbit where the Chandra X-ray Observatory saw nothing. Identified as a Type Ia supernova, the explosion of SN2014J was thought to be triggered by the buildup of mass on a white dwarf star steadily accreting material from a companion star. That model predicts X-rays would be generated when the supernova blastwave struck the material left surrounding the white dwarf. But no X-rays were seen from the supernova. The mostly blank close-ups centered on the supernova's position are shown in the before and after inset panels of Chandra's false color X-ray image of the M82 galaxy. The stunning lack of X-rays from SN 2014J will require astronomers to explore other models to explain what triggers these cosmic explosions.",
   "date": "2014-08-16",
   "hdurl": "https://apod.nasa.gov/apod/image/1408/m82SNchandra_BandA.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1408/m82SNchandra_BandA.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Zarmina's World",
-  "credit": [],
   "explanation": "A mere 20 light-years away in the constellation Libra, red dwarf star Gliese 581 has received much scrutiny by astronomers in recent years. Earthbound telescopes had detected the signatures of multiple planets orbiting the cool sun, two at least close to the system's habitable zone -- the region where an Earth-like planet can have liquid water on its surface. Now a team headed by Steven Vogt (UCO Lick), and Paul Butler (DTM Carnagie Inst.) has announced the detection of another planet, this one squarely in the system's habitable zone. Based on 11 years of data, their work offers a very compelling case for the first potentially habitable planet found around a very nearby star. Shown in this artist's illustration of the inner part of the exoplanetary system, the planet is designated Gliese 581g, but Vogt's more personal name is Zarmina's World, after his wife. The best fit to the data indicates the planet has a circular 37 day orbit, an orbital radius of only 0.15 AU, and a mass 3.1 times the Earth's. Modeling includes estimates of a planet radius of 1.5, and gravity at the planet's surface of 1.1 to 1.7 in Earth units. Finding a habitable planet so close by suggests there are many others in our Milky Way galaxy.",
   "date": "2010-10-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1010/GJ581gIllustration_cook.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Lynette Cook Explanation",
-    "Lynette Cook"
-  ],
+  "copyright": "Lynette Cook",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1010/GJ581gIllustration_cook900.jpg"
 }

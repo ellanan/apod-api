@@ -1,14 +1,10 @@
 {
   "title": "Star Forming Region NGC 3582",
-  "credit": [],
   "explanation": "What's happening in the NGC 3582 nebula? Bright stars and interesting molecules are forming. The complex nebula resides in the star forming region called RCW 57. Visible in this image are dense knots of dark interstellar dust, bright stars that have formed in the past few million years, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3582, also known as NGC 3584 and NGC 3576, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth. The above image was taken at the Desert Hollow Observatory north of Phoenix, Arizona, USA.",
   "date": "2013-06-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1306/ngc3584_dho_960.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Desert Hollow Observatory Explanation",
-    "Desert Hollow Observatory"
-  ],
+  "copyright": "Desert Hollow Observatory",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1306/ngc3584_dho_960.jpg"
 }

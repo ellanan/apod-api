@@ -1,14 +1,10 @@
 {
   "title": "Spiral Galaxy NGC 3310 Across the Visible",
-  "credit": [
-    "Credit: G. R. Meurer (JHU) et al., Hubble Heritage Team (STScI/AURA), NASA Explanation",
-    "G. R. Meurer (JHU) et al., Hubble Heritage Team (STScI/AURA), NASA"
-  ],
+  "credit": "G. R. Meurer (JHU) et al., Hubble Heritage Team (STScI/AURA), NASA",
   "explanation": "The party is still going on in spiral galaxy NGC 3310. Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation. The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party. The above image composite by the Hubble Space Telescope was used to find the ages of many of the resulting clusters of stars. To the surprise of many, some of the clusters are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time. NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Ursa Major.",
   "date": "2001-09-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0109/ngc3310b_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0109/ngc3310b_hst.jpg"
 }

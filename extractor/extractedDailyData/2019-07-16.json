@@ -1,13 +1,9 @@
 {
   "title": "Apollo 11 Launches Humans to the Moon",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "Everybody saw the Moon. Nobody had ever been there. Humans across planet Earth watched in awe 50 years ago today as a powerful Saturn V rocket attempted to launch humans -- to the Moon. Some in space flight guessed that the machinery was so complex, that so many things had to go right for it to work, that Apollo 11 would end up being another useful dress rehearsal for a later successful Moon-landing mission. But to the Moon they went. The featured video starts by showing astronauts Aldrin, Armstrong, and Collins making their way to the waiting rocket. As the large and mighty Saturn V launched, crowds watched from Cape Canaveral in Florida, USA and on television around the world. The events that unfolded over the next few days, including a dramatic moon walk 50 years ago this Saturday, will forever be remembered as a milestone in human history and an unrivaled demonstration of human ingenuity. This week, many places around the world are planning celebrations of the 50th anniversary of the first humans landing on the Moon.",
   "date": "2019-07-16",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/yxer_vweB5g?rel=0"
 }

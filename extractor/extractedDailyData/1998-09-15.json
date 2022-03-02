@@ -1,14 +1,10 @@
 {
   "title": "The NTT SUSI Deep Field",
-  "credit": [
-    "Credit: S. D'Odorico et al., NTT, ESO Explanation",
-    "S. D'Odorico et al., NTT, ESO"
-  ],
+  "credit": "S. D'Odorico et al., NTT, ESO",
   "explanation": "What happens if you point a large telescope at nothing? The above New Technology Telescope SUSI Deep Field photograph isolated a small patch of sky picked to contain no bright objects at all. A very long exposure was then taken, similar to the Hubble Deep Field, in order to see the many faint objects that are usually washed out by the light of bright foreground objects. What remains is a cosmic wallpaper rich in distant galaxies. Galaxies as faint as magnitude 26 were found to be irregularly distributed, with several unusual pairings of different colored objects. This and other deep field images are being released for detailed inspection by anyone interested. New deep field images are being planned.",
   "date": "1998-09-15",
   "hdurl": "https://apod.nasa.gov/apod/image/9809/deepfield_ntt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9809/deepfield_ntt.jpg"
 }

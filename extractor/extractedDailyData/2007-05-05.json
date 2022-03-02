@@ -1,14 +1,10 @@
 {
   "title": "Sombrero Galaxy Across the Spectrum",
-  "credit": [
-    "Credit: X-ray: NASA/UMass/Q.D.Wang et al.; Optical: NASA/STScI/AURA/Hubble Heritage; Infrared: NASA/JPL-Caltech/Univ. AZ/R.Kennicutt/SINGS Team Explanation",
-    "X-ray: NASA/UMass/Q.D.Wang et al.; Optical: NASA/STScI/AURA/Hubble Heritage; Infrared: NASA/JPL-Caltech/Univ. AZ/R.Kennicutt/SINGS Team"
-  ],
+  "credit": "X-ray: NASA/UMass/Q.D.Wang et al.; Optical: NASA/STScI/AURA/Hubble Heritage; Infrared: NASA/JPL-Caltech/Univ. AZ/R.Kennicutt/SINGS Team",
   "explanation": "Appropriately famous for its broad ring of obscuring dust and hat-like appearance, the Sombrero Galaxy (aka spiral galaxy M104) is featured in this unique composite view that spans the electromagnetic spectrum, from three major space-based observatories. Exploring the Sombrero's high-energy x-ray emission (blue), the Chandra contribution highlights the pervasive, tenuous, hot gas that extends some 60,000 light-years from the galaxy's center. Hubble's optical view (green) shows the more familiar emission from the Sombrero's population of stars, seen from a nearly edge-on perspective and noticeably bulging at the galaxy's bright core. The broad ring of dust that blocks light in other bands, glows in the infrared contribution (red) from the Spitzer Space Telescope. The Sombrero Galaxy is about 28 million light-years away, near the southern edge of the extensive Virgo cluster of galaxies.",
   "date": "2007-05-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0705/sombrero_composite.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0705/sombrero_composite.jpg"
 }

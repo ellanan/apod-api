@@ -1,14 +1,10 @@
 {
   "title": "Moonset Eclipse",
-  "credit": [],
   "explanation": "Near the closest point in its orbit, the second Full Moon of the month occurred on January 31. So did the first Total Lunar Eclipse of 2018, as the Moon slid through planet Earth's shadow. In a postcard from planet Earth, this telescopic snapshot captures the totally eclipsed Moon as it set above the western horizon and the Chiricahua Mountains of southern Arizona. The Moon's evocative reddened hue is due to sunlight scattered into the shadow. Still, the planet's shadow visibly grows darker near the center, toward the top of the lunar disk.",
   "date": "2018-02-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1802/TLE2018Jan31-1167w.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fred Espenak (MrEclipse.com) Explanation",
-    "Fred Espenak (MrEclipse.com)"
-  ],
+  "copyright": "Fred Espenak (MrEclipse.com)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1802/TLE2018Jan31-1167w.jpg"
 }

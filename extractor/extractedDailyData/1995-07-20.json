@@ -1,14 +1,10 @@
 {
   "title": "The Grand Canyon of Mars",
-  "credit": [
-    "Credit: NASA,Viking Project,USGS Explanation",
-    "NASA,Viking Project,USGS"
-  ],
+  "credit": "NASA,Viking Project,USGS",
   "explanation": "",
   "date": "1995-07-20",
   "hdurl": "https://apod.nasa.gov/apod/image/grandcanal.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/grandcanal.gif"
 }

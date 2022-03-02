@@ -1,17 +1,11 @@
 {
   "title": "Medieval Astronomy from Melk Abbey",
-  "credit": [
-    "Credit: Paul Beck (Univ. Vienna), Georg Zotti (Vienna Inst. Arch. Science) Copyright: Library of Melk Abbey, Frag. 229 Explanation",
-    "Paul Beck (Univ. Vienna), Georg Zotti (Vienna Inst. Arch. Science) Copyright: Library of Melk Abbey, Frag. 229"
-  ],
+  "credit": "Paul Beck (Univ. Vienna), Georg Zotti (Vienna Inst. Arch. Science) Copyright: Library of Melk Abbey, Frag. 229",
   "explanation": "Discovered by accident, this manuscript page provides graphical insight to astronomy in medieval times, before the Renaissance and the influence of Nicolaus Copernicus, Tycho de Brahe, Johannes Kepler, and Galileo. The intriguing page is from lecture notes on astronomy compiled by the monk Magister Wolfgang de Styria before the year 1490 at Melk Abbey in Austria. The top panels clearly illustrate the necessary geometry for a lunar (left) and solar eclipse in the Earth-centered Ptolemaic system. At lower left is a diagram of the Ptolemaic view of the solar system and at the lower right is a chart to calculate the date of Easter Sunday in the Julian calendar. Text at the upper right explains the movement of the planets according to the Ptolemaic system. The actual manuscript page is on view at historic Melk Abbey as part of a special exhibition during the International Year of Astronomy.",
   "date": "2009-04-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0904/medieval_fragment50p.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Library of Melk Abbey, Frag. 229 Explanation",
-    "Library of Melk Abbey, Frag. 229"
-  ],
+  "copyright": "Library of Melk Abbey, Frag. 229",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0904/medieval_fragmentW600.jpg"
 }

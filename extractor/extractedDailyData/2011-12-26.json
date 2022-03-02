@@ -1,14 +1,10 @@
 {
   "title": "A Raging Storm System on Saturn",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "It is one of the largest and longest lived storms ever recorded in our Solar System. First seen late last year, the above cloud formation in the northern hemisphere of Saturn started larger than the Earth and soon spread completely around the planet. The storm has been tracked not only from Earth but from up close by the robotic Cassini spacecraft currently orbiting Saturn. Pictured above in false colored infrared in February, orange colors indicate clouds deep in the atmosphere, while light colors highlight clouds higher up. The rings of Saturn are seen nearly edge-on as the thin blue horizontal line. The warped dark bands are the shadows of the rings cast onto the cloud tops by the Sun to the upper left. A source of radio noise from lightning, the intense storm may relate to seasonal changes as spring slowly emerges in the north of Saturn.",
   "date": "2011-12-26",
   "hdurl": "https://apod.nasa.gov/apod/image/1112/saturnstorm2_cassini_977.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1112/saturnstorm2_cassini_900.jpg"
 }

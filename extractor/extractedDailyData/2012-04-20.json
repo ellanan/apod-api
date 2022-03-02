@@ -1,14 +1,10 @@
 {
   "title": "M57: The Ring Nebula",
-  "credit": [
-    "Credit: Composite Image Data - Subaru Telescope (NAOJ), Hubble Legacy Archive; Processing and additional imaging - Robert Gendler Explanation",
-    "Composite Image Data - Subaru Telescope (NAOJ), Hubble Legacy Archive; Processing and additional imaging - Robert Gendler"
-  ],
+  "credit": "Composite Image Data - Subaru Telescope (NAOJ), Hubble Legacy Archive; Processing and additional imaging - Robert Gendler",
   "explanation": "Except for the rings of Saturn, the Ring Nebula (M57) is probably the most famous celestial band. Its classic appearance is understood to be due to perspective - our view from planet Earth looks down the center of a roughly barrel-shaped cloud of glowing gas. But expansive looping structures are seen to extend far beyond the Ring Nebula's familiar central regions in this intriguing composite of ground based and Hubble Space Telescope images with narrowband image data from Subaru. Of course, in this well-studied example of a planetary nebula, the glowing material does not come from planets. Instead, the gaseous shroud represents outer layers expelled from the dying, once sun-like star at the nebula's center. Intense ultraviolet light from the hot central star ionizes atoms in the gas. Ionized oxygen atoms produce the characteristic greenish glow and ionized hydrogen the prominent red emission. The central ring of the Ring Nebula is about one light-year across and 2,000 light-years away. To accompany tonight's shooting stars it shines in the northern constellation Lyra.",
   "date": "2012-04-20",
   "hdurl": "https://apod.nasa.gov/apod/image/1204/M57-HST-Subaru-LLgendler.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1204/M57-HST-Subaru-Sxgendler.jpg"
 }

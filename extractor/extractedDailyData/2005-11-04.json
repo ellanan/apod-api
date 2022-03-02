@@ -1,14 +1,10 @@
 {
   "title": "M78: Stardust and Starlight",
-  "credit": [],
   "explanation": "Interstellar dust clouds and bright nebulae abound in the fertile constellation of Orion. One of the brightest, M78, is just below center in this sharp widefield view, covering an area north of Orion's belt. At a distance of about 1,500 light-years, the bluish nebula itself is about 5 light-years across. Its blue tint is due to dust preferentially reflecting the blue light of hot, young stars in the region. Dark dust lanes and other nebulae can easily be traced through this gorgeous skyscape that also includes the remarkable McNeil's Nebula -- a newly recognized nebula associated with the formation of a sun-like star.",
   "date": "2005-11-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0511/M78_messner_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephan Messner Explanation",
-    "Stephan Messner"
-  ],
+  "copyright": "Stephan Messner",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0511/M78_messner_cr.jpg"
 }

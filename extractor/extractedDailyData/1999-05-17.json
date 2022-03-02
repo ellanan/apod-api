@@ -1,14 +1,10 @@
 {
   "title": "How to Search for Aliens",
-  "credit": [
-    "Credit: SETI@home, UC Berkeley SETI Team Explanation",
-    "SETI@home, UC Berkeley SETI Team"
-  ],
+  "credit": "SETI@home, UC Berkeley SETI Team",
   "explanation": "\"Mom, can I use our computer to search for aliens?\" Last week, the SETI@home project released free software that enables many home computers to search for signals from intelligent extra-terrestrials. These signals may have already been detected by the huge Arecibo radio telescope, but gone unnoticed due to the large amount of data that has been accumulating. SETI enthusiasts David Gedye and Craig Kasnoff realized that the enormous amount of computing power in people's homes might help. The resulting software can work as a screensaver and so after downloading a chunk of data, will only search for alien signals when the computer is otherwise idle. When running, the software will generate images like that shown above: a changing Fast Fourier Transform plot highlighting strong periodic signals. Although more likely to find false-alarms like known Earth-orbiting satellites, if your computer finds a true ET signal, SETI@home promises that you will be given due credit.",
   "date": "1999-05-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9905/seti_fft.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9905/seti_fft_big.gif"
 }

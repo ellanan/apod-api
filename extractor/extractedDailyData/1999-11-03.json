@@ -1,14 +1,10 @@
 {
   "title": "M32: Blue Stars in an Elliptical Galaxy",
-  "credit": [
-    "Credit: Thomas M. Brown (GSFC) et al., NASA Explanation",
-    "Thomas M. Brown (GSFC) et al., NASA"
-  ],
+  "credit": "Thomas M. Brown (GSFC) et al., NASA",
   "explanation": "Elliptical galaxies are known for their old, red stars. But is this old elliptical up to new tricks? In recent years, the centers of elliptical galaxies have been found to emit unexpectedly high amounts of blue and ultraviolet light. Most blue light from spiral galaxies originates from massive young hot stars, in contrast to the red light from the old cool stars thought to compose ellipticals. In the above recently released, false-color photograph by the Hubble Space Telescope, the center of nearby dwarf elliptical M32 has actually been resolved and does indeed show thousands of bright blue stars. The answer is probably that these blue stars are also old and glow blue, reaching relatively high temperatures by the advanced process of fusing helium, rather than hydrogen, in their cores. M32 appears in many pictures as the companion galaxy to the massive Andromeda Galaxy (M31).",
   "date": "1999-11-03",
   "hdurl": "https://apod.nasa.gov/apod/image/9911/m32_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9911/m32_hst.jpg"
 }

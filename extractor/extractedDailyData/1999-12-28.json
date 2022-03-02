@@ -1,14 +1,10 @@
 {
   "title": "A Year Of New Perspectives",
-  "credit": [
-    "Credit: APOD Collage, ESA, NASA Explanation",
-    "APOD Collage, ESA, NASA"
-  ],
+  "credit": "APOD Collage, ESA, NASA",
   "explanation": "Fittingly, 1999 saw a decade of astronomical discoveries to an end with portents of things to come - embodied in new spacecraft, telescopes, and perspectives to explore the distant Universe across the electromagnetic spectrum. X-ray astronomy in particular will likely flourish in coming years, judging from this year's successful launch of the triple-barrelled X-ray Multi-Mirror satellite and spectacular first results from the orbiting Chandra X-ray Observatory. Ground-based astronomy will flourished too as very large telescopes and new instruments have come online or near completion. Radio astronomers also achieved an observational milestone this year with the record breaking VLBI observations from a network of radio telescopes as large as planet Earth. But the APOD editors' favorite astronomical screensaver of 1999 has leveraged the phenomenonal growth of the internet and the personal computer boom to support the Search for ExtraTerrestrial Intelligence in the SETI@home project - which has now likely involved more computer power than any other project in history.",
   "date": "1999-12-28",
   "hdurl": "https://apod.nasa.gov/apod/image/9912/yearpeer.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9912/yearpeer.jpg"
 }

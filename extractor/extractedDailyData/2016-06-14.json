@@ -1,14 +1,10 @@
 {
   "title": "The North America and Pelican Nebulas",
-  "credit": [],
   "explanation": "Here lie familiar shapes in unfamiliar locations. On the left is an emission nebula cataloged as NGC 7000, famous partly because it resembles our fair planet's continent of North America. The emission region to the right of the North America Nebula is IC 5070, also known for its suggestive outlines as the Pelican Nebula. Separated by a dark cloud of obscuring dust, the two bright nebulae are about 1,500 light-years away. At that distance, the 4 degree wide field of view spans 100 light-years. This spectacular cosmic portrait combines narrow band images to highlight bright ionization fronts with fine details of dark, dusty forms in silhouette. Emission from atomic hydrogen, sulfur, and oxygen is captured in the narrow band image in scientifically assigned colors. These nebulae can be seen with binoculars from a dark location.",
   "date": "2016-06-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1606/PelicanNorthAmerica_Etcheverry_3232.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ezequiel Etcheverry Explanation",
-    "Ezequiel Etcheverry"
-  ],
+  "copyright": "Ezequiel Etcheverry",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1606/PelicanNorthAmerica_Etcheverry_960.jpg"
 }

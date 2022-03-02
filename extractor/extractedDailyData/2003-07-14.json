@@ -1,14 +1,10 @@
 {
   "title": "The Satellites that Surround Earth",
-  "credit": [
-    "Credit: P. C.-W. Fu & A. Hanson (Indiana), P. Frisch (Chicago), NASA Explanation",
-    "P. C.-W. Fu & A. Hanson (Indiana), P. Frisch (Chicago), NASA"
-  ],
+  "credit": "P. C.-W. Fu & A. Hanson (Indiana), P. Frisch (Chicago), NASA",
   "explanation": "Thousands of satellites orbit the Earth. Costing billions of dollars, this swarm of high altitude robots is now vital to communication, orientation, and imaging both Earth and space. One common type of orbit is geostationary where a satellite will appear to hover above one point on Earth's equator. Geostationary orbits are very high up -- over five times the radius of the Earth -- and possible only because the satellite orbital period is exactly one day. It is usually cheaper to place a satellite in low Earth orbit, around 500 kilometers, just high enough to avoid the effect of Earth's atmosphere. The above animated sequence starts by showing the halo of Earth's satellites, including the ring at geostationary, and finishes by zooming in on the only one currently hosting humans: the International Space Station.",
   "date": "2003-07-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0307/earthsat_fu_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0307/earthsat_fu.gif"
 }

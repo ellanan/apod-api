@@ -1,14 +1,10 @@
 {
   "title": "Facing NGC 6946",
-  "credit": [],
   "explanation": "From our vantage point in the Milky Way Galaxy, we see NGC 6946 face-on. The big, beautiful spiral galaxy is located just 10 million light-years away, behind a veil of foreground dust and stars in the high and far-off constellation of Cepheus. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. NGC 6946 is also bright in infrared light and rich in gas and dust, exhibiting a high star birth and death rate. In fact, since the early 20th century at least nine supernovae, the death explosions of massive stars, were discovered in NGC 6946. In this deep color composite image, a small barred structure is just visible at the galaxy's core. Nearly 40,000 light-years across, NGC 6946 is also known as the Fireworks Galaxy.",
   "date": "2008-08-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0808/NGC6946_2008wendel.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Volker Wendel (Spiegelteam) Explanation",
-    "Volker Wendel (Spiegelteam)"
-  ],
+  "copyright": "Volker Wendel (Spiegelteam)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0808/NGC6946_2008wendel800.jpg"
 }

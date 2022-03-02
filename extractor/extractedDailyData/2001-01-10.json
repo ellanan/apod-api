@@ -1,14 +1,10 @@
 {
   "title": "Watch the Sky Rotate",
-  "credit": [
-    "Credit: The CONCAM Project, NOAO, NASA, NSF Explanation",
-    "The CONCAM Project, NOAO, NASA, NSF"
-  ],
+  "credit": "The CONCAM Project, NOAO, NASA, NSF",
   "explanation": "If you could watch the sky for an entire night, what would you see? The above time-lapse sequence from the CONtinuous CAMera (CONCAM) project shows the answer for the skies above Kitt Peak National Observatory on 2000 December 23. First and foremost stars appear to orbit about Polaris, a star near the top of the image. Actually, the Earth is spinning under the sky, and the camera is affixed to the Earth. The diffuse band of light that moves across the image is actually the central disk of our Milky Way Galaxy. Identifiable objects rotating across the frame include the constellation of Orion, stars such as Sirius and Betelgeuse, and planets such as Jupiter and Saturn. The CONCAM project is deploying astronomical quality web-cameras to major observatories with goals of starting a continuous record of the sky and helping astronomers using large telescopes monitor weather conditions remotely.",
   "date": "2001-01-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0101/sky_concam_annotated.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0101/sky_concam.gif"
 }

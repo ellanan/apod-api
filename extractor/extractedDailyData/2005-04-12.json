@@ -1,17 +1,11 @@
 {
   "title": "Earth or Mars?",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, JPL, NASA",
   "explanation": "Which image is Earth, and which is Mars? One of the above images was taken by the robot Spirit rover currently climbing Husband Hill on Mars. The other image was taken by a human across the desert south of Morocco on Earth. Both images show vast plains covered with rocks and sand. Neither shows water or obvious signs of life. Each planet has a surface so complex that any one image does not do that planet justice. Understanding either one, it turns out, helps understand the other. Does the one on the left look like home? Possibly not, but it is Earth.",
   "date": "2005-04-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0504/earthmars_alves_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Filipe Alves; Mars Image Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Filipe Alves; Mars Image Credit: Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "copyright": "Filipe Alves; Mars Image Credit: Mars Exploration Rover Mission, JPL, NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0504/earthmars_alves.jpg"
 }

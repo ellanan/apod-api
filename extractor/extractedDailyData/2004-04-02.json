@@ -1,14 +1,10 @@
 {
   "title": "2004 April 2",
-  "credit": [],
   "explanation": "",
   "date": "2004-04-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0404/mvmar29_westlake_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jimmy Westlake (Colorado Mountain College) Explanation",
-    "Jimmy Westlake (Colorado Mountain College)"
-  ],
+  "copyright": "Jimmy Westlake (Colorado Mountain College)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0404/mvmar29_westlake_c1.jpg"
 }

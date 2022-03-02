@@ -1,14 +1,10 @@
 {
   "title": "The Large Magellanic Cloud in Infrared",
-  "credit": [
-    "Credit: NASA/JPL-Caltech/M. Meixner (STScI) & the SAGE Legacy Team Explanation",
-    "NASA/JPL-Caltech/M. Meixner (STScI) & the SAGE Legacy Team"
-  ],
+  "credit": "NASA/JPL-Caltech/M. Meixner (STScI) & the SAGE Legacy Team",
   "explanation": "Where does dust collect in galaxies? To help find out, a team of researchers took the most detailed image ever of gas clouds and dust in the neighboring Large Magellanic Cloud (LMC) galaxy. The composite image, shown above, was taken by the Spitzer Space Telescope in infrared light, which highlights the natural glow of the warm materials returned to the interstellar medium by stars. The above mosaic combines 300,000 individual pointings to create a composite 1,000-times sharper than any previous LMC image. Visible are vast clouds of gas and dust, showing in graphic detail that dust prefers regions near young stars (red-tinted bright clouds), scattered unevenly between the stars (green-tinted clouds), and in shells around old stars (small red dots). Also visible are huge caverns cleared away by the energetic outflows of massive former stars. The faint blue (false-color) glow across the bottom is the combined light from the old stars in the central bar of the LMC. The LMC is a satellite galaxy to our own Milky Way Galaxy, spans about 70,000 light years, and lies about 160,000 light years away toward the southern constellation of the Swordfish (Dorado).",
   "date": "2006-09-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/lmc_spitzer_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/lmc_spitzer.jpg"
 }

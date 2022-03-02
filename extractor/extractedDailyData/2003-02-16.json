@@ -1,14 +1,10 @@
 {
   "title": "Southwest Mercury",
-  "credit": [
-    "Credit: Mariner 10, NASA Explanation",
-    "Mariner 10, NASA"
-  ],
+  "credit": "Mariner 10, NASA",
   "explanation": "The planet Mercury resembles a moon. Mercury's old surface is heavily cratered like many moons. Mercury is larger than most moons but smaller than Jupiter's moon Ganymede and Saturn's moon Titan. Mercury is much denser and more massive than any moon, though, because it is made mostly of iron. In fact, the Earth is the only planet more dense. A visitor to Mercury's surface would see some strange sights. Because Mercury rotates exactly three times every two orbits around the Sun, and because Mercury's orbit is so elliptical, a visitor to Mercury might see the Sun rise, stop in the sky, go back toward the rising horizon, stop again, and then set quickly over the other horizon. From Earth, Mercury's proximity to the Sun causes it to be visible only for a short time just after sunset or just before sunrise.",
   "date": "2003-02-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0002/merc4_m10_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0302/merc4_m10.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Sail On, Stardust",
-  "credit": [],
   "explanation": "Spacecraft on long interplanetary voyages often use the planets themselves as gravitational \"sling shots\" to boost them along their way. Launched in February of 1999 on a historic voyage to a comet, the Stardust spacecraft is no different. On 15 January 2001 Stardust made its closest approach to planet Earth since launch, coming within about 6,000 kilometers of the surface. It used this gravity assist maneuver to increase its speed and alter its trajectory toward an encounter with comet Wild 2, which it should reach in 2004. Shortly before its time of closest approach, astronomer Gordon Garradd recorded this exposure of Stardust sailing through the skies above Loomberah, Australia. Nearby and moving fast, the spacecraft appears as a streak against a background of faint stars in the constellation Cetus. Stardust cruised within just 98,000 kilometers of the Moon about 15 hours later. After collecting dust from the tail of comet Wild 2, Stardust's voyage will continue -- as it returns the samples to Earth in 2006.",
   "date": "2001-01-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0101/stardust_garradd.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Gordon Garradd Explanation",
-    "Gordon Garradd"
-  ],
+  "copyright": "Gordon Garradd",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0101/stardust_garradd_c1.jpg"
 }

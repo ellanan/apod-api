@@ -1,14 +1,10 @@
 {
   "title": "The Very Large Array at Moonset",
-  "credit": [
-    "Credit: Jeff Hellermann, NRAO / AUI / NSF Explanation",
-    "Jeff Hellermann, NRAO / AUI / NSF"
-  ],
+  "credit": "Jeff Hellermann, NRAO / AUI / NSF",
   "explanation": "An inspirational sight, these giant dish antennas of the Karl G. Jansky Very Large Array (VLA) rise above the New Mexico desert at moonset. Mounted on piers but transportable on railroad tracks to change the VLA’s configuration, its 27 operating antennas are each house-sized (25 meters across) and can be organized into an array spanning the size of a city (35 kilometers). A prolific radio astronomy workhorse, the VLA has been used to discover water on planet Mercury, radio-bright coronae around stars, micro-quasars in our Galaxy, gravitationally-induced Einstein rings around distant galaxies, and radio counterparts to cosmologically distant gamma-ray bursts. Its vast size has allowed astronomers to study the details of radio galaxies, super-fast cosmic jets, and map the center of our own Milky Way. Now 40 years since its dedication the VLA has been used in more than 14,000 observing projects and contributed to more than 500 Ph.D. dissertations. On October 10, the National Radio Astronomy Observatory will host a day-long online celebration of the VLA at 40 featuring virtual tours and presentations on the history, operations, science, and future of the Very Large Array.",
   "date": "2020-10-09",
   "hdurl": "https://apod.nasa.gov/apod/image/2010/VLA_Moonset_NIK_0991.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2010/VLA_Moonset_NIK_0991_1024.jpg"
 }

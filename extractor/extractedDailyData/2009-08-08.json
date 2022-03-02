@@ -1,14 +1,10 @@
 {
   "title": "Diamonds in a Cloudy Sky",
-  "credit": [],
   "explanation": "Cloudy skies over Wuhan, China hid the delicate solar corona during July's total eclipse of the Sun. Still, the Moon's silhouette was highlighted by these glistening diamonds as the total eclipse phase ended. Caused by bright sunlight streaming through dips and valleys in the irregular terrain along the Moon's edge, the effect is known as Baily's Beads, named after Francis Baily who called attention to the phenomenon in 1836. The dramatic appearance of the beads at the beginning or end of a total solar eclipse is also known as the Diamond Ring effect. In this remarkable image, a small, pinkish solar prominence can also be seen along the edge, below the diamonds.",
   "date": "2009-08-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0908/tse2009_mesonero.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Óscar Martín Mesonero (OSAE), SAROS Group Explanation",
-    "Óscar Martín Mesonero (OSAE), SAROS Group"
-  ],
+  "copyright": "Óscar Martín Mesonero (OSAE), SAROS Group",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0908/tse2009_mesonero900.jpg"
 }

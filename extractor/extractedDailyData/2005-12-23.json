@@ -1,14 +1,10 @@
 {
   "title": "Hydrogen and Dust in the Rosette Nebula",
-  "credit": [
-    "Credit: Nick Wright (University College London), IPHAS Collaboration Explanation",
-    "Nick Wright (University College London), IPHAS Collaboration"
-  ],
+  "credit": "Nick Wright (University College London), IPHAS Collaboration",
   "explanation": "At the edge of a large molecular cloud in Monoceros, some 3,000 light years away, dark filaments of dust are silhouetted by luminous hydrogen gas. The close up view of the Rosette Nebula dramatically suggests that star formation is an on going process in the region, with dark filaments sculpted by winds and radiation from hot, young stars. Ultraviolet radiation from the young stars also strips electrons from the surrounding hydrogen atoms. As electrons and atoms recombine they emit longer wavelength, lower energy light in a well known characteristic pattern of bright spectral lines. At visible wavelengths, the strongest emission line in this pattern is in the red part of the spectrum and is known as \"Hydrogen-alpha\" or just H-alpha. Part of IPHAS, a survey of H-alpha emission in our Milky Way Galaxy, this image spans about 25 light-years.",
   "date": "2005-12-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0512/redrosedust_wright_f2000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0512/redrosedust_wright_f13.jpg"
 }

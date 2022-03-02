@@ -1,13 +1,9 @@
 {
   "title": "A Live View from the International Space Station",
-  "credit": [
-    "Credit: NASA, UStream, HDEV Project Explanation",
-    "NASA, UStream, HDEV Project"
-  ],
+  "credit": "NASA, UStream, HDEV Project",
   "explanation": "If you were floating above the Earth right now, this is what you might see. Two weeks ago, the robotic SpaceX Dragon capsule that delivered supplies to the Earth-orbiting International Space Station (ISS) also delivered High Definition Earth Viewing (HDEV) cameras that take and transmit live views of Earth. Pictured above, when working, is the live video feed that switches between four cameras, each pointed differently. Watch white clouds, tan land, and blue oceans drift by. The above video will appear black when it is nighttime on the Earth below, but the space station's rapid 90-minute orbit compresses this dark time into only 45 minutes. The present location of the ISS above the Earth can be found on the web. If the video appears gray, this indicates that the view is either being switched between cameras, or communications with the ISS is temporarily unavailable. As the HDEV project continues, video quality will be monitored to assess the effects of high energy radiation, which types of cameras work best, and which Earth views are the most popular. Although this feed will eventually be terminated, lessons learned will enable better cameras to be deployed to the ISS in the future, likely returning even more interesting live feeds.",
   "date": "2014-05-14",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.ustream.tv/embed/17074538?v=3&wmode=direct&autoplay=true"
 }

@@ -1,17 +1,11 @@
 {
   "title": "Spiral Galaxy NGC 3628 Edge On",
-  "credit": [
-    "Credit: Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board Explanation",
-    "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board"
-  ],
+  "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
   "explanation": "This is what a spiral galaxy looks like sideways. This view of NGC 3628 nearly resembles our own Milky Way Galaxy, which is also known to be a spiral. The dark band across the center is absorbed starlight caused by the galaxy's own interstellar dust. NGC 3628 is the faintest member of the Leo Triplet, a group of galaxies dominated by M65 and M66. The Leo Triplet lies about 35 million light years distant. The center of NGC 3628 emits variable X-ray radiation perhaps indicating the presence of a massive black hole.",
   "date": "1996-11-01",
   "hdurl": "https://apod.nasa.gov/apod/image/9611/ngc3628_aat.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Anglo-Australian Telescope Board Explanation",
-    "Anglo-Australian Telescope Board"
-  ],
+  "copyright": "Anglo-Australian Telescope Board",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9611/ngc3628_aat_big.gif"
 }

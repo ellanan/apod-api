@@ -1,14 +1,10 @@
 {
   "title": "Messier 5",
-  "credit": [],
   "explanation": "\"Beautiful Nebula discovered between the Balance [Libra] & the Serpent [Serpens] ...\" begins the description of the 5th entry in 18th century astronomer Charles Messier's famous catalog of nebulae and star clusters. Though it appeared to Messier to be fuzzy and round and without stars, Messier 5 (M5) is now known to be a globular star cluster, 100,000 stars or more, bound by gravity and packed into a region around 165 light-years in diameter. It lies some 25,000 light-years away. Roaming the halo of our galaxy, globular star clusters are ancient members of the Milky Way. M5 is one of the oldest globulars, its stars estimated to be nearly 13 billion years old. The beautiful star cluster is a popular target for earthbound telescopes. Even close to its dense core, the cluster's red and blue giant stars stand out with yellowish and blue hues in this sharp color image.",
   "date": "2012-08-03",
   "hdurl": "https://apod.nasa.gov/apod/image/1208/m5_block.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mt. Lemmon SkyCenter, University of Arizona Explanation",
-    "Adam Block, Mt. Lemmon SkyCenter, University of Arizona"
-  ],
+  "copyright": "Adam Block, Mt. Lemmon SkyCenter, University of Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1208/m5_block900.jpg"
 }

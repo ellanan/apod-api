@@ -1,14 +1,10 @@
 {
   "title": "The Lynx Arc",
-  "credit": [
-    "Credit: R.A.E. Fosbury (ESA/ST-ECF), et al., ESA, NASA, NOAO Explanation",
-    "R.A.E. Fosbury (ESA/ST-ECF), et al., ESA, NASA, NOAO"
-  ],
+  "credit": "R.A.E. Fosbury (ESA/ST-ECF), et al., ESA, NASA, NOAO",
   "explanation": "While chasing the spectrum of a mysterious arc in a cluster of galaxies within the obscure northerly constellation Lynx, astronomers have stumbled upon the most massive and distant star-forming region ever discovered. The notably red \"Lynx arc\" lies right of center in this color image of the galaxy cluster, a composite of Hubble Space Telescope and ground-based data. While the galaxy cluster lies about 5 billion light-years distant, spectroscopic studies show that the arc itself is actually a distorted image of an even more distant but enormous star-forming region. The image is formed as the closer galaxy cluster's gravity bends light like a magnifying lens, an effect explained by Einstein's theory of gravity. In fact, the monster star-forming region is nearly 12 billion light-years away and about a million times brighter than the more familiar stellar nursery, the Orion Nebula. Estimates are that the star-forming region seen as the Lynx arc contains about a million massive, hot stars, compared to the four stars which power the Orion Nebula's glow. Stars within the Lynx arc are more than twice as hot as the Orion Nebula's central stars and were formed when the Universe was a mere 2 billion years old. Still, astronomers believe that the first stars were formed at even earlier times.",
   "date": "2003-11-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0311/lynx_hst_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0311/lynx_hst_c3.jpg"
 }

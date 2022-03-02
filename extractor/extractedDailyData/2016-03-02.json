@@ -1,14 +1,10 @@
 {
   "title": "Unusual Clouds over Hong Kong",
-  "credit": [],
   "explanation": "What's that in the sky? Earlier this month, in the sky high above Hong Kong, China, not just one unusual type of cloud appeared -- but two. In the foreground was a long lenticular cloud, a cloud that forms near mountains from uprising air and might appear to some as an alien spaceship. Higher in the sky, and further in the background, was a colorful iridescent cloud. Iridescent clouds are composed of water droplets of similar size that diffract different colors of sunlight by different amounts. Furthest in the background is the Sun, blocked from direct view by the opaque lenticular, but providing the light for the colors of the iridescent. Either type of cloud is unusual to see in Hong Kong, and unfortunately, after only a few minutes, both were gone.",
   "date": "2016-03-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1603/LenticularIridescence_Lee_5472.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alfred Lee Explanation",
-    "Alfred Lee"
-  ],
+  "copyright": "Alfred Lee",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1603/LenticularIridescence_Lee_960.jpg"
 }

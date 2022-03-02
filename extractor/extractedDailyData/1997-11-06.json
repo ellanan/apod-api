@@ -1,14 +1,10 @@
 {
   "title": "The Magnetic Carpet Of The Sun",
-  "credit": [
-    "Credit: SOHO Consortium, ESA, NASA Explanation",
-    "SOHO Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO Consortium, ESA, NASA",
   "explanation": "The Sun has a magnetic carpet. Its visible surface appears to be carpeted with tens of thousands of magnetic north and south poles joined by looping field lines which extend outward into the Solar Corona. Recently, researchers have revealed maps of large numbers of these small magnetic concentrations produced using data and images from the space-based SOHO observatory. The above computer generated sunscape highlights these effects, with white and black field lines drawn in joining regions of strong magnetism. A close-up of the Solar surface is illustrated in the inset. These small magnetic regions emerge, fragment, drift, and disappear over periods of only 40 hours or so. Their origin is mystifying and their dynamic behavior is difficult to reconcile with present theories of rotationally driven large-scale Solar Magnetism. Is some unknown process at work? Possibly, but the source of this mystery may well be the solution to another -- the long standing mystery of why the outer Solar Corona is over 100 times hotter than the sun's visible surface! The SOHO data reveal that energy released as these loops break apart and interact seems to be heating the coronal plasma.",
   "date": "1997-11-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9711/magcarpet_soho_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9711/sunmagcarp3_soho.jpg"
 }

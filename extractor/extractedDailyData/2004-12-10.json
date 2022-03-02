@@ -1,14 +1,10 @@
 {
   "title": "Debris Disks Surround Distant Suns",
-  "credit": [
-    "Credit: T. Pyle (SSC), JPL-Caltech, NASA; Inset: HST images Explanation",
-    "T. Pyle (SSC), JPL-Caltech, NASA; Inset: HST images"
-  ],
+  "credit": "T. Pyle (SSC), JPL-Caltech, NASA; Inset: HST images",
   "explanation": "In this dramatic artist's vision, debris along the outer reaches of a planet forming disk orbits in the glare of a distant sun. But inset are actual images of such disks around two nearby stars - AU Microscopii (top left; edge-on) and HD107146 (right: face-on) - as seen by the Hubble Space Telescope. Combined with infrared images from the Spitzer Space Telescope that show debris disks around known planet bearing stars, the data provide the first direct link between extrasolar disks and planets, suggesting a scenario where evolving planets scatter debris produced by collisions into giant disks. In time, the dusty disks may dwindle and become like our own Solar System's comet reservoir, the Kuiper Belt.",
   "date": "2004-12-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0412/debrisDisk_spitzer_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0412/debrisDisk_comb_b.jpg"
 }

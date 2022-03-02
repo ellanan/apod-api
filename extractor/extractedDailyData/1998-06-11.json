@@ -1,14 +1,10 @@
 {
   "title": "SOHO's Twin Sungrazers",
-  "credit": [
-    "Credit: SOHO - LASCO Consortium, ESA, NASA Explanation",
-    "SOHO - LASCO Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - LASCO Consortium, ESA, NASA",
   "explanation": "This four frame animation (courtesy D. Biesecker) shows two comets arcing toward a fatal fiery encounter with the Sun. These discovery images were recorded by the LASCO instrument on board the space-based SOHO solar observatory on June 1-2. A portion of LASCO's circular occulting disk - which blocks the blinding direct sunlight - is seen at the upper left along with a bright solar wind region extending to the right. For scale, the size and position of the Sun's edge are outlined by the white quarter circle on the occulting disk. The Sungrazer comets approach from below and have visible tails. The lower comet's coma is bright enough to cause a horizontal blemish in the digital image, while the tail of the upper comet grows dramatically as it closes with the Sun. The pair are \"twins\" or at least \"siblings\" in the sense that they are both likely members of a family of comets thought to result from the breakup of a single large parent comet. Members of the Sungrazer family can pass within 400,000 miles or less of the solar surface and many, like this pair, do not survive.",
   "date": "1998-06-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9806/twins_soho.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9806/twins_soho.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Light Pillars over Whitefish Bay",
-  "credit": [],
   "explanation": "What's happening in the sky? Unusual lights appeared last week to hover above Whitefish Bay on the eastern edge of Lake Superior between the USA and Canada. Unsure of the cause, the Michigan-based astrophotographer switched camera lenses -- from fisheye to telephoto -- and soon realized he was seeing light pillars: vertical lines of light over a ground source that reflect from falling ice crystals. As the ground temperature was above freezing, the flat crystals likely melted as they approached the ground, creating a lower end to the vertical light pillars. The red ground lights originated from wind turbines on Ile Parisienne, a Canadian Island visible across the bay.",
   "date": "2018-10-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1810/LightPillars_Brady_4000.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Vincent Brady Explanation",
-    "Vincent Brady"
-  ],
+  "copyright": "Vincent Brady",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1810/LightPillars_Brady_960.jpg"
 }

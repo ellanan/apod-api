@@ -1,14 +1,10 @@
 {
   "title": "Pacman and Hartley",
-  "credit": [],
   "explanation": "Touring the solar system with a 6 year orbital period, small comet Hartley 2 (103/P Hartley) will make its closest approach to planet Earth on October 20 and its closest approach to the Sun on October 28. It may become a naked-eye comet, just visible in clear, dark skies. Meanwhile the comet has been a tempting telescopic target, seen here with an alluring green coma as it shares the frame with emission nebula NGC 281 and stars of the constellation Cassiopeia on October 2. The nebula's gaping profile defined by dust clouds against the red glow suggests its more playful moniker, the Pacman Nebula. An apparent short bright streak shows the comet's motion against the background stars during the hour of accumulated exposure time. Over the next few days Comet Hartley 2's motion will also carry it across a field of view featuring the famous double star cluster in Perseus. On November 4 a spacecraft from planet Earth will actually fly within about 700 kilometers of the comet's nucleus. Now dubbed EPOXI, that spacecraft was formerly known as Deep Impact.",
   "date": "2010-10-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1010/hartley2pacman_fernandez.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jaime Fernández Explanation",
-    "Jaime Fernández"
-  ],
+  "copyright": "Jaime Fernández",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1010/hartley2pacman_fernandez900.jpg"
 }

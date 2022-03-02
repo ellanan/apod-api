@@ -1,14 +1,10 @@
 {
   "title": "An Active Sunspot Viewed Sideways",
-  "credit": [],
   "explanation": "Why are there dark spots on the sun? Although noted for thousands of years, sunspots have been known for decades to be regions of the Sun that are slightly depressed and cooled by the Sun's complex and changing magnetic field. High resolution pictures like the above image from Japan's new Sun-watching Hinode satellite, however, are helping to increase modern understanding. In the center of the above image is a sunspot, but not seen in the usual orientation --this sunspot is seen sideways. Of particular interest is erupting glowing gas that shows how the Sun's magnetic field comes right out of the spot center, but curves markedly around the spot edges. Better understanding of how the Sun ejects particles into space may result in more accurate predictions of solar storms that affect satellites, astronauts, and even power grids on Earth.",
   "date": "2007-04-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0704/sidespot_hinode_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Hinode, JAXA, NASA Explanation",
-    "Hinode, JAXA, NASA"
-  ],
+  "copyright": "Hinode, JAXA, NASA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0704/sidespot_hinode.jpg"
 }

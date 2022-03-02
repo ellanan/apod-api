@@ -1,14 +1,10 @@
 {
   "title": "Mars Weather Watch",
-  "credit": [
-    "Credit: Malin Space Science Systems, MGS, JPL, NASA Explanation",
-    "Malin Space Science Systems, MGS, JPL, NASA"
-  ],
+  "credit": "Malin Space Science Systems, MGS, JPL, NASA",
   "explanation": "Mars may be a cold, dry planet but its weather is dynamic. On June 30, wide angle cameras on board the Mars Global Surveyor (MGS) spacecraft watched the development of this large scale storm system above Mars' north polar area. These frames were recorded on successive mapping orbits at intervals of about 2 hours, with the white north polar cap near the center of each. High winds seem to mix the brownish dust clouds and white water-ice clouds as the curling storm front churns over the extreme northern martain landscape. The MGS cameras have watched similar storms in this region during the months of July and August revealing surprisingly complex weather. Mars Climate Orbiter will join the MGS spacecraft in martian orbit in late September, and in December Mars Polar Lander is scheduled to touch down near the Red Planet's south pole.",
   "date": "1999-08-16",
   "hdurl": "https://apod.nasa.gov/apod/image/9908/mars4storm_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9908/mars4storm_mgs.jpg"
 }

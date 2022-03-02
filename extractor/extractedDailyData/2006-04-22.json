@@ -1,14 +1,10 @@
 {
   "title": "Z is for Mars",
-  "credit": [],
   "explanation": "This composite of images spaced about a week apart - from late July 2005 (bottom right) through February 2006 (top left) - traces the retrograde motion of ruddy-colored Mars through planet Earth's night sky. On November 7th, 2005 the Red Planet was opposite the Sun in Earth's sky (at opposition). That date occurred at the center of this series with Mars near its closest and brightest. But Mars didn't actually reverse the direction of its orbit to trace out the Z-shape. Instead, the apparent backwards or retrograde motion with respect to the background stars is a reflection of the motion of the Earth itself. Retrograde motion can be seen each time Earth overtakes and laps planets orbiting farther from the Sun, the Earth moving more rapidly through its own relatively close-in orbit. The familiar Pleiades star cluster lies at the upper left.",
   "date": "2006-04-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0604/Mars2005_6_tezel_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tunc Tezel Explanation",
-    "Tunc Tezel"
-  ],
+  "copyright": "Tunc Tezel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0604/Mars2005_6_tezel_c51.jpg"
 }

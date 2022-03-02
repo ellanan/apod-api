@@ -1,14 +1,10 @@
 {
   "title": "Moon behind Lava Fountain",
-  "credit": [],
   "explanation": "What's happened to the Moon? Nothing, but something has happened to the image of the Moon. The heat from a volcanic lava fountain in the foreground has warmed and made turbulent the air nearby, causing passing light to refract differently than usual. The result is a lava plume that appears to be melting the Moon. The featured picture was taken as the full Sturgeon Moon was setting behind Mt. Etna as it erupted in Italy about one week ago. The picture is actually a composite of two images, one taken right after the other, with the same camera and lens. The first image was a quick exposure to capture details of the setting Moon, while the second exposure, taken after the Moon set a few minutes later, was longer so as to capture details of the faint lava jets. From our Earth, we can only see the Sun, Moon, planets, and stars as they appear through the distortion of the Earth's atmosphere. This distortion can not only change the images of familiar orbs into unusual shapes, it can --unexpectedly at times -- delay sunset and moonset by several minutes.",
   "date": "2018-09-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1809/MoonPlume_Pace_4205.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Marcella Giulia Pace (GreenFlash.Photo) Explanation",
-    "Marcella Giulia Pace (GreenFlash.Photo)"
-  ],
+  "copyright": "Marcella Giulia Pace (GreenFlash.Photo)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1809/MoonPlume_Pace_960.jpg"
 }

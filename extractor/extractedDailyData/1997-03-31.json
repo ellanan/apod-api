@@ -1,14 +1,10 @@
 {
   "title": "NGC 3242: The 'Ghost of Jupiter' Planetary Nebula",
-  "credit": [
-    "Credit: B. Balick (U. Washington) et al., WFPC2, HST, NASA Explanation",
-    "B. Balick (U. Washington) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "B. Balick (U. Washington) et al., WFPC2, HST, NASA",
   "explanation": "It's a weed, it's Jupiter, no it's - actually planetary nebula NGC 3242. After a star like our Sun completes fusion in its core, it throws off its outer layers it a striking display called a planetary nebula. NGC 3242 is such a planetary nebula, with the stellar remnant white dwarf star visible at the center. This nebula is sometimes called \"The Ghost of Jupiter\" for its similar appearance to the familiar planet. NGC 3242 is much farther away however, than the measly 40 light-minutes distance to Jupiter. In fact, by comparing the apparent expansion rate with the actual rate determined from Doppler studies, astronomers have estimated the distance to NGC 3242 to be about 1400 light-years away. The red FLIERs visible near the edges of the nebula remain mysterious.",
   "date": "1997-03-31",
   "hdurl": "https://apod.nasa.gov/apod/image/9703/ngc3242_bb_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9703/ngc3242_bb.jpg"
 }

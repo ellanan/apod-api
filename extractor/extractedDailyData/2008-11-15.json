@@ -1,14 +1,10 @@
 {
   "title": "Arp 273",
-  "credit": [],
   "explanation": "The two prominent stars in the foreground of this colorful skyscape are well within our own Milky Way Galaxy. Their spiky appearance is due to diffraction in the astronomer's telescope. But the two eye-catching galaxies in view lie far beyond the Milky Way, at a distance of about 200 million light-years. Their distorted appearance is due to gravitational tides as the pair engage in close encounters. From our perspective, the bright cores of the galaxies are separated by about 80,000 light-years. Cataloged as Arp 273 (also as UGC 1810), the galaxies do look peculiar, but interacting galaxies are now understood to be common in the universe. In fact, the nearby large spiral Andromeda Galaxy is known to be some 2 million light-years away and approaching the Milky Way. Arp 273 may offer an analog of their far future encounter. Repeated galaxy encounters on a cosmic timescale can ultimately result in a merger into a single galaxy of stars.",
   "date": "2008-11-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/ugc1810s_block.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adam Block, Mount Lemmon SkyCenter, University of Arizona Explanation",
-    "Adam Block, Mount Lemmon SkyCenter, University of Arizona"
-  ],
+  "copyright": "Adam Block, Mount Lemmon SkyCenter, University of Arizona",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/ugc1810crop_block.jpg"
 }

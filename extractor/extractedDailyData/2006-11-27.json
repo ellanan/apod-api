@@ -1,14 +1,10 @@
 {
   "title": "Mysterious Spokes in Saturn's Rings",
-  "credit": [
-    "Credit: CICLOPS, JPL, ESA, NASA Explanation",
-    "CICLOPS, JPL, ESA, NASA"
-  ],
+  "credit": "CICLOPS, JPL, ESA, NASA",
   "explanation": "What causes the mysterious spokes in Saturn's rings? Visible on the left of the above image as ghostlike impressions, spokes were first discovered by the Voyager spacecraft that buzzed by Saturn in the early 1980s. Their existence was unexpected, and no genesis hypothesis has ever become accepted. Oddly, the spokes were conspicuously absent from initial images sent back by the robot Cassini spacecraft now orbiting Saturn. Analyses of archived Voyager images have led to the conclusions that the transient spokes, which may form and dissipate over a few hours, are composed of electrically charged sheets of small dust-sized particles. Some recent images from Cassini like that shown above have now finally shown the enigmatic spokes superposed on Saturn's B ring. Hypotheses for spoke creation include small meteors impacting the rings and electron beams from Saturnian atmospheric lightning spraying the rings. Observations of the puzzling spokes, as well as creative origin speculations, are ongoing.",
   "date": "2006-11-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0611/spokes_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0611/spokes_cassini.jpg"
 }

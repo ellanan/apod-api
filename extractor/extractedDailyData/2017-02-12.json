@@ -1,14 +1,10 @@
 {
   "title": "Comet 45P Passes Near the Earth",
-  "credit": [],
   "explanation": "A large snowball has just passed the Earth. Known as Comet 45P/Honda�Mrkos�Pajdu��kov�\", or 45P for short, the comet came 10 times closer to Earth yesterday than the Earth ever gets to the Sun. During this passage, the comet was photographed sporting a thin ion tail and a faint but expansive green coma. The green color is caused mostly by energized molecules of carbon. Comet 45P became just bright enough to see with the unaided eye when it came closest to the Sun in December. Now, however, the comet is fading as it heads back out to near the orbit of Jupiter, where it spends most of its time. The kilometer-sized nucleus of ice and dirt will return to the inner Solar System in 2022.",
   "date": "2017-02-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1702/Comet45Pv2_Hemmerich_1768.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fritz Helmut Hemmerich Explanation",
-    "Fritz Helmut Hemmerich"
-  ],
+  "copyright": "Fritz Helmut Hemmerich",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1702/Comet45Pv2_Hemmerich_960.jpg"
 }

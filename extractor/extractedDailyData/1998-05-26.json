@@ -1,14 +1,10 @@
 {
   "title": "A Seemingly Square Sun",
-  "credit": [],
   "explanation": "Isn't the Sun round? Yes, but in the above picture, the Earth's atmosphere makes it appear almost square. Here a layer of air near the Earth was so warm it acted like a giant lens, creating increasingly distorted paths for sunlight to reach the camera. Similarly, on a long flat highway, it may appear that the road in the distance is covered with water. In this case, light from the blue sky is being unusually refracted by warm air just above the dry road. No matter how the Earth's atmosphere makes the Sun appear, the Sun will always be spherical. This setting Sun was photographed over Lake Michigan in Muskegon, MI.",
   "date": "1998-05-26",
   "hdurl": "https://apod.nasa.gov/apod/image/9805/squaresun_tp_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: T. Polakis Explanation",
-    "T. Polakis"
-  ],
+  "copyright": "T. Polakis",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9805/squaresun_tp.jpg"
 }

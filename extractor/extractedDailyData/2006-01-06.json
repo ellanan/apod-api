@@ -1,14 +1,10 @@
 {
   "title": "The Tarantula Nebula",
-  "credit": [],
   "explanation": "First cataloged as a star, 30 Doradus is actually an immense star forming region in nearby galaxy The Large Magellanic Cloud. The region's spidery appearance is responsible for its popular name, the Tarantula Nebula, except that this tarantula is about 1,000 light-years across, and 180,000 light-years away in the southern constellation Dorado. If the Tarantula Nebula were at the distance of the Orion Nebula (1,500 light-years), the nearest stellar nursery to Earth, it would appear to cover about 30 degrees on the sky or 60 full moons. The spindly arms of the Tarantula Nebula surround NGC 2070, a cluster that contains some of the intrinsically brightest, most massive stars known. Intriguing details of the nebula's core can be seen in this remarkable skyscape, a composite of 31 hours of exposure time. This cosmic Tarantula also lies near the site of the closest recent supernova.",
   "date": "2006-01-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0601/tarantula_moore_f.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Brad Moore Explanation",
-    "Brad Moore"
-  ],
+  "copyright": "Brad Moore",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0601/tarantula_moore_fr1.jpg"
 }

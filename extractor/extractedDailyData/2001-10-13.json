@@ -1,14 +1,10 @@
 {
   "title": "A Portrait of Saturn from Titan",
-  "credit": [
-    "Credit: ESA, NASA Explanation",
-    "ESA, NASA"
-  ],
+  "credit": "ESA, NASA",
   "explanation": "This artistic portrait of Saturn depicts how it might look from Titan, Saturn's largest moon. In the foreground sits ESA's Huygens probe, which will be released by NASA's Cassini spacecraft and parachute to Titan's surface. Cassini will reach Saturn in 2004 and release the Huygens probe later that year. Titan is one of only two moons in the Solar System to have an atmosphere. It has been suggested Titan might have gasoline-like lakes and an atmospheric chemistry like that found on early Earth. The Cassini spacecraft was launched in October 1997 and has now traveled beyond Jupiter.",
   "date": "2001-10-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0110/huygenspara_esa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0110/huygenspara_esa.jpg"
 }

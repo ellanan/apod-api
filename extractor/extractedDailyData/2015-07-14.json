@@ -1,14 +1,10 @@
 {
   "title": "New Horizons Passes Pluto and Charon",
-  "credit": [],
   "explanation": "Will the New Horizons spacecraft survive its closest approach to Pluto and return useful images and data? Humanity will know in a few hours. Regardless of how well it functions, New Horizon's rapid speed will take it whizzing past Pluto and its moons today, with the time of closest approach being at 11:50 UT (7:50 am EDT). To better take images and data, though, the robotic spacecraft was preprogrammed and taken intentionally out of contact with the Earth until about 1:00 am UT July 15, which corresponds to about 9:00 pm EDT on July 14. Therefore, much of mankind will be holding its breath through this day, hoping that the piano-sized spacecraft communicates again with ground stations on Earth. Hopefully, at that time, New Horizons will begin beaming back new and enlightening data about a world that has remained remote and mysterious since its discovery 85 years ago. Featured above is a New Horizons composite image of the moon Charon (left) and Pluto (right) taken 3 days ago, already showing both worlds in unprecedented detail.",
   "date": "2015-07-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1507/PlutoCharon01_NewHorizons_1422.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: NASA, Johns Hopkins Univ./APL, Southwest Research Inst. Explanation",
-    "NASA, Johns Hopkins Univ./APL, Southwest Research Inst."
-  ],
+  "copyright": "NASA, Johns Hopkins Univ./APL, Southwest Research Inst.",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1507/PlutoCharon01_NewHorizons_1080.jpg"
 }

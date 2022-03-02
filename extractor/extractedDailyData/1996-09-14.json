@@ -1,14 +1,10 @@
 {
   "title": "Aristarchus' Unbelievable Discoveries",
-  "credit": [
-    "Credit: Space Shuttle Columbia, STS58, NASA Explanation",
-    "Space Shuttle Columbia, STS58, NASA"
-  ],
+  "credit": "Space Shuttle Columbia, STS58, NASA",
   "explanation": "",
   "date": "1996-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/samos_sts58_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/samos_sts58.gif"
 }

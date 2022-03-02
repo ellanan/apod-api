@@ -1,14 +1,10 @@
 {
   "title": "Sedna of the Outer Solar System",
-  "credit": [
-    "Credit: R. Hurt (SSC-Caltech), JPL-Caltech, NASA Explanation",
-    "R. Hurt (SSC-Caltech), JPL-Caltech, NASA"
-  ],
+  "credit": "R. Hurt (SSC-Caltech), JPL-Caltech, NASA",
   "explanation": "What is the most distant known object in our Solar System? A new answer to this centuries-old question was announced yesterday by NASA with the discovery of a dark red object dubbed Sedna. Although over twice the distance to Pluto, Sedna is near its closest approach to the Sun. Sedna's highly elliptical orbit will further displace it by 10 times, making it a candidate for the long-hypothesized Oort cloud of icy objects thought to extend to the Solar System's edge. Sedna is estimated to be about three-quarters the size of Pluto and therefore the largest Solar System object found since Pluto in 1930. Whether Sedna is ever designated a planet is at the discretion of the International Astronomical Union. The above drawing depicts how Sedna might look facing the distant Sun. The unexpectedly red color, the unusual orbit, and the origin of Sedna will surely be topic of much future research.",
   "date": "2004-03-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0403/sedna_nasa_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0403/sedna_nasa.jpg"
 }

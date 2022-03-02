@@ -1,14 +1,10 @@
 {
   "title": "Toutatis Nears Planet Earth",
-  "credit": [],
   "explanation": "On Wednesday, September 29, asteroid Toutatis came within one million miles of Earth -- the closest predicted aproach of a sizable asteroid or comet to our fair planet in this century. Coming within one million miles or about 4 times the Earth-Moon distance, Earth would have appeared to be nearly the size of the full moon in the asteroid's sky. In Earth's sky, Toutatis appeared only as a faint, starlike, but rapidly moving object. Even so, asteroid 4179 Toutatis was still bright enough to see in small telescopes. Astronomers John Chumack, observing near Dayton Ohio, and Juergen Wolf from near Palo Alto, California, offer these composite images showing the progress of the asteroid (seen as a series of dots) against a background of distant stars. Their multiple exposures span a two hour period on two different days about a week before the asteroid's record close approach, which tracked through night skies south of the celestial equator.",
   "date": "2004-10-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0410/toutatis_2panelc_ChumackWolf.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Top: John Chumack / Bottom: Juergen Wolf Explanation",
-    "Top: John Chumack / Bottom: Juergen Wolf"
-  ],
+  "copyright": "Top: John Chumack / Bottom: Juergen Wolf",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0410/toutatis_2panelc_ChumackWolf.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "NGC 6888: The Crescent Nebula",
-  "credit": [],
   "explanation": "What caused the Crescent Nebula? Looking like an emerging space cocoon, the Crescent Nebula, visible in the center of the above image, was created by the brightest star in its center. A leading progenitor hypothesis has the Crescent Nebula beginning to form about 250,000 years ago. At that time, the massive central star had evolved to become a Wolf-Rayet star (WR 136), shedding its outer envelope in a strong stellar wind, ejecting the equivalent of our Sun's mass every 10,000 years. This wind impacted surrounding gas left over from a previous phase, compacting it into a series of complex shells, and lighting it up. The Crescent Nebula, also known as NGC 6888, lies about 4,700 light-years away in the constellation of Cygnus. Star WR 136 will probably undergo a supernova explosion sometime in the next million years.",
   "date": "2007-11-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/crescent_bugnet_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Franck Bugnet Explanation",
-    "Franck Bugnet"
-  ],
+  "copyright": "Franck Bugnet",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/crescent_bugnet.jpg"
 }

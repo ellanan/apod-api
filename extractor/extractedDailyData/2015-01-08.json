@@ -1,14 +1,10 @@
 {
   "title": "Stars and Dust in Corona Australis",
-  "credit": [],
   "explanation": "Cosmic dust clouds and young, energetic stars inhabit this telescopic vista, less than 500 light-years away toward the northern boundary of Corona Australis, the Southern Crown. The dust clouds effectively block light from more distant background stars in the Milky Way. But the striking complex of reflection nebulae cataloged as NGC 6726, 6727, and IC 4812 produce a characteristic blue color as light from the region's young hot stars is reflected by the cosmic dust. The dust also obscures from view stars still in the process of formation. At the left, smaller yellowish nebula NGC 6729 bends around young variable star R Coronae Australis. Just below it, glowing arcs and loops shocked by outflows from embedded newborn stars are identified as Herbig-Haro objects. On the sky this field of view spans about 1 degree. That corresponds to almost 9 light-years at the estimated distance of the nearby star forming region.",
   "date": "2015-01-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1501/NGC6726_c80schedler.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: CHART32 Team, Processing - Johannes Schedler Explanation",
-    "CHART32 Team, Processing - Johannes Schedler"
-  ],
+  "copyright": "CHART32 Team, Processing - Johannes Schedler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1501/NGC6726_c23schedler.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Io's Giant Volcano Pele",
-  "credit": [
-    "Credit: Galileo Project, JPL, NASA Explanation",
-    "Galileo Project, JPL, NASA"
-  ],
+  "credit": "Galileo Project, JPL, NASA",
   "explanation": "Io has some very large volcanoes. One of the largest is evident near the center of the above photograph and named Pele, for the mythological Polynesian fire goddess. The Galileo spacecraft now orbiting Jupiter took this picture of Jupiter's most active moon in June, although it was released just last week. Evident around Pele is a large red ring, thought to be evidence of recent volcanic activity. The red color indicates the presence of Sulfur, although how the Sulfur was produced is not precisely known.",
   "date": "1996-12-05",
   "hdurl": "https://apod.nasa.gov/apod/image/9612/iopele_gal_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9612/iopele_gal.jpg"
 }

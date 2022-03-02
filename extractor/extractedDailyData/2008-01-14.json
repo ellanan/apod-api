@@ -1,14 +1,10 @@
 {
   "title": "The Cocoon Nebula from CFHT",
-  "credit": [],
   "explanation": "What creates the colors of the Cocoon Nebula? The Cocoon Nebula, cataloged as IC 5146, is a strikingly beautiful nebula located about 4,000 light years away toward the constellation of the Swan (Cygnus). Inside the Cocoon Nebula is a newly developing open cluster of stars. Like other stellar nurseries, the Cocoon Nebula holds, at the same time, a bright red emission nebula, blue reflection nebulas, and dark absorption nebulas. Given different mixtures, these three processes create a host of colors in this image taken recently by the Canada-France-Hawaii Telescope (CFHT) in Hawaii, USA. Speculation based on recent measurements holds that the massive star towards the left of the picture opened a hole in an existing molecular cloud through which much of the glowing material flows. The same star, which formed about 100,000 years ago, now provides the energy source for much of the emitted and reflected light from this nebula.",
   "date": "2008-01-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0801/cocoon_cfht_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight Explanation",
-    "Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight"
-  ],
+  "copyright": "Jean-Charles Cuillandre (CFHT) & Giovanni Anselmi (Coelum Astronomia), Hawaiian Starlight",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0801/cocoon_cfht.jpg"
 }

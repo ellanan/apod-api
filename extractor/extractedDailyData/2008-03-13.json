@@ -1,14 +1,10 @@
 {
   "title": "Sculpting the South Pillar",
-  "credit": [
-    "Credit: Nathan Smith (Univ. of Colorado), et al., SSC, JPL, Caltech, NASA Explanation",
-    "Nathan Smith (Univ. of Colorado), et al., SSC, JPL, Caltech, NASA"
-  ],
+  "credit": "Nathan Smith (Univ. of Colorado), et al., SSC, JPL, Caltech, NASA",
   "explanation": "Eta Carinae, one of the most massive and unstable stars in the Milky Way Galaxy, has a profound effect on its environment. Found in the South Pillar region of the Carina Nebula, these fantastic pillars of glowing dust and gas with embedded newborn stars were sculpted by the intense wind and radiation from Eta Carinae and other massive stars. Glowing brightly in planet Earth's southern sky, the expansive Eta Carinae Nebula is a mere 10,000 light-years distant. Still, this remarkable cosmic vista is largely obscured by nebular dust and only revealed here in penetrating infrared light by the Spitzer Space Telescope. Eta Carinae itself is off the top left of the false-color image, with the bright-tipped dust pillars pointing suggestively toward the massive star's position. The Spitzer image spans almost 200 light-years at the distance of Eta Carinae.",
   "date": "2008-03-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0803/etacar_spitzer_f2048.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0803/etacar_spitzer_c800.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Hubble Ultra Deep Field",
-  "credit": [
-    "Credit: S. Beckwith & the HUDF Working Group (STScI), HST, ESA, NASA Explanation",
-    "S. Beckwith & the HUDF Working Group (STScI), HST, ESA, NASA"
-  ],
+  "credit": "S. Beckwith & the HUDF Working Group (STScI), HST, ESA, NASA",
   "explanation": "What did the first galaxies look like? To help answer this question, the Hubble Space Telescope has just finished taking the Hubble Ultra Deep Field (HUDF), the deepest image of the universe ever taken in visible light. Pictured above, the HUDF shows a sampling of the oldest galaxies ever seen, galaxies that formed just after the dark ages, 13 billion years ago, when the universe was only 5 percent of its present age. The Hubble Space Telescope's NICMOS and new ACS cameras took the image. Staring nearly 3 months at the same spot, the HUDF is four times more sensitive, in some colors, than the original Hubble Deep Field (HDF). Astronomers the world over will likely study the HUDF for years to come to better understand how stars and galaxies formed in the early universe.",
   "date": "2004-03-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0403/hudf_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0403/hudf_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Galaxy NGC 7714 After Collision",
-  "credit": [
-    "Credit: NASA, ESA; Acknowledgement: A. Gal-Yam (Weizmann Inst.) Explanation",
-    "NASA, ESA; Acknowledgement: A. Gal-Yam (Weizmann Inst.)"
-  ],
+  "credit": "NASA, ESA; Acknowledgement: A. Gal-Yam (Weizmann Inst.)",
   "explanation": "Is this galaxy jumping through a giant ring of stars? Probably not. Although the precise dynamics behind the featured image is yet unclear, what is clear is that the pictured galaxy, NGC 7714, has been stretched and distorted by a recent collision with a neighboring galaxy. This smaller neighbor, NGC 7715, situated off to the left of the featured frame, is thought to have charged right through NGC 7714. Observations indicate that the golden ring pictured is composed of millions of older Sun-like stars that are likely co-moving with the interior bluer stars. In contrast, the bright center of NGC 7714 appears to be undergoing a burst of new star formation. NGC 7714 is located about 100 million light years away toward the constellation of the Fish (Pisces). The interactions between these galaxies likely started about 150 million years ago and should continue for several hundred million years more, after which a single central galaxy may result.",
   "date": "2015-06-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1506/ngc7714_hubble_3269.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1506/ngc7714_hubble_1080.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Witch Head Nebula",
-  "credit": [
-    "Credit: G. Greaney Explanation",
-    "G. Greaney"
-  ],
+  "credit": "G. Greaney",
   "explanation": "",
   "date": "1999-08-29",
   "hdurl": "https://apod.nasa.gov/apod/image/9908/witchhead_gg_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9908/witchhead_gg.jpg"
 }

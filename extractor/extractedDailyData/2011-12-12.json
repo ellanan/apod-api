@@ -1,14 +1,10 @@
 {
   "title": "An Unusual Vein of Deposited Rock on Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, NASA, JPL, Cornell; Image Processing: Kenneth Kremer, Marco Di Lorenzo Explanation",
-    "Mars Exploration Rover Mission, NASA, JPL, Cornell; Image Processing: Kenneth Kremer, Marco Di Lorenzo"
-  ],
+  "credit": "Mars Exploration Rover Mission, NASA, JPL, Cornell; Image Processing: Kenneth Kremer, Marco Di Lorenzo",
   "explanation": "What could create this unusual vein of rock on Mars? A leading hypothesis is that this thin rock layer dubbed \"Homestake\" was deposited by a running liquid -- like most mineral veins are here on Earth. And the running liquid of choice is water. Therefore, this mineral streak -- rich in calcium and sulfur -- is the latest in the growing body of evidence that part of Mars had a watery past. This, in turn, increases the speculation that Mars was once hospitable to life. Pictured above is a vista taken near the western rim of Endeavour Crater by the Opportunity rover currently exploring Mars. The inset image shows a close up of the recently discovered mineral vein.",
   "date": "2011-12-12",
   "hdurl": "https://apod.nasa.gov/apod/image/1112/marsvein_opportunity_1296.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1112/marsvein_opportunity_900.jpg"
 }

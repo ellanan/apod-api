@@ -1,14 +1,10 @@
 {
   "title": "A Landing on Planet Earth",
-  "credit": [
-    "Credit: NASA, Bill Ingalls Explanation",
-    "NASA, Bill Ingalls"
-  ],
+  "credit": "NASA, Bill Ingalls",
   "explanation": "With parachute deployed and retro-rockets blazing, this spacecraft landed on planet Earth on September 11 (UT) in a remote area near the town of Zhezkazgan, Kazakhstan. Seen in silhouette against the rockets' glare, the spacecraft is a Soyuz TMA-08M. Its crew, Expedition 36 Commander Pavel Vinogradov and Flight Engineer Alexander Misurkin of the Russian Federal Space Agency (Roscosmos), and Flight Engineer Chris Cassidy of NASA were returning after five and half months aboard the International Space Station. The Soyuz retro-rockets fire very quickly and for an extremely short duration near touchdown. Capturing the moment, the well-timed photograph was taken from a helicopter flying over the landing site.",
   "date": "2013-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1309/201309110001HQ.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1309/900px_201309110001HQ.jpg"
 }

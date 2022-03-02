@@ -1,14 +1,10 @@
 {
   "title": "The Weather on Neptune",
-  "credit": [
-    "Credit: L. Sromovsky (U. Wisconson-Madison), WFPC2, HST, NASA MPEG Movie of Neptune Rotating Explanation",
-    "L. Sromovsky (U. Wisconson-Madison), WFPC2, HST, NASA MPEG Movie of Neptune Rotating"
-  ],
+  "credit": "L. Sromovsky (U. Wisconson-Madison), WFPC2, HST, NASA MPEG Movie of Neptune Rotating",
   "explanation": "Today's weather on Neptune will be typical. Highs in the upper atmosphere will be about -150 Centigrade, with winds ranging about 900 miles per hour near the equator. Much was learned recently about Neptune's weather by the release last week of time-lapse pictures of the most distant gas giant in our Solar System. These pictures show how the weather differs between the two hemispheres of Neptune. The overall blue color of Neptune is caused by methane gas preferentially absorbing red light, while the yellow spots are the highest clouds. It is still not known why Neptune's Great Dark Spot disappeared.",
   "date": "1996-10-28",
   "hdurl": "https://apod.nasa.gov/apod/image/neptune1_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/neptune1_hst.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Moonquakes Surprisingly Common",
-  "credit": [
-    "Credit: NASA, Apollo 11 Crew Explanation",
-    "NASA, Apollo 11 Crew"
-  ],
+  "credit": "NASA, Apollo 11 Crew",
   "explanation": "Why are there so many moonquakes? Analyses of seismometers left on the moon by the Apollo moon landings reveals a surprising number of moonquakes occurring within 100 kilometers of the surface. In fact, 62 moonquakes were detected in data recorded between 1972 and 1977. Many of these moonquakes are not only strong enough to move furniture in a lunar apartment, but the stiff rock of the moon continues to vibrate for many minutes, significantly longer than the softer rock earthquakes on Earth. The cause of the moonquakes remains unknown, but a leading hypothesis is the collapse of underground faults. Regardless of the source, future moon dwellings need to be built to withstand the frequent shakings. Pictured here 50 years ago today, Apollo 11 astronaut Buzz Aldrin stands beside a recently deployed lunar seismometer, looking back toward the lunar landing module.",
   "date": "2019-07-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1907/AldrinSeismometer_Apollo11_3000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1907/AldrinSeismometer_Apollo11_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Large Binocular Telescope",
-  "credit": [],
   "explanation": "With moonlight on the horizon, a starry sky and the northern Milky Way provide the background for this dramatic view of the World at Night. The imposing structure in the foreground houses the Large Binocular Telescope (LBT), on Mount Graham, Arizona. Inside, the two 8.4 meter diameter mirrors of the LBT really are side-by-side on a common mount, an arrangement mimicking the design of more modest optical equipment usually carried around the neck. While not exactly portable, the benefits of the large scale binocular configuration adopted include an increase in sensitivity over a single mirror telescope and high resolution imaging for faint objects over a relatively wide field of view. An international collaboration operates the LBT Observatory.",
   "date": "2008-02-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0802/LBT_seip.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip (TWAN) Explanation",
-    "Stefan Seip (TWAN)"
-  ],
+  "copyright": "Stefan Seip (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0802/LBT_seip800.jpg"
 }

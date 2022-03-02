@@ -1,14 +1,10 @@
 {
   "title": "ISS and Mercury Too",
-  "credit": [],
   "explanation": "Transits of Mercury are relatively rare. Monday's leisurely 7.5 hour long event was only the 3rd of 14 Mercury transits in the 21st century. If you're willing to travel, transits of the International Space Station can be more frequent though, and much quicker. This sharp video frame composite was taken from a well-chosen location in Philadelphia, USA. It follows the space station, moving from upper right to lower left, as it crossed the Sun's disk in 0.6 seconds. Mercury too is included as the small, round, almost stationary silhouette just below center. In apparent size, the International Space Station looms larger from low Earth orbit, about 450 kilometers from Philadelphia. Mercury was about 84 million kilometers away. (Editor's note: The stunning video includes another double transit, Mercury and a Pilatus PC12 aircraft. Even quicker than the ISS to cross the Sun, the aircraft was about 1 kilometer away.)",
   "date": "2016-05-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1605/mercury-transit-2016-50legault.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Thierry Legault Explanation",
-    "Thierry Legault"
-  ],
+  "copyright": "Thierry Legault",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1605/mercury-transit-2016-50legaultc.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "NGC 1097: Spiral Galaxy with a Central Eye",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, SINGS Team (SSC) Explanation",
-    "NASA, JPL-Caltech, SINGS Team (SSC)"
-  ],
+  "credit": "NASA, JPL-Caltech, SINGS Team (SSC)",
   "explanation": "What's happening at the center of spiral galaxy NGC 1097? No one is sure, but it likely involves a supermassive black hole. Matter falling in from a bar of stars and gas across the center is likely being heated by an extremely energetic region surrounding the central black hole. From afar, the entire central region appears in the above false-color infrared image as a mysterious eye. Near the left edge and seen in blue, a smaller companion galaxy is wrapped in the spectacular spiral arms of the large spiral, lit in pink by glowing dust. Currently about 40 thousand light-years from the larger galaxy's center, the gravity of the companion galaxy appears to be reshaping the larger galaxy as it is slowly being destroyed itself. NGC 1097 is located about 50 million light years away toward the constellation of the furnace (Fornax).",
   "date": "2009-07-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0907/ngc1097_spitzer_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0907/ngc1097_spitzer.jpg"
 }

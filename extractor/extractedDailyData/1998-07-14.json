@@ -1,14 +1,10 @@
 {
   "title": "At Work on Mars",
-  "credit": [
-    "Credit: IMP Team, JPL, NASA Explanation",
-    "IMP Team, JPL, NASA"
-  ],
+  "credit": "IMP Team, JPL, NASA",
   "explanation": "To learn about the history ofMars, just ask the rocks. Last year, that's exactly what the robot rover Sojourner did. Sojouner can be seen, above, analyzing a rock nicknamed Moe, trying to discern its past. One significant discovery of the Mars Pathfinder mission was that of conglomerate rocks, indicating the presence of running water in the past. Such water, in turn, indicates that Mars was much more like watery Earth in the distant past. Visible in the foreground of this color-enhanced mosaic is part of the Sagan Memorial Station, while a hill nicknamed one of the \"Twin Peaks\" is visible about a kilometer in the distance.",
   "date": "1998-07-14",
   "hdurl": "https://apod.nasa.gov/apod/image/9807/marshill_mpf_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9807/marshill_mpf.jpg"
 }

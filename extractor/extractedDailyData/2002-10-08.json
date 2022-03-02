@@ -1,14 +1,10 @@
 {
   "title": "The X-Ray Jets of XTE J1550",
-  "credit": [
-    "Credit: CXC, NASA; Illustration Credit: M. Weiss (CXC) Explanation",
-    "CXC, NASA; Illustration Credit: M. Weiss (CXC)"
-  ],
+  "credit": "CXC, NASA; Illustration Credit: M. Weiss (CXC)",
   "explanation": "The motion of ultra-fast jets shooting out from a candidate black hole star system have now been documented by observations from the orbiting Chandra X-ray Observatory. In 1998, X-ray source XTE J1550-564 underwent a tremendous outburst. Jets of material sent streaming into space at near light-speed impacted existing gas heating it so much it glowed in X-ray light. The panels on the left of the above image show in X-rays that the hot spots have moved out by more than three light years in the time since the explosion, with the left jet recently fading below detectability. The drawing of the right depicts the binary star system that likely produced the X-ray jets, with a normal red star on the left dumping matter into an accretion disk around the black hole on the right. The jets are thought to be emitted along the spin axis of the black hole.",
   "date": "2002-10-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0210/xtej1550_chandra_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0210/xtej1550_chandra.jpg"
 }

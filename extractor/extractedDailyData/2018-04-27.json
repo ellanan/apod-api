@@ -1,14 +1,10 @@
 {
   "title": "Gaia's Milky Way",
-  "credit": [],
   "explanation": "This grand allsky view of our Milky Way and nearby galaxies is not a photograph. It's a map based on individual measurements for nearly 1.7 billion stars. The astronomically rich data set used to create it, the sky-scanning Gaia satellite's second data release, includes remarkably precise determinations of position, brightness, colour, and parallax distance for 1.3 billion stars. Of course, that's about 1 percent of the total number of stars in the Milky Way. The flat plane of our galaxy still dominates the view. Home to most Milky Way stars it stretches across the center of Gaia's stellar data map. Voids and rifts along the galactic plane correspond to starlight-obscuring interstellar dust clouds. At lower right are stars of the Large and Small Magellanic Clouds, neighboring galaxies that lie just beyond the Milky Way.",
   "date": "2018-04-27",
   "hdurl": "https://apod.nasa.gov/apod/image/1804/Gaia_s_sky_in_colour_g.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: ESA, Gaia, DPAC Explanation",
-    "ESA, Gaia, DPAC"
-  ],
+  "copyright": "ESA, Gaia, DPAC",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1804/Gaia_s_sky_in_colour_g1024.jpg"
 }

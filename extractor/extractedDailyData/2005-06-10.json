@@ -1,14 +1,10 @@
 {
   "title": "Titan's Cryovolcano",
-  "credit": [
-    "Credit: VIMS Team, U. Arizona, ESA, NASA Explanation",
-    "VIMS Team, U. Arizona, ESA, NASA"
-  ],
+  "credit": "VIMS Team, U. Arizona, ESA, NASA",
   "explanation": "Investigators suspect the domed feature detailed above is an ice volcano, or cryovolcano, seen in infrared light through the hazy atmosphere on Saturn's moon Titan. Since Titan's surface temperature is around minus 180 degrees Celsius, lava welling up to form the volcanic mound would be icy indeed - possibly a slurry of methane, ammonia, and water ice combined with other ices and hydrocarbons. The circular feature is roughly thirty kilometers in diameter. If its volcanic nature is confirmed, the discovery of cryovolcanism on Titan could explain the origin of methane in Titan's atmosphere. Before the Cassini-Huygens mission to Saturn, a popular explanation for replenishing Titan's concentration of atmospheric methane was the presence of an extensive, methane-rich, hydrocarbon sea. But Cassini's instruments and the Huygens surface probe have failed to find such a global ocean.",
   "date": "2005-06-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0506/titanvolcano_cassini_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0506/titanvolcano_cassini_c12.jpg"
 }

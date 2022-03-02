@@ -1,14 +1,10 @@
 {
   "title": "A Martian Day's End",
-  "credit": [
-    "Credit: IMP Team, JPL, NASA Explanation",
-    "IMP Team, JPL, NASA"
-  ],
+  "credit": "IMP Team, JPL, NASA",
   "explanation": "A Day or \"Sol\" on Mars is only 40 minutes longer than an Earth day - and Pathfinder's first day on Mars, Sol 1 according to its local calendar, was an eventful one. Still, late in the martian afternoon of Sol 1, the camera on board the Mars Pathfinder spacecraft recorded this panorama of the ancient floodplain Ares Vallis. Two of the three landing petals lie in the foreground at the edges of this scene surrounded by deflated and partially gathered airbags. The martian soil near the spacecraft has been disturbed by the airbag retraction. The petal holding the undeployed robot rover Sojourner is at the left. One of Sojourner's planned routes to the surface will be down the ramp seen rolled up at the petal's edge. Mission teams have overcome some rover communications problems and are proceding carefully with plans to roll the Sojourner out onto the martian surface. NASA has announced that the Pathfinder station on Mars will be renamed in honor of astronomer Carl Sagan.",
   "date": "1997-07-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9707/mars2_pathfinder_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9707/mars2_pathfinder.jpg"
 }

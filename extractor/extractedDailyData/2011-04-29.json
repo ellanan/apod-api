@@ -1,14 +1,10 @@
 {
   "title": "The Antennae",
-  "credit": [],
   "explanation": "Some 60 million light-years away in the southerly constellation Corvus, two large galaxies collided. But the stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, don't collide in the course of the ponderous event, lasting hundreds of millions of years. Instead, their large clouds of molecular gas and dust do, triggering furious episodes of star formation near the center of the cosmic wreckage. Spanning about 500 thousand light-years, this stunning view also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. Of course, the suggestive visual appearance of the extended arcing structures gives the galaxy pair its popular name - The Antennae.",
   "date": "2011-04-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1104/ngc4038HagarOreshko.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Acquisition and data reduction - Andrey Oreshko (Elena Remote Observatory), Processing - Dietmar Hager (stargazer-observatory) Explanation",
-    "Acquisition and data reduction - Andrey Oreshko (Elena Remote Observatory), Processing - Dietmar Hager (stargazer-observatory)"
-  ],
+  "copyright": "Acquisition and data reduction - Andrey Oreshko (Elena Remote Observatory), Processing - Dietmar Hager (stargazer-observatory)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1104/ngc4038_HagarOreshko900c.jpg"
 }

@@ -1,13 +1,9 @@
 {
   "title": "Vesta Trek: A Digital Model of Asteroid Vesta",
-  "credit": [
-    "Credit: NASA, JPL, LMMP, SSERVI, USGS, DLR Explanation",
-    "NASA, JPL, LMMP, SSERVI, USGS, DLR"
-  ],
+  "credit": "NASA, JPL, LMMP, SSERVI, USGS, DLR",
   "explanation": "You can explore asteroid Vesta. Recently, NASA's robotic spaceship Dawn visited Vesta, the second largest object in our Solar System's main asteroid belt, which lies between Mars and Jupiter. During a year-long stopover, Dawn's cameras photographed Vesta's entire surface, documenting all of the minor planet's major mountains and craters. These images have now been combined into a digital model that allows anyone with a full-featured browser to fly all around Vesta, virtually, and even zoom in on interesting surface features, by just dragging and clicking. If desired, the initially flat 2D map can be wrapped into a nearly spherical object by clicking on the 3D icon at the bottom. Dawn departed Vesta in 2012 and is now just beginning to photograph and explore the mysteries of the largest object in the asteroid belt: dwarf-planet Ceres.",
   "date": "2015-04-21",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "http://vestatrek.jpl.nasa.gov/"
 }

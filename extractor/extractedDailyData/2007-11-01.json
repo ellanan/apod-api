@@ -1,14 +1,10 @@
 {
   "title": "Peculiar Arp 87",
-  "credit": [
-    "Credit: NASA, ESA, and the Hubble Heritage Team (STScI / AURA) Explanation",
-    "NASA, ESA, and the Hubble Heritage Team (STScI / AURA)"
-  ],
+  "credit": "NASA, ESA, and the Hubble Heritage Team (STScI / AURA)",
   "explanation": "A cosmic bridge of stars, gas, and dust stretches for over 75,000 light-years and joins this peculiar pair of galaxies cataloged as Arp 87. The bridge is strong evidence that these two immense star systems have passed close to each other and experienced violent tides induced by mutual gravity. As further evidence, the face-on spiral galaxy on the right, also known as NGC 3808A, exhibits many young blue star clusters produced in a burst of star formation. The twisted edge-on spiral on the left (NGC 3808B) seems to be wrapped in the material bridging the galaxies and surrounded by a curious polar ring. While such interactions are drawn out over billions of years, repeated close passages should ultimately result in the merger of this pair of galaxies into a larger single galaxy of stars. Although this scenario does look peculiar, galactic mergers are thought to be common, with Arp 87 representing a stage in this inevitable process. The Arp 87 pair are about 300 million light-years distant toward the constellation Leo. The prominent edge-on spiral at the far left appears to be a more distant background galaxy and not involved in the on-going merger.",
   "date": "2007-11-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/arp87full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/arp87web_c800.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Ancient Cratered Plains on Ganymede",
-  "credit": [
-    "Credit: Galileo Mission Team, Galileo Spacecraft, NASA Explanation",
-    "Galileo Mission Team, Galileo Spacecraft, NASA"
-  ],
+  "credit": "Galileo Mission Team, Galileo Spacecraft, NASA",
   "explanation": "",
   "date": "1996-07-12",
   "hdurl": "https://apod.nasa.gov/apod/image/pr47067.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/ganymede03_gal.gif"
 }

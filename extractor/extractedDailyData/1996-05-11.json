@@ -1,14 +1,10 @@
 {
   "title": "Sunlight Through Saturn's Rings",
-  "credit": [
-    "Credit: P. Nicholson (Cornell), S. Larson (Univ. Arizona), and, NASA Explanation",
-    "P. Nicholson (Cornell), S. Larson (Univ. Arizona), and, NASA"
-  ],
+  "credit": "P. Nicholson (Cornell), S. Larson (Univ. Arizona), and, NASA",
   "explanation": "",
   "date": "1996-05-11",
   "hdurl": "https://apod.nasa.gov/apod/image/satbelow_hst_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/satbelow_hst.gif"
 }

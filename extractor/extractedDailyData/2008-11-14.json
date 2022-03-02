@@ -1,14 +1,10 @@
 {
   "title": "Fomalhaut b",
-  "credit": [
-    "Credit: NASA, ESA, P. Kalas, J. Graham, E. Chiang, E. Kite (Univ. California, Berkeley), M. Clampin (NASA/Goddard), M. Fitzgerald (Lawrence Livermore NL), K. Stapelfeldt, J. Krist (NASA/JPL) Explanation",
-    "NASA, ESA, P. Kalas, J. Graham, E. Chiang, E. Kite (Univ. California, Berkeley), M. Clampin (NASA/Goddard), M. Fitzgerald (Lawrence Livermore NL), K. Stapelfeldt, J. Krist (NASA/JPL)"
-  ],
+  "credit": "NASA, ESA, P. Kalas, J. Graham, E. Chiang, E. Kite (Univ. California, Berkeley), M. Clampin (NASA/Goddard), M. Fitzgerald (Lawrence Livermore NL), K. Stapelfeldt, J. Krist (NASA/JPL)",
   "explanation": "Fomalhaut (sounds like \"foam-a-lot\") is a bright, young, star, a short 25 light-years from planet Earth in the direction of the constellation Piscis Austrinus. In this sharp composite from the Hubble Space Telescope, Fomalhaut's surrounding ring of dusty debris is imaged in detail, with overwhelming glare from the star masked by an occulting disk in the camera's coronagraph. Astronomers now identify, the tiny point of light in the small box at the right as a planet about 3 times the mass of Jupiter orbiting 10.7 billion miles from the star (almost 23 times the Sun-Jupiter distance). Designated Fomalhaut b, the massive planet probably shapes and maintains the ring's relatively sharp inner edge, while the ring itself is likely a larger, younger analog of our own Kuiper Belt - the solar system's outer reservoir of icy bodies. The Hubble data represent the first visible-light image of a planet circling another star.",
   "date": "2008-11-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0811/fomalhaut_hst_lab.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0811/fomalhaut_hst_lab800.jpg"
 }

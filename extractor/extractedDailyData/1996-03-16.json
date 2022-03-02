@@ -1,14 +1,10 @@
 {
   "title": "Spiral Galaxy M90",
-  "credit": [],
   "explanation": "",
   "date": "1996-03-16",
   "hdurl": "https://apod.nasa.gov/apod/image/m90_keel.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Bill Keel (University of Alabama) 1.1-meter Hall Telescope, Lowell Observatory Explanation",
-    "Bill Keel (University of Alabama) 1.1-meter Hall Telescope, Lowell Observatory"
-  ],
+  "copyright": "Bill Keel (University of Alabama) 1.1-meter Hall Telescope, Lowell Observatory",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/m90_keel.gif"
 }

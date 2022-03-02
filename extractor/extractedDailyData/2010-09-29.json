@@ -1,14 +1,10 @@
 {
   "title": "An Airplane in Front of the Moon",
-  "credit": [],
   "explanation": "If you look closely at the Moon, you will see a large airplane in front of it. Well, not always. OK, hardly ever. But if you wait for days with your camera attached to a Moon tracker in a place where airplanes are known to pass, you might catch a good photograph of it. Well, if you're lucky. OK, extremely lucky. The above image was taken two weeks ago over South East Queensland, Australia using an exposure time of 1/250th of a second and, in the words of the photographer, \"a nerve of steel\".",
   "date": "2010-09-29",
   "hdurl": "https://apod.nasa.gov/apod/image/1009/moonplane_thomas_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Chris Thomas Explanation",
-    "Chris Thomas"
-  ],
+  "copyright": "Chris Thomas",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1009/moonplane_thomas.jpg"
 }

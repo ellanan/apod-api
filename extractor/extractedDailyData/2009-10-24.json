@@ -1,14 +1,10 @@
 {
   "title": "NGC 7331 and Beyond",
-  "credit": [],
   "explanation": "Big, beautiful spiral galaxy NGC 7331 is often touted as an analog to our own Milky Way. About 50 million light-years distant in the northern constellation Pegasus, NGC 7331 was recognized early on as a spiral nebula and is actually one of the brighter galaxies not included in Charles Messier's famous 18th century catalog. Since the galaxy's disk is inclined to our line-of-sight, long telescopic exposures often result in an image that evokes a strong sense of depth. The effect is further enhanced in this deep image by the galaxies that lie beyond the gorgeous island universe. The background galaxies are about one tenth the apparent size of NGC 7331 and so lie roughly ten times farther away. Their strikingly close alignment on the sky with NGC 7331 occurs just by chance. The visual grouping of galaxies is also known as the Deer Lick Group.",
   "date": "2009-10-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0910/n7331LRGB_kloehr.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ralf Muendlein (data acquisition), Wolfgang Kloehr (processing) Explanation",
-    "Ralf Muendlein (data acquisition), Wolfgang Kloehr (processing)"
-  ],
+  "copyright": "Ralf Muendlein (data acquisition), Wolfgang Kloehr (processing)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0910/n7331LRGB_kloehr900.jpg"
 }

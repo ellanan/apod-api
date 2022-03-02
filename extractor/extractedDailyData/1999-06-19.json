@@ -1,14 +1,10 @@
 {
   "title": "Venus on the Horizon",
-  "credit": [
-    "Credit: STS 30 Crew, NASA Explanation",
-    "STS 30 Crew, NASA"
-  ],
+  "credit": "STS 30 Crew, NASA",
   "explanation": "Venus can appear as a brilliant evening star. Besides the sun and moon, Venus is the brightest object visible in Earth's sky. Because it is closer to the sun than Earth, Venus never strays far from the sun in its apparent position and is seen during the year as either a bright morning or evening star. This beautiful sunset imaged from low earth orbit by the Atlantis space shuttle crew in May 1989 also reveals the planet Venus blazing above Earth's horizon. It is a fitting image for this mission and crew. It was recorded following the successful release of the robot Venus-explorer Magellan, the first planetary probe to be deployed from a space shuttle.",
   "date": "1999-06-19",
   "hdurl": "https://apod.nasa.gov/apod/image/9710/venus_sts30_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9710/venus_sts30.jpg"
 }

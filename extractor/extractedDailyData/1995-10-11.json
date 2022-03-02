@@ -1,14 +1,10 @@
 {
   "title": "LMC Star Clouds",
-  "credit": [
-    "Credit: NASA, Ultraviolet Imaging Telescope Explanation",
-    "NASA, Ultraviolet Imaging Telescope"
-  ],
+  "credit": "NASA, Ultraviolet Imaging Telescope",
   "explanation": "",
   "date": "1995-10-11",
   "hdurl": "https://apod.nasa.gov/apod/image/lmcstars_uit.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/lmcstars_uit.gif"
 }

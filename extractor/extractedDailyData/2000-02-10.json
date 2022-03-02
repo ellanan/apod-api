@@ -1,14 +1,10 @@
 {
   "title": "Eros Encounter Nears",
-  "credit": [
-    "Credit: NEAR Project, JHU APL, NASA Explanation",
-    "NEAR Project, JHU APL, NASA"
-  ],
+  "credit": "NEAR Project, JHU APL, NASA",
   "explanation": "After an unanticipated extra trip around the Sun, the NEAR spacecraft is now politely approaching asteroid 433, Eros, at a respectful relative speed of about 20 miles per hour. Still nearly 2,000 miles distant, NEAR will close to within approximately 200 miles by February 14th - Valentine's Day. If all goes well, the spacecraft will then be captured by the gentle attraction of Eros' gravity, becoming the first artificial moon of an asteroid. While Eros is not round it is certainly not heart-shaped either as seen in this series of frames showing the roughly 20 x 8 x 8 mile asteroid during its 5.27 hour rotation period. Different perspectives clearly show a gouge or saddle and a large impact crater with a raised rim near the asteroid's narrow waist. The frames were recorded by the NEAR spacecraft's multi-spectral imager on February 4th from a range of 4,600 miles.",
   "date": "2000-02-10",
   "hdurl": "https://apod.nasa.gov/apod/image/0002/eros0204_near.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0002/eros0204_near_big.gif"
 }

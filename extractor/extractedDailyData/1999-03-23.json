@@ -1,14 +1,10 @@
 {
   "title": "A Chamaeleon Sky",
-  "credit": [
-    "Credit: FORS Team, 8.2-meter VLT Antu, ESO Explanation",
-    "FORS Team, 8.2-meter VLT Antu, ESO"
-  ],
+  "credit": "FORS Team, 8.2-meter VLT Antu, ESO",
   "explanation": "A photogenic group of nebulae can be found in Chamaeleon, a constellation visible predominantly in skies south of the Earth's equator. Towards Chamaeleon, dark molecular clouds and bright planetary nebula NGC 3195 can be found. Visible near the center of the above photograph is a reflection nebula surrounding a young bright star. On the lower right, a dark molecular cloud blocks the light from stars behind it. It takes light hundreds of years to reach us from these objects.",
   "date": "1999-03-23",
   "hdurl": "https://apod.nasa.gov/apod/image/9903/chamaeleon_vlt_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9903/chamaeleon_vlt.jpg"
 }

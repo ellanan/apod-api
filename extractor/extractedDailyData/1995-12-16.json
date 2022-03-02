@@ -1,14 +1,10 @@
 {
   "title": "Hawai`i",
-  "credit": [
-    "Credit: NASA, STS-26 Crew Explanation",
-    "NASA, STS-26 Crew"
-  ],
+  "credit": "NASA, STS-26 Crew",
   "explanation": "",
   "date": "1995-12-16",
   "hdurl": "https://apod.nasa.gov/apod/image/hawaii_sts51_a.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hawaii_sts51_a.gif"
 }

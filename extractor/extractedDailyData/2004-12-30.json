@@ -1,14 +1,10 @@
 {
   "title": "M81 and M82: GALEX Full Field",
-  "credit": [
-    "Credit: GALEX Team, Caltech, NASA Explanation",
-    "GALEX Team, Caltech, NASA"
-  ],
+  "credit": "GALEX Team, Caltech, NASA",
   "explanation": "Intriguing galaxy pair M81 and M82 shine in this full-field view from the orbiting GALEX observatory. GALEX - the Galaxy Evolution Explorer - scans the cosmos in ultraviolet light, a view that follows star formation and galaxy evolution through the Universe. Near the bottom, magnificent spiral galaxy M81, similar in size to our own Milky Way, shows off young stars in winding spiral arms. Less than 100 million years old, the young stars are blue in the false-color GALEX image and seen to be well separated from the older yellowish stars of the galactic core. But near the top, turbulent, irregular galaxy M82 shows the results of extreme rates of star birth and death. Supernovae, the death explosions of massive stars, contribute to a violent wind of material expelled from M82's central regions. The striking irregular and spiral galaxy pair are located only about 10 million light-years away in the northern constellation Ursa Major.",
   "date": "2004-12-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0412/m81m82_galex_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0412/m81m82_galex_c.jpg"
 }

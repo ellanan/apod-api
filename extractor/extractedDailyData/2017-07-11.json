@@ -1,14 +1,10 @@
 {
   "title": "Star Cluster Omega Centauri in HDR",
-  "credit": [],
   "explanation": "Behold the largest ball of stars in our galaxy. Omega Centauri is packed with about 10 million stars, many older than our Sun and packed within a volume of only about 150 light-years in diameter. The star cluster is the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. The featured image shows so many stars because it merged different exposures with high dynamic range (HDR) techniques. Omega Centauri, also known as NGC 5139, lies about 15,000 light-years away toward the southern constellation of the Centaurus.",
   "date": "2017-07-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1707/OmegaCentauri_ODay_4620.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mike O'Day Explanation",
-    "Mike O'Day"
-  ],
+  "copyright": "Mike O'Day",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1707/OmegaCentauri_ODay_1080.jpg"
 }

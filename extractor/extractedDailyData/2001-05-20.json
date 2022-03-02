@@ -1,14 +1,10 @@
 {
   "title": "Sagittarius Star Cloud",
-  "credit": [
-    "Credit: Hubble Heritage Team (AURA/ STScI/ NASA) Explanation",
-    "Hubble Heritage Team (AURA/ STScI/ NASA)"
-  ],
+  "credit": "Hubble Heritage Team (AURA/ STScI/ NASA)",
   "explanation": "Stars come in all different colors. The color of a star indicates its surface temperature, an important property used to assign each star a spectral type. Most stars in the above Sagittarius Star Cloud are orange or red and relatively faint, as our Sun would appear. The blue and greenish stars are hotter, many being relatively young and massive. The bright red stars are cool Red Giants, bloated stars once similar to our Sun that have entered a more advanced stage of evolution. Stars of this Sagittarius Cloud lie towards the center of our Galaxy - tantalizing cosmic jewels viewed through a rift in the dark, pervasive, interstellar dust. This famous stellar grouping houses some of the oldest stars known.",
   "date": "2001-05-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0105/sgr1_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0105/sgr1_hst.jpg"
 }

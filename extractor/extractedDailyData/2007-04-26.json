@@ -1,14 +1,10 @@
 {
   "title": "Gliese 581 and the Habitable Zone",
-  "credit": [
-    "Credit: Stephane Udry, Michel Mayor (Geneva Obs.) et. al, Image: DSS, Skyview Explanation",
-    "Stephane Udry, Michel Mayor (Geneva Obs.) et. al, Image: DSS, Skyview"
-  ],
+  "credit": "Stephane Udry, Michel Mayor (Geneva Obs.) et. al, Image: DSS, Skyview",
   "explanation": "The unremarkable star centered in this skyview is Gliese 581, a mere 20 light-years away toward the constellation Libra. But astronomers are now reporting the discovery of a remarkable system of three planets orbiting Gliese 581, including the most earth-like planet found beyond our solar system. Gliese 581 itself is not a sun-like star, though. Classified as a red dwarf, the star is much smaller and colder than the Sun. Still, the smallest planet known to orbit the star is estimated to be five times as massive as Earth with about 1.5 times Earth's diameter. That super-earth orbits once every 13 days, about 14 times closer to its parent star than the Earth-Sun distance. The close-in orbit around the cool star implies a mean surface temperature of between 0 and 40 degrees C - a range over which water would be liquid - and places the planet in the red dwarf's habitable zone.",
   "date": "2007-04-26",
   "hdurl": "https://apod.nasa.gov/apod/image/0704/gliese581skyview_0.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0704/gliese581skyview_b720.jpg"
 }

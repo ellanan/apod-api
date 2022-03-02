@@ -1,14 +1,10 @@
 {
   "title": "Saturn at Equinox",
-  "credit": [
-    "Credit: Cassini Imaging Team, ISS, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, ISS, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, ISS, JPL, ESA, NASA",
   "explanation": "How would Saturn look if its ring plane pointed right at the Sun? Before August 2009, nobody knew. Every 15 years, as seen from Earth, Saturn's rings point toward the Earth and appear to disappear. The disappearing rings are no longer a mystery -- Saturn's rings are known to be so thin and the Earth is so near the Sun that when the rings point toward the Sun, they also point nearly edge-on at the Earth. Fortunately, in this third millennium, humanity is advanced enough to have a spacecraft that can see the rings during equinox from the side. In August 2009, that Saturn-orbiting spacecraft, Cassini, was able to snap a series of unprecedented pictures of Saturn's rings during equinox. A digital composite of 75 such images is shown above. The rings appear unusually dark, and a very thin ring shadow line can be made out on Saturn's cloud-tops. Objects sticking out of the ring plane are brightly illuminated and cast long shadows. Inspection of these images is helping humanity to understand the specific sizes of Saturn's ring particles and the general dynamics of orbital motion. This week, Earth undergoes an equinox.",
   "date": "2014-09-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1409/saturnequinox_cassini_7227.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1409/saturnequinox_cassini_960.jpg"
 }

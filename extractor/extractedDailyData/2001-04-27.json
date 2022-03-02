@@ -1,14 +1,10 @@
 {
   "title": "Visitors' Galaxy Gallery",
-  "credit": [
-    "Credit: Courtesy Adam Block (KPNO Visitor Program), NOAO, NSF Explanation",
-    "Courtesy Adam Block (KPNO Visitor Program), NOAO, NSF"
-  ],
+  "credit": "Courtesy Adam Block (KPNO Visitor Program), NOAO, NSF",
   "explanation": "A tantalizing assortment of island universes is assembled here. From top left to bottom right are the lovely but distant galaxies M61, NGC 4449, NGC 4725, NGC 5068, NGC 5247, and NGC 5775/5774. Most are spiral galaxies more or less like our own Milky Way. The color images reveal distinct pink patches marking the glowing hydrogen gas clouds in star forming regions along the graceful spiral arms. While Virgo cluster galaxy M61 is perhaps the most striking of these spirals, the interesting galaxy pair NGC 5775/5774 neatly contrasts the characteristic spiral edge-on and face-on appearance. The one exception to this parade of photogenic spiral galaxies is the small and relatively close irregular galaxy NGC 4449 (top middle). Similar to the Large Magellanic Cloud, companion galaxy to the Milky Way, NGC 4449 also sports young blue star clusters and pink star forming regions. All the galaxies in this gallery were imaged with a small (16 inch diameter) reflecting telescope and digital camera by public participants in the Kitt Peak National Observatory Visitor Center's Advanced Observing Program.",
   "date": "2001-04-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0104/galaxysample_block_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0104/galaxysample_block.jpg"
 }

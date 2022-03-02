@@ -1,14 +1,10 @@
 {
   "title": "Sol 5 Postcard from Mars",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, JPL, NASA",
   "explanation": "A martian Sol - the average martian solar day - is about 39 minutes longer than Earth's familiar 24 hour day. Operating on martian time, the Spirit rover recently sent back this color postcard image, recorded on Sol 5 of its stay on the martian surface. This cropped version of the full, high-resolution mosaic looks north across Gusev crater floor. The smooth-looking, 9 meter wide circular feature dubbed Sleepy Hollow lies at the center of the scene. Within it are round dark markings which may have been left by the lander swaddled in airbags as it bounced across the martian surface. Other examples of disturbances, likely made by the lander's retracting airbags, can be seen in the foreground just beyond Spirit's solar cell covered deck.",
   "date": "2004-01-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0401/mars_spiritcolor_PIA05015_c1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0401/mars_spiritcolor_p5_c1.jpg"
 }

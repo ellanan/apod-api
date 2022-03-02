@@ -1,14 +1,10 @@
 {
   "title": "Gemini's Meteors",
-  "credit": [],
   "explanation": "Taken over the course of an hour shortly after local midnight on December 13, 35 exposures were used to create this postcard from Earth. The composited night scene spans dark skies above the snowy Italian Dolomites during our fair planet's annual Geminid meteor shower. Sirius, alpha star of Canis Major and the brightest star in the night, is grazed by a meteor streak on the right. The Praesepe star cluster, also known as M44 or the Beehive cluster, itself contains about a thousand stars but appears as a smudge of light far above the southern alpine peaks near the top. The shower's radiant is off the top of the frame though, near Castor and Pollux the twin stars of Gemini. The radiant effect is due to perspective as the parallel meteor tracks appear to converge in the distance. As Earth sweeps through the dust trail of asteroid 3200 Phaethon, the dust that creates Gemini's meteors enters Earth's atmosphere traveling at about 22 kilometers per second.",
   "date": "2020-12-17",
   "hdurl": "https://apod.nasa.gov/apod/image/2012/GeminidMeteorsStePelle.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefano Pellegrini Explanation",
-    "Stefano Pellegrini"
-  ],
+  "copyright": "Stefano Pellegrini",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2012/GeminidMeteorsStePelle1024.jpg"
 }

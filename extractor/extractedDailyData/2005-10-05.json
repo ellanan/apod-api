@@ -1,14 +1,10 @@
 {
   "title": "Annular Solar Eclipse at High Resolution",
-  "credit": [],
   "explanation": "On Monday, part of the Sun went missing. The missing piece was no cause for concern -- the Moon was only momentarily in the way. The event was not a total eclipse of the Sun for any Earth-bound sky enthusiast but rather, at best, an annular eclipse, where the Moon blocked most of the Sun. Because of the relatively large distance to the Moon during this Earth-Moon-Sun alignment, the Moon did not have a large enough angular size to block the entire Sun. Those who witnessed the solar eclipse from a narrow path through Portugal, Spain and Africa, however, were lucky enough to see the coveted Ring of Fire, a dark Moon completely surrounded by the brilliant light of the distant Sun. Pictured above is a Ring of Fire captured two days ago in unusually high resolution above Spain. The resulting image shows details of the granular solar surface as well as many prominences around the Sun.",
   "date": "2005-10-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0510/annular_seip_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip Explanation",
-    "Stefan Seip"
-  ],
+  "copyright": "Stefan Seip",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0510/annular_seip.jpg"
 }

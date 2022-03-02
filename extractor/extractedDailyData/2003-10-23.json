@@ -1,14 +1,10 @@
 {
   "title": "Cygnus Nebulosities",
-  "credit": [],
   "explanation": "Looking toward the constellation Cygnus, a stunning and complex region of nebulae strewn along the plane of our Milky Way galaxy is revealed in this unique wide-angle sky view. Recorded with a filter designed to transmit light emitted by hydrogen atoms, the image emphasizes cosmic gas clouds in a 34 by 23 degree field centered on the well known Northern Cross asterism. Bright, hot, supergiant star Deneb (the top of the cross) and popular celestial sights such as the North America and Pelican emission regions, the IC 1318 \"butterfly\", and the Crescent and Veil nebulae can be identified by placing your cursor over the image. Silhouetted by the glowing interstellar clouds and crowded star fields, the dark Northern Coal Sack is also visible, part of a series of obscuring dust clouds forming the Great Rift in the Milky Way. These Cygnus nebulosities are all located about 2,000 light-years away. Along with the Sun, they lie within the Orion spiral arm of our galaxy.",
   "date": "2003-10-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0310/cygnusha_mandel_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Mandel, Galaxy Images Explanation",
-    "Steve Mandel, Galaxy Images"
-  ],
+  "copyright": "Steve Mandel, Galaxy Images",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0310/cygnusha_mandel_c3.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Sharp Stereo",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, MSL Explanation",
-    "NASA, JPL-Caltech, MSL"
-  ],
+  "credit": "NASA, JPL-Caltech, MSL",
   "explanation": "Get out your red/blue glasses and gaze across the floor of Gale crater on Mars. From your vantage point on the deck of the Curiosity Rover Mount Sharp, the crater's 5 kilometer high central mountain looms over the southern horizon. Poised in the foreground is the rover's robotic arm with tool turret extended toward the flat veined patch of martian surface dubbed \"John Klein\". A complete version of the stereo view spans 360 degrees, digitally stitched together from the rover's left and right navigation camera frames taken in late January. The layered lower slopes of Mount Sharp, formally known as Aeolis Mons, are a future destination for Curiosity.",
   "date": "2013-04-27",
   "hdurl": "https://apod.nasa.gov/apod/image/1304/PIA16925_MtSharpStereo.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1304/PIA16925_MtSharpStereo900c.jpg"
 }

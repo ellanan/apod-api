@@ -1,14 +1,10 @@
 {
   "title": "Dusty NGC 1333",
-  "credit": [
-    "Credit: R. A. Gutermuth (Harvard-Smithsonian CfA) et al. JPL-Caltech, NASA Explanation",
-    "R. A. Gutermuth (Harvard-Smithsonian CfA) et al. JPL-Caltech, NASA"
-  ],
+  "credit": "R. A. Gutermuth (Harvard-Smithsonian CfA) et al. JPL-Caltech, NASA",
   "explanation": "Dusty NGC 1333 is seen as a reflection nebula in visible light images, sporting bluish hues characteristic of starlight reflected by dust. But at longer infrared wavelengths, the interstellar dust itself glows - shown in red in this false-color Spitzer Space Telescope image. The penetrating infrared view also shows youthful stars that would otherwise still be obscured by the dusty clouds which formed them. Notably, greenish streaks and splotches that seem to litter the region trace the glow of cosmic jets blasting away from emerging young stellar objects as the jets plow into the cold cloud material. In all, the chaotic scene likely resembles one in which our own Sun formed over 4.5 billion years ago. NGC 1333 is a mere 1,000 light-years distant in the constellation Perseus.",
   "date": "2005-11-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0511/ngc1333_spitzer_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0511/ngc1333_spitzer_r25.jpg"
 }

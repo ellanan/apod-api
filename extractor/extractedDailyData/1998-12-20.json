@@ -1,14 +1,10 @@
 {
   "title": "Edge-On Spiral Galaxy NGC 891",
-  "credit": [],
   "explanation": "Is our Galaxy this thin? We believe so. The Milky Way, like NGC 891 pictured above, has the width of a typical spiral galaxy. Spirals have most of their bright stars, gas, and obscuring dust in a thin disk. This disk can be so thin the spiral galaxy appears edge-on like a compact disk seen sideways. The dark band across the middle is a lane of dust which absorbs light. Some of the billions of stars that orbit the center of NGC 891, however, appear to be moving too fast to just be traveling in circles. What causes this peculiar motion? One hypothesis is that NGC 891 has a large bar across its center -- a bar that would be obvious were we to see this galaxy face-on instead of edge-on. This false color picture was constructed from 3 near infrared images.",
   "date": "1998-12-20",
   "hdurl": "https://apod.nasa.gov/apod/image/9702/ngc891_kp.jpg ",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: J. C. Barentine (PSI) et al., KPNO, NOAO Explanation",
-    "J. C. Barentine (PSI) et al., KPNO, NOAO"
-  ],
+  "copyright": "J. C. Barentine (PSI) et al., KPNO, NOAO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9702/ngc891_kp_rot.jpg"
 }

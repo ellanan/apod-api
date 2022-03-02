@@ -1,14 +1,10 @@
 {
   "title": "Moon Crashers",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "On July 31, 1964, Ranger 7 crashed into the Moon. Seventeen minutes before impact it snapped this picture - the first image of the Moon ever taken by a U.S. spacecraft. Of course Ranger 7 was intended to crash, transmitting close-up pictures of the lunar surface during its final moments. The Ranger program's goal was to begin high resolution mapping of the lunar surface in preparation for a future lunar landing. This first image covered 360 kilometers from top to bottom and is centered in the Mare Nubium (Sea of Clouds). The large crater at middle right, Alphonsus, is 108 kilometers in diameter. On July 31, 1999, Lunar Prospector crashed into the Moon. During its successful 1 year mission to map the Moon's global properties from orbit, Lunar Prospector confirmed indications that water-ice could be trapped in permanently shadowed craters near the lunar poles. Its mission complete, controllers intentionally targeted the spacecraft to impact a crater wall, hoping that water could be more directly detected in the resulting debris cloud - although the chances of a successful detection were considered low. Astronomers analyzing the data recently announced that no visible signature of water was found, so the tantalizing case for water on the Moon remains open.",
   "date": "1999-10-15",
   "hdurl": "https://apod.nasa.gov/apod/image/9910/moon_ranger7_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9910/moon_ranger7.jpg"
 }

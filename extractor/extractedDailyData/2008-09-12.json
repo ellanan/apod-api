@@ -1,14 +1,10 @@
 {
   "title": "Planets over Perth",
-  "credit": [],
   "explanation": "A bright trio of terrestrial planets was joined by a young Moon on September 1st, in planet Earth's early evening skies. In this view of the celestial gathering from Perth, Western Australia, the Moon's sunlit crescent is nearly horizontal at Perth's southern latitude of about 32 degrees. Venus, then Mercury, and finally Mars shine above colorful city lights on the far shore of the Swan River. The six unlit towers on the left surround a large cricket stadium. For now, the planetary trio still lingers low in the west just after sunset. But in the coming days Venus will move farther from the Sun, climbing higher after sunset, while Mercury and Mars will steadily sink into the glare along the western horizon.",
   "date": "2008-09-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0809/planetsPerth_Goldsmith.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: John Goldsmith, Celestial Visions exhibition, TWAN Explanation",
-    "John Goldsmith, Celestial Visions exhibition, TWAN"
-  ],
+  "copyright": "John Goldsmith, Celestial Visions exhibition, TWAN",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0809/planetsPerth_Goldsmith_c800.jpg"
 }

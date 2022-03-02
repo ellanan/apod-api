@@ -1,13 +1,9 @@
 {
   "title": "A Mercury Transit Music Video from SDO",
-  "credit": [
-    "Credit: NASA's Goddard Space Flight Center, Genna Duberstein; Music: Encompass by Mark Petrie Explanation",
-    "NASA's Goddard Space Flight Center, Genna Duberstein; Music: Encompass by Mark Petrie"
-  ],
+  "credit": "NASA's Goddard Space Flight Center, Genna Duberstein; Music: Encompass by Mark Petrie",
   "explanation": "What's that small black dot moving across the Sun? Mercury. Possibly the clearest view of Mercury crossing in front of the Sun in 2016 May was from Earth orbit. The Solar Dynamics Observatory obtained an uninterrupted vista recording it not only in optical light but also in bands of ultraviolet light. Featured here is a composite movie of the crossing set to music. Although the event might prove successful scientifically for better determining components of Mercury' ultra-thin atmosphere, the event surely proved successful culturally by involving people throughout the world in observing a rare astronomical phenomenon. Many spectacular images of this Mercury transit from around (and above) the globe were proudly displayed. The next transit of Mercury will take place in three weeks: on 2019 November 11.",
   "date": "2019-10-21",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/AhWMOkrzKzs?rel=0"
 }

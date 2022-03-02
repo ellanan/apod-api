@@ -1,14 +1,10 @@
 {
   "title": "Thor's Emerald Helmet",
-  "credit": [],
   "explanation": "This helmet-shaped cosmic cloud with wing-like appendages is popularly called Thor's Helmet. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the helmet is actually more like an interstellar bubble, blown as a fast wind from the bright, massive star near the bubble's center sweeps through a surrounding molecular cloud. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. Cataloged as NGC 2359, the nebula is located about 15,000 light-years away in the constellation Canis Major. The sharp image captures striking details of the nebula's filamentary structures and also records an almost emerald color from strong emission due to oxygen atoms in the glowing gas.",
   "date": "2008-01-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0801/NGC2359AUL_gendler.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0801/NGC2359_gendler_rc800.jpg"
 }

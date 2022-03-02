@@ -1,14 +1,10 @@
 {
   "title": "Eight Planets and New Solar System Designations",
-  "credit": [
-    "Credit: International Astronomical Union Explanation",
-    "International Astronomical Union"
-  ],
+  "credit": "International Astronomical Union",
   "explanation": "How many planets are in the Solar System? This popular question now has a new formal answer according the International Astronomical Union (IAU): eight. Last week, the IAU voted on a new definition for planet and Pluto did not make the cut. Rather, Pluto was re-classified as a dwarf planet and is considered as a prototype for a new category of trans-Neptunian objects. The eight planets now recognized by the IAU are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Solar System objects now classified as dwarf planets are: Ceres, Pluto, and the currently unnamed 2003 UB313. Planets, by the new IAU definition, must be in orbit around the sun, be nearly spherical, and must have cleared the neighborhood around their orbits. The demotion of Pluto to dwarf planet status is a source of continuing dissent and controversy in the astronomical community.",
   "date": "2006-08-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0608/planets_iau_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0608/planets_iau.jpg"
 }

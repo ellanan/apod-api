@@ -1,14 +1,10 @@
 {
   "title": "The Night Shift",
-  "credit": [
-    "Credit: STS-88 Mission, NASA Explanation",
-    "STS-88 Mission, NASA"
-  ],
+  "credit": "STS-88 Mission, NASA",
   "explanation": "For the orbiting International Space Station (ISS), the sun sets every 90 minutes. But working through the night, spacewalking astronauts can rely on artificial lighting. Here, the eerie glow of work-lights illuminate Space Shuttle Endeavor astronaut Jerry Ross during a night on his second spacewalk as he continues the in orbit assembly of the ISS. Endeavor landed at Kennedy Space Center Tuesday night bringing an end to the successful ISS assembly mission and the final shuttle mission of 1998.",
   "date": "1998-12-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9812/nightwork_sts88_big1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9812/nightwork_sts88_crop1.jpg"
 }

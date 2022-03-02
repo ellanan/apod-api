@@ -1,14 +1,10 @@
 {
   "title": "Asteroid Eros Reconstructed",
-  "credit": [
-    "Credit: NEAR Project, NLR, JHUAPL, Goddard SVS, NASA Explanation",
-    "NEAR Project, NLR, JHUAPL, Goddard SVS, NASA"
-  ],
+  "credit": "NEAR Project, NLR, JHUAPL, Goddard SVS, NASA",
   "explanation": "Orbiting the Sun between Mars and Earth, asteroid 433 Eros was visited by the robot spacecraft NEAR-Shoemaker in 2000 February. High-resolution surface images and measurements made by NEAR's Laser Rangefinder (NLR) have been combined into the above visualization based on the derived 3D model of the tumbling space rock. NEAR allowed scientists to discover that Eros is a single solid body, that its composition is nearly uniform, and that it formed during the early years of our Solar System. Mysteries remain, however, including why some rocks on the surface have disintegrated. On 2001 February 12, the NEAR mission drew to a dramatic close as it was crash landed onto the asteroid's surface, surviving well enough to return an analysis of the composition of the surface regolith. In December of 2002, NASA made an unsuccessful attempt to communicate with the spacecraft after it spent 22 months resting on the asteroid's surface. NEAR will likely remain on the asteroid for billions of years as a monument to human ingenuity at the turn of the third millennium.",
   "date": "2009-06-07",
   "hdurl": "https://apod.nasa.gov/apod/image/0906/eros2_near.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0906/eros2_near.jpg"
 }

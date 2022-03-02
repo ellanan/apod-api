@@ -1,13 +1,9 @@
 {
   "title": "Landing on Mars: Seven Minutes of Terror",
-  "credit": [
-    "Credit: NASA, JPL Explanation",
-    "NASA, JPL"
-  ],
+  "credit": "NASA, JPL",
   "explanation": "Starting Thursday, there may be an amazing new robotic explorer on Mars. Or there may be a new pile of junk. It all likely depends on things going correctly in the minutes after the Mars 2020 mission arrives at its new home planet and attempts to deploy the Perseverance rover. Arguably the most sophisticated landing yet attempted on the red planet, consecutive precision events will involve a heat shield, a parachute, several rocket maneuvers, and the automatic operation of an unusual device called a Sky Crane. Thursday's Seven Minutes of Terror echo the landing of the Curiosity rover on Mars in 2012, as depicted in the featured video. If successful, the car-sized Perseverance rover will rest on the surface of Mars, soon to begin exploring Jezero Crater to better determine the habitability of this seemingly barren world to life -- past, present, and future. Although multiple media outlets may cover this event, one way to watch these landing events unfold is on the NASA channel live on the web.",
   "date": "2021-02-15",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/Ki_Af_o9Q9s?rel=0"
 }

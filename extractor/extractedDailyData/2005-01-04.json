@@ -1,14 +1,10 @@
 {
   "title": "Milky Way Illustrated",
-  "credit": [],
   "explanation": "What does our Milky Way Galaxy look like from afar? Since we are stuck inside, and since opaque dust truncates our view in visible light, nobody knows for sure. Drawn above, however, is a good guess based on many different types of observations. In the Milky Way's center is a very bright core region centered on a large black hole. The Milky Way's bright central bulge is now thought to be an asymmetrical bar of relatively old and red stars. The outer regions are where the spiral arms are found, dominated in appearance by open clusters of young, bright, blue stars, by red emission nebula, and by dark dust. The spiral arms reside in a disk dominated in mass by relatively dim stars and loose gas composed mostly of hydrogen. What is not depicted is a huge spherical halo of invisible dark matter that dominates the mass of the Milky Way as well as the motions of stars away from the center.",
   "date": "2005-01-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0501/milkyway_garlick_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mark Garlick (Space-art) Explanation",
-    "Mark Garlick (Space-art)"
-  ],
+  "copyright": "Mark Garlick (Space-art)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0501/milkyway_garlick.jpg"
 }

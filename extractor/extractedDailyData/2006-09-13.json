@@ -1,14 +1,10 @@
 {
   "title": "Atlantis to Orbit",
-  "credit": [
-    "Credit: NASA Explanation",
-    "NASA"
-  ],
+  "credit": "NASA",
   "explanation": "",
   "date": "2006-09-13",
   "hdurl": "https://apod.nasa.gov/apod/image/0609/atlantis_sts115_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0609/atlantis_sts115.jpg"
 }

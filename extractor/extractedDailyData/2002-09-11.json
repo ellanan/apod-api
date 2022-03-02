@@ -1,14 +1,10 @@
 {
   "title": "Pluto & Charon Eclipse a Triple Star",
-  "credit": [
-    "Credit: NACO Team, 8.2-meter VLT (Yepun), ESO Explanation",
-    "NACO Team, 8.2-meter VLT (Yepun), ESO"
-  ],
+  "credit": "NACO Team, 8.2-meter VLT (Yepun), ESO",
   "explanation": "Occasionally, a planet in our Solar System will pass in front of a bright star. Since stars and planets take up so little space on the sky, such events are quite rare. Two months ago, however, Pluto and its large moon Charon passed in front of a comparatively bright triple star system known as P126. By noting how P126 A dimmed, the event was useful for studying Pluto's relatively unknown atmosphere. A Very Large Telescope in Chile using a deformable mirror to counter the blurring effect of Earth's atmosphere captured the above image.",
   "date": "2002-09-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0209/plutoeclipse_eso_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0209/plutoeclipse_eso.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "XZ Tauri System Ejects Gas Bubble",
-  "credit": [
-    "Credit: John Krist (STScI) et al., WFPC2, HST, NASA Explanation",
-    "John Krist (STScI) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "John Krist (STScI) et al., WFPC2, HST, NASA",
   "explanation": "Why is the binary star system XZ Tauri emitting a hot bubble of expanding gas? Although astronomers can only presently speculate, the Hubble Space Telescope clearly documents this unusual behavior in three dramatic photographs over the past five years. Even without knowing why, the recently released sequence shows in unprecedented clarity the beginnings of a cooling zone -- a region where the expanding gas bubble cools off by emitting light as electrons and ions meet and recombine. The XZ Tauri star system is known to reside in the Taurus star forming region located about 500 light-years away. XZ Tau is composed of two very young stars separated by roughly the same distance as between our Sun and Pluto. The bubble has been expanding over the past thirty years and now extends to nearly fifteen times the binary separation.",
   "date": "2000-09-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0009/xztauri_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0009/xztauri_hst.jpg"
 }

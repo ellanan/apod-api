@@ -1,14 +1,10 @@
 {
   "title": "Open Cluster M50",
-  "credit": [],
   "explanation": "Many stars form in clusters. Two types of star clusters are visible in our Milky Way Galaxy: open clusters and globular clusters. Open clusters like M50, shown above, typically contain hundreds of stars, many of which are bright, young, and blue. In fact, most of the bright blue stars in the above picture belong to M50, but most of the dimmer, red stars do not. M50 lies about 3000 light-years from Earth and is about 20 light years across. Open clusters tend to have irregular shapes and are mostly found in the plane of our Galaxy.",
   "date": "1997-01-28",
   "hdurl": "https://apod.nasa.gov/apod/image/9701/m50_kc_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: S. Kohle, T. Credner et al. Explanation",
-    "S. Kohle, T. Credner et al."
-  ],
+  "copyright": "S. Kohle, T. Credner et al.",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9701/m50_kc.jpg"
 }

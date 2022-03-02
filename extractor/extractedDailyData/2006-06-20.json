@@ -1,14 +1,10 @@
 {
   "title": "Hideaway",
-  "credit": [],
   "explanation": "Is this a picture of a sunset from Earth's North Pole? Regardless of urban legends circulating the Internet, the answer is no. The above scene was drawn to be an imaginary celestial place that would be calm and peaceful, and therefore titled Hideaway. The scene could not exist anywhere on the Earth because from the Earth, the Moon and the Sun always have nearly the same angular size. This is particularly apparent, for example, during solar eclipses. Still, the scene drawn is quite striking, and the crescent part of the \"moon\" shown is approximately accurate given the location of the parent star. In reality, the North Pole of Earth looks different. Starting earlier this month, the North Pole even has a web camera returning near-live pictures.",
   "date": "2006-06-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0606/hideaway_nielsen_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Inga Nielsen Explanation",
-    "Inga Nielsen"
-  ],
+  "copyright": "Inga Nielsen",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0606/hideaway_nielsen.jpg"
 }

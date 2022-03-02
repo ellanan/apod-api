@@ -1,14 +1,10 @@
 {
   "title": "The Creature from the Red Lagoon",
-  "credit": [],
   "explanation": "What creature lurks near the red Lagoon nebula? Mars. This gorgeous color deep-sky photograph has captured the red planet passing below two notable nebulae -- cataloged by the 18th century cosmic registrar Charles Messier as M8 and M20. M20 (upper right of center), the Trifid Nebula, presents a striking contrast in red/blue colors and dark dust lanes. Just below and to the left is the expansive, alluring red glow of M8, the Lagoon Nebula. Both nebulae are a few thousand light-years distant. By comparison, temporarily situated below them both, is the dominant \"local\" celestial beacon Mars. Taken late last month posing near its southernmost point in Earth's sky, the red planet was 14 light-minutes away.",
   "date": "2014-11-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1411/lagoontrifidmars_demeter_5247c.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Derek Demeter (Emil Buehler Planetarium) Explanation",
-    "Derek Demeter (Emil Buehler Planetarium)"
-  ],
+  "copyright": "Derek Demeter (Emil Buehler Planetarium)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1411/lagoontrifidmars_demeter_1080c.jpg"
 }

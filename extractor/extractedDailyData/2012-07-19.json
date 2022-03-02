@@ -1,14 +1,10 @@
 {
   "title": "Dawn of the Dish",
-  "credit": [],
   "explanation": "Wandering planets Venus and Jupiter were joined by an old crescent Moon near the eastern horizon on July 15. This serene southern skyview of the much anticipated predawn conjunction includes the lovely Pleiades star cluster and bright stars Aldebaran and Betelgeuse in the celestial lineup. For help identifying the stars and constellations, just slide your cursor over the image. Of course, the radio telescope in the foreground is the Parkes 64 meter dish of New South Wales, Australia. Known for its exploration of the distant Universe at radio wavelengths, the large, steerable antenna is also famous for its superior lunar television reception. On July 21, 1969 the dish received broadcasts from the Moon that allowed denizens of planet Earth to watch the Apollo 11 moonwalk.",
   "date": "2012-07-19",
   "hdurl": "https://apod.nasa.gov/apod/image/1207/ACherney_MorningParade.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alex Cherney (Terrastro, TWAN) Explanation",
-    "Alex Cherney (Terrastro, TWAN)"
-  ],
+  "copyright": "Alex Cherney (Terrastro, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1207/ACherney_MorningParade900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Two Tails of Comet West",
-  "credit": [
-    "Credit: Observatoire de Haute, Provence, France Explanation",
-    "Observatoire de Haute, Provence, France"
-  ],
+  "credit": "Observatoire de Haute, Provence, France",
   "explanation": "",
   "date": "1995-08-26",
   "hdurl": "https://apod.nasa.gov/apod/image/comet_west.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/comet_west.gif"
 }

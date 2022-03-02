@@ -1,14 +1,10 @@
 {
   "title": "Comet Hyakutake and the Milky Way",
-  "credit": [],
   "explanation": "Two years ago, the Great Comet of 1996, Comet Hyakutake, inched across our northern sky during its long orbit around the Sun. Visible above as the bright spot with the faint tail near the picture's center, Comet Hyakutake shares the stage with part of the central band of the Milky Way Galaxy, prominent in the picture's upper right. Also visible are Antares, the bright orange star in the upper right, Arcturus, the bright star on the lower left, and the Pipe Nebula, which is perhaps harder to find. Comet Hyakutake's unusually close approach to the Earth allowed astronomers to learn many things, including that comets can emit much X-ray light.",
   "date": "1998-08-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9808/milkytake_polakis_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: T. Polakis Explanation",
-    "T. Polakis"
-  ],
+  "copyright": "T. Polakis",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9808/milkytake_polakis.jpg"
 }

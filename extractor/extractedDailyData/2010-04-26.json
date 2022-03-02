@@ -1,14 +1,10 @@
 {
   "title": "Dust Pillar of the Carina Nebula",
-  "credit": [
-    "Credit: NASA, ESA, and M. Livio and the Hubble 20th Anniversary Team (STScI) Explanation",
-    "NASA, ESA, and M. Livio and the Hubble 20th Anniversary Team (STScI)"
-  ],
+  "credit": "NASA, ESA, and M. Livio and the Hubble 20th Anniversary Team (STScI)",
   "explanation": "Inside the head of this interstellar monster is a star that is slowly destroying it. The monster, on the right, is actually an inanimate pillar of gas and dust that measures over a light year in length. The star, not itself visible through the opaque dust, is bursting out partly by ejecting energetic beams of particles. Similar epic battles are being waged all over the star-forming Carina Nebula. The stars will win in the end, destroying their pillars of creation over the next 100,000 years, and resulting in a new open cluster of stars. The pink dots around the image are newly formed stars that have already been freed from their birth monster. The above image was released last week in commemoration of the Hubble Space Telescopes 20th year of operation. The technical name for the stellar jets are Herbig-Haro objects. How a star creates Herbig-Haro jets is an ongoing topic of research, but it likely involves an accretion disk swirling around a central star. A second impressive Herbig-Haro jet occurs diagonally near the image center.",
   "date": "2010-04-26",
   "hdurl": "https://apod.nasa.gov/apod/image/1004/carina08_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1004/carina08_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "New Stars In 30 Doradus",
-  "credit": [
-    "Credit: John Trauger (JPL), James Westphal (Caltech), Nolan Walborn (STScI), Rodolfo Barba' (La Plata Observatory), NASA Explanation",
-    "John Trauger (JPL), James Westphal (Caltech), Nolan Walborn (STScI), Rodolfo Barba' (La Plata Observatory), NASA"
-  ],
+  "credit": "John Trauger (JPL), James Westphal (Caltech), Nolan Walborn (STScI), Rodolfo Barba' (La Plata Observatory), NASA",
   "explanation": "Compare these matched Hubble Space Telescope views (visible-light on top; infrared on bottom) of a region in the star-forming 30 Doradus Nebula. Find the numbered arrows in the infrared image which identify newborn massive stars. For example, arrows 1 and 5 both point to compact clusters of bright young stars. Formed within collapsing gas and dust clouds, the winds and radiation from these hot stars have cleared away the remaining obscuring material making the clusters easily apparent in both visible and infrared images. But still shrouded in dust and readily seen only in the penetrating infrared view are newborn stars and star systems indicated by arrows 2, 3, and 4. Perhaps even more remarkable are the infrared bright spots indicated by arrows 6 and 7. Exactly in a line on opposite sides of the bright cluster at arrow 5, they may actually be caused by symmetric jets of material produced by one of the young cluster stars. These luminous spots are each about 5 light-years from the cluster and would correspond to points at which the energetic jet material impacts the surrounding dust clouds.",
   "date": "1999-10-01",
   "hdurl": "https://apod.nasa.gov/apod/image/9910/30dor_details_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9910/30dor_details.jpg"
 }

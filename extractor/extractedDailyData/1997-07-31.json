@@ -1,14 +1,10 @@
 {
   "title": "Behind CL1358+62:  A New Farthest Object",
-  "credit": [
-    "Credit: M. Franx (U. Groningen) & G. Illingworth (UCSC), WFPC2, HST, NASA Explanation",
-    "M. Franx (U. Groningen) & G. Illingworth (UCSC), WFPC2, HST, NASA"
-  ],
+  "credit": "M. Franx (U. Groningen) & G. Illingworth (UCSC), WFPC2, HST, NASA",
   "explanation": "What if we could see back to the beginning of the universe? At one tenth the universe's present age, we might see galaxies forming. But what did galaxies look like when they were forming? These questions took a step toward being answered yesterday with the release of analysis of a Hubble Space Telescope (HST) photograph of the most distant object yet discovered. Pictured in the box above, this galaxy appears to us - billions of years later and across the universe - as a faint red smudge. In technical terms, this galaxy lies at the record redshift of z=4.92. Practically all of the yellow-white objects in the photograph are galaxies in a nearby cluster which together act as a lens in amplifying the light from the ancient galaxy. A follow-up picture by the ground-based Keck Telescope actually measured the distant redshift.",
   "date": "1997-07-31",
   "hdurl": "https://apod.nasa.gov/apod/image/9707/cl1358_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9707/cl1358_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Mount Sharp on the Horizon",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, MSL, Navcam Explanation",
-    "NASA, JPL-Caltech, MSL, Navcam"
-  ],
+  "credit": "NASA, JPL-Caltech, MSL, Navcam",
   "explanation": "Get out your red/blue glasses (red for the left eye) and look out over this expansive martian landscape. The panoramic stereo view is composed of images from the roving Curiosity's Navcam taken at a rest stop during a 100 meter drive on Sol 548 (February 19). The 5.5 kilometer high peak of Mount Sharp, also known as Aeolis Mons, is on the horizon, its base a destination for Curiosity. In the foreground are rows of striated rocks along the Junda outcrop. Centered toward the south-southeast the scene spans 160 degrees. (Another Navcam image here looks back along Curiosity's route at the end of the Sol's drive on Mars.)",
   "date": "2014-03-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1403/PIA17948MtSharp.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1403/PIA17948MtSharp_600v.jpg"
 }

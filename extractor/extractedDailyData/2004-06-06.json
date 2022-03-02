@@ -1,14 +1,10 @@
 {
   "title": "Mercury Spotting",
-  "credit": [
-    "Credit: SOHO - EIT Consortium, ESA, NASA Explanation",
-    "SOHO - EIT Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO - EIT Consortium, ESA, NASA",
   "explanation": "Can you spot the planet? The diminutive disk of Mercury, the solar system's innermost planet, spent about five hours crossing in front of the enormous solar disk on 2003 May 7, as viewed from the general vicinity of planet Earth. The Sun was above the horizon during the entire transit for observers in Europe, Africa, Asia, or Australia, and the horizon was certainly no problem for the sun-staring SOHO spacecraft. Seen as a dark spot, Mercury progresses from left to right (top panel to bottom) in these four images from SOHO's extreme ultraviolet camera. The panels' false-colors correspond to different wavelengths in the extreme ultraviolet which highlight regions above the Sun's visible surface. This was the first of 14 transits of Mercury which will occur during the 21st century, but the next similar event will be a much more rare transit of Venus this coming Tuesday. Need help spotting Mercury? Just click on the picture.",
   "date": "2004-06-06",
   "hdurl": "https://apod.nasa.gov/apod/image/0305/merctrans_sohoeit_4panlab.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0305/merctrans_sohoeit_4pan.jpg"
 }

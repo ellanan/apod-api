@@ -1,14 +1,10 @@
 {
   "title": "APM 08279+5255: The Brightest Object Yet Known",
-  "credit": [
-    "Credit: M.J. Irwin (RGO), R.A. Ibata (ESO), G.F. Lewis (U. Washington, U. Victoria), and E.J. Totten (Keele U.), Isaac Newton 2.5-m Telescope Explanation",
-    "M.J. Irwin (RGO), R.A. Ibata (ESO), G.F. Lewis (U. Washington, U. Victoria), and E.J. Totten (Keele U.), Isaac Newton 2.5-m Telescope"
-  ],
+  "credit": "M.J. Irwin (RGO), R.A. Ibata (ESO), G.F. Lewis (U. Washington, U. Victoria), and E.J. Totten (Keele U.), Isaac Newton 2.5-m Telescope",
   "explanation": "It shines with the brightness of 100 billion Suns. Is it a mirage? The recently discovered quasar labeled APM 08279+5255 has set a new record as being the brightest continuously emitting object yet known. APM 08279+5255's great distance, though, makes it only appear as bright as magnitude 15.2, an object which can be seen with a moderate sized telescope. It is the quasar's extreme redshift of 3.87 that places it far across our universe, and implies a truly impressive energy output. One possible explanation of APM 08279+5255's record luminosity is that it is partly a mirage: its light is highly magnified by an intervening galaxy that acts as a gravitational lens. Alternatively, APM 08279+5255 might be the most active known center of an intriguing class of colliding galaxies rich in gas and dust.",
   "date": "1998-08-18",
   "hdurl": "https://apod.nasa.gov/apod/image/9808/apm08279_totten_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9808/apm08279_totten.jpg"
 }

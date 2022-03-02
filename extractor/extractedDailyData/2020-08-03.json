@@ -1,14 +1,10 @@
 {
   "title": "Comet NEOWISE over Vikos Gorge",
-  "credit": [],
   "explanation": "Did the Earth part to show us this comet? Of course not, even if this image makes it seem that way. Pictured far in the background is Comet NEOWISE as it appeared about two weeks ago over northern Greece. Above the comet are many stars including the bright stars of the Big Dipper (also the Sorcerer, in Aztec mythology), an asterism that many people around the world used to find the naked-eye comet as it hovered in the northern sky over the past month. In the foreground is Vikos Gorge, the deepest gorge on Earth, relative to its width. The gorge was slowly created by erosion from the Voidomatis River over the past few million years. Capturing this image took a lot of planning, waiting, luck, braving high winds, and avoiding local wolves. Comet C/2020 F3 (NEOWISE) continues to fade and is now best visible through binoculars as it coasts back to the outer Solar System.",
   "date": "2020-08-03",
   "hdurl": "https://apod.nasa.gov/apod/image/2008/NeowiseGorge_Emmanouilidi_1161.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Constantine Emmanouilidi Explanation",
-    "Constantine Emmanouilidi"
-  ],
+  "copyright": "Constantine Emmanouilidi",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2008/NeowiseGorge_Emmanouilidi_960.jpg"
 }

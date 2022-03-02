@@ -1,14 +1,10 @@
 {
   "title": "Opportunity Rockets Toward Mars",
-  "credit": [
-    "Credit: Dan Maas (Maas Digital), Ecliptic Enterprises Corporation, Boeing, NASA Explanation",
-    "Dan Maas (Maas Digital), Ecliptic Enterprises Corporation, Boeing, NASA"
-  ],
+  "credit": "Dan Maas (Maas Digital), Ecliptic Enterprises Corporation, Boeing, NASA",
   "explanation": "Next stop: Mars. Two months ago, the second of two missions to Mars was launched from Cape Canaveral, Florida, USA above a Boeing Delta II rocket. The Mars Exploration Rover dubbed Opportunity is expected to arrive at the red planet this coming January. Pictured above, an attached RocketCam (TM) captures Opportunity separating from lower booster stages and rocketing off toward Mars. Upon arriving, parachutes will deploy to slow the spacecraft and surrounding airbags will inflate. The balloon-like package will then bounce around the surface a dozen times or more before coming to a stop. The airbags will then deflate, the spacecraft will right itself, and the Opportunity rover will prepare to roll onto Mars. A first rover named Spirit was successfully launched on June 10 and will arrive at Mars a few weeks earlier. The robots Spirit and Opportunity are expected to cover as much as 40 metres per day, much more than Sojourner, their 1997 predecessor. Spirit and Opportunity will search for evidence of ancient Martian water, from which implications might be drawn about the possibility of ancient Martian life.",
   "date": "2003-09-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0309/launchmerb_ecliptic_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0309/launchmerb_ecliptic.gif"
 }

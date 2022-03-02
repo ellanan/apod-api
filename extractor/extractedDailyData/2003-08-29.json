@@ -1,14 +1,10 @@
 {
   "title": "The Mineral Moon",
-  "credit": [
-    "Credit: Galileo Project, JPL, NASA Explanation",
-    "Galileo Project, JPL, NASA"
-  ],
+  "credit": "Galileo Project, JPL, NASA",
   "explanation": "Even if the Moon really were made of green cheese it probably wouldn't look this bizarre. Still, this mosaic of 53 images was recorded by the Jupiter-bound Galileo spacecraft as it passed near our own large natural satellite in 1992. The pictures were recorded through three spectral filters and combined in an exaggerated false-color scheme to explore the composition of the lunar surface as changes in mineral content produce subtle color differences in reflected light. Familiar to earthdwellers, the lunar near side is on the left, but the space-based view looks down on the Moon's north pole located in the upper half of the image near the shadow line. Blue to orange shades indicate volcanic lava flows. The dark blue Mare Tranquillitatis at the lower left is richer in titanium bearing minerals than the green and orange maria above it. Near the bottom of the image and to the right of Tranquillitatis is the dark oval-shaped Mare Crisium surrounded by shocking pink colors indicating material of the lunar highlands.",
   "date": "2003-08-29",
   "hdurl": "https://apod.nasa.gov/apod/image/0308/PIA00131_colormoon_gal_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0308/PIA00131_colormoon_gal_c1.jpg"
 }

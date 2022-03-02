@@ -1,14 +1,10 @@
 {
   "title": "In the Center of the Trifid Nebula",
-  "credit": [],
   "explanation": "Clouds of glowing gas mingle with dust lanes in the Trifid Nebula, a star forming region toward the constellation of Sagittarius. In the center, the three prominent dust lanes that give the Trifid its name all come together. Mountains of opaque dust appear on the right, while other dark filaments of dust are visible threaded throughout the nebula. A single massive star visible near the center causes much of the Trifid's glow. The Trifid, also known as M20, is only about 300,000 years old, making it among the youngest emission nebulae known. The nebula lies about 9,000 light years away and the part pictured here spans about 10 light years. This image was created with the 0.8-meter IAC80 telescope on the Canary Islands of Spain.",
   "date": "2008-06-30",
   "hdurl": "https://apod.nasa.gov/apod/image/0806/trifidcenter_lopez_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Daniel Lopez (Observatorio del Teide) Explanation",
-    "Daniel Lopez (Observatorio del Teide)"
-  ],
+  "copyright": "Daniel Lopez (Observatorio del Teide)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0806/trifidcenter_lopez.jpg"
 }

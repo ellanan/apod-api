@@ -1,14 +1,10 @@
 {
   "title": "Local Group Galaxy NGC 6822",
-  "credit": [],
   "explanation": "Nearby galaxy NGC 6822 is irregular in several ways. First, the galaxy's star distribution merits a formal classification of dwarf irregular, and from our vantage-point the small galaxy appears nearly rectangular. What strikes astronomers as more peculiar, however, is NGC 6822's unusually high abundance of HII regions, locales of ionized hydrogen that surround young stars. Large HII regions, also known as emission nebulas, are visible surrounding the small galaxy, particularly toward the upper right. Toward the lower left are bright stars that are loosely grouped into an arm. Pictured above, NGC 6822, also known as Barnard's Galaxy, is located only about 1.5 million light years away and so is a member of our Local Group of Galaxies. The galaxy, home to famous nebulas including Hubble V, is visible with a small telescope toward the constellation of Sagittarius.",
   "date": "2002-01-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0201/ngc6822_noao_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Local Group Galaxies Survey Team, NOAO, AURA, NSF Explanation",
-    "Local Group Galaxies Survey Team, NOAO, AURA, NSF"
-  ],
+  "copyright": "Local Group Galaxies Survey Team, NOAO, AURA, NSF",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0201/ngc6822_noao.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Heart and Soul and Double Cluster",
-  "credit": [],
   "explanation": "This rich starfield spans almost 10 degrees across the sky toward the northern constellations Cassiopeia and Perseus. On the left, heart-shaped cosmic cloud IC 1805 and IC 1848 are popularly known as the Heart and Soul nebulae. Easy to spot on the right are star clusters NGC 869 and NGC 884 also known as h and Chi Perseii, or just the Double Cluster. Heart and Soul, with their own embedded clusters of young stars a million or so years old, are each over 200 light-years across and 6 to 7 thousand light-years away. In fact, they are part of a large, active star forming complex sprawling along the Perseus spiral arm of our Milky Way Galaxy. The Double Cluster is located at about the same distance as the Heart and Soul nebulae. Separated by only a few hundred light-years, h and Chi Perseii are physically close together, and both clusters are estimated to be about 13 million years old. Their proximity and similar stellar ages suggest both clusters are likely a product of the same star-forming region.",
   "date": "2016-09-24",
   "hdurl": "https://apod.nasa.gov/apod/image/1609/AdrienK_heartsoulcluster_APOD2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Adrien Klamerius Explanation",
-    "Adrien Klamerius"
-  ],
+  "copyright": "Adrien Klamerius",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1609/AdrienK_heartsoulcluster_APOD1024.jpg"
 }

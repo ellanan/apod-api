@@ -1,14 +1,10 @@
 {
   "title": "Rho Ophiuchi Wide Field",
-  "credit": [],
   "explanation": "The colorful clouds surrounding the star system Rho Ophiuchi compose one of the closest star forming regions. Rho Ophiuchi itself is a binary star system visible in the blue reflection nebula just to the left of the image center. The star system, located only 400 light years away, is distinguished by its multi-colored surroundings, which include a red emission nebula and numerous light and dark brown dust lanes. Near the lower left of the Rho Ophiuchi molecular cloud system is the yellow star Antares, while a distant but coincidently-superposed globular cluster of stars, M4, is visible just to the right of Antares. Near the image top lies IC 4592, the Blue Horsehead nebula. The blue glow that surrounds the Blue Horsehead's eye -- and other stars around the image -- is a reflection nebula composed of fine dust. On the featured image right is a geometrically angled reflection nebula cataloged as Sharpless 1. Here, the bright star near the dust vortex creates the light of surrounding reflection nebula. Although most of these features are visible through a small telescope pointed toward the constellations of Ophiuchus, Scorpius, and Sagittarius, the only way to see the intricate details of the dust swirls, as featured above, is to use a long exposure camera.",
   "date": "2019-05-13",
   "hdurl": "https://apod.nasa.gov/apod/image/1905/RhoOphWide_Cogo_1024.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mario Cogo (Galax Lux) Explanation",
-    "Mario Cogo (Galax Lux)"
-  ],
+  "copyright": "Mario Cogo (Galax Lux)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1905/RhoOphWide_Cogo_960.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The International Space Station Over Earth",
-  "credit": [
-    "Credit: STS-128 Crew, NASA Explanation",
-    "STS-128 Crew, NASA"
-  ],
+  "credit": "STS-128 Crew, NASA",
   "explanation": "After undocking, the space shuttle Discovery crew got a memorable view of the developing International Space Station (ISS). Pictured orbiting high above Earth last month, numerous solar panels, trusses, and science modules of the ISS were visible. The Discovery crew brought mission specialist Nicole Stott to the ISS, and returned astronaut Timothy Kopra to Earth. Among the many mission and expedition accomplishments of the Discovery crew included delivering and placing the Fluids Integrated Rack and the Materials Science Research Rack in the Destiny module as well as the Minus Eighty Degree Laboratory Freezer in the Kibo module. Better known, however, was the delivery of the COLBERT treadmill for keeping astronauts fit. Over this past week the Soyuz TMA-16 spacecraft carrying three more astronauts docked with the ISS as Expedition 21 is set to begin. The next shuttle trip to the ISS is currently scheduled for 2009 November 12.",
   "date": "2009-10-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0910/iss_sts128_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0910/iss_sts128.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "A Meteor Over the Anza-Borrego Desert",
-  "credit": [],
   "explanation": "Meteors will be flashing across your skies over the next two nights. Specifically, the Perseid Meteor Shower should be at its best just before each morning's dawn. Observers at dark locations might see as much as a meteor a minute. Perseid meteors are bits of dirt that blew off Comet Swift-Tuttle and that burn up as they fall to Earth. Exciting expectations of a new filament in the Perseids might be tested this year. Pictured above is a meteor from the most active meteor shower of last year: the Leonids. Pictured above, a Leonid meteor was caught in November outshining even the brightest stars over the Anza-Borrego Desert in California. The Leonids will peak again this November and might provide an ever better show.",
   "date": "1999-08-11",
   "hdurl": "https://apod.nasa.gov/apod/image/9908/leonidanza_js.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jerry Schad (SDMC) Explanation",
-    "Jerry Schad (SDMC)"
-  ],
+  "copyright": "Jerry Schad (SDMC)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9908/leonidanza_js_big.jpg"
 }

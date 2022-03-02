@@ -1,14 +1,10 @@
 {
   "title": "Spitzer's Milky Way",
-  "credit": [
-    "Credit: GLIMPSE, MIPSGAL, NASA, JPL-Caltech, Univ. Wisconsin Explanation",
-    "GLIMPSE, MIPSGAL, NASA, JPL-Caltech, Univ. Wisconsin"
-  ],
+  "credit": "GLIMPSE, MIPSGAL, NASA, JPL-Caltech, Univ. Wisconsin",
   "explanation": "The Spitzer Space Telescope's encompasing infrared view of the plane of our Milky Way Galaxy is hard to appreciate in just one picture. In fact, more than 800,000 frames of data from Spitzer's cameras have now been pieced together in an enormous mosaic of the galactic plane - the most detailed infrared picture of our galaxy ever made. The small portion seen here spans nearly 8 degrees, roughly the apparent width of your fist held at arms length, across the galaxy's center. The full mosaic is 120 degrees wide. Highlighted in the false-color presentation are curving green filaments of light from complex molecules - polycyclic aromatic hydrocarbons (PAHs) - that on Earth are the common, sooty products of incomplete combustion. The PAHs are found in star forming regions, along with reddish emission from graphite dust particles. Blue specks throughout the picture are individual Milky Way stars.",
   "date": "2008-06-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0806/iracmb_gc_f1.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0806/iracmb_gc_c800.jpg"
 }

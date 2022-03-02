@@ -1,14 +1,10 @@
 {
   "title": "At the Shadow's Edge",
-  "credit": [],
   "explanation": "Shaped like a cone tapering into space, the Earth's dark central shadow or umbra has a circular cross-section. It's wider than the Moon at the distance of the Moon's orbit though. But during the lunar eclipse of November 18/19, part of the Moon remained just outside the umbral shadow. The successive pictures in this composite of 5 images from that almost total lunar eclipse were taken over a period of about 1.5 hours. The series is aligned to trace part of the cross-section's circular arc, with the central image at maximum eclipse. It shows a bright, thin sliver of the lunar disk still beyond the shadow's curved edge. Of course, even within the shadow the Moon's surface is not completely dark, reflecting the reddish hues of filtered sunlight scattered into the shadow by Earth's atmosphere.",
   "date": "2021-11-25",
   "hdurl": "https://apod.nasa.gov/apod/image/2111/Gout_EclipseCollage-small.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Jean-Francois Gout Explanation",
-    "Jean-Francois Gout"
-  ],
+  "copyright": "Jean-Francois Gout",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2111/Gout_EclipseCollage-1024.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "NGC 1579: Trifid of the North",
-  "credit": [],
   "explanation": "Colorful NGC 1579 resembles the better known Trifid Nebula, but lies much farther north in planet Earth's sky, in the heroic constellation Perseus. About 2,100 light-years away and 3 light-years across, NGC 1579 is a captivating study in color. Like the Trifid, NGC 1579 is a dusty star forming region providing contrasting emission and reflection nebulae in the same field - the characteristic red glow of hydrogen gas and the blue of reflected starlight. Also like the Trifid, dark dust lanes are prominent in the nebula's central regions. In fact, obscuring dust is pervasive in NGC 1579, drastically dimming the visible light from the massive, young, hot stars still embedded in the cosmic cloud.",
   "date": "2006-05-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0605/ngc1579_gabany_lc.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: R. Jay GaBany (Cosmotography.com) Explanation",
-    "R. Jay GaBany (Cosmotography.com)"
-  ],
+  "copyright": "R. Jay GaBany (Cosmotography.com)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0605/ngc1579_gabany_c55.jpg"
 }

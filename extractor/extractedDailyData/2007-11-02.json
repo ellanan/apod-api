@@ -1,14 +1,10 @@
 {
   "title": "Three Nebulae in Narrow Band",
-  "credit": [],
   "explanation": "Narrow band filters and a false-color palette give these three nebulae a stunning appearance against the cosmic canvas of the central Milky Way. All three are stellar nurseries about 5,000 light-years or so distant, toward the nebula rich constellation Sagittarius. In the 18th century, astronomer Charles Messier cataloged two of them; colorful M8, above and right of center, and compact M20 at the left. The third, NGC 6559, is at bottom right. Over a hundred light-years across, M8 is also known as the Lagoon Nebula. Divided by obscuring dust lanes, M20's popular moniker is the Trifid. In the composite image, narrow emission lines from sulfur, hydrogen, and oxygen atoms recorded through the filters, are mapped into broader red, green, and blue colors respectively. The color scheme was made popular in Hubble Space Telescope images. But for ground-based telescopes, narrow band filters also make it possible to reject overwhelming light-pollution and capture compelling images of the cosmos from urban skies.",
   "date": "2007-11-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/LagoonCA2007_mayda.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Michael Mayda Explanation",
-    "Michael Mayda"
-  ],
+  "copyright": "Michael Mayda",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/LagoonCA2007_mayda_rc720.jpg"
 }

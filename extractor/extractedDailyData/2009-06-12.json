@@ -1,14 +1,10 @@
 {
   "title": "SNR 0104: An Unusual Suspect",
-  "credit": [
-    "Credit: X-ray: NASA / CXC / Penn State / S.Park & J.Lee; Infrared: NASA / JPL-Caltech Explanation",
-    "X-ray: NASA / CXC / Penn State / S.Park & J.Lee; Infrared: NASA / JPL-Caltech"
-  ],
+  "credit": "X-ray: NASA / CXC / Penn State / S.Park & J.Lee; Infrared: NASA / JPL-Caltech",
   "explanation": "SNR 0104 is a supernova remnant with an unusual shape. Found 190,000 light-years away in our neighboring galaxy the Small Magellanic Cloud, SNR 0104 is suspected of being the expanding debris cloud from a Type 1a supernova - the catastrophic thermonuclear explosion of a white dwarf star. For example, like Type 1a supernova remnants within our galaxy, investigations show that it contains large amounts of iron. But unlike other Type 1a remnants, including the well-studied Tycho, Kepler, and SN 1006, SNR 0104 is definitely not spherical. In fact, the remnant's shape suggests this supernova explosion was very asymmetric and produced strong jets. This intriguing composite image combines Chandra Observatory x-ray data of the remnant, shown in purple hues, with Spitzer Space Telescope infrared data covering the wider region, mapped to red and green colors. It indicates that the supernova explosion took place in the complicated and dense environment of a star-forming region. So, an alternative explanation is that the expanding debris cloud is sweeping up clumpy interstellar material, accounting for the odd shape. The broad, multiwavelength view spans about 1,800 light-years at the estimated distance of SNR 0104.",
   "date": "2009-06-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0906/snr0104_comp.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0906/snr0104_comp.jpg"
 }

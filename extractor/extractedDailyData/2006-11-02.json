@@ -1,14 +1,10 @@
 {
   "title": "Messier 76",
-  "credit": [],
   "explanation": "\"Nebula at the right foot of Andromeda ... \" begins the description for the 76th object in Charles Messier's 18th century Catalog of Nebulae and Star Clusters. In fact, M76 is one of the fainter objects on the Messier list and is also known by the popular name of the \"Little Dumbbell Nebula\". Like its brighter namesake M27 (the Dumbbell Nebula), M76 is recognized as a planetary nebula - a gaseous shroud cast off by a dying sunlike star. The nebula itself is thought to be shaped more like a donut, while its box-like appearance is due to our nearly edge-on view. Gas expanding more rapidly away from the donut hole produces the faint loops of far flung material. The nebula's dying star can be picked out in this sharp color image as the bottom, blue-tinted member of the double star near the center of the box-like shape. Distance estimates place M76 about 3 to 5 thousand light-years away, making the nebula over a light-year in diameter.",
   "date": "2006-11-02",
   "hdurl": "https://apod.nasa.gov/apod/image/0611/Messier76_seip_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stefan Seip Explanation",
-    "Stefan Seip"
-  ],
+  "copyright": "Stefan Seip",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0611/Messier76_seip_smallcc.jpg"
 }

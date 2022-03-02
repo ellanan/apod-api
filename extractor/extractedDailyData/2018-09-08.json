@@ -1,14 +1,10 @@
 {
   "title": "Real Time Perseid",
-  "credit": [],
   "explanation": "Bright meteors and dark night skies made this year's Perseid meteor shower a great time for a weekend campout. And while packing away their equipment, skygazers at a campsite in the mountains of southern Germany found at least one more reason to linger under the stars, witnessing this brief but colorful flash with their own eyes. Presented as a 50 frame gif, the two second long video was captured during the morning twilight of August 12. In real time it shows the development of the typical green train of a bright Perseid meteor. A much fainter Perseid is just visible farther to the right. Plowing through Earth's atmosphere at 60 kilometers per second, Perseids are fast enough to excite the characteristic green emission of atomic oxygen at altitudes of 100 kilometers or so.",
   "date": "2018-09-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1809/perseid11aug18-p.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Till Credner, AlltheSky.com Explanation",
-    "Till Credner, AlltheSky.com"
-  ],
+  "copyright": "Till Credner, AlltheSky.com",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1809/perseid11aug18-p.gif"
 }

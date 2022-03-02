@@ -1,14 +1,10 @@
 {
   "title": "Arcs, Jets, and Shocks near NGC 1999",
-  "credit": [],
   "explanation": "This tantalizing array of nebulas and stars can be found about two degrees south of the famous star-forming Orion Nebula. The region abounds with energetic young stars producing jets and outflows that push through the surrounding material at speeds of hundreds of kilometers per second. The interaction creates luminous shock waves known as Herbig-Haro (HH) objects. For example, the graceful, flowing arc just right of center is cataloged as HH 222, also called the Waterfall Nebula. Seen below the Waterfall, HH 401 has a distinctive cone shape. The bright bluish nebula below and left of center is NGC 1999, a dusty cloud reflecting light from an embedded variable star. The entire cosmic vista spans over 30 light-years, near the edge of the Orion Molecular Cloud Complex some 1,500 light-years distant.",
   "date": "2018-03-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1803/NGC1999_Hanson_3847.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Mark Hanson; Annotation: Sakib Rasool (StarSurfin) Explanation",
-    "Mark Hanson; Annotation: Sakib Rasool (StarSurfin)"
-  ],
+  "copyright": "Mark Hanson; Annotation: Sakib Rasool (StarSurfin)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1803/NGC1999_Hanson_960.jpg"
 }

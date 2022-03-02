@@ -1,14 +1,10 @@
 {
   "title": "Astronomy Quilt of the Week",
-  "credit": [],
   "explanation": "",
   "date": "2005-10-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0310/quiltlarge_ross_bright.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Judy W. Ross, Point Roberts, WA Explanation",
-    "Judy W. Ross, Point Roberts, WA"
-  ],
+  "copyright": "Judy W. Ross, Point Roberts, WA",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0310/quiltsmall_ross_c2.jpg"
 }

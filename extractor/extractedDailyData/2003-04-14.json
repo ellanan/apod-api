@@ -1,14 +1,10 @@
 {
   "title": "A Gamma Ray Burst - Supernova Connection",
-  "credit": [
-    "Credit: Al Kelly (JSCAS/NASA) & Arne Henden (Flagstaff/USNO) Explanation",
-    "Al Kelly (JSCAS/NASA) & Arne Henden (Flagstaff/USNO)"
-  ],
+  "credit": "Al Kelly (JSCAS/NASA) & Arne Henden (Flagstaff/USNO)",
   "explanation": "New evidence has emerged that a mysterious type of explosion known as a gamma ray burst is indeed connected to a supernova of the type visible in the above image. Two weeks ago, the orbiting HETE satellite detected gamma-ray burst GRB030329. The extremely bright burst was found hours later to have an extremely bright afterglow in visible light, and soon set the record for the closest measured distance at redshift 0.17. The afterglow brightness allows unprecedented coverage of its evolution. Just this week, as many astronomers suspected would happen, the afterglow began to appear as a fading Type II Supernova. Type II Supernovas might not appear coincident with gamma-ray bursts, however, when the gamma-ray beam goes in another direction. The above spiral galaxy, NGC 3184, was home to a Type II Supernova in 1999 at the position of the arrow. Astronomers are currently pressing hard to find the host galaxy for GRB030329.",
   "date": "2003-04-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0304/ngc3184_kelly_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0304/ngc3184_kelly.jpg"
 }

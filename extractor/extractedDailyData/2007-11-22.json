@@ -1,14 +1,10 @@
 {
   "title": "Pleiades and Stardust",
-  "credit": [],
   "explanation": "Hurtling through a cosmic dust cloud a mere 400 light-years away, the lovely Pleiades or Seven Sisters star cluster is well-known for its striking blue reflection nebulae. This remarkable wide-field (3 degree) image of the region shows the famous star cluster at the right, while highlighting lesser known dusty reflection nebulae nearby, across an area that would span over 20 light-years. In this case, the sister stars and cosmic dust clouds are not related, they just happen to be passing through the same region of space. But astronomers using infrared detectors have recently found a dusty disk that really does belong to one young Pleiades star -- HD 23514. Surrounding HD 23514, the disk is estimated to be comparable in size to the terrestrial planet zone in our own solar system and likely represents the debris from the process of rocky planet formation.",
   "date": "2007-11-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0711/M45WF_hallas_r.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Tony Hallas Explanation",
-    "Tony Hallas"
-  ],
+  "copyright": "Tony Hallas",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0711/M45WF_hallas_r800.jpg"
 }

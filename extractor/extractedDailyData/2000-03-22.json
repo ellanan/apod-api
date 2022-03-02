@@ -1,14 +1,10 @@
 {
   "title": "A Spherule from Outer Space",
-  "credit": [
-    "Credit: Timothy Culler (UCB) et al., Apollo 11 Crew, NASA Explanation",
-    "Timothy Culler (UCB) et al., Apollo 11 Crew, NASA"
-  ],
+  "credit": "Timothy Culler (UCB) et al., Apollo 11 Crew, NASA",
   "explanation": "When a meteorite strikes the Moon, the energy of the impact melts some of the splattering rock, a fraction of which might cool into tiny glass beads. Many of these glass beads were present in lunar soil samples returned to Earth by the Apollo missions. Pictured above is one such glass spherule that measures only a quarter of a millimeter across. This spherule is particularly interesting because it has been victim to an even smaller impact. A miniature crater is visible on the upper left, surrounded by a fragmented area caused by the shockwaves of the small impact. By dating many of these impacts, some astronomers estimate that cratering on our Moon increased roughly 500 million years ago and continues even today.",
   "date": "2000-03-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0003/spherule_apollo11.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0003/spherule_apollo11_big.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Copper Moon, Golden Gate",
-  "credit": [],
   "explanation": "When the Moon rose over San Francisco's Golden Gate Bridge on May 15, both bridge and Moon were in already in Earth's shadow. Of course, the bridge is in the Earth's shadow nightly, while the Moon only has that opportunity about twice a year, during a lunar eclipse. And even though in western North America the total phase of the lunar eclipse began before moonrise, many in areas with clear skies came out to enjoy the spectacle. For this eclipse, skygazers reported a darker than normal, copper-colored Moon during totality. The dramatic color is evident in this multiple exposure of the reddened Moon rising, taken by astrophotographer Evad Damast. Damast viewed the eclipse from the Marin Headlands north and west of the famous bridge, looking back toward the bay and the city lights.",
   "date": "2003-05-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0305/eclipse_5_15_03lg_damast.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Evad Damast Explanation",
-    "Evad Damast"
-  ],
+  "copyright": "Evad Damast",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0305/eclipse_5_15_2003_damast_c1.jpg"
 }

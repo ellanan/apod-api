@@ -1,14 +1,10 @@
 {
   "title": "Arp 220: Spirals in Collision",
-  "credit": [
-    "Credit: R. Thompson (U. Arizona) et al., NICMOS, HST, NASA Explanation",
-    "R. Thompson (U. Arizona) et al., NICMOS, HST, NASA"
-  ],
+  "credit": "R. Thompson (U. Arizona) et al., NICMOS, HST, NASA",
   "explanation": "Arp 220 is the brightest object in the local universe. But why does it shine so brightly? Arp 220 was cataloged as a peculiar galaxy in the 1960s. In the late 1980s, it was discovered to be an ultraluminous infrared galaxy and headed a list compiled from observations with the now-defunct IRAS satellite. New observations with the Hubble Space Telescope are quite revealing. Photos by NICMOS in the infrared taken in April and released just last week now better resolve the two colliding spiral galaxies at the center of Arp 220. A result of this spiral collision are fantastic knots of new star formation visible as the bright spots on the above photograph. Below the \"half-moon\" shaped knot on the right is a massive disk of dust possibly hiding a dying spiral's central black hole. The bright knot to the left is the center of the other broken spiral galaxy. The galaxy cores are about 1200 light years apart and are orbiting each other.",
   "date": "1997-06-17",
   "hdurl": "https://apod.nasa.gov/apod/image/9706/arp220_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9706/arp220_hst.jpg"
 }

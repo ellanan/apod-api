@@ -1,13 +1,9 @@
 {
   "title": "Pluto Flyover from New Horizons",
-  "credit": [
-    "Credit: NASA, JHUAPL, SwRI, P. Schenk & J. Blackwell (LPI); Music Open Sea Morning by Puddle of Infinity Explanation",
-    "NASA, JHUAPL, SwRI, P. Schenk & J. Blackwell (LPI); Music Open Sea Morning by Puddle of Infinity"
-  ],
+  "credit": "NASA, JHUAPL, SwRI, P. Schenk & J. Blackwell (LPI); Music Open Sea Morning by Puddle of Infinity",
   "explanation": "What if you could fly over Pluto -- what might you see? The New Horizons spacecraft did just this in 2015 July as it shot past the distant world at a speed of about 80,000 kilometers per hour. Recently, many images from this spectacular passage have been color enhanced, vertically scaled, and digitally combined into the featured two-minute time-lapse video. As your journey begins, light dawns on mountains thought to be composed of water ice but colored by frozen nitrogen. Soon, to your right, you see a flat sea of mostly solid nitrogen that has segmented into strange polygons that are thought to have bubbled up from a comparatively warm interior. Craters and ice mountains are common sights below. The video dims and ends over terrain dubbed bladed because it shows 500-meter high ridges separated by kilometer-sized gaps. Although the robotic New Horizons spacecraft has too much momentum ever to return to Pluto, it has now been targeted at Kuiper Belt object 2014 MU 69, which it should shoot past on New Year's Day 2019.",
   "date": "2017-07-31",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/rJzKDbnXyH0?rel=0"
 }

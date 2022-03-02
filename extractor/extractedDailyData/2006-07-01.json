@@ -1,14 +1,10 @@
 {
   "title": "Wind from a Black Hole",
-  "credit": [
-    "Credit: M. Weiss (CXC), NASA Explanation",
-    "M. Weiss (CXC), NASA"
-  ],
+  "credit": "M. Weiss (CXC), NASA",
   "explanation": "Binary star system GRO J1655-40 consists of a relatively normal star about twice as massive as the Sun co-orbiting with a black hole of about seven solar masses. This striking artist's vision of the exotic binary system helps visualize matter drawn from the normal star by gravity and swirling toward the black hole. But it also includes a wind of material escaping from the black hole's accretion disk. In fact, astronomers now argue that Chandra Observatory x-ray data indicate a high-speed wind is being driven from this system's disk by magnetic forces. Internal magnetic fields also help drive material in the swirling disk into the black hole itself. If you had x-ray eyes as good as Chandra's, you could find GRO J1655-40 about 11,000 light-years away in the constellation Scorpius.",
   "date": "2006-07-01",
   "hdurl": "https://apod.nasa.gov/apod/image/0607/j1655_ill_disk.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0607/j1655_ill_disk78.jpg"
 }

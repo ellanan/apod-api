@@ -1,14 +1,10 @@
 {
   "title": "Cas A Supernova Remnant in X-Rays",
-  "credit": [
-    "Credit: John Hughes et al. (Rutgers), NASA/CXC/SAO Explanation",
-    "John Hughes et al. (Rutgers), NASA/CXC/SAO"
-  ],
+  "credit": "John Hughes et al. (Rutgers), NASA/CXC/SAO",
   "explanation": "The complex shell of a star seen to explode 300 years ago is helping astronomers to understand how that star exploded. The above recently released image of supernova remnant Cassiopeia A (Cas A) shows unprecedented detail in three X-ray colors. The relationship between brightness, color, and position of material in the image indicates where in the star this material was just before the explosion. Bright knots on the left, for example, contain little iron, and so are hypothesized to originated from a higher layer than outer red filaments, which are iron rich. The blue region on the right is seen through absorbing dust, and so appears depleted of low-energy X-rays. It takes light ten years to cross the gas shell of the Cas A supernova remnant, which is 10,000 light-years distant. Most of the elements that make people and planets were produced in supernova explosions.",
   "date": "2000-01-03",
   "hdurl": "https://apod.nasa.gov/apod/image/0001/casa_chandra_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0001/casa_chandra.jpg"
 }

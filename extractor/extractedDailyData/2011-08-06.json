@@ -1,14 +1,10 @@
 {
   "title": "Comet Garradd and Messier 15",
-  "credit": [],
   "explanation": "Recorded on August 2, this telescopic composite image catches Comet Garradd (C/2009 P1) in the same field of view as globular star cluster M15. The celestial scene would have been a rewarding one for influential 18th century comet hunter Charles Messier. While Messier scanned French skies for comets, he carefully cataloged positions of things which might be fuzzy and comet-like in appearance but did not move against the background stars and so were definitely not comets. M15 (lower right), the 15th entry in his famous not-a-comet catalog, is now understood to be a cluster of over 100,000 stars some 35,000 light-years distant. The comet, discovered in August 2009 by astronomer G. J. Garradd (Siding Spring Observatory, Australia) is currently sweeping across the constellation Pegasus, some 13 light-minutes from Earth. Shining faintly around 9th magnitude, comet Garradd will brighten in the coming months, predicted to be just below naked eye visibility near its peak in February 2012.",
   "date": "2011-08-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1108/GarraddM15_ruppel080211.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Gregg Ruppel Explanation",
-    "Gregg Ruppel"
-  ],
+  "copyright": "Gregg Ruppel",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1108/GarraddM15_ruppel080211_900.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Star Wars in NGC 664",
-  "credit": [
-    "Credit: C. Hergenrother, Whipple Observatory, P. Garnavich, P.Berlind, R.Kirshner (CFA) Explanation",
-    "C. Hergenrother, Whipple Observatory, P. Garnavich, P.Berlind, R.Kirshner (CFA)"
-  ],
+  "credit": "C. Hergenrother, Whipple Observatory, P. Garnavich, P.Berlind, R.Kirshner (CFA)",
   "explanation": "Long ago in a galaxy far, far away, locked in their final desperate struggle against the force of gravity ... two stars exploded! stellar explosions - Supernovae - are among the most powerful events in the Universe, estimated to release an equivalent energy of up to 1 million trillion trillion (1 followed by 30 zeros) megatons of TNT. After the explosion, an expanding supernova envelope is observed to brighten over a a period of days to a maximum light output which rivals that of an entire galaxy before fading from view over the following months. Triggered by the collapsing core of a massive star or the nuclear demise of a white dwarf supernovae occur in average spiral galaxies only about once every 25-100 years. But a recent observation of NGC 664, a spiral galaxy about 300 million light years distant, captured a rare and colorful performance - two supernovae from the same galaxy. In this monitoring exposure the two supernovae, one reddish yellow and one blue, form a close pair just below the image center (to the right of the galaxy nucleus). The color difference is due to temperature - blue is hotter.",
   "date": "1999-05-15",
   "hdurl": "https://apod.nasa.gov/apod/image/9702/starngc664_whipple_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9702/starngc664_whipple.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Fractal Interstellar Dust Up-Close",
-  "credit": [],
   "explanation": "Our universe is a very dusty place. Dust usually shows its presence by blocking out light emitted from stars or nebula behind it, sometimes creating the illusion of a horse's head or a sombrero hat. But nobody really knows what a typical interstellar dust grain looks like. By studying how dust absorbs, emits, and reflects light, astronomers do know that interstellar dust is much different than the cell and lint based dust found around a typical house. Interstellar dust grains are composed mostly of carbon, silicon, and oxygen and are usually less than about 1/1000 of a millimeter across. Recent work indicates that most dust grains are not spherical. The above picture shows the result of a fractal adhesion model for dust grains involving random conglomerates of spherical compounds of different properties, here artificially highlighted by different colors.",
   "date": "1996-11-19",
   "hdurl": "https://apod.nasa.gov/apod/image/9611/fractaldust_elw_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: E. L. Wright (UCLA) Explanation",
-    "E. L. Wright (UCLA)"
-  ],
+  "copyright": "E. L. Wright (UCLA)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9611/fractaldust_elw.gif"
 }

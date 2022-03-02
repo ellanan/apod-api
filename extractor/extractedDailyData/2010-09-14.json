@@ -1,14 +1,10 @@
 {
   "title": "An Extraordinary Spiral from LL Pegasi",
-  "credit": [
-    "Credit: ESA, Hubble, R. Sahai (JPL), NASA Explanation",
-    "ESA, Hubble, R. Sahai (JPL), NASA"
-  ],
+  "credit": "ESA, Hubble, R. Sahai (JPL), NASA",
   "explanation": "What created the strange spiral structure on the left? No one is sure, although it is likely related to a star in a binary star system entering the planetary nebula phase, when its outer atmosphere is ejected. The huge spiral spans about a third of a light year across and, winding four or five complete turns, has a regularity that is without precedent. Given the expansion rate of the spiral gas, a new layer must appear about every 800 years, a close match to the time it takes for the two stars to orbit each other. The star system that created it is most commonly known as LL Pegasi, but also AFGL 3068. The unusual structure itself has been cataloged as IRAS 23166+1655. The above image was taken in near-infrared light by the Hubble Space Telescope. Why the spiral glows is itself a mystery, with a leading hypothesis being illumination by light reflected from nearby stars.",
   "date": "2010-09-14",
   "hdurl": "https://apod.nasa.gov/apod/image/1009/llpegspiral_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1009/llpegspiral_hst.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Saturn's Hyperion: A Moon with Odd Craters",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What lies at the bottom of Hyperion's strange craters? Nobody knows. To help find out, the robot Cassini spacecraft now orbiting Saturn swooped past the sponge-textured moon in late 2005 and took an image of unprecedented detail. That image, shown above in false color, shows a remarkable world strewn with strange craters and a generally odd surface. The slight differences in color likely show differences in surface composition. At the bottom of most craters lies some type of unknown dark material. Inspection of the image shows bright features indicating that the dark material might be only tens of meters thick in some places. Hyperion is about 250 kilometers across, rotates chaotically, and has a density so low that it might house a vast system of caverns inside.",
   "date": "2009-01-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0510/hyperion2_cassini_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0510/hyperion2_cassini.jpg"
 }

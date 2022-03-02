@@ -1,14 +1,10 @@
 {
   "title": "A Radar Image of Planet Earth",
-  "credit": [
-    "Credit: NASA, JPL Imaging Radar Program Explanation",
-    "NASA, JPL Imaging Radar Program"
-  ],
+  "credit": "NASA, JPL Imaging Radar Program",
   "explanation": "",
   "date": "1995-08-24",
   "hdurl": "https://apod.nasa.gov/apod/image/rainier.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/rainier.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Where to See Comet Hyakutake",
-  "credit": [],
   "explanation": "",
   "date": "1996-03-22",
   "hdurl": "https://apod.nasa.gov/apod/image/hyakutake_kw.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Ken White, Izzy's Skylog Explanation",
-    "Ken White, Izzy's Skylog"
-  ],
+  "copyright": "Ken White, Izzy's Skylog",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/hyakutake_kw.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Saturn's Infrared Glow",
-  "credit": [
-    "Credit: VIMS Team, U. Arizona, ESA, NASA Explanation",
-    "VIMS Team, U. Arizona, ESA, NASA"
-  ],
+  "credit": "VIMS Team, U. Arizona, ESA, NASA",
   "explanation": "Known for its bright ring system and many moons, gas giant Saturn looks strange and unfamiliar in this false-color view from the Cassini spacecraft. In fact, in this Visual and Infrared Mapping Spectrometer (VIMS) mosaic the famous rings are almost invisible, seen edge-on cutting across picture center. The most striking contrast in the image is along the terminator or boundary between night and day. To the right (day side) blue-green hues are visible sunlight reflected from Saturn's cloud tops. But on the left (night side) in the absence of sunlight, the lantern-like glow of infrared radiation from the planet's warm interior silhouettes features at Saturn's deeper cloud levels.",
   "date": "2007-12-29",
   "hdurl": "https://apod.nasa.gov/apod/image/0712/irsaturn_vims_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0712/irsaturn_vims_c80.jpg"
 }

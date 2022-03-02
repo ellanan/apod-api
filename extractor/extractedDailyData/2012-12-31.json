@@ -1,14 +1,10 @@
 {
   "title": "Saturn's Rings from the Dark Side",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, JPL, ESA, NASA Explanation",
-    "Cassini Imaging Team, SSI, JPL, ESA, NASA"
-  ],
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
   "explanation": "What do Saturn's rings look like from the dark side? From Earth, we usually see Saturn's rings from the same side of the ring plane that the Sun illuminates them -- one might call this the bright side. Geometrically, in the above picture taken in August by the robot Cassini spacecraft now orbiting Saturn, the Sun is behind the camera but on the other side of the ring plane. Such a vantage point gives a breathtaking views of the most splendid ring system in the Solar System. Strangely, the rings have similarities to a photographic negative of a front view. For example, the dark band in the middle is actually the normally bright B-ring. The ring brightness as recorded from different angles indicates ring thickness and particle density of ring particles. At the top left of the frame is Saturn's moon Tethys, which although harder to find, contains much more mass than the entire ring system.",
   "date": "2012-12-31",
   "hdurl": "https://apod.nasa.gov/apod/image/1212/darkrings_cassini_1024.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1212/darkrings_cassini_960.jpg"
 }

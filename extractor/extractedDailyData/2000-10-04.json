@@ -1,14 +1,10 @@
 {
   "title": "Barred Spiral Galaxy NGC 1300",
-  "credit": [],
   "explanation": "NGC 1300 is a large spiral galaxy that appears as a flattened figure eight. A huge bar that spans over 150,000 light-years across the galaxy center dominates its appearance. The picturesque galaxy lies about 75 million light-years distant, so that light that we see now left during the age of the dinosaurs. Although it is well known how fast different parts of NGC 1300 rotate, the specific orbits of many component stars -- including how they interact with the gigantic bar -- remains a topic of research. Our own Milky Way Galaxy is a spiral galaxy with a less prominent bar. NGC 1300 can be seen with a small telescope towards the constellation of Eridanus.",
   "date": "2000-10-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0010/ngc1300_dfm.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: S. Lee & D. F. Malin, AAO Explanation",
-    "S. Lee & D. F. Malin, AAO"
-  ],
+  "copyright": "S. Lee & D. F. Malin, AAO",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0010/ngc1300_dfm_big.jpg"
 }

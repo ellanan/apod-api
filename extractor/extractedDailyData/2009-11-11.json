@@ -1,14 +1,10 @@
 {
   "title": "Great Observatories Explore Galactic Center",
-  "credit": [
-    "Credit: NASA, ESA, SSC, CXC, and STScI Explanation",
-    "NASA, ESA, SSC, CXC, and STScI"
-  ],
+  "credit": "NASA, ESA, SSC, CXC, and STScI",
   "explanation": "Where can a telescope take you? Four hundred years ago, a telescope took Galileo to the Moon to discover craters, to Saturn to discover rings, to Jupiter to discover moons, to Venus to discover phases, and to the Sun to discover spots. Today, in celebration of Galileo's telescopic achievements and as part of the International Year of Astronomy, NASA has used its entire fleet of Great Observatories, and the Internet, to bring the center of our Galaxy to you. Pictured above, in greater detail and in more colors than ever seen before, are the combined images of the Hubble Space Telescope in near-infrared light, the Spitzer Space Telescope in infrared light, and the Chandra X-ray Observatory in X-ray light. A menagerie of vast star fields is visible, along with dense star clusters, long filaments of gas and dust, expanding supernova remnants, and the energetic surroundings of what likely is our Galaxy's central black hole. Many of these features are labeled on a complementary annotated image. Of course, a telescope's magnification and light-gathering ability create only an image of what a human could see if visiting these places. To actually go requires rockets.",
   "date": "2009-11-11",
   "hdurl": "https://apod.nasa.gov/apod/image/0911/galacticcenter_greatobs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0911/galacticcenter_greatobs.jpg"
 }

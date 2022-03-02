@@ -1,14 +1,10 @@
 {
   "title": "Descent to Titan",
-  "credit": [
-    "Credit: Cassini Imaging Team, SSI, Cassini-Huygens Mission Explanation",
-    "Cassini Imaging Team, SSI, Cassini-Huygens Mission"
-  ],
+  "credit": "Cassini Imaging Team, SSI, Cassini-Huygens Mission",
   "explanation": "Today's descent to the surface of Titan by the European Space Agency's Huygens probe was the most distant landing ever by a spacecraft from Earth. At 10:13 UT (5:13am EST, 11:13 CET), Huygens entered the atmosphere of Saturn's large mystery moon at an altitude of 180 kilometers. Radio astronomers reported detecting signals from the probe indicating that that Huygens began to deployed a series of parachutes to control its 2 hour descent through Titan's dense atmosphere. Huygens' anticipated landing point is marked by a yellow dot in this near-infrared image from the Cassini spacecraft ... but it is not known if a solid or liquid surface awaited it. The outermost of the nested octagons is about 1,120 kilometers across. The outlines are labeled by altitude and indicate areas of coverage by Huygens' imaging instruments during the descent.",
   "date": "2005-01-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0501/descentTitan_cassini_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0501/descentTitan_cassini_c.jpg"
 }

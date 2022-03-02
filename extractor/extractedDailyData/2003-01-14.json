@@ -1,14 +1,10 @@
 {
   "title": "0313-192: The Wrong Galaxy",
-  "credit": [
-    "Credit: W. Keel (Univ. Alabama), M. Ledlow (Gemini Obs.), F. Owen (NRAO), AUI,NSF, NASA Explanation",
-    "W. Keel (Univ. Alabama), M. Ledlow (Gemini Obs.), F. Owen (NRAO), AUI,NSF, NASA"
-  ],
+  "credit": "W. Keel (Univ. Alabama), M. Ledlow (Gemini Obs.), F. Owen (NRAO), AUI,NSF, NASA",
   "explanation": "Centered above is distant galaxy 0313-192, some one billion light-years away. Radio emission from the galaxy has been mapped by the National Radio Astronomy Observatory's Very Large Array and is shown in red, composited with a visible light image from the Hubble Space Telescope's new Advanced Camera for Surveys. Dust lanes and other features in the Hubble image as well as infrared Gemini telescope data demonstrate clearly that 0313-192 is a spiral galaxy seen edge-on. (Note the unrelated spiral galaxy seen face-on above and to the right.) For years, double cosmic clouds of radio emission such as those flanking this spiral galaxy's core have been studied and cataloged. But, at least until now, such radio sources were only known to arise from the cores of giant elliptical galaxies or in violent merging galaxy systems, making 0313-192 the wrong kind of galaxy to be found in this scenario. Astronomers are searching for clues to why this spiral galaxy, potentially similar to our own Milky Way, shows such powerful activity.",
   "date": "2003-01-14",
   "hdurl": "https://apod.nasa.gov/apod/image/0301/0313comp_keel_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0301/0313comp_keel.jpg"
 }

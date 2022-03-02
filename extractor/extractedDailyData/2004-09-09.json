@@ -1,14 +1,10 @@
 {
   "title": "Sagittarius Triplet",
-  "credit": [],
   "explanation": "These three bright nebulae are often featured in telescopic tours of the constellation Sagittarius and the view toward the center of our Milky Way galaxy. In fact, 18th century cosmic tourist Charles Messier cataloged two of them; M8, the nebula above and left of center, and colorful M20 at the lower left. The third, NGC 6559, is at the right of M8, separated from the the larger nebula by a dark dust lane. All three are stellar nurseries about five thousand light-years or so distant. The expansive M8, over a hundred light-years across, is also known as the Lagoon Nebula while M20's popular moniker is the Trifid. In this gorgeous digital composition, the dominant red color of the emission nebulae is due to glowing hydrogen gas energized by the radiation of hot, young stars. The contrasting blue hues, most striking in the Trifid as well as NGC 6559, are due to dust reflected starlight.",
   "date": "2004-09-09",
   "hdurl": "https://apod.nasa.gov/apod/image/0409/sagTriplet_gendler_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0409/sagTriplet_gendler_c1.jpg"
 }

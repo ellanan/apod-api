@@ -1,14 +1,10 @@
 {
   "title": "Diffraction Spikes: When Stars Look Like Crosses",
-  "credit": [
-    "Credit: B. Stecklum (TLS) et al., WFPC2, HST, NASA Explanation",
-    "B. Stecklum (TLS) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "B. Stecklum (TLS) et al., WFPC2, HST, NASA",
   "explanation": "Unusual appendages around bright stars are commonplace, but never seem to be mentioned. What are they? First, a telescope brings starlight falling over a large area to a small area. To get at this small area, however, one must go inside a reflecting telescope, and one good way to do this is to use support rods, which are right in the view of the telescope. The wave nature of light causes it to deflect when passing near these rods. Light scatters away from the original destination point ending up elsewhere and appearing as \"diffraction spikes.\" These annoying spikes steal precious light from the central image and hide light from fainter, more interesting stars. Above, astronomers are more interested in the half-circled point near the image center, than the cool-looking diffraction spikes from the bright star at the bottom. Apparently, that half-circle is a new stellar system forming in the Lagoon Nebula.",
   "date": "2001-04-15",
   "hdurl": "https://apod.nasa.gov/apod/image/0104/m8hal_hst.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0104/m8hal_hst_big.jpg"
 }

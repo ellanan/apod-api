@@ -1,14 +1,10 @@
 {
   "title": "New Year Mars Panorama",
-  "credit": [
-    "Credit: Mars Exploration Rover Mission, Cornell, JPL, NASA Explanation",
-    "Mars Exploration Rover Mission, Cornell, JPL, NASA"
-  ],
+  "credit": "Mars Exploration Rover Mission, Cornell, JPL, NASA",
   "explanation": "According to an Earth-based calendar, the Spirit rover spent the first day of 2006 gathering data to complete this panoramic view from Gusev crater on Mars. That day corresponded to Spirit's 710th Martian day or sol on the Red Planet. Scrolling right the view spans 160 degrees, looking up a slope and across rippled sand deposits in a dark field dubbed \"El Dorado\". The Spirit rover is traveling in a down hill direction after reaching the summit of Husband Hill. This month, both Spirit and Opportunity rovers will celebrate two years of Mars exploration, a remarkable achievement considering their original 90 day warranty. During that time Spirit has traveled over 3.5 miles and Opportunity over 4 miles across the Martian surface.",
   "date": "2006-01-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0601/mars_spirit_PIA03274_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0601/mars_spirit_PIA03274_f15.jpg"
 }

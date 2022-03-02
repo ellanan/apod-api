@@ -1,14 +1,10 @@
 {
   "title": "Planck Maps the Microwave Background",
-  "credit": [
-    "Credit: European Space Agency, Planck Collaboration Explanation",
-    "European Space Agency, Planck Collaboration"
-  ],
+  "credit": "European Space Agency, Planck Collaboration",
   "explanation": "What is our universe made of? To help find out, ESA launched the Planck satellite to map, in unprecedented detail, slight temperature differences on the oldest surface known -- the background sky left billions of years ago when our universe first became transparent to light. Visible in all directions, this cosmic microwave background is a complex tapestry that could only show the hot and cold patterns observed were the universe to be composed of specific types of energy that evolved in specific ways. The results, reported last week, confirm again that most of our universe is mostly composed of mysterious and unfamiliar dark energy, and that even most of the remaining matter energy is strangely dark. Additionally, Planck data impressively peg the age of the universe at about 13.81 billion years, slightly older than that estimated by various other means including NASA's WMAP satellite, and the expansion rate at 67.3 (+/- 1.2) km/sec/Mpc, slightly lower than previous estimates. Some features of the above sky map remain unknown, such as why the temperature fluctuations seem to be slightly greater on one half of the sky than the other.",
   "date": "2013-03-25",
   "hdurl": "https://apod.nasa.gov/apod/image/1303/cmbr_planck_3600.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1303/cmbr_planck_960.jpg"
 }

@@ -1,13 +1,9 @@
 {
   "title": "The Winds of Earth",
-  "credit": [],
   "explanation": "Which way is the wind blowing? The featured map can tell you this and much more, no matter your location on planet Earth. The dynamic map displays supercomputer forecasts drawn from multiple sources of global satellite data updated every three hours. Bright swirls usually indicate low pressure systems with high wind speeds, including dramatic cyclones, hurricanes and typhoons. Although the globe can be rotated interactively here, to obtain full interactivity -- including the ability to zoom -- you should click the word \"earth\" on the lower left or send your browser directly to https://earth.nullschool.net. The \"earth\" control panel there further allows you to overlay temperature, humidity, pressure, precipitation, and carbon dioxide maps, or even switch to displaying higher altitude wind speeds or ocean currents. In particular during times of rapid change, the displayed maps may be outdated or inaccurate.",
   "date": "2016-10-10",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Cameron Beccario, earth.nullschool.net; Data & Processing (abridged): GFS & US National Weather Service (NOAA); GEOS-5 & Goddard Space Flight Center (NASA) Explanation",
-    "Cameron Beccario, earth.nullschool.net; Data & Processing (abridged): GFS & US National Weather Service (NOAA); GEOS-5 & Goddard Space Flight Center (NASA)"
-  ],
+  "copyright": "Cameron Beccario, earth.nullschool.net; Data & Processing (abridged): GFS & US National Weather Service (NOAA); GEOS-5 & Goddard Space Flight Center (NASA)",
   "media_type": "video",
   "url": "https://earth.nullschool.net/"
 }

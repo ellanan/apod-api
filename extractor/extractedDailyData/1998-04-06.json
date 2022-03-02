@@ -1,14 +1,10 @@
 {
   "title": "A Face On Mars",
-  "credit": [
-    "Credit: The Viking Project, NASA Explanation",
-    "The Viking Project, NASA"
-  ],
+  "credit": "The Viking Project, NASA",
   "explanation": "This image, showing what looks to be a human face (above center) and other features of the Cydonia region on the Martian surface, was produced using data from NASA's Viking 1 orbiter in 1976. Described in a NASA press release as a \"rock formation which resembles a human head\", some have since offered the extraordinary explanation that the face is an artificial construct built by a civilization on Mars! However, most scientists have a more conventional view - that this feature is indeed a natural Martian hill whose illusory face-like appearance depends on illumination and viewing angle. This month, the Mars Global Surveyor satellite will be in position to take new pictures of this region of controversial Martian features along with areas around the Mars Pathfinder and Viking landing sites.",
   "date": "1998-04-06",
   "hdurl": "https://apod.nasa.gov/apod/image/9804/marsface1_vk1.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9804/marsface1_vk1.jpg"
 }

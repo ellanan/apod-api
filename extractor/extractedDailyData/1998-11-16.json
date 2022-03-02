@@ -1,14 +1,10 @@
 {
   "title": "Leonids 1998: A Safe Meteor Storm",
-  "credit": [],
   "explanation": "You're in no danger. During the meteor storm occurring tonight and tomorrow, thousands of bits of ice and rock will likely rain onto the Earth. Few, if any, will hit the ground. Touted as potentially the most active meteor shower since 1966, the Leonids of 1998 will be tracked by observers the world over. The meteor storm is caused by the Earth moving through the leftover debris of Comet Temple-Tuttle. The peak of the storm will be best visible tomorrow from Asia, though increased activity should be visible globally over many hours. It is even possible to monitor the storm live on the web. Pictured above is a Perseid 1997 meteor streaking across the sky behind an illuminated California desert.",
   "date": "1998-11-16",
   "hdurl": "https://apod.nasa.gov/apod/image/9811/perseid_wp_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: W. Pacholka Explanation",
-    "W. Pacholka"
-  ],
+  "copyright": "W. Pacholka",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9811/perseid_wp.jpg"
 }

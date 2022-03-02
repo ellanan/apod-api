@@ -1,14 +1,10 @@
 {
   "title": "The Rings of Saturn",
-  "credit": [
-    "Credit: NASA, Jet Propulsion Laboratory, Voyager Project Explanation",
-    "NASA, Jet Propulsion Laboratory, Voyager Project"
-  ],
+  "credit": "NASA, Jet Propulsion Laboratory, Voyager Project",
   "explanation": "",
   "date": "1995-07-30",
   "hdurl": "https://apod.nasa.gov/apod/image/satring1.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/satring1.gif"
 }

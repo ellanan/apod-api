@@ -1,14 +1,10 @@
 {
   "title": "Moonset, Planet Earth",
-  "credit": [
-    "Credit: STS-35 Crew, NASA Explanation",
-    "STS-35 Crew, NASA"
-  ],
+  "credit": "STS-35 Crew, NASA",
   "explanation": "During the Astro-1 astronomy mission of December, 1990, Space Shuttle astronauts photographed this stunning view of the setting full moon above the Earth's limb. In the foreground, towering clouds of condensing water vapor mark the extent of the troposphere, the lowest layer of the planet's life-sustaining atmosphere. Strongly scattering blue sunlight, the upper atmospheric layer, the stratosphere, fades dramatically to the black background of space. Moon and clouds are strong visual elements of many well known portraits of planet Earth, including Ansel Adams' famous \"Moonrise, Hernandez, New Mexico\", photographed in 1941.",
   "date": "2000-10-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0010/moonrise_sts35_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0010/moonrise_sts35.jpg"
 }

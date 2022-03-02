@@ -1,14 +1,10 @@
 {
   "title": "Cepheus 1: Nearby Galaxy Hiding",
-  "credit": [
-    "Credit: R. Walterbos et al. (NMSU), Apache Point Obs. Explanation",
-    "R. Walterbos et al. (NMSU), Apache Point Obs."
-  ],
+  "credit": "R. Walterbos et al. (NMSU), Apache Point Obs.",
   "explanation": "Some galaxies are hard to find. Besides being hidden behind the dust and bright foreground stars of our Milky Way Galaxy, recently discovered Cepheus 1 was missed previously because it is so uniformly dim. In fact, the first indication that any galaxy was there at all came in the radio band from the Dwingeloo radio telescope in the Netherlands. Close inspections of optical photographs like the one above then revealed Cepheus 1 as the low-surface brightness galaxy in the center. Cepheus 1 turns out to be only about 20 million light years distant, and so is one of the few spiral galaxies that live close by. Low-surface brightness (LSB) galaxies like Cepheus 1 are still being studied, but are known to have relatively large separations between bright stars, and to be more commonly found away from other galaxies.",
   "date": "1998-12-01",
   "hdurl": "https://apod.nasa.gov/apod/image/9812/cepheus1_apo_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9812/cepheus1_apo.jpg"
 }

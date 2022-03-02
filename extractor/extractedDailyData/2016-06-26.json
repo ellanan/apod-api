@@ -1,14 +1,10 @@
 {
   "title": "Jupiter's Clouds from New Horizons",
-  "credit": [
-    "Credit: NASA, Johns Hopkins U. APL, SWRI Explanation",
-    "NASA, Johns Hopkins U. APL, SWRI"
-  ],
+  "credit": "NASA, Johns Hopkins U. APL, SWRI",
   "explanation": "The New Horizons spacecraft took some stunning images of Jupiter on its way out to Pluto. Famous for its Great Red Spot, Jupiter is also known for its regular, equatorial cloud bands, visible through even modest sized telescopes. The featured image, horizontally compressed, was taken in 2007 near Jupiter's terminator and shows the Jovian giant's wide diversity of cloud patterns. On the far left are clouds closest to Jupiter's South Pole. Here turbulent whirlpools and swirls are seen in a dark region, dubbed a belt, that rings the planet. Even light colored regions, called zones, show tremendous structure, complete with complex wave patterns. The energy that drives these waves surely comes from below. New Horizons is the fastest space probe ever launched, has successfully complete its main flyby of Pluto in 2015, and is now heading further out and on track to flyby Kuiper belt object 2014 MU69 in 2019. In the near term, many space enthusiasts excitedly await Juno's arrival at Jupiter next Monday.",
   "date": "2016-06-26",
   "hdurl": "https://apod.nasa.gov/apod/image/1606/jupiterclouds_newhorizons_1843.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1606/jupiterclouds_newhorizons_960.jpg"
 }

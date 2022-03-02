@@ -1,14 +1,10 @@
 {
   "title": "Centaurus A",
-  "credit": [],
   "explanation": "Only 11 million light-years away, Centaurus A is the closest active galaxy to planet Earth. Spanning over 60,000 light-years, the peculiar elliptical galaxy also known as NGC 5128, is featured in this sharp telescopic view. Centaurus A is apparently the result of a collision of two otherwise normal galaxies resulting in a fantastic jumble of star clusters and imposing dark dust lanes. Near the galaxy's center, left over cosmic debris is steadily being consumed by a central black hole with a billion times the mass of the Sun. As in other active galaxies, that process likely generates the radio, X-ray, and gamma-ray energy radiated by Centaurus A. The remarkably deep, visible light image offers further evidence of the ensuing cosmic violence in the faint shells and extended features surrounding the active galaxy.",
   "date": "2017-03-09",
   "hdurl": "https://apod.nasa.gov/apod/image/1703/ngc5128neyer_l1.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Fabian Neyer Explanation",
-    "Fabian Neyer"
-  ],
+  "copyright": "Fabian Neyer",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1703/ngc5128neyer1024_l1.jpg"
 }

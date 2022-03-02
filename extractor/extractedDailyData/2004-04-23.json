@@ -1,14 +1,10 @@
 {
   "title": "Comet C/2001 Q4 (NEAT)",
-  "credit": [],
   "explanation": "Inbound from the distant solar system, comet C/2001 Q4 will soon pass just inside planet Earth's orbit and should be one of two bright, naked-eye comets visible in southern skies in May. First picked up nearly three years ago by the Near Earth Asteroid Tracking (NEAT) project Q4 appears in both of these stunning telescopic views recorded only a few days ago, on April 18th (left) and 19th, from a site near Alcohuaz, Chile. Remarkable changes in the structure of the long, graceful tail can be seen by comparing the two photos, including the dramatic kink seen near the tail's midpoint on April 19th. The apparent motion of the comet sweeping across the sky is evident when you compare the position of the tail relative to background galaxy NGC 1313, visible as a smudge near the top of each image. Q4's closest approach to the Sun will be on May 15th while its closest encounter with planet Earth will be on May 7th (see animation by L. Koehn).",
   "date": "2004-04-23",
   "hdurl": "https://apod.nasa.gov/apod/image/0404/neatQ4_tan_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Loke Kun Tan (StarryScapes) Explanation",
-    "Loke Kun Tan (StarryScapes)"
-  ],
+  "copyright": "Loke Kun Tan (StarryScapes)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0404/neatQ4_tan_c1.jpg"
 }

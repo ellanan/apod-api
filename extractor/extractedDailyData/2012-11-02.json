@@ -1,14 +1,10 @@
 {
   "title": "The Black Hole in the Milky Way",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, NuSTAR project Explanation",
-    "NASA, JPL-Caltech, NuSTAR project"
-  ],
+  "credit": "NASA, JPL-Caltech, NuSTAR project",
   "explanation": "At the center of our Milky Way Galaxy, a mere 27,000 light-years away, lies a black hole with 4 million times the mass of the Sun. Fondly known as Sagittarius A* (pronounced A-star), the Milky Way's black hole is fortunately mild-mannered compared to the central black holes in distant active galaxies, much more calmly consuming material around it. From time to time it does flare-up, though. An outburst lasting several hours is captured in this series of premier X-ray images from the orbiting Nuclear Spectroscopic Telescope Array (NuSTAR). Launched last June 13, NuSTAR is the first to provide focused views of the area surrounding Sgr A* at X-ray energies higher than those accessible to Chandra and XMM observatories. Spanning two days of NuSTAR observations, the flare sequence is illustrated in the panels at the far right. X-rays are generated in material heated to over 100 million degrees Celsius, accelerated to nearly the speed of light as it falls into the Miky Way's central black hole. The main inset X-ray image spans about 100 light-years. In it, the bright white region represents the hottest material closest to the black hole, while the pinkish cloud likely belongs to a nearby supernova remnant.",
   "date": "2012-11-02",
   "hdurl": "https://apod.nasa.gov/apod/image/1211/PIA16214nustar.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1211/PIA16214nustar900.jpg"
 }

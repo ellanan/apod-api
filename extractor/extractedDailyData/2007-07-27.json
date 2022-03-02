@@ -1,14 +1,10 @@
 {
   "title": "The Tidal Tail of NGC 3628",
-  "credit": [],
   "explanation": "A mere 30 million light-years away, large spiral galaxy NGC 3628 (center) shares its neighborhood in the local Universe with two other large spirals, in a magnificent grouping otherwise known as the Leo Triplett. In fact, fellow trio member M65 is near the bottom edge of this deep cosmic group portrait, with M66, just above it and to the left. But, perhaps most intriguing is the spectacular tail stretching up and to the left for about 300,000 light-years from NGC 3628's warped, edge-on disk. Known as a tidal tail, the structure has been drawn out of the galaxy by gravitational tides during brief but violent past interactions with its large neighbors. Not often imaged so distinctly, the tidal tail is composed of young bluish star clusters and star-forming regions.",
   "date": "2007-07-27",
   "hdurl": "https://apod.nasa.gov/apod/image/0707/NGC3628_mandel.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Steve Mandel (Galaxy Images) Explanation",
-    "Steve Mandel (Galaxy Images)"
-  ],
+  "copyright": "Steve Mandel (Galaxy Images)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0707/NGC3628_mandel720.jpg"
 }

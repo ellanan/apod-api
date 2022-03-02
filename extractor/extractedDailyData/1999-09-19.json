@@ -1,17 +1,11 @@
 {
   "title": "Interstellar Dust-Bunnies of NGC 891",
-  "credit": [
-    "Credit: C. Howk & B. Savage (Wisconsin); N. Sharp (NOAO) Copyright: WIYN, Inc., 3.5-m WIYN Telescope Explanation",
-    "C. Howk & B. Savage (Wisconsin); N. Sharp (NOAO) Copyright: WIYN, Inc., 3.5-m WIYN Telescope"
-  ],
+  "credit": "C. Howk & B. Savage (Wisconsin); N. Sharp (NOAO) Copyright: WIYN, Inc., 3.5-m WIYN Telescope",
   "explanation": "",
   "date": "1999-09-19",
   "hdurl": "https://apod.nasa.gov/apod/image/9909/ngc891_wiyn_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: WIYN, Inc., 3.5-m WIYN Telescope Explanation",
-    "WIYN, Inc., 3.5-m WIYN Telescope"
-  ],
+  "copyright": "WIYN, Inc., 3.5-m WIYN Telescope",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9909/ngc891_wiyn.jpg"
 }

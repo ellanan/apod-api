@@ -1,14 +1,10 @@
 {
   "title": "Mars from Earth",
-  "credit": [
-    "Credit: Jim Bell (Cornell) et al., Hubble Heritage Team (AURA/STScI/NASA) Explanation",
-    "Jim Bell (Cornell) et al., Hubble Heritage Team (AURA/STScI/NASA)"
-  ],
+  "credit": "Jim Bell (Cornell) et al., Hubble Heritage Team (AURA/STScI/NASA)",
   "explanation": "Last month, Mars and Earth were right next to each other in their orbits. Formally called opposition, the event was highlighted by a very bright Mars for skywatchers and a good photo opportunity for the Hubble Space Telescope. Above, Hubble snapped the highest resolution picture of Mars ever obtained from the Earth. Visible on Mars are ice caps over the poles in white, regions covered with sand and gravel in dark brown and orange, and large dust storms in light orange. A particularly large dust storm can be seen on the lower right pouring out of Hellas Basin. This storm has since erupted into a huge planet wide storm that continues even today. Pictures like these allow planetary astronomers to continue to compare the weather patterns of Mars and Earth. When Mars next reaches opposition in 2003, its elliptical orbit will cause it to be even 20 percent closer.",
   "date": "2001-07-18",
   "hdurl": "https://apod.nasa.gov/apod/image/0107/mars_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0107/mars_hst.jpg"
 }

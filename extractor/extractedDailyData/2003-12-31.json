@@ -1,14 +1,10 @@
 {
   "title": "A Year of Resolving Cosmology",
-  "credit": [
-    "Credit: WMAP Science Team, NASA Explanation",
-    "WMAP Science Team, NASA"
-  ],
+  "credit": "WMAP Science Team, NASA",
   "explanation": "This year, humanity learned that the universe is 13.7 billion years old. Before this year, the universe's age was thought to be about 13 billion years, but really only constrained to be between about 12 billion and 15 billion years old. The difference was made, primarily, by a small satellite named the Wilkinson Microwave Anisotropy Probe (WMAP) that had been collecting data in an unusual Earth orbit. Pictured above is a sky map of the enabling data -- the complete cosmic microwave background divided into two hemispheres, in detail never before resolved, as recorded by the WMAP's first data release. Besides universe age, new data and analyses of the spots on the cosmic microwave background bolstered existing indications that the universe is composed predominantly of a strange and mysterious type of dark energy (73 percent). The remaining matter is only about 4 percent in familiar atoms, with the remaining 23 percent in a somewhat mysterious type of dark matter. During the year, much cosmological research shifted from trying to find the parameters that define our universe to trying to use these parameters as a tool for understanding details of how our universe evolved.",
   "date": "2003-12-31",
   "hdurl": "https://apod.nasa.gov/apod/image/0312/globes_wmap_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0312/globes_wmap.jpg"
 }

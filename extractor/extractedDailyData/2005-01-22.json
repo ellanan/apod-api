@@ -1,17 +1,11 @@
 {
   "title": "The Mysterious Voynich Manuscript",
-  "credit": [
-    "Credit: Yale University ;",
-    "Yale University"
-  ],
+  "credit": "Yale University",
   "explanation": "The ancient text has no known title, no known author, and is written in no known language: what does it say and why does it have many astronomy illustrations? The mysterious book was once bought by an emperor, forgotten on a library shelf, sold for thousands of dollars, and later donated to Yale. Possibly written in the 15th century, the over 200-page volume is known most recently as the Voynich Manuscript, after its (re-)discoverer in 1912. Pictured above is an illustration from the book that appears to be somehow related to the Sun. The book labels some patches of the sky with unfamiliar constellations. The inability of modern historians of astronomy to understand the origins of these constellations is perhaps dwarfed by the inability of modern code-breakers to understand the book's text. Can the eclectic brain trust of APOD readers make any progress? If you think you can provide any insight, instead of sending us email please participate in an online discussion. The book itself remains in Yale's rare book collection under catalog number \"MS 408.\"",
   "date": "2005-01-22",
   "hdurl": "https://apod.nasa.gov/apod/image/0208/voynich_schaefer_big.gif",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: B. E. Schaefer (LSU) Explanation",
-    "B. E. Schaefer (LSU)"
-  ],
+  "copyright": "B. E. Schaefer (LSU)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0208/voynich_schaefer.jpg"
 }

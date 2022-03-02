@@ -1,14 +1,10 @@
 {
   "title": "Launch of the Red Bird",
-  "credit": [
-    "Credit: Dr. F. Scott Porter, Exploration of the Universe Division, GSFC Explanation",
-    "Dr. F. Scott Porter, Exploration of the Universe Division, GSFC"
-  ],
+  "credit": "Dr. F. Scott Porter, Exploration of the Universe Division, GSFC",
   "explanation": "Glare and exhaust from the three stage, solid fuel M-V-6 rocket punctuates a perfect launch of the Astro-E2 observatory. The dramatic picture was taken at the Uchinoura Space Center on July 10 at 12:30 JST. For dedicated astronomers, a celebration is definitely in order as this launch is a reflight of the Astro-E payload, originally destroyed in a launch failure in February 2000. Now being checked out in Earth orbit, the innovative instrumentation on board the satellite will explore the Universe in energetic x-rays. Following a tradition of renaming satellites after their successful launch, Astro-E2 has been newly dubbed Suzaku. Suzaku, a phoenix-like deity in mythology associated with the southern part of the sky, is a 'Red Bird'.",
   "date": "2005-07-12",
   "hdurl": "https://apod.nasa.gov/apod/image/0507/MVLaunch_eud_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0507/MVLaunch_eud_c54.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Moon, Mars, and Milky Way",
-  "credit": [],
   "explanation": "Just two weeks ago, dark skies over the desert in northern Iran held this alluring celestial vista. The dramatic digital mosaic finds the Moon and Mars alongside the Milky Way's dusty rifts, stars, and nebulae. Captured through a series of exposures to cover a range in brightness, that night's otherwise Full Moon is immersed in Earth's shadow. It actually appears fainter and redder than the Red Planet itself during the widely watched total lunar eclipse. For cosmic tourists, the skyscape also includes the Lagoon (M8) and Trifid (M20) nebulae and planet Saturn shining against the Milky Way's pale starlight. The Moon isn't quite done with its shadow play, though. Today, the New Moon partially eclipses the Sun for much of northern planet Earth.",
   "date": "2018-08-11",
   "hdurl": "https://apod.nasa.gov/apod/image/1808/TahaGhouchkanluTLE2018.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Taha Ghouchkanlu (TWAN) Explanation",
-    "Taha Ghouchkanlu (TWAN)"
-  ],
+  "copyright": "Taha Ghouchkanlu (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1808/TahaGhouchkanluTLE2018_1024.jpg"
 }

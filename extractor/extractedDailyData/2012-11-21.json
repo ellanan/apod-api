@@ -1,14 +1,10 @@
 {
   "title": "Diamond Ring and Shadow Bands",
-  "credit": [],
   "explanation": "As the total phase of last week's solar eclipse came to an end, sunlight streaming past the edge of the Moon created the fleeting appearance of a glistening diamond ring in the sky. And while most eclipse watchers did not consider clouds a welcome sight, a view through thin clouds north of Cairns in Queensland, Australia also revealed these remarkable flickering shadow bands. Projected onto the cloud layer, the bands are parallel to the sliver of emerging sunlight. Caused by turbulence in Earth's atmosphere refracting the sliver of sunlight, the narrow bands were captured in this brief, 1/1000th second exposure.",
   "date": "2012-11-21",
   "hdurl": "https://apod.nasa.gov/apod/image/1211/tse2012C3shadowbands_StephenMudge.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Stephen Mudge Explanation",
-    "Stephen Mudge"
-  ],
+  "copyright": "Stephen Mudge",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1211/tse2012C3shadowbands_StephenMudge900.jpg"
 }

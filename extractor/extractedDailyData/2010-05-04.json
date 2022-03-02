@@ -1,14 +1,10 @@
 {
   "title": "A Hall of Mountain Fogbows",
-  "credit": [],
   "explanation": "If you tried to enter this hall of fog, you would find it dissipates around you. The hall is actually an optical illusion created by sunlight backscattering off of a cloud passing below the peak of the mountain from which this picture was taken. Known as a fogbow and similar in some ways to \"the glory\", the phenomenon is sometimes seen from airplanes. The ring's center appears near the image bottom where the shadow of the photographer is visible. This shadow would likely change as clouds passed, creating a faux moving giant known as the Brocken Spectre. In the picture, several concentric rings of the fogbow appear to create a hall for this mountain king. The cause of fogbow supernumeraries arcs and glories have only been understood recently and are relatively complex. Briefly, small droplets of water reflect, refract, and diffract sunlight backwards towards the Sun. Atmospheric backscattering phenomena have a counterpart in astronomy, where looking out from planet Earth in the direction opposite the Sun yields a bright spot called the gegenschein.",
   "date": "2010-05-04",
   "hdurl": "https://apod.nasa.gov/apod/image/1005/glories_tudorica_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: A. Tudorica (ISS Romania) Explanation",
-    "A. Tudorica (ISS Romania)"
-  ],
+  "copyright": "A. Tudorica (ISS Romania)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1005/glories_tudorica.jpg"
 }

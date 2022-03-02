@@ -1,14 +1,10 @@
 {
   "title": "Ancient Ogunquit Beach on Mars",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, MSSS; Explanation",
-    "NASA, JPL-Caltech, MSSS;"
-  ],
+  "credit": "NASA, JPL-Caltech, MSSS;",
   "explanation": "This was once a beach -- on ancient Mars. The featured 360-degree panorama, horizontally compressed, was taken by the robotic Curiosity rover currently exploring the red planet. Named Ogunquit Beach after its terrestrial counterpart, evidence shows that at times long ago the area was underwater, while at other times it was at the edge of an ancient lake. The light peak in the central background is the top of Mount Sharp, the central feature in Gale Crater where Curiosity has been deployed. Curiosity is slowly ascending Mount Sharp. Portions of the dark sands in the foreground have been scooped up for analysis. The light colored bedrock is composed of sediment that likely settled at the bottom of the now-dried lakebed. The featured panorama (interactive version here) was created from over 100 images acquired in late March and seemingly signed by the rover on the lower left. Currently, Curiosity is carefully crossing deep megaripples of dark sands on its way to explore Vera Rubin Ridge.",
   "date": "2017-05-08",
   "hdurl": "https://apod.nasa.gov/apod/image/1705/OgunquitBeach_Curiosity_8776.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1705/OgunquitBeach_Curiosity_960.jpg"
 }

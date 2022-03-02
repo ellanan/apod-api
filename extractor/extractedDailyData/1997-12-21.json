@@ -1,14 +1,10 @@
 {
   "title": "A Winter Solstice",
-  "credit": [
-    "Credit: SOHO- EIT Consortium, ESA, NASA Explanation",
-    "SOHO- EIT Consortium, ESA, NASA"
-  ],
+  "credit": "SOHO- EIT Consortium, ESA, NASA",
   "explanation": "Today is the Winter Solstice, the shortest day of the year in the Northern Hemisphere. The yearly cycle of Seasons on planet Earth once again finds the Sun at its lowest point in the Northern Sky. The Sun's own 11 year cycle of activity is progressing toward a maximum which will occur in 2000-2001. This image of the Sun in the light of ionized Helium was recorded by the space-based SOHO observatory only three days ago and shows many prominences and active regions.",
   "date": "1997-12-21",
   "hdurl": "https://apod.nasa.gov/apod/image/9712/sun1218_heii_eit_big.gif",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9712/sun1218_heii_eit.gif"
 }

@@ -1,14 +1,10 @@
 {
   "title": "Jupiter and Io",
-  "credit": [],
   "explanation": "On December 3 (UT), Jupiter, the solar system's largest planet, will be at opposition, opposite the Sun in planet Earth's sky, shining brightly and rising as the Sun sets. That configuration results in Jupiter's almost annual closest approach to planet Earth. So, near opposition the gas giant offers earthbound telescopes stunning views of its stormy, banded atmosphere and large Galilean moons. For example, this sharp series was recorded on the night of November 16/17 from the island of Sardinia near Dolianova, Italy. North is up in the images that show off Jupiter's famous Great Red Spot, and planet girdling dark belts and light zones. Also seen in transit is Jupiter's volcanic moon Io, its round, dark shadow tracking across the Jovian cloud tops as the sequence progresses left to right.",
   "date": "2012-11-28",
   "hdurl": "https://apod.nasa.gov/apod/image/1211/JupIoBianconiCollage.png",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alessandro Bianconi Explanation",
-    "Alessandro Bianconi"
-  ],
+  "copyright": "Alessandro Bianconi",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1211/JupIoBianconiCollage.jpg"
 }

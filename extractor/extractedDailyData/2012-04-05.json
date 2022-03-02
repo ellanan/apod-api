@@ -1,14 +1,10 @@
 {
   "title": "Zodiacal Light Panorama",
-  "credit": [],
   "explanation": "Sweeping from the eastern to western horizon, this 360 degree panorama follows the band of zodiacal light along the solar system's ecliptic plane. Dust scattering sunlight produces the faint zodiacal glow that spans this fundamental coordinate plane of the celestial sphere, corresponding to the apparent yearly path of the Sun through the sky and the plane of Earth's orbit. The fascinating panorama is a mosaic of images taken from dusk to dawn over the course of a single night at two different locations on Mauna Kea. The lights of Hilo, Hawaii are on the eastern (left) horizon, with the Subaru and twin Keck telescope structures near the western horizon. On that well chosen moonless night, Venus was shining as the morning star just above the eastern horizon, and Saturn was close to opposition. In fact, Saturn is seen immersed in a brightening of the zodiacal band known as the gegenschein. The gegenschein also lies near 180 degrees in elongation or angular distance from the Sun along the ecliptic. In the mosaic projection, the plane of our Milky Way Galaxy runs at an angle, crossing the horizontal band of zodiacal light above the two horizons. Nebulae, stars, and dust clouds of the bulging galactic center are rising in the east.",
   "date": "2012-04-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1204/2011_04_02-03_360degDruckmuller.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Miloslav Druckmüller (UM FSI, Brno Univ. of Technology), Shadia Habbal (IfA, Univ. of Hawaii) Explanation",
-    "Miloslav Druckmüller (UM FSI, Brno Univ. of Technology), Shadia Habbal (IfA, Univ. of Hawaii)"
-  ],
+  "copyright": "Miloslav Druckmüller (UM FSI, Brno Univ. of Technology), Shadia Habbal (IfA, Univ. of Hawaii)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1204/2011_04_02-03_360degDruckmuller600.jpg"
 }

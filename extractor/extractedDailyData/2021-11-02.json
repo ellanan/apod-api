@@ -1,14 +1,10 @@
 {
   "title": "SN Requiem: A Supernova Seen Three Times So Far",
-  "credit": [
-    "Credit: NASA, ESA, Hubble; Data: S. A. Rodney (U. South Carolina) et al.; Image Processing: J. DePasquale (STScI) Explanation",
-    "NASA, ESA, Hubble; Data: S. A. Rodney (U. South Carolina) et al.; Image Processing: J. DePasquale (STScI)"
-  ],
+  "credit": "NASA, ESA, Hubble; Data: S. A. Rodney (U. South Carolina) et al.; Image Processing: J. DePasquale (STScI)",
   "explanation": "We've seen this same supernova three times -- when will we see it a fourth? When a distant star explodes in a supernova, we're lucky if we see it even once. In the case of AT 2016jka (\"SN Requiem\"), because the exploding star happened to be lined up behind the center of a galaxy cluster (MACS J0138 in this case), a comparison of Hubble Space Telescope images demonstrate that we saw it three times. These three supernova images are highlighted in circles near the bottom of the left frame taken in 2016. On the right frame, taken in 2019, the circles are empty because all three images of the single supernova had faded. Computer modeling of the cluster lens, however, indicates that a fourth image of the same supernova should eventually appear in the upper circle on the right image. But when? The best models predict this will happen in 2037, but this date is uncertain by about two years because of ambiguities in the mass distribution of the cluster lens and the brightness history of the stellar explosion. With refined predictions and vigilant monitoring, Earthlings living 16 years from now may be able to catch this fourth image -- and perhaps learn more about both galaxy clusters and supernovas at once.",
   "date": "2021-11-02",
   "hdurl": "https://apod.nasa.gov/apod/image/2111/MACSJ0138_Hubble_1762.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2111/MACSJ0138_Hubble_1080.jpg"
 }

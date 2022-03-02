@@ -1,14 +1,10 @@
 {
   "title": "Cetus Galaxies and Supernova",
-  "credit": [],
   "explanation": "Large spiral galaxy NGC 1055 at top left joins spiral Messier 77 (bottom right) in this cosmic view toward the aquatic constellation Cetus. The narrowed, dusty appearance of edge-on spiral NGC 1055 contrasts nicely with the face-on view of M77's bright nucleus and spiral arms. Both over 100,000 light-years across, the pair are dominant members of a small galaxy group about 60 million light-years away. At that estimated distance, M77 is one of the most remote objects in Charles Messier's catalog, and is separated from fellow island universe NGC 1055 by at least 500,000 light-years. The field of view is about the size of the full Moon on the sky and includes colorful foreground Milky Way stars along with more distant background galaxies. Taken on November 28, the sharp image also includes newly discovered supernova SN2018ivc, its location indicated in the arms of M77. The light from the explosion of one of M77's massive stars was discovered by telescopes on planet Earth only a few days earlier on November 24.",
   "date": "2018-12-06",
   "hdurl": "https://apod.nasa.gov/apod/image/1812/M77_SN2018ivc_LRGB_v019veschini2048.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Massimiliano Veschini Explanation",
-    "Massimiliano Veschini"
-  ],
+  "copyright": "Massimiliano Veschini",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1812/M77_SN2018ivc_LRGB_v019veschini1024.jpg"
 }

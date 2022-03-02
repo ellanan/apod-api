@@ -1,13 +1,9 @@
 {
   "title": "Juno Mission Trailer",
-  "credit": [
-    "Credit: NASA, JPL, Juno Mission Explanation",
-    "NASA, JPL, Juno Mission"
-  ],
+  "credit": "NASA, JPL, Juno Mission",
   "explanation": "What will NASA's Juno spacecraft find when it reaches Jupiter next Monday? Very little, if Juno does not survive Jupiter Orbit Insertion, a complex series of operations in an unknown environment just above Jupiter's cloud tops. If successful, as explained in the featured video, Juno will swoop around Jupiter, passing closer than any previous spacecraft. The goal is to decelerate, enter into a highly elliptical orbit, and begin two years of science operations. Juno's science mission objectives include mapping Jupiter's deep structure, determining how much water is in Jupiter's atmosphere, and exploring Jupiter's powerful magnetic field and how it creates auroras around Jupiter's poles. These lessons hold promise to help humanity better understand the history of our Solar System and the dynamics of our Earth. Juno is powered predominantly by three large solar panels, each measuring a side of small truck. Launched in 2011, Juno's planned mission will take it around the Jovian giant 37 times, after which, to avoid contaminating Europa with microbes, it will be directed to dive into Jupiter's thick atmosphere, where it will break apart and melt.",
   "date": "2016-06-28",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/A2fknqVk2yk?rel=0"
 }

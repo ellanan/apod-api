@@ -1,14 +1,10 @@
 {
   "title": "Starlight Reflections",
-  "credit": [],
   "explanation": "Interstellar dust grains often find themselves in a reflective \"mood\". Near a bright star, clouds of these dust particles scatter short wavelengths of visible starlight more readily than long wavelengths, producing lovely blue reflection nebulae. Nine of the more spectacular examples of these dusty, blue stellar neighborhoods have been assembled here by astrophotographer Rob Gendler. From left to right starting with the top row are NGC 1977 in Orion, IC2118 (the Witch Head), and M78 also in Orion. Across the middle row are, M20 (Trifid), NGC 2264 in Monoceros, and IC405 (Flaming Star Nebula). Along the bottom are NGC 2023 (near the Horsehead), NGC 7023 (Iris Nebula), and finally bright star Merope surrounded by a veil of dust (NGC 1435). Merope is one of the seven sisters of the Pleiades.",
   "date": "2001-12-28",
   "hdurl": "https://apod.nasa.gov/apod/image/0112/reflectionmos_gendler_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Gendler Explanation",
-    "Robert Gendler"
-  ],
+  "copyright": "Robert Gendler",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0112/reflectionmos_gendler.jpg"
 }

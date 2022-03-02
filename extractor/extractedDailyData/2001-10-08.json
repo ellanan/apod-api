@@ -1,14 +1,10 @@
 {
   "title": "A Yukon Aurora",
-  "credit": [],
   "explanation": "Last week was another good week for auroras. The story began about two weeks ago when two large Coronal Mass Ejections exploded off the Sun. Waves of elementary particles and ions swept out past the Earth on September 28 and 29, causing many auroras. A week ago, a flapping sheet that divides north and south regions of the Sun's magnetic field passed the Earth, again causing auroras. Pictured above is a particularly good image of one of the October 1 northern lights. Taken in Canada's Yukon, the city lights of Whitehorse are seen below dark clouds and a twisting green aurora.",
   "date": "2001-10-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0110/aurora3_takasaka.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Yuichi Takasaka Explanation",
-    "Yuichi Takasaka"
-  ],
+  "copyright": "Yuichi Takasaka",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0110/aurora3_takasaka_big.jpg"
 }

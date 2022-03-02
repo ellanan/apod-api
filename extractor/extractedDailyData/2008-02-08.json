@@ -1,14 +1,10 @@
 {
   "title": "The Bay of Rainbows",
-  "credit": [],
   "explanation": "Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. The naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this elegant lunar vista, a careful mosaic of telescopic images, looks across the expanse of the northwestern Mare Imbrium, or Sea of Rains, into the Sinus Iridum - the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across, bounded at the bottom of the rugged arc by Cape (promontorium) Laplace. The cape's sunlit face towers nearly 3,000 meters above the bay's surface. At the top of the arc is Cape Heraclides, at times seen as a moon maiden.",
   "date": "2008-02-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0802/iridium_100407friedman.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Alan Friedman Explanation",
-    "Alan Friedman"
-  ],
+  "copyright": "Alan Friedman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0802/iridium_100407friedman_c800.jpg"
 }

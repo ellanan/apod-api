@@ -1,14 +1,10 @@
 {
   "title": "Pictured: An Ancient Martian?",
-  "credit": [
-    "Credit: D. McKay (NASA /JSC), K. Thomas-Keprta (Lockheed-Martin), R. Zare (Stanford), NASA Explanation",
-    "D. McKay (NASA /JSC), K. Thomas-Keprta (Lockheed-Martin), R. Zare (Stanford), NASA"
-  ],
+  "credit": "D. McKay (NASA /JSC), K. Thomas-Keprta (Lockheed-Martin), R. Zare (Stanford), NASA",
   "explanation": "",
   "date": "1996-08-08",
   "hdurl": "https://apod.nasa.gov/apod/image/marslife_96-12609.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/marslife_96-12609.gif"
 }

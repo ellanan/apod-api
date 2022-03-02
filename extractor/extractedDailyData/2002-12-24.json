@@ -1,14 +1,10 @@
 {
   "title": "Spring Dust Storms at the North Pole of Mars",
-  "credit": [
-    "Credit: MSSS, JPL, NASA Explanation",
-    "MSSS, JPL, NASA"
-  ],
+  "credit": "MSSS, JPL, NASA",
   "explanation": "Spring reached the north pole of Mars in May, and brought with it the usual dust storms. As the north polar cap begins to thaw, a temperature difference occurs between the cold frost region and recently thawed surface, resulting in swirling winds between the adjacent regions. In the above image mosaic from the Mars Global Surveyor spacecraft currently orbiting Mars, the white material is frozen carbon dioxide that covers much of the extreme north. The choppy clouds of at least three dust storms can be identified.",
   "date": "2002-12-24",
   "hdurl": "https://apod.nasa.gov/apod/image/0212/northmars_mgs_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0212/northmars_mgs.jpg"
 }

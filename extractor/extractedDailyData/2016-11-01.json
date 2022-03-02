@@ -1,14 +1,10 @@
 {
   "title": "Arp 299: Black Holes in Colliding Galaxies",
-  "credit": [
-    "Credit: NASA, JPL-Caltech, GSFC, Hubble, NuSTAR Explanation",
-    "NASA, JPL-Caltech, GSFC, Hubble, NuSTAR"
-  ],
+  "credit": "NASA, JPL-Caltech, GSFC, Hubble, NuSTAR",
   "explanation": "Is only one black hole spewing high energy radiation -- or two? To help find out, astronomers trained NASA's Earth-orbiting NuSTAR and Chandra telescopes on Arp 299, the enigmatic colliding galaxies expelling the radiation. The two galaxies of Arp 299 have been locked in a gravitational combat for millions of years, while their central black holes will soon do battle themselves. Featured, the high-resolution visible-light image was taken by Hubble, while the superposed diffuse glow of X-ray light was imaged by NuSTAR and shown in false-color red, green, and blue. NuSTAR observations show that only one of the central black holes is seen fighting its way through a region of gas and dust -- and so absorbing matter and emitting X-rays. The energetic radiation, coming only from the galaxy center on the right, is surely created nearby -- but outside -- the central black hole's event horizon. In a billion years or so, only one composite galaxy will remain, and only one central supermassive black hole. Soon thereafter, though, another galaxy may enter the fray.",
   "date": "2016-11-01",
   "hdurl": "https://apod.nasa.gov/apod/image/1611/Arp299_NustarHubble_3000.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1611/Arp299_NustarHubble_960.jpg"
 }

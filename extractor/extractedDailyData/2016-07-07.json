@@ -1,14 +1,10 @@
 {
   "title": "The Altiplano Night",
-  "credit": [],
   "explanation": "The Milky Way is massively bright on this cold, clear, altiplano night. At 4,500 meters its reflection in a river, a volcanic peak on the distant horizon, is captured in this stitched panorama under naturally dark skies of the northern Chilean highlands near San Pedro de Atacama. Along the Solar System's ecliptic plane, the band of Zodiacal light also stands out, extending above the Milky Way toward the upper left. In the scene from late April, brilliant Mars, Saturn, and Antares form a bright celestial triangle where ecliptic meets the center of the Milky Way. Left of the triangle, the large purple-red emission nebula Sharpless 2-27, more than twenty Moon diameters wide is centered around star Zeta Ophiuchi.",
   "date": "2016-07-07",
   "hdurl": "https://apod.nasa.gov/apod/image/1607/AltiplanoNight_NIK7856Ps.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Babak Tafreshi (TWAN) Explanation",
-    "Babak Tafreshi (TWAN)"
-  ],
+  "copyright": "Babak Tafreshi (TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1607/AltiplanoNight_NIK7856Ps.jpg"
 }

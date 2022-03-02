@@ -1,14 +1,10 @@
 {
   "title": "SOFIA's Window Seat",
-  "credit": [
-    "Credit: Courtesy Dana Backman (SETI Institute), USRA, L-3 Explanation",
-    "Courtesy Dana Backman (SETI Institute), USRA, L-3"
-  ],
+  "credit": "Courtesy Dana Backman (SETI Institute), USRA, L-3",
   "explanation": "Earlier this month, a 2.5-meter diameter infrared telescope was permanently assigned a window seat, looking through this opening in the fuselage of a historic Boeing 747 aircraft. The telescope mirror, about the size of the Hubble Space Telescope mirror, is protected by a red covering. Known as the Stratospheric Observatory For Infrared Astronomy (SOFIA), the airborne observatory is intended to fly at altitudes up to 45,000 feet - above more than 99% of the atmospheric water vapor. Water vapor strongly absorbs infrared light, so at that altitude SOFIA will be able to acquire infrared images not possible for even the largest ground-based telescopes. SOFIA's unique capabilities will include the ability to trace complex molecules in the cosmic environments surrounding star birth and death and the formation of new solar systems. The SOFIA aircraft was operated by Pan American World Airways and was originally christened the \"Clipper Lindbergh\". The airborne observatory was designed with an on board console for teachers and other educators to participate in research flights.",
   "date": "2006-02-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0602/sofia_backman_f.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0602/sofia_backman_c21.jpg"
 }

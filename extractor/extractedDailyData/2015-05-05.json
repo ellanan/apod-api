@@ -1,14 +1,10 @@
 {
   "title": "Gravitational Anomalies of Mercury",
-  "credit": [
-    "Credit: NASA, GSFC's SVS, JHU's APL, Carnegie Inst. Washington Explanation",
-    "NASA, GSFC's SVS, JHU's APL, Carnegie Inst. Washington"
-  ],
+  "credit": "NASA, GSFC's SVS, JHU's APL, Carnegie Inst. Washington",
   "explanation": "What's that under the surface of Mercury? The robotic MESSENGER spacecraft that had been orbiting planet Mercury for the past four years had been transmitting its data back to Earth with radio waves of very precise energy. The planet's gravity, however, slightly changed this energy when measured on Earth, which enabled the reconstruction of a gravity map of unprecedented precision. Here gravitational anomalies are shown in false-color, superposed on an image of the planet's cratered surface. Red hues indicate areas of slightly higher gravity, which in turn indicates areas that must have unusually dense matter under the surface. The central area is Caloris Basin, a huge impact feature measuring about 1,500 kilometers across. Last week, after completing its mission and running low on fuel, MESSENGER was purposely crashed onto Mercury's surface.",
   "date": "2015-05-05",
   "hdurl": "https://apod.nasa.gov/apod/image/1505/MercuryGravity_MESSENGER_2400.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1505/MercuryGravity_MESSENGER_960.jpg"
 }

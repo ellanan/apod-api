@@ -1,14 +1,10 @@
 {
   "title": "Blue Lagoon",
-  "credit": [],
   "explanation": "Stars come and go as you slide your cursor over this engaging image of M8, aka the Lagoon Nebula. Of course, the nebula is itself a star-forming region, but the stars that appear and disappear here include background and foreground stars that by chance lie along the same line of sight. In this \"for fun\" comparison of two nearly identical digital images, the stellar point sources were removed from one image by computer processing to leave only the diffuse emission from the glowing gas clouds. In both pictures, red emission (H-alpha emission) from atomic hydrogen dominates the cosmic lagoon's visible light, but narrow band filters were used to record the image data and map the hydrogen emission to green hues, with emission from sulfur atoms in red and oxygen in blue. The lovely Lagoon Nebula spans about 30 light-years at an estimated distance of 5,000 light-years toward the constellation Sagittarius.",
   "date": "2006-08-25",
   "hdurl": "https://apod.nasa.gov/apod/image/0608/lagoon_croman_full.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Russell Croman Explanation",
-    "Russell Croman"
-  ],
+  "copyright": "Russell Croman",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0608/lagoon_croman_nostars.jpg"
 }

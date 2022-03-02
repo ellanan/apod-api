@@ -1,14 +1,10 @@
 {
   "title": "A Darkened Sky",
-  "credit": [],
   "explanation": "For a moment on August 1st, the daytime sky grew dark along the path of a total solar eclipse. While watching the geocentric celestial event from Mongolia, photographer Miloslav Druckmuller recorded multiple images with two separate cameras as the Moon blocked the bright solar disk and darkened the sky. This final composition consists of 55 frames ranging in exposure time from 1/125 to 8 seconds. It spans nearly 12 degrees, with the relative position of the Moon and Sun corresponding to mid-eclipse. On the left is bright planet Mercury, but many stars are also visible, including the Praesepe star cluster (also known as M44 or the Beehive cluster) in Cancer, above and to the right of the silhouetted Moon. Remarkably, the nearly perfect conditions and wide range in individual exposures allow the composite picture to register the lunar surface and follow the delicate solar corona out to a distance of nearly 20 times the radius of the Sun. In fact, the composite presents a range in brightness beyond what the eye could see during the eclipse.",
   "date": "2008-09-20",
   "hdurl": "https://apod.nasa.gov/apod/image/0809/Tse2008_200_mo1_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Miloslav Druckmuller (Brno University of Technology), Peter Aniol, Vojtech Rusin Explanation",
-    "Miloslav Druckmuller (Brno University of Technology), Peter Aniol, Vojtech Rusin"
-  ],
+  "copyright": "Miloslav Druckmuller (Brno University of Technology), Peter Aniol, Vojtech Rusin",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0809/Tse2008_200_mo1_c800.jpg"
 }

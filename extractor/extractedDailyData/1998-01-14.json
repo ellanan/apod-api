@@ -1,14 +1,10 @@
 {
   "title": "A Distant Destiny",
-  "credit": [
-    "Credit: P. Garnavich (CfA), High-z Supernova Search Team, NASA Explanation",
-    "P. Garnavich (CfA), High-z Supernova Search Team, NASA"
-  ],
+  "credit": "P. Garnavich (CfA), High-z Supernova Search Team, NASA",
   "explanation": "Watching galaxies recede, observational astronomers of the 20th century discovered an astounding fact - the Universe is expanding. Will it continue to expand forever? The speed of light is finite so looking into the distant Universe is equivalent to looking at the distant past. These three Hubble Space Telescope images show some of the most distant detectable supernovae - stellar explosions, five to seven billion light-years away, which occurred before the Sun was formed. As recently reported, the apparent brightness and expansion velocities associated with these and other distant supernovae are beginning to suggest that the expansion rate of the Universe has not slowed but increased over time and that the expansion of the Universe is destined to continue.",
   "date": "1998-01-14",
   "hdurl": "https://apod.nasa.gov/apod/image/9801/SNeIa_hst_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9801/SNeIa_hst.jpg"
 }

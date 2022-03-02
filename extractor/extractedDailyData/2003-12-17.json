@@ -1,14 +1,10 @@
 {
   "title": "A Proton Aurora",
-  "credit": [
-    "Credit: IMAGE Satellite, NASA Explanation",
-    "IMAGE Satellite, NASA"
-  ],
+  "credit": "IMAGE Satellite, NASA",
   "explanation": "What are auroras made out of? Triggered by solar activity, normal auroras are caused by collisions between fast-moving electrons and the oxygen and nitrogen in Earth's upper atmosphere. The electrons come from the magnetosphere, the region of space controlled by Earth's magnetic field. As the excited oxygen and nitrogen molecules return to their low energy state, they emit light, seen as the auroral glow. Sometimes, however, auroras can be caused by collisions with heavier protons, causing a more energetic display with strong ultraviolet emission. In addition, protons can temporarily capture an electron and emit light for themselves. Such a proton aurora is seen above, recorded by the IMAGE satellite. A special feature is the bright spot near picture center, embedded in a ring of auroral emission around the north magnetic pole of planet Earth. Most solar wind protons never reach the Earth to cause auroras because they are completely deflected away at a great distance by the Earth's magnetic field. The bright spot in the auroral ring indicates a particularly deep crack in the Earth's magnetic field where protons were able to flow along a temporarily connected region between the Sun and the Earth, relatively undeflected, until they impacted the Earth's ionosphere.",
   "date": "2003-12-17",
   "hdurl": "https://apod.nasa.gov/apod/image/0312/protonaurora_image.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0312/protonaurora_image_big.jpg"
 }

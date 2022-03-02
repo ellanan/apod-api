@@ -1,14 +1,10 @@
 {
   "title": "NGC 1316: After Galaxies Collide",
-  "credit": [
-    "Credit: C. Grillmair (IPAC/Caltech) et al., WFPC2, HST, NASA Explanation",
-    "C. Grillmair (IPAC/Caltech) et al., WFPC2, HST, NASA"
-  ],
+  "credit": "C. Grillmair (IPAC/Caltech) et al., WFPC2, HST, NASA",
   "explanation": "Astronomers turn detectives when trying to figure out the cause of unusual sites like NGC 1316. A preliminary inspection indicates that NGC 1316 is an enormous elliptical galaxy that started devouring a smaller spiral galaxy neighbor about 100 million years ago. Supporting evidence includes the dark dust lanes uniquely indicative of a spiral. What remains unexplained are the unusually small globular star clusters, visible as faint dots on the above photograph. Most elliptical galaxies have more and brighter globular clusters than evident in NGC 1316. Yet the observed globulars are too old to have been created by the recent spiral collision. One hypothesis therefore holds that these globulars survive from an even earlier galaxy that was subsumed into NGC 1316.",
   "date": "1999-02-22",
   "hdurl": "https://apod.nasa.gov/apod/image/9902/ngc1316_wfpc_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/9902/ngc1316_wfpc.jpg"
 }

@@ -1,14 +1,10 @@
 {
   "title": "The Color of the Moon",
-  "credit": [],
   "explanation": "Earth's Moon is normally seen in subtle shades of grey or yellow. But small color differences have been greatly exaggerated to make this dramatic mosaic image of the Moon's gibbous phase. The familiar Sea of Tranquility (Mare Tranquillitatis) is the blue area right of center. White lines radiate from the crater Tycho at bottom left, while purplish tones mottle the crater Copernicus left of center. Though exaggerated, the different colors are recognized to correspond to real differences in the chemical makeup of the lunar surface - blue hues reveal titanium rich areas while orange and purple colors show regions relatively poor in titanium and iron. Calibrated by rock samples from the Apollo missions, similar multicolor images from spacecraft have been used to explore the Moon's global surface composition.",
   "date": "2006-02-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0602/Mooncolor060110schedler_35.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Johannes Schedler (Panther Observatory) Explanation",
-    "Johannes Schedler (Panther Observatory)"
-  ],
+  "copyright": "Johannes Schedler (Panther Observatory)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0602/Mooncolor060110schedler_35x32.jpg"
 }

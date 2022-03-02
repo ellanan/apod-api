@@ -1,14 +1,10 @@
 {
   "title": "Ripples Through a Dark Sky",
-  "credit": [],
   "explanation": "Sunlight ripples through a dark sky on this Swedish summer midnight as noctilucent or night shining clouds seem to imitate the river below. In fact, the seasonal clouds often appear at high latitudes in corresponding summer months. Also known as polar mesospheric clouds, they form as water vapor is driven into the cold upper atmosphere. Fine dust supplied by disintegrating meteors or volcanic ash provides sites where water vapor can condense, turning to ice at the cold temperatures in the mesosphere. Poised at the edge of space some 80 kilometers above, these icy clouds really do reflect sunlight toward the ground. They are visible here even though the Sun itself was below the horizon, as seen on July 16 from Sweden's Färnebofjärdens National Park.",
   "date": "2016-07-30",
   "hdurl": "https://apod.nasa.gov/apod/image/1607/NLCJuly2016Heden.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: P-M Hedén (Clear Skies, TWAN) Explanation",
-    "P-M Hedén (Clear Skies, TWAN)"
-  ],
+  "copyright": "P-M Hedén (Clear Skies, TWAN)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1607/NLCJuly2016Heden.jpg"
 }

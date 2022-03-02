@@ -1,14 +1,10 @@
 {
   "title": "Mars Soil Sample Ready to Analyze",
-  "credit": [
-    "Credit: Phoenix Mission Team, NASA, JPL-Caltech, U. Arizona Explanation",
-    "Phoenix Mission Team, NASA, JPL-Caltech, U. Arizona"
-  ],
+  "credit": "Phoenix Mission Team, NASA, JPL-Caltech, U. Arizona",
   "explanation": "What surprises are hidden in the soils of Mars? To help find out, the Phoenix Lander Phoenix Lander which arrived on Mars two weeks ago has attempted to place a scoop of soil in Phoenix's Thermal and Evolved-Gas Analyzer (TEGA). Pictured above, the dirt-filled scoop approaches one of TEGA's eight ovens. Once in the oven, a soil material will be baked and the emitted gasses categorized by a mass spectrometer. Quite possibly, some of the light colored material visible in the scoop has the same composition as the light material imaged near the foot of the Lander, which may be ice. Phoenix is scheduled to spend the next three months digging, baking and chemically analyzing its immediate surroundings to better understand Mars and whether the boundary between ice and soil was ever capable of supporting life.",
   "date": "2008-06-08",
   "hdurl": "https://apod.nasa.gov/apod/image/0806/scoop_phoenix_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0806/scoop_phoenix.jpg"
 }

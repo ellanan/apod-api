@@ -1,14 +1,10 @@
 {
   "title": "SN 1006 Supernova Remnant",
-  "credit": [
-    "Credit: NASA, ESA, Zolt Levay (STScI) Explanation",
-    "NASA, ESA, Zolt Levay (STScI)"
-  ],
+  "credit": "NASA, ESA, Zolt Levay (STScI)",
   "explanation": "A new star, likely the brightest supernova in recorded human history, lit up planet Earth's sky in the year 1006 AD. The expanding debris cloud from the stellar explosion, found in the southerly constellation of Lupus, still puts on a cosmic light show across the electromagnetic spectrum. In fact, this composite view includes X-ray data in blue from the Chandra Observatory, optical data in yellowish hues, and radio image data in red. Now known as the SN 1006 supernova remnant, the debris cloud appears to be about 60 light-years across and is understood to represent the remains of a white dwarf star. Part of a binary star system, the compact white dwarf gradually captured material from its companion star. The buildup in mass finally triggered a thermonuclear explosion that destroyed the dwarf star. Because the distance to the supernova remnant is about 7,000 light-years, that explosion actually happened 7,000 years before the light reached Earth in 1006. Shockwaves in the remnant accelerate particles to extreme energies and are thought to be a source of the mysterious cosmic rays.",
   "date": "2008-07-04",
   "hdurl": "https://apod.nasa.gov/apod/image/0807/sn1006c.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0807/sn1006c_c800.jpg"
 }

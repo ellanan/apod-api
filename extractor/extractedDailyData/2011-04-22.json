@@ -1,14 +1,10 @@
 {
   "title": "Virgo Cluster Galaxies",
-  "credit": [],
   "explanation": "Well over a thousand galaxies are known members of the Virgo Cluster, the closest large cluster of galaxies to our own local group. In fact, the galaxy cluster is difficult to appreciate all at once because it covers such a large area on the sky. Spanning about 5x3 degrees, this careful mosaic of telescopic images clearly records the central region of the Virgo Cluster through faint foreground dust clouds lingering above the plane of our own Milky Way galaxy. The cluster's dominant giant elliptical galaxy M87, is just below center in the frame. Above M87 is the famous interacting galaxy pair NGC 4438, also known as The Eyes. A closer examination of the image will reveal many Virgo cluster member galaxies as small fuzzy patches. Sliding your cursor over the image will label the larger galaxies using NGC catalog designations. Galaxies are also shown with Messier catalog numbers, including M84, M86, and prominent colorful spirals M88, M90, and M91. On average, Virgo Cluster galaxies are measured to be about 48 million light-years away. The Virgo Cluster distance has been used to give an important determination of the Hubble Constant and the scale of the Universe. (Editor's Note: Labels courtesy of Astrometry.net.)",
   "date": "2011-04-22",
   "hdurl": "https://apod.nasa.gov/apod/image/1104/201103_VirgoGCM_andreo.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Rogelio Bernal Andreo Explanation",
-    "Rogelio Bernal Andreo"
-  ],
+  "copyright": "Rogelio Bernal Andreo",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/1104/201103_VirgoGCM_andreo900.jpg"
 }

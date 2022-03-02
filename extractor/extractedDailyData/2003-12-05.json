@@ -1,14 +1,10 @@
 {
   "title": "Startling Star V838 Mon",
-  "credit": [
-    "Credit: Arne Henden (US Naval Observatory, Flagstaff) Image Processed by Al Kelly Explanation",
-    "Arne Henden (US Naval Observatory, Flagstaff) Image Processed by Al Kelly"
-  ],
+  "credit": "Arne Henden (US Naval Observatory, Flagstaff) Image Processed by Al Kelly",
   "explanation": "Variable star V838 Monocerotis startled astronomers in January of 2002, undergoing a dramatic outburst like no other variable star known. Followed closely by ground-based instruments and the Hubble Space Telescope over the following months, it was soon realized that the quickly evolving dusty nebula surrounding V838 Mon was in fact made visible by \"light echoes\" from the outburst. Remarkably, as light from the outburst plays across layers of pre-existing circumstellar material, it gives the surrounding nebulosity the illusion of expanding \"faster than light\". Though the nebula's visible appearance changes dramatically over a period of months, it is actually at least 6 light years in diameter. A good astrophysical explanation for V838 Mon's outbursting behavior is still unknown but astronomers continue to follow the mystery star. This gorgeous image, based on data recorded on October 21 with the US Naval Observatory's 1.55 meter telescope, adopts the color scheme used in previous Hubble images for easy comparison.",
   "date": "2003-12-05",
   "hdurl": "https://apod.nasa.gov/apod/image/0312/v838lar3_kelly_full.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0312/v838lar3_kelly_c1.jpg"
 }

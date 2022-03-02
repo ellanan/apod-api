@@ -1,14 +1,10 @@
 {
   "title": "Galactic Magnetar Throws Giant Flare",
-  "credit": [],
   "explanation": "Was the brightest Galactic blast yet recorded a key to connecting two types of celestial explosions? Last December, a dense sheet of gamma rays only a few times wider than the Earth plowed through our Solar System, saturating satellites and noticeably reflecting off the Moon. A magnetar near our Galactic Center, the source of Soft Gamma Repeater (SGR) 1806-20, had unleashed its largest flare on record. The brightness and briefness of the tremendous explosion's initial peak made it look quite similar to another type of tremendous explosion if viewed from further away -- a short duration gamma-ray burst (GRB). Short duration GRBs are thought by many to be fundamentally different than their long duration GRB cousins that are likely related to distant supernovas. Illustrated above is a series of drawings depicting an outgoing explosion during the initial SGR spike. A fast moving wave of radiation is pictured shooting away from a central magnetar. The possible link between SGRs and GRBs should become better understood as more and similar events are detected by the Earth-orbiting Swift satellite.",
   "date": "2005-02-21",
   "hdurl": "https://apod.nasa.gov/apod/image/0502/magnetarburst_mallozzi_big.jpg",
   "service_version": "v1",
-  "copyright": [
-    "Copyright: Robert Mallozzi (UAH, MSFC) Explanation",
-    "Robert Mallozzi (UAH, MSFC)"
-  ],
+  "copyright": "Robert Mallozzi (UAH, MSFC)",
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0502/magnetarburst_mallozzi.jpg"
 }

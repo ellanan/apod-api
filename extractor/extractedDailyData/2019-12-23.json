@@ -1,13 +1,9 @@
 {
   "title": "Places for OSIRIS-REx to Touch Asteroid Bennu",
-  "credit": [
-    "Credit: NASA, GSFC, U. Arizona, SVS, OSIRIS-REx Explanation",
-    "NASA, GSFC, U. Arizona, SVS, OSIRIS-REx"
-  ],
+  "credit": "NASA, GSFC, U. Arizona, SVS, OSIRIS-REx",
   "explanation": "Where is the best place to collect a surface sample from asteroid Bennu? Launched in 2016, NASA sent the robotic Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx) to investigate the 500-meter-across asteroid 101955 Bennu. After mapping the near-Earth asteroid's dark surface, OSIRIS-REx will next touch Bennu's surface in 2020 August to collect a surface sample. The featured 23-second time-lapse video shows four candidate locations for the touch, from which NASA chose just one earlier this month. NASA chose the Nightingale near Bennu's northern hemisphere as the primary touch-down spot because of its relative flatness, lack of boulders, and apparent abundance of fine-grained sand. Location Osprey is the backup. NASA plans to return soil samples from Bennu to Earth in 2023 for a detailed analysis.",
   "date": "2019-12-23",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "video",
   "url": "https://www.youtube.com/embed/pvKEG141GmU?rel=0"
 }

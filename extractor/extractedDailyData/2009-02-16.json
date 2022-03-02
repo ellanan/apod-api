@@ -1,14 +1,10 @@
 {
   "title": "The Great Carina Nebula",
-  "credit": [
-    "Credit: European Southern Observatory Explanation",
-    "European Southern Observatory"
-  ],
+  "credit": "European Southern Observatory",
   "explanation": "A jewel of the southern sky, the Great Carina Nebula, aka NGC 3372, spans over 300 light-years, one of our Galaxy's largest star forming regions. Like the smaller, more northerly Great Orion Nebula, the Carina Nebula is easily visible to the unaided eye, though at a distance of 7,500 light-years it is some 5 times farther away. This stunning telescopic view from the 2.2-meter ESO/MPG telescope La Silla Observatory in Chile reveals remarkable details of the region's glowing filaments of interstellar gas and dark cosmic dust clouds. The Carina Nebula is home to young, extremely massive stars, including the still enigmatic variable Eta Carinae, a star with well over 100 times the mass of the Sun. Eta Carinae is the bright star left of the central dark notch in this field and near the dusty Keyhole Nebula (NGC 3324).",
   "date": "2009-02-16",
   "hdurl": "https://apod.nasa.gov/apod/image/0902/carina_eso_big.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/0902/carina_eso.jpg"
 }

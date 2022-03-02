@@ -1,14 +1,10 @@
 {
   "title": "Curiosity: Sol 3048",
-  "credit": [
-    "Credit: NASA/JPL-Caltech - Processing: Elisabetta Bonora & Marco Faccin / aliveuniverse.today Explanation",
-    "NASA/JPL-Caltech - Processing: Elisabetta Bonora & Marco Faccin / aliveuniverse.today"
-  ],
+  "credit": "NASA/JPL-Caltech - Processing: Elisabetta Bonora & Marco Faccin / aliveuniverse.today",
   "explanation": "Before Perseverance there was Curiosity. In fact, the Curiosity rover accomplished the first sky crane maneuver touchdown on Mars on August 5, 2012. March 2, 2021 marked Curiosity's 3,048th martian day operating on the surface of the Red Planet. This 360 degree panorama from sol 3048 is a mosaic of 149 frames from Curiosity's Mastcam above the rover's deck. It includes 23 frames of icy, thin, high clouds drifting through the martian sky. The cloudy sky frames were recorded throughout that martian day and are digitally stitched together in the panoramic view. Near center is a layered and streaked Mont Mercou. The peak of central Mount Sharp, rising over 5 kilometers above the floor of Gale Crater, is in the distant background on the left.",
   "date": "2021-03-25",
   "hdurl": "https://apod.nasa.gov/apod/image/2103/sol3048curiosityBonoraFaccin.jpg",
   "service_version": "v1",
-  "copyright": [],
   "media_type": "image",
   "url": "https://apod.nasa.gov/apod/image/2103/sol3048curiosityBonoraFaccin500.jpg"
 }
