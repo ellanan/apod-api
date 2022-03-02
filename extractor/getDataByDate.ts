@@ -29,9 +29,9 @@ export const getDataByDate = async (date: DateTime) => {
     .replace(/\s+/g, ' ')
     .replace('Explanation:', '')
     .trim();
-  const [, copyright] =
+  const copyright =
     /copyright:\s+(.+)\s+explanation/gi.exec(body.replace(/\s+/gi, ' ')) || [];
-  const [, credit] =
+  const credit =
     /credit:\s+(.+?)\s+(?:;|explanation)/gi.exec(body.replace(/\s+/gi, ' ')) ||
     [];
 
