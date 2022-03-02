@@ -7,7 +7,8 @@
     "test": "jest",
     "test:watch": "jest --watch --detectOpenHandles",
     "dev": "ts-node-dev -r dotenv/config --respawn --transpile-only extractor/getDataByDate.ts",
-    "dev2": "ts-node -r dotenv/config --transpile-only extractor/getDataByDate.ts"
+    "dev2": "ts-node -r dotenv/config --transpile-only extractor/getDataByDate.ts",
+    "update-data": "ts-node extractor/extractData.ts"
   },
   "author": "",
   "license": "ISC",
