@@ -98,19 +98,26 @@ export default async (request: VercelRequest, response: VercelResponse) => {
         .splitBy({
           days: 1,
         })
-        .map(
-          async (interval) =>
-            [
-              interval.start.toISODate(),
-              await getDataByDate(interval.start),
-            ] as [string, any]
-        )
+        .map(async (interval) => {
+          try {
+            return getDataByDate(interval.start);
+          } catch (error) {
+            console.error(`could not fetch data for ${interval.start}`, error);
+            return null;
+          }
+        })
     );
+    const missingDataPairs = missingData.flatMap((entry) => {
+      if (entry) {
+        return [[entry.date, entry]] as [[string, typeof entry]];
+      }
+      return [];
+    });
 
-    Object.assign(dataDictonary, _.fromPairs(missingData));
-    isoDates.push(...missingData.map(([date, data]) => data.date));
-    dailyData.push(...missingData.map(([date, data]) => data));
-    lastDayOfData = missingData[missingData.length - 1][1].date;
+    Object.assign(dataDictonary, _.fromPairs(missingDataPairs));
+    isoDates.push(...missingDataPairs.map(([date, data]) => data.date));
+    dailyData.push(...missingDataPairs.map(([date, data]) => data));
+    lastDayOfData = missingDataPairs[missingDataPairs.length - 1][1].date;
 
     response.status(200).send(getData(queryParams));
   }
