@@ -1,0 +1,11 @@
+{
+  "title": "The New World Atlas of Artificial Sky Brightness",
+  "credit": [],
+  "explanation": "How far are you from a naturally dark night sky? In increasing steps, this world map (medium | large) shows the effect of artificial night sky brightness on the visual appearance of the night sky. The brightness was modeled using high resolution satellite data and fit to thousands of night sky brightness measurements in recent work. Color-coded levels are compared to the natural sky brightness level for your location. For example, artificial sky brightness levels in yellow alter the natural appearance of the night sky. In red they hide the Milky Way in an artificial luminous fog. The results indicate that the historically common appearance of our galaxy at night is now lost for more than one-third of humanity. That includes 60% of Europeans and almost 80% of North Americans, along with inhabitants of other densely populated, light-polluted regions of planet Earth.",
+  "date": "2016-06-30",
+  "hdurl": "https://apod.nasa.gov/apod/image/1606/VisualimpactsPlanisphereAPOD2048.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1606/VisualimpactsPlanisphereAPOD1024c.jpg"
+}

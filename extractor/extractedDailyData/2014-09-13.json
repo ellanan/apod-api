@@ -1,0 +1,14 @@
+{
+  "title": "Median Mashup: Hubble's Top 100",
+  "credit": [],
+  "explanation": "Now, as you sip your cosmic latte you can view 100 Hubble Space Telescope images at the same time. The popular scenes of the cosmos as captured from low Earth orbit are all combined into this single digital presentation. To make it, Hubble's top 100 images were downloaded and resized to identical pixel dimensions. At each point the 100 pixel values were arranged from lowest to highest, and the middle or median value was chosen for the final image. The combined image results in a visual abstraction - light from across the Universe surrounded by darkness.",
+  "date": "2014-09-13",
+  "hdurl": "https://apod.nasa.gov/apod/image/1409/West-HSTtop100median.jpg",
+  "service_version": "v1",
+  "copyright": [
+    "Copyright: Michael West (Maria Mitchell Observatory) Explanation",
+    "Michael West (Maria Mitchell Observatory)"
+  ],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1409/West-HSTtop100median950.jpg"
+}

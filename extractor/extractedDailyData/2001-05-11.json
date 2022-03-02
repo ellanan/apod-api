@@ -1,0 +1,14 @@
+{
+  "title": "X-Ray Rainbows",
+  "credit": [
+    "Credit: J. McClintock et al. (CfA), CXC, NASA Explanation",
+    "J. McClintock et al. (CfA), CXC, NASA"
+  ],
+  "explanation": "A drop of water or prism of glass can spread out visible sunlight into a rainbow of colors. In order of increasing energy, the well known spectrum of colors in a rainbow runs red, orange, yellow, green, blue, indigo, violet. X-ray light too can be spread out into a spectrum ordered by energy ... but not by drops of water or glass. Instead, the orbiting Chandra X-ray Observatory uses a set of 540 finely ruled, gold gratings to spread out the x-rays, recording the results with digital detectors. The resulting x-ray spectrum reveals much about the compositions, temperatures, and motions within cosmic x-ray sources. This false color Chandra image shows the x-ray spectrum of a star system in Ursa Major cataloged as XTE J1118+480 and thought to consist of a sun-like star orbiting a black hole. Unlike the familiar appearance of a prism's visible light rainbow, the energies here are ordered along radial lines with the highest energy x-rays near the center and lowest energies near the upper left and lower right edges of the image. The central spiky region itself is created by x-rays from the source which are not spread out by the array of gratings.",
+  "date": "2001-05-11",
+  "hdurl": "https://apod.nasa.gov/apod/image/0105/xtej1118_xray_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0105/xtej1118_xray.jpg"
+}

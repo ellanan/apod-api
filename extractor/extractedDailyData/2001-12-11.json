@@ -1,0 +1,14 @@
+{
+  "title": "Venusian Half-Shell",
+  "credit": [
+    "Credit: K.Dennerl (MPE) et al., CXC, NASA Explanation",
+    "K.Dennerl (MPE) et al., CXC, NASA"
+  ],
+  "explanation": "Venus, second planet from the Sun, appears above imaged for the first time ever in x-rays (left) by the orbiting Chandra Observatory. Chandra's smoothed, false-color, x-ray view is compared to an optical image (right) from a small earthbound telescope. Both show Venus illuminated by the Sun from the right, with only half the sunward hemisphere visible, but at least one striking difference is apparent. While the optical image in reflected sunlight is filled and bright at the center, Venus in x-rays is bright around the edge. Venus' x-rays are produced by fluorescence rather than reflection. About 120 kilometers or so above the surface, incoming solar x-rays excite atoms in the Venusian atmosphere to unstable energy levels. As the atoms rapidly decay back to their stable ground states they emit a \"fluorescence\" x-ray, creating a glowing x-ray half-shell above the sunlit hemisphere. More x-ray emitting material can be seen looking at the edge of the shell, so the edge appears brighter in the x-ray image.",
+  "date": "2001-12-11",
+  "hdurl": "https://apod.nasa.gov/apod/image/0112/venuscomp_cxc_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0112/venuscomp_cxc.jpg"
+}

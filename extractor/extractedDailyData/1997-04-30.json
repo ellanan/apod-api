@@ -1,0 +1,14 @@
+{
+  "title": "Milky Way Molecule Map",
+  "credit": [
+    "Credit: T. Dame (CfA, Harvard) et al., Columbia 1.2-m Radio Telescopes Explanation",
+    "T. Dame (CfA, Harvard) et al., Columbia 1.2-m Radio Telescopes"
+  ],
+  "explanation": "Where are the Milky Way's gas clouds and where are they going? Stars form in gas clouds, and the motion of gas clouds tell us about the size and rotation speed of our own Milky Way Galaxy. But gas clouds are hard to detect - they are composed mostly of nearly invisible molecular hydrogen and helium. Fortunately, at least small amounts of heavier gases co-exist, one of them being carbon monoxide (CO), which is relatively easy to detect at radio wavelengths. Therefore, over the past decade, a team of astronomers have carefully mapped out the molecular sky to unprecedented clarity - to about four times previous resolution and about eight times previous sensitivity. The resulting map is shown above, rescaled and in false color, with dark blue being relatively low emission. The band of our Milky Way Galaxy spans the middle. The data have not only helped our understanding of the Galaxy, but highlight a few mysteries too. For example: what causes the rapid speed of the gas near the Galactic Center?",
+  "date": "1997-04-30",
+  "hdurl": "https://apod.nasa.gov/apod/image/9704/mwco_cfa_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9704/mwco_cfa.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Big Blue Marble Earth",
+  "credit": [
+    "Credit: R. Stockli, A. Nelson, F. Hasler, NASA/ GSFC/ NOAA/ USGS Explanation",
+    "R. Stockli, A. Nelson, F. Hasler, NASA/ GSFC/ NOAA/ USGS"
+  ],
+  "explanation": "This reconstructed digital portrait of our planet is reminiscent of the Apollo-era pictures of the \"big blue marble\" Earth from space. To create it, researchers at Goddard Space Flight Center's Laboratory for Atmospheres combined data from a Geostationary Operational Environmental Satellite (GOES), the Sea-viewing Wide Field-of-view Sensor (SeaWiFS), and the Polar Orbiting Environmental Satellites (POES) with a USGS elevation model of Earth's topography. Stunningly detailed, the planet's western hemisphere is cast so that heavy vegetation is green and sparse vegetation is yellow, while the heights of mountains and depths of valleys have been exaggerated by 50 times to make vertical relief visible. Hurricane Linda is the dramatic storm off North America's west coast. And what about the Moon? The lunar image was reconstructed from GOES data and artistically rescaled for this visualization.",
+  "date": "2003-04-26",
+  "hdurl": "https://apod.nasa.gov/apod/image/0304/bluemarble2k_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0304/bluemarble2k.jpg"
+}

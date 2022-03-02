@@ -1,0 +1,14 @@
+{
+  "title": "A Sky Full Of Hydrogen",
+  "credit": [
+    "Credit: J. Dickey (UMn), F. Lockman (NRAO), SkyView Explanation",
+    "J. Dickey (UMn), F. Lockman (NRAO), SkyView"
+  ],
+  "explanation": "Interstellar space is filled with extremely tenuous clouds of gas which are mostly Hydrogen. The neutral hydrogen atom (HI in astronomer's shorthand) consists of 1 proton and 1 electron. The proton and electron spin like tops but can have only two orientations; spin axes parallel or anti-parallel. It is a rare event for Hydrogen atoms in the interstellar medium to switch from the parallel to the anti-parallel configuration, but when they do they emit radio waves with a wavelength of 21 centimeters (about 8 inches) and a corresponding frequency of exactly 1420 MHz. Tuned to this frequency radio telescopes have mapped the neutral Hydrogen in the sky. The above image represents such an all-sky HI survey with the plane of our Milky Way Galaxy running horizontally through the center. In this false color image no stars are visible, just diffuse clouds of gas tens to hundreds of light years across which cluster near the plane. The gas clouds seem to form arching, looping structures, stirred up by stellar activity in the galactic disk.",
+  "date": "1998-03-01",
+  "hdurl": "https://apod.nasa.gov/apod/image/9803/nHI_alt_skyview_big.gif",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9803/nHI_alt_skyview.jpg"
+}

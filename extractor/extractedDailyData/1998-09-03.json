@@ -1,0 +1,14 @@
+{
+  "title": "SGR 1900+14: Magnetar",
+  "credit": [
+    "Credit: Kevin Hurley (Space Sciences Laboratory) Explanation",
+    "Kevin Hurley (Space Sciences Laboratory)"
+  ],
+  "explanation": "On August 27th an intense flash of X-rays and gamma-rays swept through our Solar System. Five spacecraft of the Third InterPlanetary gamma-ray burst Network, Ulysses, WIND, RXTE, NEAR, and BeppoSAX, recorded the high energy signal -- a signal so strong that it saturated detectors on WIND and RXTE and triggered the safety mode automatic shut-off of the NEAR gamma-ray instrument! As plotted here, the count rate for the Ulysses detector abruptly spiked to a high level and then slowly tailed off showing smaller peaks roughly every 5 seconds. The signal and location provided by these spacecraft observations leads researchers to identify the source as a dramatic flare-up from one of only four previously known \"Soft Gamma Repeaters\" . These exotic sources of gamma-rays are believed to be highly magnetized spinning neutron stars called Magnetars. Imaginatively cataloged as SGR 1900+14, this magnetar is estimated to have been born in a supernova explosion about 1,500 years ago and to have a magnetic field 500,000,000,000,000 times stronger than Earth's.",
+  "date": "1998-09-03",
+  "hdurl": "https://apod.nasa.gov/apod/image/9809/sgr1900_hurley_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9809/sgr1900_hurley.jpg"
+}

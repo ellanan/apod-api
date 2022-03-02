@@ -1,0 +1,14 @@
+{
+  "title": "BATSE GRB Final Sky Map",
+  "credit": [
+    "Credit: G. Fishman et al., BATSE, CGRO, NASA Explanation",
+    "G. Fishman et al., BATSE, CGRO, NASA"
+  ],
+  "explanation": "What causes the most powerful explosions in the universe? The BATSE modules that flew on the Compton Gamma Ray Observatory allowed more insight into enigmatic gamma-ray burst (GRB) explosions than ever before. From 1991-2000, BATSE detected 2704 GRBs, much more than ever previously recorded. The above final sky map of GRB locations (and fluence) shows them to occur at random locations on the sky - strong evidence that GRBs occur across our universe and not in sky bands indicative of our Solar System or our Galaxy. As with any successful mission, answers create more questions, and astronomers continue to puzzle over what object creates a GRB, and what happens in the initial stages of the explosion. BATSE's legacy includes recording 1190 gamma-ray flares from the Sun and the discovery of Terrestrial Gamma Flashes, unusual bursts of gamma rays that emanate from the Earth itself. To protect people from an uncontrolled re-entry, Compton was recently crashed into the Pacific Ocean.",
+  "date": "2000-06-28",
+  "hdurl": "https://apod.nasa.gov/apod/image/0006/grbmap_batse.gif",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0006/grbmap_batse.gif"
+}

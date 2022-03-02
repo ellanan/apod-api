@@ -1,0 +1,14 @@
+{
+  "title": "X-Ray Moon",
+  "credit": [
+    "Credit: J. Schmitt et al., ROSAT Mission, MPE, ESA Explanation",
+    "J. Schmitt et al., ROSAT Mission, MPE, ESA"
+  ],
+  "explanation": "This x-ray image of the Moon was made by the orbiting ROSAT (Röntgensatellit) Observatory in 1990. In this digital picture, pixel brightness corresponds to x-ray intensity. Consider the image in three parts: the bright hemisphere of the x-ray moon, the darker half of the moon, and the x-ray sky background. The bright lunar hemisphere shines in x-rays because it reflects x-rays emitted by the sun ... just as it shines at night by reflecting visible sunlight. The background sky has an x-ray glow in part due to the myriad of distant, powerful active galaxies, unresolved in the ROSAT picture but recently detected in Chandra Observatory x-ray images. But why isn't the dark half of the moon completely dark? It's true that the dark lunar face is in shadow and so is not reflecting solar x-rays. Still, the few x-ray photons which seem to come from the moon's dark half are currently thought to be caused by energetic particles in the solar wind bombarding the lunar surface.",
+  "date": "2000-09-02",
+  "hdurl": "https://apod.nasa.gov/apod/image/0009/rosat_moon_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0009/rosat_moon.jpg"
+}

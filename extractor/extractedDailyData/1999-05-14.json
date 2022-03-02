@@ -1,0 +1,14 @@
+{
+  "title": "Landsat 7 Views Planet Earth",
+  "credit": [
+    "Credit: Landsat 7 Project, NASA Explanation",
+    "Landsat 7 Project, NASA"
+  ],
+  "explanation": "Launched last month, NASA's Landsat 7 spacecraft now orbits planet Earth. Looking down from an altitude of 700 km, Landsat 7 can map the planet's surface in visible and infrared bands and resolve features 30 meters across or smaller. For example, this striking engineering test image is a natural-looking color composite of 3 different visible wavelength bands. It nicely shows details of urban areas around San Francisco, California, USA, nestled in the surrounding terrain (north is up). Flowing blue-green colors track the spring runoff from the Sierras to the west and neighboring mountains into the bay and out into the Pacific ocean. Landsat 7 is currently performing well in its check out phase and controllers are preparing the satellite for regular operations.",
+  "date": "1999-05-14",
+  "hdurl": "https://apod.nasa.gov/apod/image/9905/sanfran_landsat7_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9905/sanfran_landsat7.jpg"
+}

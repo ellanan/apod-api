@@ -1,0 +1,14 @@
+{
+  "title": "Moon AND Stars",
+  "credit": [
+    "Credit: T.A. Rector, I.P. Dell'Antonio, NOAO, AURA, NSF Explanation",
+    "T.A. Rector, I.P. Dell'Antonio, NOAO, AURA, NSF"
+  ],
+  "explanation": "Here's something you don't see too often ... a detailed picture of the full Moon surrounded by a rich field of background stars. It's true that bright moonlight scattered by the atmosphere tends to mask faint stars, but pictures of the sunlit portion of the Moon made with earthbound telescopes or even with cameras on the lunar surface often fail to show any background stars at all. Why? Because the exposure times are too short. Very short exposures, lasting fractions of a second, are required to accurately record an image of the bright lunar surface. But the background stars (and galaxies!) such as those visible above are much fainter and need exposures lasting minutes to hours which would seriously overexpose the surface of the Moon. So, of course this stunning view really is a combination of two digital images -- a short exposure, registering the exquisite lunar surface details at full Moon, superposed on a separate very long exposure, made with the Moon absent from the star field. The final representation of Moon and background stars is very dramatic, even though it could not have been captured in a single exposure.",
+  "date": "2001-09-06",
+  "hdurl": "https://apod.nasa.gov/apod/image/0109/moonstars_noao_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0109/moonstars_noao.jpg"
+}

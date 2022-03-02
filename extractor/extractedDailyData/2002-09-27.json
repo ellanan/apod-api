@@ -1,0 +1,14 @@
+{
+  "title": "Accretion Disk Simulation",
+  "credit": [
+    "Credit: Michael Owen, John Blondin (North Carolina State Univ.) Explanation",
+    "Michael Owen, John Blondin (North Carolina State Univ.)"
+  ],
+  "explanation": "Don't be fooled by the familiar symmetry. The graceful spiral structure seen in this computer visualization does not portray winding spiral arms in a distant galaxy of stars. Instead, the graphic shows spiral shock waves in a three dimensional simulation of an accretion disk -- material swirling onto a compact central object that could represent a white dwarf star, neutron star, or black hole. Such accretion disks power bright x-ray sources within our own galaxy. They form in binary star systems which consist of a donor star (not shown above), supplying the accreting material, and a compact object whose strong gravity ultimately draws the material towards its surface. For known x-ray binary systems the size of the accretion disk itself might fall somewhere between the diameter of the Sun (about 1,400,000 kilometers) and the diameter of the Moon's orbit (800,000 kilometers). One interesting result of the virtual reality astrophysics illustrated here is that the simulated disk develops instabilities which tend to smear out the pronounced spiral shocks.",
+  "date": "2002-09-27",
+  "hdurl": "https://apod.nasa.gov/apod/image/0209/accretion_mpowen_full.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0209/accretion_mpowen_c1.jpg"
+}

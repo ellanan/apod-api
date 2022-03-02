@@ -1,0 +1,14 @@
+{
+  "title": "IP Pegasi: Spiral Star",
+  "credit": [
+    "Credit: D. Steeghs, E. Harlaftis, K. Horne, Astronomy Group, Univ. St.Andrews Explanation",
+    "D. Steeghs, E. Harlaftis, K. Horne, Astronomy Group, Univ. St.Andrews"
+  ],
+  "explanation": "Spiral arms aren't just for galaxies. A hot disk of gas surrounding a compact white dwarf star in the constellation of Pegasus has recently been revealed to be imprinted with this dramatic pattern. The white dwarf is part of the interacting binary star system IP Pegasi and the disk of gas is an accretion disk formed of material lost from a companion star and falling toward the white dwarf. The disk itself is smaller than the Sun's diameter, so the spiral pattern can not be imaged directly by telescopes. Instead, the spiraling disk of gas is mapped over a series of observations using a spectroscopic technique known as doppler tomography. The left panel above shows a tomogram, the directly measured gas velocity map for the system. The relative brightness corresponds to the intensity of light emitted by Hydrogen gas moving at the indicated velocity. The position at the center of this panel represents the velocity of the binary system's center of mass. In the middle panel, a simple model velocity field consistent with the measurements is shown. At the right, the calculated position map of the IP Pegasi accretion disk reveals a striking two armed trailing spiral pattern.",
+  "date": "1997-08-22",
+  "hdurl": "https://apod.nasa.gov/apod/image/9708/ippeg_danny_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9708/ippeg_danny.jpg"
+}

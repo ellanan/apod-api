@@ -1,0 +1,14 @@
+{
+  "title": "The Colors and Magnitudes of M13",
+  "credit": [],
+  "explanation": "M13 is modestly recognized as the Great Globular Star Cluster in Hercules. A ball of stars numbering in the hundreds of thousands crowded into a region 150 light years across, it lies some 25,000 light-years away. The sharp, color picture of M13 at upper left is familiar to many telescopic imagers. Still, M13's Color vs Magnitude Diagram in the panel below and right, made from the same image data, can offer a more telling view. Also known as a Hertzsprung Russell (HR) diagram it plots the apparent brightness of individual cluster stars against color index. The color index is determined for each star by subtracting its brightness (in magnitudes) measured through a red filter from its brightness measured with a blue filter (B-R). Blue stars are hot and red stars are cool so that astronomical color index ranging from bluer to redder follows the relative stellar temperature scale from left (hot) to right (cool). In M13's HR diagram, the stars clearly fall into distinct groups. The broad swath extending diagonally from the bottom right is the cluster's main sequence. A sharp turn toward the upper right hand corner follows the red giant branch while the blue giants are found grouped in the upper left. Formed at the same time, at first M13's stars were all located along the main sequence by mass, lower mass stars at the lower right. Over time higher mass stars have evolved off the main sequence into red, then blue giants and beyond. In fact, the position of the turn-off from the main sequence to the red giant branch indicates the cluster's age at about 12 billion years.",
+  "date": "2019-06-13",
+  "hdurl": "https://apod.nasa.gov/apod/image/1906/M13_and_HR_diag_updated6.jpg",
+  "service_version": "v1",
+  "copyright": [
+    "Copyright: Tolga Gumusayak, Robert Vanderbei Explanation",
+    "Tolga Gumusayak, Robert Vanderbei"
+  ],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1906/M13_and_HR_diag_updated6_1024.jpg"
+}

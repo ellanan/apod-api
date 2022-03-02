@@ -1,0 +1,14 @@
+{
+  "title": "UKIRT: Aloha Orion",
+  "credit": [
+    "Credit: Joint Astronomy Centre; image processing by C. Davis, W. Varricatt Explanation",
+    "Joint Astronomy Centre; image processing by C. Davis, W. Varricatt"
+  ],
+  "explanation": "At the edge of a dense molecular cloud, filaments of gas, cosmic dust, and a multitude of young stars beckon in this penetrating image of the Orion Nebula. Alluring structures in the well-known star forming region are revealed here in infrared light as viewed by a new Hawaiian eye - WFCAM - a powerful wide field camera commissioned at the United Kingdom Infrared Telescope (UKIRT) on Mauna Kea. Only a fraction of WFCAM's full field, this picture covers about 11 light-years at the 1,500 light-year distance of the nebula. In the image, otherwise invisible infrared light has been mapped into visible colors. Red represents narrow-band infrared emission from hydrogen molecules at a wavelength of 2.12 microns, green is emission at 2.2 microns, and blue is emission at 1.25 microns. Visible light has a wavelength of about 0.5 microns (micrometers).",
+  "date": "2005-01-06",
+  "hdurl": "https://apod.nasa.gov/apod/image/0501/orionNeb_ukirt_f.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0501/orionNeb_ukirt_c30.jpg"
+}

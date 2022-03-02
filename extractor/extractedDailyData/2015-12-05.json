@@ -1,0 +1,13 @@
+{
+  "title": "Kepler Orrery IV",
+  "credit": [],
+  "explanation": "The exoplanet hunting Kepler mission's total for candidate and confirmed multiple planet systems stands at 1,705 worlds in orbit around 685 distant stars. Put all of those exoplanet orbits on the same scale and follow their relative orbital motions to get Kepler Orrery IV. To make the planets visible, their sizes aren't shown to scale. But orbits of the planets in the Solar System (dashed lines) are included to scale in the hypnotic video. Of course, Kepler uses planetary transits to detect exoplanets, looking for a slight dimming of light as the planet crosses in front of its star. In the time compressed video, Kepler's multiplanet system orbits are all oriented to put observed transits at the three o'clock position. The dervish-like movements highlight a stark contrast between most Kepler-discovered exoplanetary systems and our own. Planning an interstellar vacation? Be sure to check the scale at the upper left first. The color code indicates a planet's estimated equilibrium surface temperature based on its orbit size and parent star.",
+  "date": "2015-12-05",
+  "service_version": "v1",
+  "copyright": [
+    "Copyright: Ethan Kruse (University of Washington) Explanation",
+    "Ethan Kruse (University of Washington)"
+  ],
+  "media_type": "video",
+  "url": "https://www.youtube.com/embed/_DnDeBa0KFc?rel=0"
+}

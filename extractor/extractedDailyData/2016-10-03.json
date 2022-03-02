@@ -1,0 +1,13 @@
+{
+  "title": "Explore Rosetta's Comet",
+  "credit": [
+    "Credit: Science Office, ESA Explanation",
+    "Science Office, ESA"
+  ],
+  "explanation": "What would it be like to fly around a comet nucleus? To find out, just wait for your WebGL-compatible browser to load a detailed digital model of Comet 67P and then -- go exploring! With a standard mouse, the left button allows you to rotate the comet, the right button allows you to move the comet around, and the scroll wheel allows you to zoom in. ESA's robotic Rosetta spacecraft orbited Comet C67/P Churyumov-Gerasimenko from mid-2014 until last Friday, when, after a remarkable and successful mission, it was intentionally set down on the surface and powered down. Among many notable scientific achievements, Rosetta allowed humanity to better understand where comet jets form on comets as they near the Sun.",
+  "date": "2016-10-03",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "video",
+  "url": "http://sci.esa.int/comet-viewer/"
+}

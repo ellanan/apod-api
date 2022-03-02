@@ -1,0 +1,14 @@
+{
+  "title": "Why Stars Twinkle",
+  "credit": [
+    "Credit: Applied Optics Group (Imperial College), Herschel 4.2-m Telescope Explanation",
+    "Applied Optics Group (Imperial College), Herschel 4.2-m Telescope"
+  ],
+  "explanation": "This is what a star really looks like from the surface of the Earth. To the best the human eye can see, stars are so far away they appear the same as would infinitesimal points of light. The Earth's atmosphere, however, is clumpy, so that different air pockets produce different images of a single point-like star. Because the atmosphere is always windy and changing, the number and position of images is always changing, with the result that stars appear to twinkle. In reality, the above time-lapse sequence occurs ten times faster. Close inspection will reveal a single small image of the star that is repeated over and over. This image is called a speckle and its size is again not really infinitesimal, but determined by strange quantum effects that involve the finite size of the telescope. Recent work in adaptive optics (\"rubber mirrors\") have made spectacular advances in reducing this atmospheric blurring. Betelgeuse is the star twinkling above, and in space, above the Earth's atmosphere, it really looks like this.",
+  "date": "2000-07-25",
+  "hdurl": "https://apod.nasa.gov/apod/image/0007/AlphaOri_cardiff.gif",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0007/AlphaOri_cardiff_big.gif"
+}

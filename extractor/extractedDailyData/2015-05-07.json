@@ -1,0 +1,14 @@
+{
+  "title": "At the Limit of Diffraction",
+  "credit": [],
+  "explanation": "Did you ever want to just look through the eyepiece of a large telescope in space? If you could, you would see a sharp view that was diffraction limited. Unaffected by atmospheric blurring that ultimately plagues earthbound observers, the angular resolution of your diffraction limited view would be determined only by the wavelength of light and diameter of the telescope lens or mirror; the larger the diameter, the sharper the image. Still, in this working earth-based snapshot a new active adaptive optics system (MagAO) is being used to cancel out the atmospheric blurring in a visual observation of famous double star system Alpha Centauri. Testing the system at the eyepiece of the 6.5 meter diameter Magellan Clay Telescope at Las Campanas Observatory, astronomer Laird Close is enjoying a historic diffraction limited view (inset) and the wide apparent separation of the close binary star system ... without traveling to low earth orbit.",
+  "date": "2015-05-07",
+  "hdurl": "https://apod.nasa.gov/apod/image/1505/magao_visual.jpg",
+  "service_version": "v1",
+  "copyright": [
+    "Copyright: Yuri Beletsky (Las Campanas Observatory, Carnegie Institution) Explanation",
+    "Yuri Beletsky (Las Campanas Observatory, Carnegie Institution)"
+  ],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1505/magao_visual.jpg"
+}

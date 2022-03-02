@@ -1,0 +1,14 @@
+{
+  "title": "EUVE Sky Map",
+  "credit": [
+    "Credit: EUVE Project, NASA Explanation",
+    "EUVE Project, NASA"
+  ],
+  "explanation": "The stars beyond the Sun and the distant galaxies should be undetectable at extreme ultraviolet wavelengths. At least that was the conventional wisdom when it was first realized that the space between the stars is filled with hydrogen, a strong absorber of extreme ultraviolet light. But this idea was seriously questioned as it became apparent that interstellar hydrogen was patchy in its distribution and the quest to explore the extreme ultraviolet sky culminated in 1992 with the launch of the EUVE (Extreme UltraViolet Explorer) spacecraft. An all-sky map, based on the satellite's first six months of operation, appears above showing brightness variations in the EUV sky in false color (north is up). EUVE's scanning by orbit gives the picture a striped look while other instrument artifacts are seen as crosses and data gaps are dark. Multiple images of the Moon combine to form the short, bright dashed lines wandering along the middle of the picture. The belt stars of the familiar constellation Orion are fairly easy to make out left of picture center. EUVE's science operations ceased in 2001 but it ultimately detected nearly 1,000 celestial objects, including over three dozen outside our own galaxy. EUVE's voyage of discovery is now complete, and the spacecraft re-entered the Earth's atmosphere yesterday at approximately 11:15 p.m. EST.",
+  "date": "2002-01-31",
+  "hdurl": "https://apod.nasa.gov/apod/image/0201/allsky_euve_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0201/allsky_euve.jpg"
+}

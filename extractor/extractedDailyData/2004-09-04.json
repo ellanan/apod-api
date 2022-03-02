@@ -1,0 +1,14 @@
+{
+  "title": "Neutron Mars",
+  "credit": [
+    "Credit: Mars Odyssey, GRS Team, LANL, NASA Explanation",
+    "Mars Odyssey, GRS Team, LANL, NASA"
+  ],
+  "explanation": "Looking for water on Mars, researchers using detectors on board the orbiting Mars Odyssey spacecraft have created this false-color global map of energetic neutrons from the otherwise Red Planet. What do neutrons have to do with water? As cosmic rays from interplanetary space penetrate the thin martian atmosphere and reach the surface they interact with elements in the upper layer of soil, scattering neutrons back into space. But if the martian soil contains hydrogen, it seriously absorbs energetic scattered neutrons. Tracking variations in absorption, neutron detectors can map changes in surface hydrogen content from orbit. Hydrogen content is taken as a surrogate measure of frozen water (H20), the most likely form of hydrogen close to the martian surface. Thus, bluer shades in the above map correspond to larger presumed concentrations of near-surface water ice. Water ice at the martian poles came as no surprise, but significant concentrations also seem to be present at lower latitudes. The melting of such near-surface ice could be responsible for the formation of martian gullies.",
+  "date": "2004-09-04",
+  "hdurl": "https://apod.nasa.gov/apod/image/0409/neutronMars_odyssey_full.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0409/neutronMars_odyssey_c1.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Shadows at the Lunar South Pole",
+  "credit": [
+    "Credit: NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter Explanation",
+    "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter"
+  ],
+  "explanation": "What is it? It's a multi-temporal illumination map, of course. To make it, the wide angle camera on the Lunar Reconnaissance Orbiter spacecraft collected 1,700 images over a period of 6 lunar days (6 Earth months), repeatedly covering an area centered on the Moon's south pole. Converted to binary values (shadowed pixels set to 0, illuminated pixels set to 1) the images were stacked to produce a map representing the percentage of time each spot on the surface was illuminated by the Sun. Remaining convincingly in shadow, the floor of the 19 kilometer diameter Shackleton crater is seen near the center of the map. The lunar south pole itself is at about 9 o'clock on the crater's rim. Since the Moon's axis of rotation stays almost perpendicular to the ecliptic plane, crater floors near the lunar south and north poles can remain in permanent shadow and mountain tops in nearly continuous sunlight. Useful to future outposts, the shadowed crater floors could offer reservoirs of water ice, and the sunlit mountain tops ideal locations for solar power arrays.",
+  "date": "2011-04-23",
+  "hdurl": "https://apod.nasa.gov/apod/image/1104/SouthPoleShadows_lro.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1104/SouthPoleShadows_lro800.jpg"
+}

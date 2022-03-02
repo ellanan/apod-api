@@ -1,0 +1,14 @@
+{
+  "title": "Centaurus A's Warped Magnetic Fields",
+  "credit": [
+    "Credit: Optical: European Southern Observatory (ESO) Wide Field Imager; Submillimeter: Max Planck Institute for Radio Astronomy/ESO/Atacama Pathfinder Experiment (APEX)/A.Weiss et al; X-ray and Infrared: NASA/Chandra/R. Kraft; JPL-Caltech/J. Keene; Text: Joan Schmelz (USRA) Explanation",
+    "Optical: European Southern Observatory (ESO) Wide Field Imager; Submillimeter: Max Planck Institute for Radio Astronomy/ESO/Atacama Pathfinder Experiment (APEX)/A.Weiss et al; X-ray and Infrared: NASA/Chandra/R. Kraft; JPL-Caltech/J. Keene; Text: Joan Schmelz (USRA)"
+  ],
+  "explanation": "When galaxies collide -- what happens to their magnetic fields? To help find out, NASA pointed SOFIA, its flying 747, at galactic neighbor Centaurus A to observe the emission of polarized dust -- which traces magnetic fields. Cen A's unusual shape results from the clash of two galaxies with jets powered by gas accreting onto a central supermassive black hole. In the resulting featured image, SOFIA-derived magnetic streamlines are superposed on ESO (visible: white), APEX (submillimeter: orange), Chandra (X-rays: blue), and Spitzer (infrared: red) images. The magnetic fields were found to be parallel to the dust lanes on the outskirts of the galaxy but distorted near the center. Gravitational forces near the black hole accelerate ions and enhance the magnetic field. In sum, the collision not only combined the galaxies’ masses -- but amplified their magnetic fields. These results provide new insights into how magnetic fields evolved in the early universe when mergers were more common.",
+  "date": "2021-04-21",
+  "hdurl": "https://apod.nasa.gov/apod/image/2104/CenA_SofiaPlusB_2480.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/2104/CenA_SofiaPlusB_960.jpg"
+}

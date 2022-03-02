@@ -1,0 +1,14 @@
+{
+  "title": "The Gamma Ray Moon",
+  "credit": [
+    "Credit: D. Thompson (GSFC) et al., EGRET, Compton Observatory, NASA Explanation",
+    "D. Thompson (GSFC) et al., EGRET, Compton Observatory, NASA"
+  ],
+  "explanation": "What if you could see gamma rays (photons with more than 40 million times the energy of visible light)? If you could, the Moon would appear brighter than the Sun! This startling notion is demonstrated by this image of the Moon from the Energetic Gamma Ray Experiment Telescope (EGRET) onboard NASA's orbiting Compton Gamma Ray Observatory. The most sensitive instrument of its kind, even EGRET can not see the quiet Sun which is faint at extreme gamma-ray energies. Why is the Moon so bright in gamma rays? High energy charged particles known as cosmic rays, constantly bombard the unprotected lunar surface generating gamma rays. EGRET's gamma-ray vision is not sharp enough to resolve a lunar disk or any surface features but its sensitivity reveals the bright gamma-ray moonglow against a background of gamma rays from our Milky Way galaxy, gamma-ray quasars and some still mysterious unidentified sources. The image was generated from eight exposures made during 1991-1994. A wide-angle picture, it covers a roughly 40x40 degree field of view with gamma-ray intensity represented in false color.",
+  "date": "1997-02-10",
+  "hdurl": "https://apod.nasa.gov/apod/image/9702/moon_egret.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9702/moon_egret.jpg"
+}

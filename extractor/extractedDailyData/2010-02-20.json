@@ -1,0 +1,14 @@
+{
+  "title": "Geostationary Highway",
+  "credit": [],
+  "explanation": "Put a satellite in a circular orbit about 42,000 kilometers from the center of the Earth (36,000 kilometers or so above the surface) and it will orbit once in 24 hours. Because that matches Earth's rotation period, it is known as a geosynchronous orbit. If that orbit is also in the plane of the equator, the satellite will hang in the sky over a fixed location in a geostationary orbit. As predicted in the 1940s by futurist Arthur C. Clarke, geostationary orbits are in common use for communication and weather satellites, a scenario now well-known to astroimagers. Deep images of the night sky made with telescopes that follow the stars can also pick up geostationary satellites glinting in sunlight still shining far above the Earth's surface. Because they all move with the Earth's rotation against the background of stars, the satellites leave trails that seem to follow a highway across the celestial landscape. For example, in this wide view of the nearly equatorial Orion region, individual frames were added to create a 10 minute long exposure. It shows Orion's belt stars and well-known nebulae along with many 2.5 degree long geostationary satellite trails. The frames are from an ingenious movie, featuring the geostationary satellite highway.",
+  "date": "2010-02-20",
+  "hdurl": "https://apod.nasa.gov/apod/image/1002/GS-Trails2Tafreshi.jpg",
+  "service_version": "v1",
+  "copyright": [
+    "Copyright: Babak Tafreshi (TWAN) Explanation",
+    "Babak Tafreshi (TWAN)"
+  ],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1002/GS-Trails2sTafreshi.jpg"
+}

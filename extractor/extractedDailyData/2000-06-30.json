@@ -1,0 +1,14 @@
+{
+  "title": "Vintage Gamma-Rays",
+  "credit": [
+    "Credit: ESA / IAS / CEA-SACLAY Explanation",
+    "ESA / IAS / CEA-SACLAY"
+  ],
+  "explanation": "Gamma-rays are the most energetic form of electromagnetic radiation. But these high energy photons penetrate and interact in normal materials and cannot be focused by lenses and mirrors like those in optical telescopes. So how do you make an image in gamma-ray light? One way is to use a patterned mask of material which can cast gamma-ray shadows on a digital detector array. The mask is called a coded aperture and the resulting shadow patterns can be used to construct a gamma-ray image of the source. For example, consider the picture above. In place of a coded mask, familiar objects were positioned in front of a detector array and illuminated with gamma-rays in a laboratory test. Do you recognize the shadow image? (Click on the picture for the focused visible light image.) Destined to fly on the International Gamma-Ray Astrophysics Laboratory (INTEGRAL) satellite scheduled for launch in 2002, the detector array will be part of the imaging gamma-ray telescope, IBIS.",
+  "date": "2000-06-30",
+  "hdurl": "https://apod.nasa.gov/apod/image/0006/viswine_integral.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0006/graywine_integral.jpg"
+}

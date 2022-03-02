@@ -1,8 +1,29 @@
+import _ from 'lodash';
+import fs from 'fs';
+import path from 'path';
 import async from 'async';
 import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from './getDataByDate';
 
-const startDate = DateTime.fromISO('2022-01-01');
+const extractedDataDirectory = path.join(__dirname, 'extractedDailyData');
+fs.mkdirSync(extractedDataDirectory, { recursive: true });
+
+async function saveDataForDate(date: DateTime) {
+  const data = await getDataByDate(date);
+  fs.writeFileSync(
+    path.join(extractedDataDirectory, `${date.toISODate()}.json`),
+    JSON.stringify(data, null, 2),
+    'utf8'
+  );
+}
+
+const files = fs.readdirSync(extractedDataDirectory);
+const lastFile = _.last(files);
+const lastIsoDate = lastFile?.split('.')[0];
+
+console.log('starting from', lastIsoDate);
+
+const startDate = DateTime.fromISO(lastIsoDate ?? '1995-06-20');
 const endDate = DateTime.local();
 
 const dateInterval = Interval.fromDateTimes(
@@ -12,19 +33,37 @@ const dateInterval = Interval.fromDateTimes(
   days: 1,
 });
 
-const pages = async.mapLimit(
+async.eachLimit(
   dateInterval,
   8,
   async (interval, cb) => {
     try {
-      cb(null, await getDataByDate(interval.start));
+      await saveDataForDate(interval.start);
+      cb();
     } catch (error) {
       cb(error as Error);
     }
   },
-  (err, result) => {
+  (err) => {
     if (err) throw err;
-    console.log('asdfasdf');
-    console.log({ result });
+    console.log('All done!');
   }
+);
+
+const downloadedDailyFiles = fs.readdirSync(extractedDataDirectory);
+const combinedDailyDataDictionary = Object.fromEntries(
+  downloadedDailyFiles.map((filename) => {
+    const date = filename.split('.')[0];
+    const data = JSON.parse(
+      fs.readFileSync(path.join(extractedDataDirectory, filename), 'utf-8')
+    );
+    return [date, data];
+  })
+);
+
+const outputDirectory = path.join(__dirname, '../api/_data');
+fs.mkdirSync(outputDirectory, { recursive: true });
+fs.writeFileSync(
+  path.join(outputDirectory, 'data.json'),
+  JSON.stringify(combinedDailyDataDictionary, null, '  ')
 );

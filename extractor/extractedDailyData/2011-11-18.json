@@ -1,0 +1,14 @@
+{
+  "title": "A Colorful Side of the Moon",
+  "credit": [
+    "Credit: NASA / GSFC / DLR / Arizona State Univ. / Lunar Reconnaissance Orbiter Explanation",
+    "NASA / GSFC / DLR / Arizona State Univ. / Lunar Reconnaissance Orbiter"
+  ],
+  "explanation": "This colorful topographical map of the Moon is centered on the lunar farside, the side not seen from planet Earth. That view is available to the Lunar Reconnaissance Orbiter though, as the spacecraft's wide angle camera images almost the entire lunar surface every month. Stereo overlap of the imaging has allowed the computation of topographical maps with coverage between 80 degrees north and south latitude. The results have about a 300 meter resolution on the lunar surface and 10 to 20 meter elevation accuracy. Data closer to the north and south poles is filled in using the orbiter's laser altimeter. In this map, white, red, green, and purple represent progressively lower elevations. In fact, the large circular splotch tending to purple hues at the bottom is the farside's South Pole-Aitken Basin. About 2500 kilometers in diameter and over 12 kilometers deep, it is one of the largest impact basins in the Solar System.",
+  "date": "2011-11-18",
+  "hdurl": "https://apod.nasa.gov/apod/image/1111/WAC_CSHADE_O000N1800_1000.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1111/WAC_CSHADE_O000N1800_800.jpg"
+}

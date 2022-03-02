@@ -1,0 +1,14 @@
+{
+  "title": "X-Rays from Comet LINEAR",
+  "credit": [
+    "Credit: Carey Lisse (STScI/UMD) et al., CXC, SAO, NASA Explanation",
+    "Carey Lisse (STScI/UMD) et al., CXC, SAO, NASA"
+  ],
+  "explanation": "Why do comets emit X-rays? First discovered during the passing of Comet Hyakutake in 1996, the reason a cold comet would produce hot X-rays has since remained a mystery. On July 14, however, the orbiting Chandra X-ray Observatory was able to provide an image of passing Comet LINEAR, shown above, in enough detail to unravel the mystery. The key to the solution turns out to be the unusual wind of fast ions emitted by our Sun. These ions apparently collide with gas recently emitted by the comet and cause some ions to acquire a new electron. An electron that starts in a high-energy state will emit an X-ray as it falls in closer to the ion nucleus. As other comets move into the inner Solar System, this discovery should allow future study of the continually evolving gas cloud that surrounds comets as well as the composition of the solar wind.",
+  "date": "2000-08-01",
+  "hdurl": "https://apod.nasa.gov/apod/image/0008/linear_chandra_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0008/linear_chandra.jpg"
+}

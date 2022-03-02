@@ -1,0 +1,14 @@
+{
+  "title": "A RADARSAT Map of Antarctica",
+  "credit": [
+    "Credit: AMM, SVS, NASA, CSA Explanation",
+    "AMM, SVS, NASA, CSA"
+  ],
+  "explanation": "It's not easy to make a map of Antarctica. Earth's southern most continent is so cold and inhospitable that much of it remains unexplored. From space, though, it is possible to map this entire region by radar: by systematically noting how long it takes for radio waves to reflect off the terrain. The Canadian satellite RADARSAT has been orbiting the Earth for the past five years making radar maps, and has recently released the most detailed map of Antarctica ever created. Above is a computer-generated map of Antarctica at relatively low resolution. From the RADARSAT map, scientists have been able to better study this mysterious continent, including information about how ancient ice-shelves are crumbling.",
+  "date": "1999-11-16",
+  "hdurl": "https://apod.nasa.gov/apod/image/9911/antarctica_radarsat_big.jpg",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9911/antarctica_radarsat.jpg"
+}

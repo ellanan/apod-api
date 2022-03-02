@@ -1,0 +1,14 @@
+{
+  "title": "GRACE Maps the Gravity of Earth",
+  "credit": [
+    "Credit: GeoForschungsZentrum Potsdam, CSR U. Texas, JPL, NASA Explanation",
+    "GeoForschungsZentrum Potsdam, CSR U. Texas, JPL, NASA"
+  ],
+  "explanation": "Why do some places on Earth have higher gravity than others? Sometimes the reason is unknown. To help better understand the Earth's surface, slight distance changes between a pair of identically orbiting satellites named GRACE have been used to create the best ever map of Earth's gravitational field. High points on this map, also colored red, indicate areas where gravity is slightly stronger than usual, while in blue areas gravity is slightly weaker. Many bumps and valleys on the map can be attributed to surface features, such as the North Mid-Atlantic Ridge and the Himalayan Mountains, but others cannot, and so might relate to unusually high or low sub-surface densities. Maps like this also help calibrate changes in the Earth's surface including variable ocean currents and the melting of glaciers.",
+  "date": "2003-07-23",
+  "hdurl": "https://apod.nasa.gov/apod/image/0307/gravityearth2_grace.gif",
+  "service_version": "v1",
+  "copyright": [],
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0307/gravityearth2_grace_big.gif"
+}
