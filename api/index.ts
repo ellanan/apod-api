@@ -21,14 +21,21 @@ type AdditionalQueryParams = {
   limit?: string;
 };
 
-function getData(args: OrignalAPIQueryParams & AdditionalQueryParams) {
+function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
+  cacheDurationMinutes: number;
+  data: typeof dailyData | typeof dailyData[number];
+} {
   if (Object.keys(args).length === 0) {
-    return Object.entries(dataDictonary)
-      .map(([date, value]) => value)
-      .slice(-1)[0];
+    return {
+      cacheDurationMinutes: 30,
+      data: dailyData.slice(-1)[0],
+    };
   }
   if (args.date) {
-    return dataDictonary[args.date];
+    return {
+      cacheDurationMinutes: 60,
+      data: dataDictonary[args.date],
+    };
   }
   if (args.start_date && args.end_date) {
     const dateInputRegex = /(\d{4})-(\d{1,})-(\d{1,})/;
@@ -37,22 +44,25 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams) {
     const [, endYear, endMonth, endDate] =
       args.end_date.match(dateInputRegex) ?? [];
 
-    return dailyData.slice(
-      isoDates.indexOf(
-        `${startYear}-${_.padStart(startMonth, 2, '0')}-${_.padStart(
-          startDate,
-          2,
-          '0'
-        )}`
+    return {
+      cacheDurationMinutes: 60 * 24 * 30,
+      data: dailyData.slice(
+        isoDates.indexOf(
+          `${startYear}-${_.padStart(startMonth, 2, '0')}-${_.padStart(
+            startDate,
+            2,
+            '0'
+          )}`
+        ),
+        isoDates.indexOf(
+          `${endYear}-${_.padStart(endMonth, 2, '0')}-${_.padStart(
+            endDate,
+            2,
+            '0'
+          )}`
+        ) + 1
       ),
-      isoDates.indexOf(
-        `${endYear}-${_.padStart(endMonth, 2, '0')}-${_.padStart(
-          endDate,
-          2,
-          '0'
-        )}`
-      ) + 1
-    );
+    };
   }
   if (args.start_date) {
     const dateInputRegex = /(\d{4})-(\d{1,})-(\d{1,})/;
@@ -68,11 +78,20 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams) {
       )}`
     );
 
-    return dailyData.slice(startingIndex, startingIndex + limit);
+    return {
+      cacheDurationMinutes: 30,
+      data: dailyData.slice(startingIndex, startingIndex + limit),
+    };
   }
   if (args.count) {
-    return _.sampleSize(dailyData, Number(args.count));
+    return {
+      cacheDurationMinutes: 0,
+      data: _.sampleSize(dailyData, Number(args.count)),
+    };
   }
+  throw new Error(
+    `unsupported combination of query params: ${JSON.stringify(args)}`
+  );
 }
 
 export default async (request: VercelRequest, response: VercelResponse) => {
@@ -84,9 +103,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
     DateTime.now().startOf('day')
   ).length('days');
 
-  if (daysSinceLastData < 1) {
-    response.status(200).send(getData(queryParams));
-  } else {
+  if (daysSinceLastData >= 1) {
     console.log(
       `missing ${daysSinceLastData} days of data from ${lastDayOfData}`
     );
@@ -118,7 +135,15 @@ export default async (request: VercelRequest, response: VercelResponse) => {
     isoDates.push(...missingDataPairs.map(([date, data]) => data.date));
     dailyData.push(...missingDataPairs.map(([date, data]) => data));
     lastDayOfData = missingDataPairs[missingDataPairs.length - 1][1].date;
-
-    response.status(200).send(getData(queryParams));
   }
+  const { cacheDurationMinutes, data } = getData(queryParams);
+  response
+    .status(200)
+    .setHeader(
+      'Cache-Control',
+      `max-age=0, s-maxage=${
+        cacheDurationMinutes * 60
+      }, stale-while-revalidate=${cacheDurationMinutes * 60}`
+    )
+    .send(data);
 };
