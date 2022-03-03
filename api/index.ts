@@ -131,10 +131,12 @@ export default async (request: VercelRequest, response: VercelResponse) => {
       return [];
     });
 
-    Object.assign(dataDictonary, _.fromPairs(missingDataPairs));
-    isoDates.push(...missingDataPairs.map(([date, data]) => data.date));
-    dailyData.push(...missingDataPairs.map(([date, data]) => data));
-    lastDayOfData = missingDataPairs[missingDataPairs.length - 1][1].date;
+    if (missingDataPairs.length > 0) {
+      Object.assign(dataDictonary, _.fromPairs(missingDataPairs));
+      isoDates.push(...missingDataPairs.map(([date, data]) => data.date));
+      dailyData.push(...missingDataPairs.map(([date, data]) => data));
+      lastDayOfData = missingDataPairs[missingDataPairs.length - 1][1].date;
+    }
   }
   const { cacheDurationMinutes, data } = getData(queryParams);
   response
