@@ -126,7 +126,17 @@ export default async (request: VercelRequest, response: VercelResponse) => {
           .map(async (interval) => {
             try {
               console.log(`getting data for ${interval.start.toISODate()}`);
-              return getDataByDate(interval.start);
+              return getDataByDate(interval.start).catch((e) => {
+                console.log(
+                  `error getting data for ${interval.start.toISODate()}`
+                );
+                if (e.response.status === 404) {
+                  // this day's data isn't available yet
+                  return null;
+                }
+                // throw expected error back up
+                throw e;
+              });
             } catch (error) {
               console.error(
                 `could not fetch data for ${interval.start}`,
