@@ -100,64 +100,72 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
 }
 
 export default async (request: VercelRequest, response: VercelResponse) => {
-  const queryParams: OrignalAPIQueryParams & AdditionalQueryParams =
-    request.query;
+  try {
+    const queryParams: OrignalAPIQueryParams & AdditionalQueryParams =
+      request.query;
 
-  const daysSinceLastData = Interval.fromDateTimes(
-    DateTime.fromISO(lastDayOfData),
-    DateTime.now().startOf('day')
-  ).length('days');
+    const daysSinceLastData = Interval.fromDateTimes(
+      DateTime.fromISO(lastDayOfData),
+      DateTime.now().startOf('day')
+    ).length('days');
 
-  // handle the case where some data is missing
-  if (daysSinceLastData >= 1) {
-    console.log(
-      `missing ${daysSinceLastData} days of data from ${lastDayOfData}`
-    );
-    // try to get the missing data from the last day of data
-    const missingData = await Promise.all(
-      Interval.fromDateTimes(
-        DateTime.fromISO(lastDayOfData).startOf('day').plus({ days: 1 }),
-        DateTime.now().endOf('day')
-      )
-        .splitBy({
-          days: 1,
-        })
-        .map(async (interval) => {
-          try {
-            console.log(`getting data for ${interval.start.toISODate()}`);
-            return getDataByDate(interval.start);
-          } catch (error) {
-            console.error(`could not fetch data for ${interval.start}`, error);
-            return null;
-          }
-        })
-    );
+    // handle the case where some data is missing
+    if (daysSinceLastData >= 1) {
+      console.log(
+        `missing ${daysSinceLastData} days of data from ${lastDayOfData}`
+      );
+      // try to get the missing data from the last day of data
+      const missingData = await Promise.all(
+        Interval.fromDateTimes(
+          DateTime.fromISO(lastDayOfData).startOf('day').plus({ days: 1 }),
+          DateTime.now().endOf('day')
+        )
+          .splitBy({
+            days: 1,
+          })
+          .map(async (interval) => {
+            try {
+              console.log(`getting data for ${interval.start.toISODate()}`);
+              return getDataByDate(interval.start);
+            } catch (error) {
+              console.error(
+                `could not fetch data for ${interval.start}`,
+                error
+              );
+              return null;
+            }
+          })
+      );
 
-    const missingDataPairs = missingData.flatMap((entry) => {
-      if (entry) {
-        return [[entry.date, entry]] as [[string, typeof entry]];
+      const missingDataPairs = missingData.flatMap((entry) => {
+        if (entry) {
+          return [[entry.date, entry]] as [[string, typeof entry]];
+        }
+        return [];
+      });
+
+      console.log(`adding ${missingDataPairs.length} missing data pairs`);
+      if (missingDataPairs.length > 0) {
+        Object.assign(dataDictonary, _.fromPairs(missingDataPairs));
+        isoDates.push(...missingDataPairs.map(([date, data]) => data.date));
+        dailyData.push(...missingDataPairs.map(([date, data]) => data));
+        lastDayOfData = missingDataPairs[missingDataPairs.length - 1][0];
       }
-      return [];
-    });
-
-    console.log(`adding ${missingDataPairs.length} missing data pairs`);
-    if (missingDataPairs.length > 0) {
-      Object.assign(dataDictonary, _.fromPairs(missingDataPairs));
-      isoDates.push(...missingDataPairs.map(([date, data]) => data.date));
-      dailyData.push(...missingDataPairs.map(([date, data]) => data));
-      lastDayOfData = missingDataPairs[missingDataPairs.length - 1][0];
     }
+
+    const { cacheDurationMinutes, data } = getData(queryParams);
+
+    response
+      .status(200)
+      .setHeader(
+        'Cache-Control',
+        `max-age=0, s-maxage=${
+          cacheDurationMinutes * 60
+        }, stale-while-revalidate=${cacheDurationMinutes * 60}` // cache could reuse a stale response while revalidating
+      )
+      .send(data);
+  } catch (error) {
+    console.error(error);
+    response.status(500).send(error);
   }
-
-  const { cacheDurationMinutes, data } = getData(queryParams);
-
-  response
-    .status(200)
-    .setHeader(
-      'Cache-Control',
-      `max-age=0, s-maxage=${
-        cacheDurationMinutes * 60
-      }, stale-while-revalidate=${cacheDurationMinutes * 60}` // cache could reuse a stale response while revalidating
-    )
-    .send(data);
 };
