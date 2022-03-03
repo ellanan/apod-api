@@ -1,14 +1,13 @@
 import axios from 'axios';
-import cheerio, { CheerioAPI } from 'cheerio';
+import cheerio from 'cheerio';
 import { DateTime } from 'luxon';
 
 export const getDataByDate = async (date: DateTime) => {
-  const html = (
-    await axios.get(
-      `https://apod.nasa.gov/apod/ap${date.toFormat('yyMMdd')}.html`
-    )
-  ).data;
+  const url = `https://apod.nasa.gov/apod/ap${date.toFormat('yyMMdd')}.html`;
+  console.log(`fetching ${url}`);
+  const html = (await axios.get(url)).data;
 
+  console.log(`parsing ${url}`);
   const $ = cheerio.load(html);
 
   const body = $('body').text();
@@ -23,15 +22,18 @@ export const getDataByDate = async (date: DateTime) => {
     'a[href^=image] img[src^=image], button img[src^=image]'
   );
   const videoElement = $('iframe');
-  const embedElement = $('embed'); // these seem to be video embeds as well
+  // these seem to be video embeds as well
+  const embedElement = $('embed');
   const description = $('center ~ center ~ p')
     .text()
     .replace(/\s+/g, ' ')
     .replace('Explanation:', '')
     .trim();
 
+  // we want to extract anything between 'copyright' and 'explanation
   const [, copyright] =
     /copyright:\s+(.+)\s+explanation/gi.exec(body.replace(/\s+/gi, ' ')) || [];
+  // we want to extract anything between 'credit' and 'explanation
   const [, credit] =
     /credit:\s+(.+?)\s+(?:;|explanation)/gi.exec(body.replace(/\s+/gi, ' ')) ||
     [];
@@ -47,11 +49,8 @@ export const getDataByDate = async (date: DateTime) => {
     title,
     credit,
     explanation: description,
-    // dateOfCapture,
     date: date.toISODate(),
-    // imageUrl,
     hdurl: hdImageUrl ?? imageUrl,
-    // hdImageUrl,
     service_version: 'v1',
     copyright,
     media_type: imageUrl ? 'image' : videoElement.length ? 'video' : 'other',
