@@ -6,7 +6,7 @@ import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from '../api/_data/getDataByDate';
 
 const extractedDataDirectory = path.join(__dirname, 'extractedDailyData');
-fs.mkdirSync(extractedDataDirectory, { recursive: true });
+fs.mkdirSync(extractedDataDirectory, { recursive: true }); // recursive true returns the first directory path created
 
 async function saveDataForDate(date: DateTime) {
   const data = await getDataByDate(date);
@@ -33,6 +33,7 @@ const dateInterval = Interval.fromDateTimes(
   days: 1,
 });
 
+// run 8 async operations at a time
 async.eachLimit(
   dateInterval,
   8,
@@ -50,6 +51,7 @@ async.eachLimit(
   }
 );
 
+// combine data from all files in the 'extractedDailyData'
 const downloadedDailyFiles = fs.readdirSync(extractedDataDirectory);
 const combinedDailyDataDictionary = Object.fromEntries(
   downloadedDailyFiles.map((filename) => {
@@ -61,6 +63,7 @@ const combinedDailyDataDictionary = Object.fromEntries(
   })
 );
 
+// Save all the files to a single file in the 'data.json'
 const outputDirectory = path.join(__dirname, '../api/_data');
 fs.mkdirSync(outputDirectory, { recursive: true });
 fs.writeFileSync(

@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from './getDataByDate';
-import { getDataByDateFromOriginalApodAPI } from './getDataByDateFromOriginalApodAPI';
+import { getDataByDateFromOriginalApodAPI } from '../../extractor/getDataByDateFromOriginalApodAPI';
 
 const testInterval = (period: Interval[]) => {
   period.forEach(async (dailyInterval) => {
