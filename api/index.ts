@@ -68,6 +68,7 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
     };
   }
   // if start_date is passed, return the data for that date and all future days
+  // if both start_date and limit are passed, return the data for that date and limit days
   if (args.start_date) {
     const dateInputRegex = /(\d{4})-(\d{1,})-(\d{1,})/;
     const [, startYear, startMonth, startDate] =
