@@ -10,6 +10,7 @@ fs.mkdirSync(extractedDataDirectory, { recursive: true }); // recursive true ret
 
 async function saveDataForDate(date: DateTime) {
   const data = await getDataByDate(date);
+  console.log(`writing data for ${date.toISODate()}`);
   fs.writeFileSync(
     path.join(extractedDataDirectory, `${date.toISODate()}.json`),
     JSON.stringify(data, null, 2),
@@ -48,29 +49,30 @@ async.eachLimit(
       throw e;
     });
     cb();
+    console.log(`finished getting data for ${interval.start.toISODate()}`);
   },
   (err) => {
     if (err) throw err;
-    console.log('All done!');
-  }
-);
+    console.log('All fetched!');
 
-// combine data from all files in the 'extractedDailyData'
-const downloadedDailyFiles = fs.readdirSync(extractedDataDirectory);
-const combinedDailyDataDictionary = Object.fromEntries(
-  downloadedDailyFiles.map((filename) => {
-    const date = filename.split('.')[0];
-    const data = JSON.parse(
-      fs.readFileSync(path.join(extractedDataDirectory, filename), 'utf-8')
+    console.log(`combine data from all files in the 'extractedDailyData'`);
+    const downloadedDailyFiles = fs.readdirSync(extractedDataDirectory);
+    const combinedDailyDataDictionary = Object.fromEntries(
+      downloadedDailyFiles.map((filename) => {
+        const date = filename.split('.')[0];
+        const data = JSON.parse(
+          fs.readFileSync(path.join(extractedDataDirectory, filename), 'utf-8')
+        );
+        return [date, data];
+      })
     );
-    return [date, data];
-  })
-);
 
-// Save all the files to a single file in the 'data.json'
-const outputDirectory = path.join(__dirname, '../api/_data');
-fs.mkdirSync(outputDirectory, { recursive: true });
-fs.writeFileSync(
-  path.join(outputDirectory, 'data.json'),
-  JSON.stringify(combinedDailyDataDictionary, null, '  ')
+    console.log(`Save all the files to a single file in the 'data.json'`);
+    const outputDirectory = path.join(__dirname, '../api/_data');
+    fs.mkdirSync(outputDirectory, { recursive: true });
+    fs.writeFileSync(
+      path.join(outputDirectory, 'data.json'),
+      JSON.stringify(combinedDailyDataDictionary, null, '  ')
+    );
+  }
 );
