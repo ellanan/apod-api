@@ -1,8 +1,11 @@
 # Astronomy Picture of the Day (APOD) API
 
-APOD API written in TypeScript, Node.js and Cheerio to provide reliable API response.
+APOD API written in Node.js and TypeScript to provide reliable API responses for Spacestagram II (https://spacestagram2.ellanan.com/).
 
-No API key required.
+- Automated daily extraction of APOD data from NASA’ website.
+- Aggressively cache requests using Vercel’s CDN for cloud functions.
+- Fall-back to on-demand data extraction.
+- No API key required.
 
 # Article
 
@@ -44,7 +47,7 @@ https://apod.ellanan.com/api
 
 # Examples
 
-### Case: No agrument passed.
+### Case: No argument passed.
 
 `https://apod.ellanan.com/api`
 
@@ -69,7 +72,7 @@ https://apod.ellanan.com/api
 
 <p></p>
 
-### Case: Pass in date as an agrument.
+### Case: Pass in date as an argument.
 
 `https://apod.ellanan.com/api?date=2022-02-28`
 
@@ -94,7 +97,7 @@ https://apod.ellanan.com/api
 
 <p></p>
 
-### Case: Pass in start_date as an agrument.
+### Case: Pass in start_date as an argument.
 
 `https://apod.ellanan.com/api?start_date=2022-02-28`
 
@@ -156,7 +159,7 @@ https://apod.ellanan.com/api
 
 <p></p>
 
-### Case: Pass in start_date and end_date as agruments.
+### Case: Pass in start_date and end_date as arguments.
 
 `https://apod.ellanan.com/api?start_date=2022-02-28&end_date=2022-03-01`
 
@@ -195,7 +198,7 @@ https://apod.ellanan.com/api
 
 <p></p>
 
-### Case: Pass in start_date and limit as agruments.
+### Case: Pass in start_date and limit as arguments.
 
 `https://apod.ellanan.com/api?start_date=2022-01-28&limit=3`
 
@@ -246,7 +249,7 @@ https://apod.ellanan.com/api
 
 <p></p>
 
-### Case: Pass in start_date and limit as agruments.
+### Case: Pass in start_date and limit as arguments.
 
 `https://apod.ellanan.com/api?count=2`
 
