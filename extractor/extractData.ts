@@ -38,12 +38,16 @@ async.eachLimit(
   dateInterval,
   8,
   async (interval, cb) => {
-    try {
-      await saveDataForDate(interval.start);
-      cb();
-    } catch (error) {
-      cb(error as Error);
-    }
+    await saveDataForDate(interval.start).catch((e) => {
+      console.log(`error getting data for ${interval.start.toISODate()}`);
+      if (e.response.status === 404) {
+        // this day's data isn't available yet
+        return null;
+      }
+      // throw expected error back up
+      throw e;
+    });
+    cb();
   },
   (err) => {
     if (err) throw err;
