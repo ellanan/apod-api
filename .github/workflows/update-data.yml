@@ -17,8 +17,12 @@ jobs:
       - run: npm run update-data
       - name: Commit changes
         run: |
-          git config --global user.name 'automated_ellanan'
-          git config --global user.email '38847123+ellanan@users.noreply.github.com'
-          git add .
-          git commit -m "Automated data update"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.name 'automated_ellanan'
+            git config --global user.email '38847123+ellanan@users.noreply.github.com'
+            git add .
+            git commit -m "Automated data update"
+            git push
+          else
+            echo "no changes";
+          fi
