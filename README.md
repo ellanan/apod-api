@@ -47,7 +47,7 @@ https://apod.ellanan.com/api
 
 # Examples
 
-### Case: No argument passed.
+### Case: Pass in 0 agrument.
 
 `https://apod.ellanan.com/api`
 
@@ -249,11 +249,11 @@ https://apod.ellanan.com/api
 
 <p></p>
 
-### Case: Pass in start_date and limit as arguments.
+### Case: Pass in count as agrument.
 
 `https://apod.ellanan.com/api?count=2`
 
-<details><summary>This query will return specified number of randomly generated APODs. This is example, we got APODs for 2010-10-31 and 2020-06-05. </summary>
+<details><summary>This query will return specified number of randomly generated APODs. In this example, we got APODs for 2010-10-31 and 2020-06-05. </summary>
 <p>
 
 ```javascript
