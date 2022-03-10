@@ -5,6 +5,8 @@ APOD API written in Node.js and TypeScript to provide reliable API responses for
 - Automated daily extraction of APOD data from NASA’ website.
 - Aggressively cache requests using Vercel’s CDN for cloud functions.
 - Fall-back to on-demand data extraction.
+- Limit query param not available on NASA's APOD API.
+- Unlimited requests.
 - No API key required.
 
 # Article
