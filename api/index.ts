@@ -25,13 +25,6 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
   cacheDurationMinutes: number;
   data: typeof dailyData | typeof dailyData[number];
 } {
-  // if no agruments are passed, return the current day data
-  if (Object.keys(args).length === 0) {
-    return {
-      cacheDurationMinutes: 30,
-      data: dailyData.slice(-1)[0],
-    };
-  }
   // if a date is passed, return the data for that date
   if (args.date) {
     return {
@@ -95,9 +88,11 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
       data: _.sampleSize(dailyData, Number(args.count)),
     };
   }
-  throw new Error(
-    `unsupported combination of query params: ${JSON.stringify(args)}`
-  );
+
+  return {
+    cacheDurationMinutes: 30,
+    data: dailyData.slice(-1)[0],
+  };
 }
 
 export default async (request: VercelRequest, response: VercelResponse) => {
