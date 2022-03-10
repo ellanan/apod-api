@@ -24,7 +24,7 @@ const lastIsoDate = lastFile?.split('.')[0];
 
 console.log('starting from', lastIsoDate);
 
-const startDate = DateTime.fromISO(lastIsoDate ?? '1995-06-20');
+const startDate = DateTime.fromISO(lastIsoDate ?? '1995-06-16');
 const endDate = DateTime.local();
 
 const dateInterval = Interval.fromDateTimes(
