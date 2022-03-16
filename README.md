@@ -11,6 +11,8 @@ APOD API written in Node.js and TypeScript to provide reliable API responses for
 
 # Article
 
+https://www.freecodecamp.org/news/building-a-faster-and-more-reliable-apod-api/
+
 # Instruction Manual
 
 ### API EndPoint
