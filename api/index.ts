@@ -30,7 +30,7 @@ type OrignalAPIQueryParams = {
   count?: string;
 };
 
-type AdditionalQueryParams = {
+export type AdditionalQueryParams = {
   limit?: string;
   format?: ExplanationFormat;
 };
