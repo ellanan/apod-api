@@ -3,9 +3,13 @@ import path from 'path';
 import async from 'async';
 import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from '../api/_data/getDataByDate';
+import { generateYearsIndex } from './generateYearsIndex';
 
 const extractedDataDirectory = path.join(__dirname, 'extractedDailyData');
 fs.mkdirSync(extractedDataDirectory, { recursive: true });
+
+const yearsDir = path.join(__dirname, '../api/_data/years');
+fs.mkdirSync(yearsDir, { recursive: true });
 
 // Parse command line arguments
 const args = process.argv.slice(2);
@@ -76,35 +80,46 @@ async.eachLimit(
     if (err) throw err;
     console.log('All fetched!');
 
-    console.log(`combine data from all files in the 'extractedDailyData'`);
+    // Group backfilled data by year
+    const backfilledByYear: Record<string, Record<string, object>> = {};
     const downloadedDailyFiles = fs.readdirSync(extractedDataDirectory);
-    const combinedDailyDataDictionary = Object.fromEntries(
-      downloadedDailyFiles.map((filename) => {
-        const date = filename.split('.')[0];
-        const data = JSON.parse(
-          fs.readFileSync(path.join(extractedDataDirectory, filename), 'utf-8')
-        );
-        return [date, data];
-      })
-    );
 
-    console.log(`Merging backfilled data into 'data.json'`);
-    const outputDirectory = path.join(__dirname, '../api/_data');
-    fs.mkdirSync(outputDirectory, { recursive: true });
+    for (const filename of downloadedDailyFiles) {
+      const date = filename.split('.')[0];
+      const year = date.substring(0, 4);
+      const data = JSON.parse(
+        fs.readFileSync(path.join(extractedDataDirectory, filename), 'utf-8')
+      );
+      if (!backfilledByYear[year]) {
+        backfilledByYear[year] = {};
+      }
+      backfilledByYear[year][date] = data;
+    }
 
-    const dataJsonPath = path.join(outputDirectory, 'data.json');
-    const existingData = fs.existsSync(dataJsonPath)
-      ? JSON.parse(fs.readFileSync(dataJsonPath, 'utf-8'))
-      : {};
+    // Merge into yearly files
+    console.log(`Merging backfilled data into yearly files...`);
+    const affectedYears = Object.keys(backfilledByYear).sort();
 
-    const mergedData = { ...existingData, ...combinedDailyDataDictionary };
-    // Sort by date key to maintain chronological order
-    const sortedData = Object.fromEntries(
-      Object.entries(mergedData).sort(([a], [b]) => a.localeCompare(b))
-    );
+    for (const year of affectedYears) {
+      const yearFilePath = path.join(yearsDir, `${year}.json`);
+      const existingData = fs.existsSync(yearFilePath)
+        ? JSON.parse(fs.readFileSync(yearFilePath, 'utf-8'))
+        : {};
 
-    fs.writeFileSync(dataJsonPath, JSON.stringify(sortedData, null, '  '));
+      const mergedData = { ...existingData, ...backfilledByYear[year] };
+      // Sort by date key
+      const sortedData = Object.fromEntries(
+        Object.entries(mergedData).sort(([a], [b]) => a.localeCompare(b))
+      );
 
-    console.log(`Backfill complete! Merged ${Object.keys(combinedDailyDataDictionary).length} entries.`);
+      fs.writeFileSync(yearFilePath, JSON.stringify(sortedData, null, 2));
+      console.log(`  ${year}.json: merged ${Object.keys(backfilledByYear[year]).length} entries`);
+    }
+
+    // Regenerate index.ts
+    console.log(`Regenerating index.ts...`);
+    generateYearsIndex(yearsDir);
+
+    console.log(`Backfill complete!`);
   }
 );

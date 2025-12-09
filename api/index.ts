@@ -4,6 +4,11 @@ import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from './_data/getDataByDate';
 import { transformData, ExplanationFormat, VALID_FORMATS } from './transformExplanation';
+import {
+  dataDictionary,
+  isoDates as importedIsoDates,
+  dailyData as importedDailyData,
+} from './_data/years';
 
 type ApodEntry = {
   title: string;
@@ -17,9 +22,9 @@ type ApodEntry = {
   url?: string;
 };
 
-const dataDictionary: Record<string, ApodEntry> = require('./_data/data.json');
-const isoDates = Object.keys(dataDictionary);
-const dailyData: ApodEntry[] = Object.values(dataDictionary);
+// Mutable copies for runtime updates
+const isoDates = [...importedIsoDates];
+const dailyData = [...importedDailyData];
 
 let lastDayOfData = isoDates[isoDates.length - 1];
 

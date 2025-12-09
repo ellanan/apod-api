@@ -1,0 +1,1981 @@
+{
+  "1995-06-16": {
+    "title": "Neutron Star Earth",
+    "explanation": "",
+    "date": "1995-06-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/e_lens.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/e_lens.gif"
+  },
+  "1995-06-20": {
+    "title": "Pleiades Star Cluster",
+    "credit": "Mount Wilson Observatory",
+    "explanation": "",
+    "date": "1995-06-20",
+    "hdurl": "https://apod.nasa.gov/apod/image/pleiades2.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/pleiades2.gif"
+  },
+  "1995-06-21": {
+    "title": "Supernova 1987a Aftermath",
+    "credit": "Hubble Space Telescope",
+    "explanation": "",
+    "date": "1995-06-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/sn1987a_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/sn1987a_hst.gif"
+  },
+  "1995-06-22": {
+    "title": "Earth from Apollo 17",
+    "credit": "NASA, Apollo 17, NSSDC",
+    "explanation": "",
+    "date": "1995-06-22",
+    "hdurl": "https://apod.nasa.gov/apod/image/earth_a17.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/earth_a17.gif"
+  },
+  "1995-06-23": {
+    "title": "Gamma Ray Sky Map",
+    "credit": "NASA, Compton Gamma Ray Observatory",
+    "explanation": "",
+    "date": "1995-06-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/egret_gro.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/egret_gro.gif"
+  },
+  "1995-06-24": {
+    "title": "Gamma Ray Crab, Geminga",
+    "credit": "NASA, Compton Gamma Ray Observatory",
+    "explanation": "",
+    "date": "1995-06-24",
+    "hdurl": "https://apod.nasa.gov/apod/image/gamma_crab.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/gamma_crab.gif"
+  },
+  "1995-06-25": {
+    "title": "Jupiter from Voyager",
+    "credit": "NASA, JPL, NSSDC, Voyager",
+    "explanation": "",
+    "date": "1995-06-25",
+    "hdurl": "https://apod.nasa.gov/apod/image/jupiter1_vgr.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/jupiter1_vgr.gif"
+  },
+  "1995-06-26": {
+    "title": "Spiral Galaxy M100",
+    "credit": "NASA, Hubble Space Telescope",
+    "explanation": "",
+    "date": "1995-06-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/m100_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m100_hst.gif"
+  },
+  "1995-06-27": {
+    "title": "An Ultraviolet Image of M101",
+    "credit": "NASA, Ultraviolet Imaging Telescope (UIT)",
+    "explanation": "",
+    "date": "1995-06-27",
+    "hdurl": "https://apod.nasa.gov/apod/image/uitm101.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/uitm101.gif"
+  },
+  "1995-06-28": {
+    "title": "The Cat's Eye Nebula",
+    "credit": "NASA, Hubble Space Telescope",
+    "explanation": "",
+    "date": "1995-06-28",
+    "hdurl": "https://apod.nasa.gov/apod/image/catseye.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/catseye.gif"
+  },
+  "1995-06-29": {
+    "title": "The Earth-Moon System",
+    "credit": "NASA, JPL, Galileo Project",
+    "explanation": "",
+    "date": "1995-06-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/earthmoon.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/earthmoon.gif"
+  },
+  "1995-06-30": {
+    "title": "Ida and Dactyl: Asteroid and Moon",
+    "credit": "NASA, JPL, Galileo Project",
+    "explanation": "",
+    "date": "1995-06-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/idadactyl.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/idadactyl.gif"
+  },
+  "1995-07-01": {
+    "title": "The Hooker Telescope on Mt. Wilson",
+    "credit": "Mount Wilson Observatory",
+    "explanation": "",
+    "date": "1995-07-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/hooker.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/hooker.gif"
+  },
+  "1995-07-02": {
+    "title": "The Cartwheel Galaxy",
+    "credit": "NASA, Hubble Space Telescope",
+    "explanation": "",
+    "date": "1995-07-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/cartwheel_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/cartwheel_hst.gif"
+  },
+  "1995-07-03": {
+    "title": "The Great Nebula in Orion",
+    "credit": "NASA, Hubble Space Telescope",
+    "explanation": "",
+    "date": "1995-07-03",
+    "hdurl": "https://apod.nasa.gov/apod/image/orion_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/orion_hst.gif"
+  },
+  "1995-07-04": {
+    "title": "The Firework Nebula",
+    "credit": "WIYN Telescope",
+    "explanation": "",
+    "date": "1995-07-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/fireworks_wiyn.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/fireworks_wiyn.gif"
+  },
+  "1995-07-05": {
+    "title": "The Night Side of Saturn",
+    "credit": "NASA, Jet Propulsion Laboratory,Voyager Project",
+    "explanation": "",
+    "date": "1995-07-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/saturn_night.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/saturn_night.gif"
+  },
+  "1995-07-06": {
+    "title": "Saturn, Rings, and Two Moons",
+    "credit": "NASA, Jet Propulsion Laboratory,Voyager Project",
+    "explanation": "",
+    "date": "1995-07-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/saturn_2moons.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/saturn_2moons.gif"
+  },
+  "1995-07-07": {
+    "title": "Lunar Farside from Apollo 13",
+    "credit": "NASA, Crew of Apollo 13",
+    "explanation": "",
+    "date": "1995-07-07",
+    "hdurl": "https://apod.nasa.gov/apod/image/farside_a13.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/farside_a13.gif"
+  },
+  "1995-07-08": {
+    "title": "Damage to Apollo 13",
+    "credit": "NASA, Crew of Apollo 13",
+    "explanation": "",
+    "date": "1995-07-08",
+    "hdurl": "https://apod.nasa.gov/apod/image/a13_servicemod.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/a13_servicemod.gif"
+  },
+  "1995-07-09": {
+    "title": "A Meteoric View of Apollo 13",
+    "credit": "Unknown",
+    "explanation": "",
+    "date": "1995-07-09",
+    "hdurl": "https://apod.nasa.gov/apod/image/reenter_a13.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/reenter_a13.gif"
+  },
+  "1995-07-10": {
+    "title": "Abell 2218: A Galaxy Cluster Lens",
+    "credit": "NASA, HST, WFPC2, W. Couch (UNSW)",
+    "explanation": "",
+    "date": "1995-07-10",
+    "hdurl": "https://apod.nasa.gov/apod/image/a2218lens_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/a2218lens_hst.gif"
+  },
+  "1995-07-11": {
+    "title": "Microlensing of the Einstein Cross",
+    "credit": "Geraint Lewis and Michael Irwin, William Hershel Telescope",
+    "explanation": "",
+    "date": "1995-07-11",
+    "hdurl": "https://apod.nasa.gov/apod/image/microlens_wht.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/microlens_wht.gif"
+  },
+  "1995-07-12": {
+    "title": "Eta Carinae Before Explosion",
+    "credit": "NASA, HST, WFPC2, J. Hester (ASU)",
+    "explanation": "",
+    "date": "1995-07-12",
+    "hdurl": "https://apod.nasa.gov/apod/image/etacarinae_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/etacarinae_hst.gif"
+  },
+  "1995-07-13": {
+    "title": "A String Of Pearls",
+    "credit": "NASA, Hubble Space Telescope (courtesy of H. Weaver)",
+    "explanation": "",
+    "date": "1995-07-13",
+    "hdurl": "https://apod.nasa.gov/apod/image/stringofpearls.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/stringofpearls.gif"
+  },
+  "1995-07-14": {
+    "title": "Comet Impacts on Jupiter",
+    "credit": "NASA, Hubble Space Telescope",
+    "explanation": "",
+    "date": "1995-07-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/jupimpact.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/jupimpact.gif"
+  },
+  "1995-07-15": {
+    "title": "The Crater Chain",
+    "credit": "NASA, Voyager Team",
+    "explanation": "",
+    "date": "1995-07-15",
+    "hdurl": "https://apod.nasa.gov/apod/image/craterchain1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/craterchain1.gif"
+  },
+  "1995-07-16": {
+    "title": "The Exploration of Mars",
+    "credit": "NASA,Viking Project, USGS",
+    "explanation": "",
+    "date": "1995-07-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/usgsmars.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/usgsmars.gif"
+  },
+  "1995-07-17": {
+    "title": "Barsoom",
+    "credit": "NASA,Viking Project",
+    "explanation": "",
+    "date": "1995-07-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/barsoom.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/barsoom.gif"
+  },
+  "1995-07-18": {
+    "title": "Cygnus Loop Supernova Shockwave",
+    "credit": "NASA, HST, WFPC2, Jeff Hester",
+    "explanation": "",
+    "date": "1995-07-18",
+    "hdurl": "https://apod.nasa.gov/apod/image/CygnusLoop_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/CygnusLoop_hst.gif"
+  },
+  "1995-07-19": {
+    "title": "The Mountains of Mars",
+    "credit": "NASA,Viking Project",
+    "explanation": "",
+    "date": "1995-07-19",
+    "hdurl": "https://apod.nasa.gov/apod/image/olympus.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/olympus.gif"
+  },
+  "1995-07-20": {
+    "title": "The Grand Canyon of Mars",
+    "credit": "NASA,Viking Project,USGS",
+    "explanation": "",
+    "date": "1995-07-20",
+    "hdurl": "https://apod.nasa.gov/apod/image/grandcanal.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/grandcanal.gif"
+  },
+  "1995-07-21": {
+    "title": "The Search for Life on Mars",
+    "credit": "NASA,Viking Project,",
+    "explanation": "",
+    "date": "1995-07-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/marslander.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/marslander.gif"
+  },
+  "1995-07-22": {
+    "title": "The Face on Mars",
+    "credit": "NASA,Viking Project,",
+    "explanation": "",
+    "date": "1995-07-22",
+    "hdurl": "https://apod.nasa.gov/apod/image/marsface.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/marsface.gif"
+  },
+  "1995-07-23": {
+    "title": "M20: The Trifid Nebula",
+    "credit": "Hopkins Observatory, Karen Gloria",
+    "explanation": "",
+    "date": "1995-07-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/m20_moo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m20_moo.gif"
+  },
+  "1995-07-24": {
+    "title": "M31: The Andromeda Galaxy",
+    "credit": "The Electronic Universe Project",
+    "explanation": "",
+    "date": "1995-07-24",
+    "hdurl": "https://apod.nasa.gov/apod/image/andromeda_moo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/andromeda_moo.gif"
+  },
+  "1995-07-25": {
+    "title": "M1: The Crab Nebula",
+    "credit": "The Electronic Universe Project",
+    "explanation": "",
+    "date": "1995-07-25",
+    "hdurl": "https://apod.nasa.gov/apod/image/crab_moo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/crab_moo.gif"
+  },
+  "1995-07-26": {
+    "title": "M15: A Great Globular Cluster",
+    "credit": "The Electronic Universe Project",
+    "explanation": "",
+    "date": "1995-07-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/m15_moo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m15_moo.gif"
+  },
+  "1995-07-27": {
+    "title": "M57: The Ring Nebula",
+    "credit": "The Electronic Universe Project, Nelson Caldwell",
+    "explanation": "",
+    "date": "1995-07-27",
+    "hdurl": "https://apod.nasa.gov/apod/image/ring_moo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/ring_moo.gif"
+  },
+  "1995-07-28": {
+    "title": "M82: An Irregular Galaxy",
+    "credit": "The Electronic Universe Project",
+    "explanation": "",
+    "date": "1995-07-28",
+    "hdurl": "https://apod.nasa.gov/apod/image/m82_moo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m82_moo.gif"
+  },
+  "1995-07-29": {
+    "title": "M27: The Dumbbell Nebula",
+    "credit": "The Electronic Universe Project, Karen Gloria",
+    "explanation": "",
+    "date": "1995-07-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/dumbbell_moo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/dumbbell_moo.gif"
+  },
+  "1995-07-30": {
+    "title": "The Rings of Saturn",
+    "credit": "NASA, Jet Propulsion Laboratory, Voyager Project",
+    "explanation": "",
+    "date": "1995-07-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/satring1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/satring1.gif"
+  },
+  "1995-07-31": {
+    "title": "Exploring Saturn's Rings",
+    "credit": "NASA, Jet Propulsion Laboratory, Voyager Project",
+    "explanation": "",
+    "date": "1995-07-31",
+    "hdurl": "https://apod.nasa.gov/apod/image/satring2.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/satring2.gif"
+  },
+  "1995-08-01": {
+    "title": "Crossing The Ring Plane",
+    "credit": "NASA, Hubble Space Telescope",
+    "explanation": "",
+    "date": "1995-08-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/satring3.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/satring3.gif"
+  },
+  "1995-08-02": {
+    "title": "Jupiter's Rings",
+    "credit": "NASA, Voyager Project",
+    "explanation": "",
+    "date": "1995-08-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/jupring1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/jupring1.gif"
+  },
+  "1995-08-03": {
+    "title": "Io: A Volcanic Moon",
+    "credit": "NASA, Voyager Project",
+    "explanation": "",
+    "date": "1995-08-03",
+    "hdurl": "https://apod.nasa.gov/apod/image/io1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/io1.gif"
+  },
+  "1995-08-04": {
+    "title": "Closeup of an Io Volcano",
+    "credit": "NASA, Voyager Project, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-08-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/iovol1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/iovol1.gif"
+  },
+  "1995-08-05": {
+    "title": "Geysers on Triton",
+    "credit": "NASA, Voyager Project, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-08-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/tritongey1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/tritongey1.gif"
+  },
+  "1995-08-06": {
+    "title": "Liftoff of Space Shuttle Columbia",
+    "credit": "NASA, Kennedy Space Center",
+    "explanation": "",
+    "date": "1995-08-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/columbia_sts1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/columbia_sts1.gif"
+  },
+  "1995-08-07": {
+    "title": "Night Launch of Endeavour",
+    "credit": "NASA, Kennedy Space Center",
+    "explanation": "",
+    "date": "1995-08-07",
+    "hdurl": "https://apod.nasa.gov/apod/image/endeavour.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/endeavour.gif"
+  },
+  "1995-08-08": {
+    "title": "Columbia Waits, Discovery Launches",
+    "credit": "NASA, Kennedy Space Center",
+    "explanation": "",
+    "date": "1995-08-08",
+    "hdurl": "https://apod.nasa.gov/apod/image/discovery.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/discovery.gif"
+  },
+  "1995-08-09": {
+    "title": "Challenger Launches Spacelab 2",
+    "credit": "NASA, Kennedy Space Center",
+    "explanation": "",
+    "date": "1995-08-09",
+    "hdurl": "https://apod.nasa.gov/apod/image/challenger.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/challenger.gif"
+  },
+  "1995-08-10": {
+    "title": "The Orbiting Hubble Space Telescope",
+    "credit": "NASA, Space Telescope Scientific Institute",
+    "explanation": "",
+    "date": "1995-08-10",
+    "hdurl": "https://apod.nasa.gov/apod/image/hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/hst.gif"
+  },
+  "1995-08-11": {
+    "title": "The Compton Gamma Ray Observatory",
+    "credit": "NASA, Compton Gamma Ray Observatory Science Support Center",
+    "explanation": "",
+    "date": "1995-08-11",
+    "hdurl": "https://apod.nasa.gov/apod/image/gro.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/gro.gif"
+  },
+  "1995-08-12": {
+    "title": "Atlantis Landing",
+    "credit": "NASA, Kennedy Space Center",
+    "explanation": "",
+    "date": "1995-08-12",
+    "hdurl": "https://apod.nasa.gov/apod/image/atlantis_land.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/atlantis_land.gif"
+  },
+  "1995-08-13": {
+    "title": "The Sun Erupts",
+    "credit": "NASA, Skylab",
+    "explanation": "",
+    "date": "1995-08-13",
+    "hdurl": "https://apod.nasa.gov/apod/image/sun_skylab.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/sun_skylab.gif"
+  },
+  "1995-08-14": {
+    "title": "Mercury: Closest Planet to the Sun",
+    "credit": "NASA, Mariner 10",
+    "explanation": "",
+    "date": "1995-08-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/merc_marin10.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/merc_marin10.gif"
+  },
+  "1995-08-15": {
+    "title": "Venus: Earth's Sister Planet",
+    "credit": "NASA, Galileo, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-08-15",
+    "hdurl": "https://apod.nasa.gov/apod/image/venus_galileo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/venus_galileo.gif"
+  },
+  "1995-08-16": {
+    "title": "Uranus: The Tilted Planet",
+    "credit": "NASA, Voyager 2",
+    "explanation": "",
+    "date": "1995-08-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/uranus_vg2.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/uranus_vg2.gif"
+  },
+  "1995-08-17": {
+    "title": "Neptune: Big Blue Giant",
+    "credit": "NASA, Voyager 2, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-08-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/neptune_vg2.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/neptune_vg2.gif"
+  },
+  "1995-08-18": {
+    "title": "Pluto: The Frozen Planet",
+    "credit": "NASA, Hubble Space Telescope, R. Albrecht (ESA/ESO)",
+    "explanation": "",
+    "date": "1995-08-18",
+    "hdurl": "https://apod.nasa.gov/apod/image/pluto_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/pluto_hst.gif"
+  },
+  "1995-08-19": {
+    "title": "Our Solar System from Voyager",
+    "credit": "NASA, Voyager 1,",
+    "explanation": "",
+    "date": "1995-08-19",
+    "hdurl": "https://apod.nasa.gov/apod/image/solsys_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/solsys_vg1.gif"
+  },
+  "1995-08-20": {
+    "title": "Announcing Comet Hale-Bopp",
+    "credit": "Erich Meyer and Herbert Raab, Austria",
+    "explanation": "",
+    "date": "1995-08-20",
+    "hdurl": "https://apod.nasa.gov/apod/image/comet_hb1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/comet_hb1.gif"
+  },
+  "1995-08-21": {
+    "title": "An Orbiting Iceberg",
+    "credit": "European Space Agency, Giotto Camera Team.",
+    "explanation": "",
+    "date": "1995-08-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/comet_halleynuc1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/comet_halleynuc1.gif"
+  },
+  "1995-08-22": {
+    "title": "Venus UnVeiled",
+    "credit": "NASA, Magellan Project",
+    "explanation": "",
+    "date": "1995-08-22",
+    "hdurl": "https://apod.nasa.gov/apod/image/magellan_venus1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/magellan_venus1.gif"
+  },
+  "1995-08-23": {
+    "title": "A Venusian Tick",
+    "credit": "NASA, Magellan Project",
+    "explanation": "",
+    "date": "1995-08-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/venus_tick.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/venus_tick.gif"
+  },
+  "1995-08-24": {
+    "title": "A Radar Image of Planet Earth",
+    "credit": "NASA, JPL Imaging Radar Program",
+    "explanation": "",
+    "date": "1995-08-24",
+    "hdurl": "https://apod.nasa.gov/apod/image/rainier.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/rainier.gif"
+  },
+  "1995-08-25": {
+    "title": "A World Explorer",
+    "credit": "NASA, JPL Magellan Project",
+    "explanation": "",
+    "date": "1995-08-25",
+    "hdurl": "https://apod.nasa.gov/apod/image/magellan_sc.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/magellan_sc.gif"
+  },
+  "1995-08-26": {
+    "title": "Two Tails of Comet West",
+    "credit": "Observatoire de Haute, Provence, France",
+    "explanation": "",
+    "date": "1995-08-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/comet_west.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/comet_west.gif"
+  },
+  "1995-08-27": {
+    "title": "Gamma Ray Bursts from the Unknown",
+    "credit": "NASA, Compton Gamma Ray Observatory, BATSE",
+    "explanation": "",
+    "date": "1995-08-27",
+    "hdurl": "https://apod.nasa.gov/apod/image/grb3map.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/grb3map.gif"
+  },
+  "1995-08-28": {
+    "title": "Dusty Galaxy Centaurus A",
+    "credit": "NOAO, Cerro Tololo Interamerican Observatory",
+    "explanation": "",
+    "date": "1995-08-28",
+    "hdurl": "https://apod.nasa.gov/apod/image/cenA_ctio.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/cenA_ctio.gif"
+  },
+  "1995-08-29": {
+    "title": "Saturn V: NASA's Largest Rocket",
+    "credit": "NASA, Kennedy Space Center,",
+    "explanation": "",
+    "date": "1995-08-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/saturn5_apollo11.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/saturn5_apollo11.gif"
+  },
+  "1995-08-30": {
+    "title": "Skylab Over Earth",
+    "credit": "NASA, Skylab, HEASARC, Jesse Allen",
+    "explanation": "",
+    "date": "1995-08-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/skylab.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/skylab.gif"
+  },
+  "1995-08-31": {
+    "title": "X-Raying the Moon",
+    "credit": "DARA, ESA, NASA, Max Planck Institut, J.H.M.M. Schmitt",
+    "explanation": "",
+    "date": "1995-08-31",
+    "hdurl": "https://apod.nasa.gov/apod/image/moon_rosat.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/moon_rosat.gif"
+  },
+  "1995-09-01": {
+    "title": "Subrahmanyan Chandrasekhar 1910-1995",
+    "credit": "University of Chicago Press, S. Chandrasekhar Copyright: 1989 by The University of Chicago. All rights reserved. Used by permission.",
+    "explanation": "",
+    "date": "1995-09-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/chandra_uc.gif",
+    "service_version": "v1",
+    "copyright": "1989 by The University of Chicago. All rights reserved. Used by permission.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/chandra_uc.gif"
+  },
+  "1995-09-02": {
+    "title": "Hot Gas and Dark Matter",
+    "credit": "ESA, NASA, R. Mushotzky",
+    "explanation": "",
+    "date": "1995-09-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/darkmatter_rosat.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/darkmatter_rosat.gif"
+  },
+  "1995-09-03": {
+    "title": "Earth's Moon, A Familiar Face",
+    "credit": "Clementine, BMDO, NRL, LLNL",
+    "explanation": "",
+    "date": "1995-09-03",
+    "hdurl": "https://apod.nasa.gov/apod/image/moon_clementine.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/moon_clementine.gif"
+  },
+  "1995-09-04": {
+    "title": "Ganymede: Moonquake World",
+    "credit": "NASA, Voyager, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-09-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/ganymede_vg.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/ganymede_vg.gif"
+  },
+  "1995-09-05": {
+    "title": "Europa: Ancient Water World",
+    "credit": "NASA, Voyager, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-09-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/europa_vg.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/europa_vg.gif"
+  },
+  "1995-09-06": {
+    "title": "Callisto: Dark Smashed Iceball",
+    "credit": "NASA, Voyager",
+    "explanation": "",
+    "date": "1995-09-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/callisto_vg.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/callisto_vg.gif"
+  },
+  "1995-09-07": {
+    "title": "Distant Galaxies",
+    "credit": "NASA, STScI, Rogier Windhorst and Simon Driver (Arizona State University), Bill Keel (University of Alabama)",
+    "explanation": "",
+    "date": "1995-09-07",
+    "hdurl": "https://apod.nasa.gov/apod/image/fbg.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/fbg.gif"
+  },
+  "1995-09-08": {
+    "title": "The Milky Way's Center",
+    "credit": "NASA, COsmic Background Explorer (COBE) Project",
+    "explanation": "",
+    "date": "1995-09-08",
+    "hdurl": "https://apod.nasa.gov/apod/image/cobe_milkyw.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/cobe_milkyw.gif"
+  },
+  "1995-09-09": {
+    "title": "The Last Moon Shot",
+    "credit": "NASA, The Apollo Program",
+    "explanation": "",
+    "date": "1995-09-09",
+    "hdurl": "https://apod.nasa.gov/apod/image/apollo17.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/apollo17.gif"
+  },
+  "1995-09-10": {
+    "title": "White Dwarfs Cool",
+    "credit": "NASA, HST, WFPC 2, H. Richer (UBC)",
+    "explanation": "",
+    "date": "1995-09-10",
+    "hdurl": "https://apod.nasa.gov/apod/image/wd_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/wd_hst.gif"
+  },
+  "1995-09-11": {
+    "title": "Proplyds: Infant Solar Systems",
+    "credit": "NASA, HST, WFPC 2, C.R. O'Dell (Rice U.)",
+    "explanation": "",
+    "date": "1995-09-11",
+    "hdurl": "https://apod.nasa.gov/apod/image/proplyds_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/proplyds_hst.gif"
+  },
+  "1995-09-12": {
+    "title": "Spiral Galaxy M83",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-09-12",
+    "hdurl": "https://apod.nasa.gov/apod/image/m83_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m83_aat.gif"
+  },
+  "1995-09-13": {
+    "title": "Elliptical Galaxy M87",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-09-13",
+    "hdurl": "https://apod.nasa.gov/apod/image/m87_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m87_aat.gif"
+  },
+  "1995-09-14": {
+    "title": "The Far Side",
+    "credit": "The Soviet Lunar Program",
+    "explanation": "",
+    "date": "1995-09-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/luna3pix.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/luna3pix.gif"
+  },
+  "1995-09-15": {
+    "title": "Space Station Mir Over Earth",
+    "credit": "NASA, Russian Space Research Institute",
+    "explanation": "",
+    "date": "1995-09-15",
+    "hdurl": "https://apod.nasa.gov/apod/image/mir_sts63.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/mir_sts63.gif"
+  },
+  "1995-09-16": {
+    "title": "Rockets and Robert Goddard",
+    "credit": "Esther Goddard, NASA/Goddard Space Flight Center Public Affairs Office",
+    "explanation": "",
+    "date": "1995-09-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/goddard1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/goddard1.gif"
+  },
+  "1995-09-17": {
+    "title": "Thousands of Coma Cluster Galaxies",
+    "credit": "UK Schmidt Telescope, Skyview Copyright: Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA",
+    "explanation": "",
+    "date": "1995-09-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/coma_skyview.gif",
+    "service_version": "v1",
+    "copyright": "Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/coma_skyview.gif"
+  },
+  "1995-09-18": {
+    "title": "The Large Cloud of Magellan",
+    "credit": "Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-09-18",
+    "hdurl": "https://apod.nasa.gov/apod/image/lmc_uks.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/lmc_uks.gif"
+  },
+  "1995-09-19": {
+    "title": "The Small Cloud of Magellan",
+    "credit": "Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-09-19",
+    "hdurl": "https://apod.nasa.gov/apod/image/smc_uks.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/smc_uks.gif"
+  },
+  "1995-09-20": {
+    "title": "GL 105C: The Coolest Star?",
+    "credit": "NASA, HST, WFPC 2, D. Golimowski (JHU)",
+    "explanation": "",
+    "date": "1995-09-20",
+    "hdurl": "https://apod.nasa.gov/apod/image/gl105a_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/gl105a_hst.gif"
+  },
+  "1995-09-21": {
+    "title": "One Small Step",
+    "credit": "NASA, Kennedy Space Center, Neil Armstrong",
+    "explanation": "",
+    "date": "1995-09-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/foot_a11.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/foot_a11.gif"
+  },
+  "1995-09-22": {
+    "title": "Standing on the Moon",
+    "credit": "NASA, Kennedy Space Center, Neil Armstrong",
+    "explanation": "",
+    "date": "1995-09-22",
+    "hdurl": "https://apod.nasa.gov/apod/image/buzz_a11.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/buzz_a11.gif"
+  },
+  "1995-09-23": {
+    "title": "Titan: Saturn's Smog Moon",
+    "credit": "NASA, Voyager 1",
+    "explanation": "",
+    "date": "1995-09-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/titan_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/titan_vg1.gif"
+  },
+  "1995-09-24": {
+    "title": "Mimas: Small Moon with A Big Crater",
+    "credit": "NASA, Voyager 1",
+    "explanation": "",
+    "date": "1995-09-24",
+    "hdurl": "https://apod.nasa.gov/apod/image/mimas_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/mimas_vg1.gif"
+  },
+  "1995-09-25": {
+    "title": "Orion's Horsehead Nebula",
+    "credit": "Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-09-25",
+    "hdurl": "https://apod.nasa.gov/apod/image/horsehead_uks.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/horsehead_uks.gif"
+  },
+  "1995-09-26": {
+    "title": "Star Trails in Southern Skies",
+    "credit": "photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-09-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/trails_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/trails_aat.gif"
+  },
+  "1995-09-27": {
+    "title": "A Venus Landing",
+    "credit": "Soviet Planetary Exploration Program",
+    "explanation": "",
+    "date": "1995-09-27",
+    "hdurl": "https://apod.nasa.gov/apod/image/venera_13_left.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/venera_13_left.gif"
+  },
+  "1995-09-28": {
+    "title": "A Venusian Landscape",
+    "credit": "NASA, JPL Magellan Project",
+    "explanation": "",
+    "date": "1995-09-28",
+    "hdurl": "https://apod.nasa.gov/apod/image/maat_mons.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/maat_mons.gif"
+  },
+  "1995-09-29": {
+    "title": "The International Ultraviolet Explorer",
+    "credit": "NASA/ Goddard Space Flight Center (GSFC)",
+    "explanation": "",
+    "date": "1995-09-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/iue_logo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/iue_logo.gif"
+  },
+  "1995-09-30": {
+    "title": "An Energetic Radio Galaxy",
+    "credit": "NASA, NRAO, VLA, HST, WFPC 2, M. Longair (U. Cambridge)",
+    "explanation": "",
+    "date": "1995-09-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/radiogal_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/radiogal_hst.gif"
+  },
+  "1995-10-01": {
+    "title": "Central Galactic Star Bursts",
+    "credit": "NASA, HST, WFPC 2, J. Gallagher, (U. Wisconsin-Madison)",
+    "explanation": "",
+    "date": "1995-10-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/ngc253_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/ngc253_hst.gif"
+  },
+  "1995-10-02": {
+    "title": "Phobos: Doomed Moon of Mars",
+    "credit": "NASA/ JPL Viking Project",
+    "explanation": "",
+    "date": "1995-10-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/phobos.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/phobos.gif"
+  },
+  "1995-10-03": {
+    "title": "Deimos: A Small Martian Moon",
+    "credit": "NASA/ JPL Viking Project",
+    "explanation": "",
+    "date": "1995-10-03",
+    "hdurl": "https://apod.nasa.gov/apod/image/deimos.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/deimos.gif"
+  },
+  "1995-10-04": {
+    "title": "The Sun Spews X-rays",
+    "credit": "Yohkoh Soft X-ray Telescope, ISAS, Japan",
+    "explanation": "",
+    "date": "1995-10-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/sun_yohkoh.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/sun_yohkoh.gif"
+  },
+  "1995-10-05": {
+    "title": "CG4: A Ruptured Cometary Globule",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-10-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/cg4_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/cg4_aat.gif"
+  },
+  "1995-10-06": {
+    "title": "Dark Bok Globules in IC 2944",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-10-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/bokglob_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/bokglob_aat.gif"
+  },
+  "1995-10-07": {
+    "title": "Apollo 12's Lunar Module Descends",
+    "credit": "NASA, Kennedy Space Center, Richard Gordan",
+    "explanation": "",
+    "date": "1995-10-07",
+    "hdurl": "https://apod.nasa.gov/apod/image/descend_ap12.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/descend_ap12.gif"
+  },
+  "1995-10-08": {
+    "title": "Apollo 12 Visits Surveyor 3",
+    "credit": "NASA, Kennedy Space Center",
+    "explanation": "",
+    "date": "1995-10-08",
+    "hdurl": "https://apod.nasa.gov/apod/image/survey_ap12.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/survey_ap12.gif"
+  },
+  "1995-10-09": {
+    "title": "Saturn's Moon Dione",
+    "credit": "NASA, Voyager 1, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-10-09",
+    "hdurl": "https://apod.nasa.gov/apod/image/dione_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/dione_vg1.gif"
+  },
+  "1995-10-10": {
+    "title": "Dione's Lagrange Moon Helene",
+    "credit": "NASA, Voyager 2",
+    "explanation": "",
+    "date": "1995-10-10",
+    "hdurl": "https://apod.nasa.gov/apod/image/helene_vg2.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/helene_vg2.gif"
+  },
+  "1995-10-11": {
+    "title": "LMC Star Clouds",
+    "credit": "NASA, Ultraviolet Imaging Telescope",
+    "explanation": "",
+    "date": "1995-10-11",
+    "hdurl": "https://apod.nasa.gov/apod/image/lmcstars_uit.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/lmcstars_uit.gif"
+  },
+  "1995-10-12": {
+    "title": "HH-47 Star Jet",
+    "credit": "NASA, HST, WFPC 2, J. Morse",
+    "explanation": "",
+    "date": "1995-10-12",
+    "hdurl": "https://apod.nasa.gov/apod/image/starjets_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/starjets_hst.gif"
+  },
+  "1995-10-13": {
+    "title": "Jupiter, Io, and Ganymede's Shadow",
+    "credit": "NASA, Voyager",
+    "explanation": "",
+    "date": "1995-10-13",
+    "hdurl": "https://apod.nasa.gov/apod/image/jupiterio_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/jupiterio_vg1.gif"
+  },
+  "1995-10-14": {
+    "title": "Rhea: Saturn's Second Largest Moon",
+    "credit": "NASA, Voyager, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-10-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/rhea_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/rhea_vg1.gif"
+  },
+  "1995-10-15": {
+    "title": "Iapetus: Saturn's Disappearing Moon",
+    "credit": "NASA, Voyager, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-10-15",
+    "hdurl": "https://apod.nasa.gov/apod/image/iapetus_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/iapetus_vg1.gif"
+  },
+  "1995-10-16": {
+    "title": "Starburst Galaxy M94",
+    "credit": "NASA, Ultraviolet Imaging Telescope",
+    "explanation": "",
+    "date": "1995-10-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/m94uv_uit.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m94uv_uit.gif"
+  },
+  "1995-10-17": {
+    "title": "Galaxy Dwingeloo 1 Emerges",
+    "credit": "Dwingeloo Obscured Galaxy Survey team, S. Hughes, & S. Maddox, Isaac Newton Telescope (RGO)",
+    "explanation": "",
+    "date": "1995-10-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/dwingeloo1_int.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/dwingeloo1_int.gif"
+  },
+  "1995-10-18": {
+    "title": "A Storm on Saturn",
+    "credit": "NASA, HST, WFPC 2, Reta Beebe (NMSU), D. Gilmore, L. Bergeron (STScI)",
+    "explanation": "",
+    "date": "1995-10-18",
+    "hdurl": "https://apod.nasa.gov/apod/image/saturn_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/saturn_hst.gif"
+  },
+  "1995-10-19": {
+    "title": "Globular Cluster M5",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-10-19",
+    "hdurl": "https://apod.nasa.gov/apod/image/m5glob_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m5glob_aat.gif"
+  },
+  "1995-10-20": {
+    "title": "Asteroid Gaspra's Best Face",
+    "credit": "NASA, The Galileo Project, USGS, Cornell U., JPL",
+    "explanation": "",
+    "date": "1995-10-20",
+    "hdurl": "https://apod.nasa.gov/apod/image/gaspra_galileo.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/gaspra_galileo.gif"
+  },
+  "1995-10-21": {
+    "title": "A Glimpse of Titan's Surface",
+    "credit": "NASA, HST, Peter H. Smith UA Lunar and Planetary Laboratory.",
+    "explanation": "",
+    "date": "1995-10-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/titan_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/titan_hst.gif"
+  },
+  "1995-10-22": {
+    "title": "A Quasar - Galaxy Collision?",
+    "credit": "NASA, HST, John Bahcall, Institute for Advanced Study.",
+    "explanation": "",
+    "date": "1995-10-22",
+    "hdurl": "https://apod.nasa.gov/apod/image/pks2349_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/pks2349_hst.gif"
+  },
+  "1995-10-23": {
+    "title": "Gamma-Ray Quasars",
+    "credit": "NASA, CGRO, EGRET team.",
+    "explanation": "",
+    "date": "1995-10-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/gamma_3c279_egret.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/gamma_3c279_egret.gif"
+  },
+  "1995-10-24": {
+    "title": "A Total Solar Eclipse",
+    "credit": "Steve Albers, Dennis di Cicco (S&T Magazine), Gary Emerson (E. E. Barnard Obs.) Copyright: Steve Albers",
+    "explanation": "",
+    "date": "1995-10-24",
+    "hdurl": "https://apod.nasa.gov/apod/image/eclipse_albers.gif",
+    "service_version": "v1",
+    "copyright": "Steve Albers",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/eclipse_albers.gif"
+  },
+  "1995-10-25": {
+    "title": "Painting with Solar Neutrons",
+    "credit": "NASA, CGRO, COMPTEL collaboration.",
+    "explanation": "",
+    "date": "1995-10-25",
+    "hdurl": "https://apod.nasa.gov/apod/image/nsun_comptel.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/nsun_comptel.gif"
+  },
+  "1995-10-26": {
+    "title": "Aurora Astern",
+    "credit": "NASA, STS-68 Crew.",
+    "explanation": "",
+    "date": "1995-10-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/aurora_shuttletail.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/aurora_shuttletail.gif"
+  },
+  "1995-10-27": {
+    "title": "The Tarantula and the Supernova",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-10-27",
+    "hdurl": "https://apod.nasa.gov/apod/image/tarantula_sn.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/tarantula_sn.gif"
+  },
+  "1995-10-28": {
+    "title": "The Delta Clipper",
+    "credit": "NASA, RLV Technology Program.",
+    "explanation": "",
+    "date": "1995-10-28",
+    "hdurl": "https://apod.nasa.gov/apod/image/dc-xa.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/dc-xa.gif"
+  },
+  "1995-10-29": {
+    "title": "Radioactive Clouds in the Milky Way",
+    "credit": "NASA, Compton Gamma Ray Observatory, COMPTEL Collaboration,",
+    "explanation": "",
+    "date": "1995-10-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/al26_comptel.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/al26_comptel.gif"
+  },
+  "1995-10-30": {
+    "title": "Comet Hale-Bopp Update",
+    "credit": "NASA, HST, H.A. Weaver (ARC) and P.D. Feldman (JHU).",
+    "explanation": "",
+    "date": "1995-10-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/halebopp_hst1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/halebopp_hst1.gif"
+  },
+  "1995-10-31": {
+    "title": "A Halloween Invasion from Mars",
+    "credit": "NASA, HST, WFPC 2, Philip James (Univ. of Toledo), Steven Lee (Univ. of Colorado).",
+    "explanation": "",
+    "date": "1995-10-31",
+    "hdurl": "https://apod.nasa.gov/apod/image/mars_hst1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/mars_hst1.gif"
+  },
+  "1995-11-01": {
+    "title": "M16: Dust and an Open Cluster",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-11-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/m16_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m16_aat.gif"
+  },
+  "1995-11-02": {
+    "title": "The Red Rectangle",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-11-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/redrectangle_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/redrectangle_aat.gif"
+  },
+  "1995-11-03": {
+    "title": "Jupiter's Moon Amalthea",
+    "credit": "NASA, Voyager 1, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-11-03",
+    "hdurl": "https://apod.nasa.gov/apod/image/amalthea_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/amalthea_vg1.gif"
+  },
+  "1995-11-04": {
+    "title": "Neptune's Moon Proteus",
+    "credit": "NASA, Voyager 2",
+    "explanation": "",
+    "date": "1995-11-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/proteus_vg2.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/proteus_vg2.gif"
+  },
+  "1995-11-05": {
+    "title": "Vela Satellites: The Watchers",
+    "credit": "Courtesy of HEASARC, at NASA/GSFC.",
+    "explanation": "",
+    "date": "1995-11-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/vela.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/vela.gif"
+  },
+  "1995-11-06": {
+    "title": "M16: Stars Upon Pillars",
+    "credit": "NASA, HST, J. Hester & P. Scowen (ASU)",
+    "explanation": "",
+    "date": "1995-11-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/pillars3_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/pillars3_hst.gif"
+  },
+  "1995-11-07": {
+    "title": "Eagle EGGs in M16",
+    "credit": "NASA, HST, J. Hester & P. Scowen (ASU)",
+    "explanation": "",
+    "date": "1995-11-07",
+    "hdurl": "https://apod.nasa.gov/apod/image/stareggs_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/stareggs_hst.gif"
+  },
+  "1995-11-08": {
+    "title": "Simulating the Universe",
+    "credit": "G. L. Bryan, M. L. Norman, UIUC, NCSA, GC3",
+    "explanation": "",
+    "date": "1995-11-08",
+    "hdurl": "https://apod.nasa.gov/apod/image/cosmic_gc3_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/cosmic_gc3.gif"
+  },
+  "1995-11-09": {
+    "title": "M104: The Sombrero Galaxy",
+    "credit": "T. Boroson (NOAO /USGP), W. Keel (UA), KPNO",
+    "explanation": "",
+    "date": "1995-11-09",
+    "hdurl": "https://apod.nasa.gov/apod/image/sombrero_kp_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/sombrero_kp.gif"
+  },
+  "1995-11-10": {
+    "title": "Lightning and the Space Shuttle",
+    "credit": "NASA",
+    "explanation": "",
+    "date": "1995-11-10",
+    "hdurl": "https://apod.nasa.gov/apod/image/shuttle_lightning_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/shuttle_lightning.gif"
+  },
+  "1995-11-11": {
+    "title": "Red Sprite Lightning",
+    "credit": "D. Sentman, G. Wescott, Geophysical Institute, U. Alaska Fairbanks, NASA",
+    "explanation": "",
+    "date": "1995-11-11",
+    "hdurl": "https://apod.nasa.gov/apod/image/redsprite.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/redsprite.gif"
+  },
+  "1995-11-12": {
+    "title": "Blue Jet Lightning",
+    "credit": "D. Sentman, G. Wescott, Geophysical Institute, U. Alaska Fairbanks, NASA",
+    "explanation": "",
+    "date": "1995-11-12",
+    "hdurl": "https://apod.nasa.gov/apod/image/bluejets2.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/bluejets2.gif"
+  },
+  "1995-11-13": {
+    "title": "Virgo Cluster Galaxies",
+    "credit": "Photograph made from plates taken with the UK Schmidt Telescope. Color photography by David Malin. Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-11-13",
+    "hdurl": "https://apod.nasa.gov/apod/image/virgocluster_uks.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/virgocluster_uks.gif"
+  },
+  "1995-11-14": {
+    "title": "Aurora and Orion",
+    "credit": "NASA, STS-59 Crew.",
+    "explanation": "",
+    "date": "1995-11-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/orion_aurora_sts59.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/orion_aurora_sts59.gif"
+  },
+  "1995-11-15": {
+    "title": "A Quintet of Galaxies",
+    "credit": "W.C. Keel (University of Alabama) and R.E. White, III",
+    "explanation": "",
+    "date": "1995-11-15",
+    "hdurl": "https://apod.nasa.gov/apod/image/quintet_keel_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/quintet_keel.gif"
+  },
+  "1995-11-16": {
+    "title": "Repairing Hubble",
+    "credit": "NASA, STS-61 Crew.",
+    "explanation": "",
+    "date": "1995-11-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/astronaut_hst_sts61.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/astronaut_hst_sts61.gif"
+  },
+  "1995-11-17": {
+    "title": "The Sun Also Rises",
+    "credit": "NASA, STS-47 Crew.",
+    "explanation": "",
+    "date": "1995-11-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/sunrise_sts47.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/sunrise_sts47.gif"
+  },
+  "1995-11-18": {
+    "title": "Water World",
+    "credit": "NASA, STS-45 Crew.",
+    "explanation": "",
+    "date": "1995-11-18",
+    "hdurl": "https://apod.nasa.gov/apod/image/sea_ice_sts45.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/sea_ice_sts45.gif"
+  },
+  "1995-11-19": {
+    "title": "New York at Night",
+    "credit": "NASA, STS-59 Crew.",
+    "explanation": "",
+    "date": "1995-11-19",
+    "hdurl": "https://apod.nasa.gov/apod/image/nyc_night_sts59.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/nyc_night_sts59.gif"
+  },
+  "1995-11-20": {
+    "title": "At the Core of M15",
+    "credit": "NASA, P. Guhathakurta (UCO/Lick Observatory, UC Santa Cruz)",
+    "explanation": "",
+    "date": "1995-11-20",
+    "hdurl": "https://apod.nasa.gov/apod/image/m15core_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m15core_hst.gif"
+  },
+  "1995-11-21": {
+    "title": "M42: Orion Nebula Mosaic",
+    "credit": "NASA, HST, C. R. O'Dell and S. K. Wong (Rice U.)",
+    "explanation": "",
+    "date": "1995-11-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/orion2_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/orion2_hst.gif"
+  },
+  "1995-11-22": {
+    "title": "M1: The Exploding Crab Nebula",
+    "credit": "Hale 5 Meter Telescope Copyright: AATB, Caltech, David Malin, Jay Pasachoff",
+    "explanation": "",
+    "date": "1995-11-22",
+    "hdurl": "https://apod.nasa.gov/apod/image/crab_h5m.gif",
+    "service_version": "v1",
+    "copyright": "AATB, Caltech, David Malin, Jay Pasachoff",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/crab_h5m.gif"
+  },
+  "1995-11-23": {
+    "title": "M1: Polarization of the Crab",
+    "credit": "Hale 5 Meter Telescope Copyright: AATB, Caltech, David Malin, Jay Pasachoff",
+    "explanation": "",
+    "date": "1995-11-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/crabpol_h5m.gif",
+    "service_version": "v1",
+    "copyright": "AATB, Caltech, David Malin, Jay Pasachoff",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/crabpol_h5m.gif"
+  },
+  "1995-11-24": {
+    "title": "Saturn's Moon Tethys",
+    "credit": "NASA, Voyager 2, Copyright Calvin J. Hamilton",
+    "explanation": "",
+    "date": "1995-11-24",
+    "hdurl": "https://apod.nasa.gov/apod/image/tethys_vg2_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/tethys_vg2.gif"
+  },
+  "1995-11-25": {
+    "title": "Saturn's Cleanest Moon: Enceladus",
+    "credit": "NASA, JPL, Voyager 2",
+    "explanation": "",
+    "date": "1995-11-25",
+    "hdurl": "https://apod.nasa.gov/apod/image/enceladus_vg2_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/enceladus_vg2.gif"
+  },
+  "1995-11-26": {
+    "title": "A Star Where Photons Orbit",
+    "explanation": "",
+    "date": "1995-11-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/photonsphere_rjn.gif",
+    "service_version": "v1",
+    "copyright": "Robert Nemiroff, (GMU, NASA/ GSFC)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/photonsphere_rjn.gif"
+  },
+  "1995-11-27": {
+    "title": "Too Close to a Black Hole",
+    "explanation": "",
+    "date": "1995-11-27",
+    "hdurl": "https://apod.nasa.gov/apod/image/bh_rjn.gif",
+    "service_version": "v1",
+    "copyright": "Robert Nemiroff, (GMU, NASA/ GSFC)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/bh_rjn.gif"
+  },
+  "1995-11-28": {
+    "title": "Shadow at the Lunar South Pole",
+    "credit": "Clementine, BMDO, NRL, LLNL",
+    "explanation": "",
+    "date": "1995-11-28",
+    "hdurl": "https://apod.nasa.gov/apod/image/lunarsp_clem.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/lunarsp_clem.gif"
+  },
+  "1995-11-29": {
+    "title": "Releasing Compton",
+    "explanation": "",
+    "date": "1995-11-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/cgroastronaut_shuttle.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/cgroastronaut_shuttle.gif"
+  },
+  "1995-11-30": {
+    "title": "NGC 2440 Nucleus: The Hottest Star?",
+    "credit": "NASA, HST, S. R. Heap (GSFC)",
+    "explanation": "",
+    "date": "1995-11-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/ngc2440_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/ngc2440_hst.gif"
+  },
+  "1995-12-01": {
+    "title": "51 Pegasi: A New Planet Discovered",
+    "credit": "UK Schmidt Telescope, Skyview Copyright: Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA",
+    "explanation": "",
+    "date": "1995-12-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/peg51_skyview.gif",
+    "service_version": "v1",
+    "copyright": "Royal Observatory Edinburgh, Anglo-Australian Observatory, and AURA",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/peg51_skyview.gif"
+  },
+  "1995-12-02": {
+    "title": "Lightning Below",
+    "credit": "NASA, STS-55 Crew.",
+    "explanation": "",
+    "date": "1995-12-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/lightning_sts55_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/lightning_sts55.gif"
+  },
+  "1995-12-03": {
+    "title": "An X-ray Hot Supernova in M81",
+    "credit": "ISAS, NASA, Y. Kohmura",
+    "explanation": "",
+    "date": "1995-12-03",
+    "hdurl": "https://apod.nasa.gov/apod/image/m81sn_asca_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m81sn_asca.gif"
+  },
+  "1995-12-04": {
+    "title": "GL 229B: An Elusive Brown Dwarf?",
+    "credit": "60-inch Telescope, Palomar Observatory, T. Nakajima (Caltech), S. Durrance (JHU)",
+    "explanation": "",
+    "date": "1995-12-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/gl229b_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/gl229b_hst.gif"
+  },
+  "1995-12-05": {
+    "title": "The Swirling Center of NGC 4261",
+    "credit": "NASA, HST, H. Ford and L. Ferrarese, (Johns Hopkins), W. Jaffe, (Leiden)",
+    "explanation": "",
+    "date": "1995-12-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/ngc4261_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/ngc4261_hst.gif"
+  },
+  "1995-12-06": {
+    "title": "24 Hours from Jupiter",
+    "credit": "NASA, R. Beebe, NMSU",
+    "explanation": "",
+    "date": "1995-12-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/JupGalPr_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/JupGalPr.gif"
+  },
+  "1995-12-07": {
+    "title": "Galileo's Jupiter Probe",
+    "credit": "NASA, Galileo Project",
+    "explanation": "",
+    "date": "1995-12-07",
+    "hdurl": "https://apod.nasa.gov/apod/image/galprobe_sts34.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/galprobe_sts34.gif"
+  },
+  "1995-12-08": {
+    "title": "Descent To Jupiter",
+    "credit": "NASA, Galileo Project",
+    "explanation": "",
+    "date": "1995-12-08",
+    "hdurl": "https://apod.nasa.gov/apod/image/galprobe_art.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/galprobe_art.gif"
+  },
+  "1995-12-09": {
+    "title": "Apollo 14 on the Moon",
+    "credit": "NASA, Johnson Space Center",
+    "explanation": "",
+    "date": "1995-12-09",
+    "hdurl": "https://apod.nasa.gov/apod/image/lander_a14_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/lander_a14.gif"
+  },
+  "1995-12-10": {
+    "title": "Apollo 14 Deploys ALSEP",
+    "credit": "NASA, Johnson Space Center",
+    "explanation": "",
+    "date": "1995-12-10",
+    "hdurl": "https://apod.nasa.gov/apod/image/alsep_a14_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/alsep_a14.gif"
+  },
+  "1995-12-11": {
+    "title": "NGC 5189: A Strange Planetary Nebula",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-12-11",
+    "hdurl": "https://apod.nasa.gov/apod/image/ngc5189_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/ngc5189_aat.gif"
+  },
+  "1995-12-12": {
+    "title": "Shapley 1: An Annular Planetary Nebula",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-12-12",
+    "hdurl": "https://apod.nasa.gov/apod/image/shapley1_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/shapley1_aat.gif"
+  },
+  "1995-12-13": {
+    "title": "A Delta Rocket Launches",
+    "credit": "NASA, KSC",
+    "explanation": "",
+    "date": "1995-12-13",
+    "hdurl": "https://apod.nasa.gov/apod/image/delta_nasa_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/delta_nasa.gif"
+  },
+  "1995-12-14": {
+    "title": "An Atlas Centaur Rocket Launches",
+    "credit": "NASA, LeRC",
+    "explanation": "",
+    "date": "1995-12-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/atlas_centaur_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/atlas_centaur.gif"
+  },
+  "1995-12-15": {
+    "title": "M64: The Sleeping Beauty Galaxy",
+    "credit": "Bill Keel, U. Alabama",
+    "explanation": "",
+    "date": "1995-12-15",
+    "hdurl": "https://apod.nasa.gov/apod/image/m64_keel.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m64_keel.gif"
+  },
+  "1995-12-16": {
+    "title": "Hawai`i",
+    "credit": "NASA, STS-26 Crew",
+    "explanation": "",
+    "date": "1995-12-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/hawaii_sts51_a.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/hawaii_sts51_a.gif"
+  },
+  "1995-12-17": {
+    "title": "The Space Shuttle Docks with Mir",
+    "credit": "NASA, Russian Space Research Institute",
+    "explanation": "",
+    "date": "1995-12-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/atlantis_mir_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/atlantis_mir.gif"
+  },
+  "1995-12-18": {
+    "title": "M51: The Whirlpool Galaxy",
+    "credit": "1.1 Meter Hall Telescope, Lowell Observatory, Bill Keel (U. Alabama)",
+    "explanation": "",
+    "date": "1995-12-18",
+    "hdurl": "https://apod.nasa.gov/apod/image/m51_hall.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m51_hall.gif"
+  },
+  "1995-12-19": {
+    "title": "Albert Einstein: 1879 - 1955",
+    "explanation": "",
+    "date": "1995-12-19",
+    "hdurl": "https://apod.nasa.gov/apod/image/einstein_clerk_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/einstein_clerk.gif"
+  },
+  "1995-12-20": {
+    "title": "A Galaxy Gravitational Lens",
+    "credit": "NASA, HST, K. Ratnatunga. Myungshin Im (JHU)",
+    "explanation": "",
+    "date": "1995-12-20",
+    "hdurl": "https://apod.nasa.gov/apod/image/glens2_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/glens2_hst.gif"
+  },
+  "1995-12-21": {
+    "title": "Hot Stars in the Trifid Nebula",
+    "credit": "Anglo-Australian Telescope photograph by David Malin Copyright: Anglo-Australian Telescope Board",
+    "explanation": "",
+    "date": "1995-12-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/trifid_aat.gif",
+    "service_version": "v1",
+    "copyright": "Anglo-Australian Telescope Board",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/trifid_aat.gif"
+  },
+  "1995-12-22": {
+    "title": "Summer at the South Pole",
+    "credit": "NASA, Galileo Project",
+    "explanation": "",
+    "date": "1995-12-22",
+    "hdurl": "https://apod.nasa.gov/apod/image/earthsp_gal.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/earthsp_gal_sm.gif"
+  },
+  "1995-12-23": {
+    "title": "Prometheus, Pandora and Saturn's F Ring",
+    "credit": "NASA, JPL, Voyager",
+    "explanation": "",
+    "date": "1995-12-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/f_ring_vg1.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/f_ring_vg1.gif"
+  },
+  "1995-12-24": {
+    "title": "Uranus' Moon Miranda",
+    "credit": "NASA, JPL, Voyager 2",
+    "explanation": "",
+    "date": "1995-12-24",
+    "hdurl": "https://apod.nasa.gov/apod/image/miranda_vg2_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/miranda_vg2.gif"
+  },
+  "1995-12-25": {
+    "title": "Earth Rise",
+    "credit": "NASA, Apollo 8 Crew",
+    "explanation": "",
+    "date": "1995-12-25",
+    "hdurl": "https://apod.nasa.gov/apod/image/lg_earthrise_apollo8.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/earthrise_apollo8.gif"
+  },
+  "1995-12-26": {
+    "title": "Accretion Disk Binary System",
+    "credit": "NASA, HST Artist's Visualization",
+    "explanation": "",
+    "date": "1995-12-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/disk_hst_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/disk_hst.gif"
+  },
+  "1995-12-27": {
+    "title": "Nova Cygni 1992",
+    "credit": "NASA, ESA, HST, F. Paresce, R. Jedrzejewski (STScI)",
+    "explanation": "",
+    "date": "1995-12-27",
+    "hdurl": "https://apod.nasa.gov/apod/image/novaCygni_hst.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/novaCygni_hst.gif"
+  },
+  "1995-12-28": {
+    "title": "NGC 6240: When Galaxies Collide",
+    "credit": "2.2m Telescope, La Silla, Chile, ESO, MPI, W. Keel (UA)",
+    "explanation": "",
+    "date": "1995-12-28",
+    "hdurl": "https://apod.nasa.gov/apod/image/ngc6240_keel_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/ngc6240_keel.gif"
+  },
+  "1995-12-29": {
+    "title": "NGC 4361: Galaxy Shaped Planetary Nebula",
+    "credit": "Bill Keel, U. Alabama",
+    "explanation": "",
+    "date": "1995-12-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/ngc4361_keel.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/ngc4361_keel.gif"
+  },
+  "1995-12-30": {
+    "title": "LMC X-1: A Black Hole Candidate",
+    "credit": "ROSAT, MPE, NASA",
+    "explanation": "",
+    "date": "1995-12-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/lmcX1_rosat_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/lmcX1_rosat.gif"
+  },
+  "1995-12-31": {
+    "title": "The X-ray Sources of M31",
+    "credit": "ROSAT, MPE, NASA",
+    "explanation": "",
+    "date": "1995-12-31",
+    "hdurl": "https://apod.nasa.gov/apod/image/m31_rosat_big.gif",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/m31_rosat.gif"
+  }
+}
