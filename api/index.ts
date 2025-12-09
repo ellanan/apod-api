@@ -44,8 +44,13 @@ export function transformExplanation(html: string | undefined, format: Explanati
   }
   if (format === 'markdown') {
     // Convert <a href="url">text</a> to [text](url)
+    // Supports both single and double quotes, and nested tags inside anchors
     return html
-      .replace(/<a\s+href="([^"]+)"[^>]*>([^<]+)<\/a>/gi, '[$2]($1)')
+      .replace(/<a\s+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi, (_, url, text) => {
+        // Strip any nested HTML tags from the link text
+        const cleanText = text.replace(/<[^>]+>/g, '');
+        return `[${cleanText}](${url})`;
+      })
       .replace(/<[^>]+>/g, '')
       .replace(/\s+/g, ' ')
       .trim();

@@ -85,6 +85,16 @@ describe('transformExplanation', () => {
       expect(transformExplanation(htmlWithAttrs, 'markdown')).toBe('[link](https://example.com)');
     });
 
+    it('handles anchor tags with single quotes', () => {
+      const htmlWithSingleQuotes = "<a href='https://example.com'>link</a>";
+      expect(transformExplanation(htmlWithSingleQuotes, 'markdown')).toBe('[link](https://example.com)');
+    });
+
+    it('handles nested tags inside anchors', () => {
+      const htmlWithNestedTags = '<a href="https://example.com"><b>bold link</b></a>';
+      expect(transformExplanation(htmlWithNestedTags, 'markdown')).toBe('[bold link](https://example.com)');
+    });
+
     it('handles plain text without HTML', () => {
       const plainText = 'Just some plain text without any HTML.';
       expect(transformExplanation(plainText, 'text')).toBe(plainText);
