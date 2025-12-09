@@ -88,14 +88,23 @@ async.eachLimit(
       })
     );
 
-    console.log(`Save all the files to a single file in the 'data.json'`);
+    console.log(`Merging backfilled data into 'data.json'`);
     const outputDirectory = path.join(__dirname, '../api/_data');
     fs.mkdirSync(outputDirectory, { recursive: true });
-    fs.writeFileSync(
-      path.join(outputDirectory, 'data.json'),
-      JSON.stringify(combinedDailyDataDictionary, null, '  ')
+
+    const dataJsonPath = path.join(outputDirectory, 'data.json');
+    const existingData = fs.existsSync(dataJsonPath)
+      ? JSON.parse(fs.readFileSync(dataJsonPath, 'utf-8'))
+      : {};
+
+    const mergedData = { ...existingData, ...combinedDailyDataDictionary };
+    // Sort by date key to maintain chronological order
+    const sortedData = Object.fromEntries(
+      Object.entries(mergedData).sort(([a], [b]) => a.localeCompare(b))
     );
 
-    console.log('Backfill complete!');
+    fs.writeFileSync(dataJsonPath, JSON.stringify(sortedData, null, '  '));
+
+    console.log(`Backfill complete! Merged ${Object.keys(combinedDailyDataDictionary).length} entries.`);
   }
 );
