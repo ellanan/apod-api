@@ -17,9 +17,9 @@ type ApodEntry = {
   url?: string;
 };
 
-const dataDictonary: Record<string, ApodEntry> = require('./_data/data.json');
-const isoDates = Object.keys(dataDictonary);
-const dailyData: ApodEntry[] = Object.values(dataDictonary);
+const dataDictionary: Record<string, ApodEntry> = require('./_data/data.json');
+const isoDates = Object.keys(dataDictionary);
+const dailyData: ApodEntry[] = Object.values(dataDictionary);
 
 let lastDayOfData = isoDates[isoDates.length - 1];
 
@@ -43,7 +43,7 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
   if (args.date) {
     return {
       cacheDurationMinutes: 60,
-      data: dataDictonary[args.date],
+      data: dataDictionary[args.date],
     };
   }
   // if a start_date and end_date are passed, return the data for that date range
@@ -158,7 +158,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
 
       console.log(`adding ${missingDataPairs.length} missing data pairs`);
       if (missingDataPairs.length > 0) {
-        Object.assign(dataDictonary, _.fromPairs(missingDataPairs));
+        Object.assign(dataDictionary, _.fromPairs(missingDataPairs));
         isoDates.push(...missingDataPairs.map(([date, data]) => data.date));
         dailyData.push(...missingDataPairs.map(([date, data]) => data));
         lastDayOfData = missingDataPairs[missingDataPairs.length - 1][0];
