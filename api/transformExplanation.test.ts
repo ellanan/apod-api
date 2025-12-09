@@ -1,4 +1,4 @@
-import { transformExplanation } from './index';
+import { transformExplanation } from './transformExplanation';
 
 const sampleHtml = `
 <b>  </b>

@@ -3,6 +3,7 @@ import _ from 'lodash';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from './_data/getDataByDate';
+import { transformData, ExplanationFormat } from './transformExplanation';
 
 type ApodEntry = {
   title: string;
@@ -31,52 +32,8 @@ type OrignalAPIQueryParams = {
 
 type AdditionalQueryParams = {
   limit?: string;
-  format?: 'text' | 'html' | 'markdown';
+  format?: ExplanationFormat;
 };
-
-export type ExplanationFormat = 'text' | 'html' | 'markdown';
-
-export function transformExplanation(html: string | undefined, format: ExplanationFormat): string {
-  if (!html) return '';
-
-  if (format === 'html') {
-    return html;
-  }
-  if (format === 'markdown') {
-    // Convert <a href="url">text</a> to [text](url)
-    // Supports both single and double quotes, and nested tags inside anchors
-    return html
-      .replace(/<a\s+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi, (_, url, text) => {
-        // Strip any nested HTML tags from the link text
-        const cleanText = text.replace(/<[^>]+>/g, '');
-        return `[${cleanText}](${url})`;
-      })
-      .replace(/<[^>]+>/g, '')
-      .replace(/\s+/g, ' ')
-      .trim();
-  }
-  // Default: text (strip all HTML)
-  return html
-    .replace(/<[^>]+>/g, '')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
-
-function transformData<T extends { explanation?: string }>(
-  data: T | T[],
-  format: ExplanationFormat
-): T | T[] {
-  if (Array.isArray(data)) {
-    return data.map((entry) => ({
-      ...entry,
-      explanation: transformExplanation(entry.explanation, format),
-    }));
-  }
-  return {
-    ...data,
-    explanation: transformExplanation(data.explanation, format),
-  };
-}
 
 function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
   cacheDurationMinutes: number;
