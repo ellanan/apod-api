@@ -1,7 +1,7 @@
 {
   "title": "M51: The Whirlpool Galaxy",
   "credit": "W. Keel (U. Alabama), 1.1-meter Hall Telescope, Lowell Observatory",
-  "explanation": "The Whirlpool Galaxy is a classic spiral galaxy. At only 15 million light years distant, M51, also cataloged as NGC 5194, is one of the brighter and more picturesque galaxies on the sky. The smaller galaxy appearing here above and to the right is also well behind M51, as can be inferred by the dust in M51's spiral arm blocking light from this smaller galaxy. Astronomers speculate that M51's spiral structure is primarily due to it's gravitational interaction with this smaller galaxy.",
+  "explanation": "<b>Explanation</b>: The Whirlpool Galaxy is a classic <a href=\"lib/spirals.html\">spiral galaxy</a>.\n At only 15 million light years distant, <a href=\"http://antwrp.gsfc.nasa.gov/apod/lib/glossary.html#messier\">M</a>51,\nalso cataloged as <a href=\"http://crux.astr.ua.edu/gifimages/m51.html\">NGC 5194</a>,\nis one of the brighter and more picturesque <a href=\"ftp://crux.astr.ua.edu/web/goodies/data_resources/galaxies.text\">galaxies</a>\non the sky. The smaller galaxy appearing here above and to the\nright is also well behind <a href=\"http://adsbit.harvard.edu/cgi-bin/nph-article_query?1994PASJ%2E%2E%2E46%2E%2E527N\">M51</a>,\nas can be inferred by the dust in <a href=\"http://www.seds.org/messier/m/m051.html\">M51</a>'s\nspiral arm blocking light from this smaller galaxy. Astronomers\nspeculate that M51's <a href=\"http://scruffy.phast.umass.edu/a114/lectures/lec26/node5.html\">spiral structure</a>\nis primarily due to it's gravitational interaction with this smaller\ngalaxy. <br>",
   "date": "1997-01-25",
   "hdurl": "https://apod.nasa.gov/apod/image/m51_hall.gif",
   "service_version": "v1",
