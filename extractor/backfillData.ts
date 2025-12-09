@@ -44,9 +44,12 @@ console.log(`Backfilling data from ${startDate.toISODate()} to ${endDate.toISODa
 
 async function saveDataForDate(date: DateTime) {
   const data = await getDataByDate(date);
+  const year = date.toISODate()!.substring(0, 4);
+  const yearDir = path.join(extractedDataDirectory, year);
+  fs.mkdirSync(yearDir, { recursive: true });
   console.log(`writing data for ${date.toISODate()}`);
   fs.writeFileSync(
-    path.join(extractedDataDirectory, `${date.toISODate()}.json`),
+    path.join(yearDir, `${date.toISODate()}.json`),
     JSON.stringify(data, null, 2),
     'utf8'
   );
@@ -80,20 +83,24 @@ async.eachLimit(
     if (err) throw err;
     console.log('All fetched!');
 
-    // Group backfilled data by year
+    // Group backfilled data by year (from year subdirectories)
     const backfilledByYear: Record<string, Record<string, object>> = {};
-    const downloadedDailyFiles = fs.readdirSync(extractedDataDirectory);
+    const yearDirs = fs.readdirSync(extractedDataDirectory)
+      .filter(f => /^\d{4}$/.test(f))
+      .sort();
 
-    for (const filename of downloadedDailyFiles) {
-      const date = filename.split('.')[0];
-      const year = date.substring(0, 4);
-      const data = JSON.parse(
-        fs.readFileSync(path.join(extractedDataDirectory, filename), 'utf-8')
-      );
-      if (!backfilledByYear[year]) {
-        backfilledByYear[year] = {};
+    for (const year of yearDirs) {
+      const yearPath = path.join(extractedDataDirectory, year);
+      const files = fs.readdirSync(yearPath).filter(f => f.endsWith('.json'));
+      if (files.length === 0) continue;
+      backfilledByYear[year] = {};
+      for (const filename of files) {
+        const date = filename.replace('.json', '');
+        const data = JSON.parse(
+          fs.readFileSync(path.join(yearPath, filename), 'utf-8')
+        );
+        backfilledByYear[year][date] = data;
       }
-      backfilledByYear[year][date] = data;
     }
 
     // Merge into yearly files
