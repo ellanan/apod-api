@@ -95,6 +95,16 @@ describe('transformExplanation', () => {
       expect(transformExplanation(htmlWithNestedTags, 'markdown')).toBe('[bold link](https://example.com)');
     });
 
+    it('URL-encodes parentheses in URLs for markdown', () => {
+      const htmlWithParens = '<a href="https://en.wikipedia.org/wiki/Dactyl_(moon)">Dactyl</a>';
+      expect(transformExplanation(htmlWithParens, 'markdown')).toBe('[Dactyl](https://en.wikipedia.org/wiki/Dactyl_%28moon%29)');
+    });
+
+    it('URL-encodes spaces and brackets in URLs for markdown', () => {
+      const htmlWithSpecialChars = '<a href="https://example.com/path with spaces/[test]">link</a>';
+      expect(transformExplanation(htmlWithSpecialChars, 'markdown')).toBe('[link](https://example.com/path%20with%20spaces/%5Btest%5D)');
+    });
+
     it('handles plain text without HTML', () => {
       const plainText = 'Just some plain text without any HTML.';
       expect(transformExplanation(plainText, 'text')).toBe(plainText);

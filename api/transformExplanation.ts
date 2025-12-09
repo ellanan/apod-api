@@ -14,7 +14,14 @@ export function transformExplanation(html: string | undefined, format: Explanati
       .replace(/<a\s+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi, (_, url, text) => {
         // Strip any nested HTML tags from the link text
         const cleanText = text.replace(/<[^>]+>/g, '');
-        return `[${cleanText}](${url})`;
+        // URL-encode characters that break markdown link syntax
+        const escapedUrl = url
+          .replace(/ /g, '%20')
+          .replace(/\(/g, '%28')
+          .replace(/\)/g, '%29')
+          .replace(/\[/g, '%5B')
+          .replace(/\]/g, '%5D');
+        return `[${cleanText}](${escapedUrl})`;
       })
       .replace(/<[^>]+>/g, '')
       .replace(/\s+/g, ' ')
