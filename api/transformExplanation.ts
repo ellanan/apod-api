@@ -1,4 +1,5 @@
-export type ExplanationFormat = 'text' | 'html' | 'markdown';
+export const VALID_FORMATS = ['text', 'html', 'markdown'] as const;
+export type ExplanationFormat = (typeof VALID_FORMATS)[number];
 
 export function transformExplanation(html: string | undefined, format: ExplanationFormat): string {
   if (!html) return '';

@@ -3,7 +3,7 @@ import _ from 'lodash';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from './_data/getDataByDate';
-import { transformData, ExplanationFormat } from './transformExplanation';
+import { transformData, ExplanationFormat, VALID_FORMATS } from './transformExplanation';
 
 type ApodEntry = {
   title: string;
@@ -166,6 +166,13 @@ export default async (request: VercelRequest, response: VercelResponse) => {
     }
 
     const { cacheDurationMinutes, data } = getData(queryParams);
+
+    // Validate format parameter
+    if (queryParams.format && !VALID_FORMATS.includes(queryParams.format)) {
+      return response.status(400).send({
+        error: `Invalid format '${queryParams.format}'. Valid formats: ${VALID_FORMATS.join(', ')}`,
+      });
+    }
     const format: ExplanationFormat = queryParams.format || 'text';
     const transformedData = transformData(data, format);
 
