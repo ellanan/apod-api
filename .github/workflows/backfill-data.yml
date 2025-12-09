@@ -1,0 +1,36 @@
+name: Backfill Missing Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: 'Start date (YYYY-MM-DD)'
+        required: true
+        type: string
+      end_date:
+        description: 'End date (YYYY-MM-DD)'
+        required: true
+        type: string
+
+jobs:
+  backfill-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '22'
+      - run: npm install
+      - name: Backfill data for date range
+        run: npm run backfill-data -- --start=${{ inputs.start_date }} --end=${{ inputs.end_date }}
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.name 'automated_ellanan'
+            git config --global user.email '38847123+ellanan@users.noreply.github.com'
+            git add .
+            git commit -m "Backfill data from ${{ inputs.start_date }} to ${{ inputs.end_date }}"
+            git push
+          else
+            echo "no changes";
+          fi
