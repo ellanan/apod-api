@@ -3,10 +3,28 @@ import _ from 'lodash';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from './_data/getDataByDate';
+import { transformData, ExplanationFormat, VALID_FORMATS } from './transformExplanation';
+import {
+  dataDictionary,
+  isoDates as importedIsoDates,
+  dailyData as importedDailyData,
+} from './_data/years';
 
-const dataDictonary = require('./_data/data.json');
-const isoDates = Object.keys(dataDictonary);
-const dailyData = Object.values(dataDictonary);
+type ApodEntry = {
+  title: string;
+  credit?: string;
+  explanation?: string;
+  date: string;
+  hdurl?: string;
+  service_version: string;
+  copyright?: string;
+  media_type: string;
+  url?: string;
+};
+
+// Mutable copies for runtime updates
+const isoDates = [...importedIsoDates];
+const dailyData = [...importedDailyData];
 
 let lastDayOfData = isoDates[isoDates.length - 1];
 
@@ -17,64 +35,63 @@ type OrignalAPIQueryParams = {
   count?: string;
 };
 
-type AdditionalQueryParams = {
+export type AdditionalQueryParams = {
   limit?: string;
+  format?: ExplanationFormat;
 };
+
+function validateDateParam(value: string, paramName: string): string {
+  const dateInputRegex = /^(\d{4})-(\d{1,2})-(\d{1,2})$/;
+  const match = value.match(dateInputRegex);
+  if (!match) {
+    throw { status: 400, message: `Invalid ${paramName}: "${value}". Expected format: YYYY-MM-DD` };
+  }
+  const [, year, month, day] = match;
+  return `${year}-${_.padStart(month, 2, '0')}-${_.padStart(day, 2, '0')}`;
+}
+
+function validateDateExists(isoDate: string, paramName: string): void {
+  if (!dataDictionary[isoDate]) {
+    throw { status: 404, message: `No data available for ${paramName}: "${isoDate}"` };
+  }
+}
 
 function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
   cacheDurationMinutes: number;
-  data: typeof dailyData | typeof dailyData[number];
+  data: ApodEntry | ApodEntry[];
 } {
   // if a date is passed, return the data for that date
   if (args.date) {
+    const isoDate = validateDateParam(args.date, 'date');
+    validateDateExists(isoDate, 'date');
     return {
       cacheDurationMinutes: 60,
-      data: dataDictonary[args.date],
+      data: dataDictionary[isoDate],
     };
   }
   // if a start_date and end_date are passed, return the data for that date range
   if (args.start_date && args.end_date) {
-    const dateInputRegex = /(\d{4})-(\d{1,})-(\d{1,})/;
-    const [, startYear, startMonth, startDate] =
-      args.start_date.match(dateInputRegex) ?? [];
-    const [, endYear, endMonth, endDate] =
-      args.end_date.match(dateInputRegex) ?? [];
+    const startIsoDate = validateDateParam(args.start_date, 'start_date');
+    const endIsoDate = validateDateParam(args.end_date, 'end_date');
+    validateDateExists(startIsoDate, 'start_date');
+    validateDateExists(endIsoDate, 'end_date');
 
     return {
       cacheDurationMinutes: 60 * 24 * 30,
       data: dailyData.slice(
-        isoDates.indexOf(
-          `${startYear}-${_.padStart(startMonth, 2, '0')}-${_.padStart(
-            startDate,
-            2,
-            '0'
-          )}`
-        ),
-        isoDates.indexOf(
-          `${endYear}-${_.padStart(endMonth, 2, '0')}-${_.padStart(
-            endDate,
-            2,
-            '0'
-          )}`
-        ) + 1
+        isoDates.indexOf(startIsoDate),
+        isoDates.indexOf(endIsoDate) + 1
       ),
     };
   }
   // if start_date is passed, return the data for that date and all future days
   // if both start_date and limit are passed, return the data for that date and limit days
   if (args.start_date) {
-    const dateInputRegex = /(\d{4})-(\d{1,})-(\d{1,})/;
-    const [, startYear, startMonth, startDate] =
-      args.start_date.match(dateInputRegex) ?? [];
+    const startIsoDate = validateDateParam(args.start_date, 'start_date');
+    validateDateExists(startIsoDate, 'start_date');
     const limit = Number(args.limit) || Infinity;
 
-    const startingIndex = isoDates.indexOf(
-      `${startYear}-${_.padStart(startMonth, 2, '0')}-${_.padStart(
-        startDate,
-        2,
-        '0'
-      )}`
-    );
+    const startingIndex = isoDates.indexOf(startIsoDate);
 
     return {
       cacheDurationMinutes: 30,
@@ -144,7 +161,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
 
       console.log(`adding ${missingDataPairs.length} missing data pairs`);
       if (missingDataPairs.length > 0) {
-        Object.assign(dataDictonary, _.fromPairs(missingDataPairs));
+        Object.assign(dataDictionary, _.fromPairs(missingDataPairs));
         isoDates.push(...missingDataPairs.map(([date, data]) => data.date));
         dailyData.push(...missingDataPairs.map(([date, data]) => data));
         lastDayOfData = missingDataPairs[missingDataPairs.length - 1][0];
@@ -152,6 +169,15 @@ export default async (request: VercelRequest, response: VercelResponse) => {
     }
 
     const { cacheDurationMinutes, data } = getData(queryParams);
+
+    // Validate format parameter
+    if (queryParams.format && !VALID_FORMATS.includes(queryParams.format)) {
+      return response.status(400).send({
+        error: `Invalid format '${queryParams.format}'. Valid formats: ${VALID_FORMATS.join(', ')}`,
+      });
+    }
+    const format: ExplanationFormat = queryParams.format || 'text';
+    const transformedData = transformData(data, format);
 
     response
       .status(200)
@@ -161,8 +187,12 @@ export default async (request: VercelRequest, response: VercelResponse) => {
           cacheDurationMinutes * 60
         }, stale-while-revalidate=${cacheDurationMinutes * 60}` // cache could reuse a stale response while revalidating
       )
-      .send(data);
-  } catch (error) {
+      .send(transformedData);
+  } catch (error: any) {
+    if (error.status && error.message) {
+      response.status(error.status).json({ error: error.message });
+      return;
+    }
     console.error(error);
     response.status(500).send(error);
   }

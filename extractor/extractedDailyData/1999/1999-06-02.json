@@ -1,0 +1,10 @@
+{
+  "title": "Thermal Mars",
+  "credit": "TES Team, MGS, JPL, NASA",
+  "explanation": "<b>  </b> \n\nIt's 2 AM on Mars and surface temperatures range from -65C to -120C,\nas measured by the \n<a href=\"http://emma.la.asu.edu/asu_tes/\">Thermal Emission Spectrometer</a> (TES) onboard the Mars Global Surveyor\nspacecraft.\n\n<a href=\"http://emma.la.asu.edu/daily.html\">TES data</a> used to make\n<a href=\"http://emma.la.asu.edu/webdata/may_temps.html\">this detailed temperature map</a>\nwere acquired while passing over the\n<a href=\"ap970830.html\">night</a> side of\n<a href=\"http://emma.la.asu.edu/EDUCATION/rpconline/index.html\">the Red Planet</a>\nduring 500 <a href=\"ap990319.html\">mapping orbits</a> of Mars.\n\nWith the warmest\n<a href=\"http://www.unidata.ucar.edu/staff/blynds/tmp.html\">temperatures</a> shown in white, progressing through\nred, yellow, and green colors to the coldest temperatures in blue,\nthe map reveals the northern hemisphere during summer while the\nsouth experiences the cold\n<a href=\"http://cmex-www.arc.nasa.gov/MarsEssy/seasons/seasons.htm\">martian winter</a>.\n\nNear Mars' equator, the variations in nighttime temperatures are related to\nsurface materials.\n\nCold blue areas are covered with\nfine dust particles and the warmer regions are covered with\ncoarser sand and rocks.",
+  "date": "1999-06-02",
+  "hdurl": "https://apod.nasa.gov/apod/image/9905/marsnight_temp_big.gif",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9905/marsnight_temp.jpg"
+}

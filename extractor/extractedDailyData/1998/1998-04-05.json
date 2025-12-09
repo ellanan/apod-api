@@ -1,0 +1,10 @@
+{
+  "title": "X-Ray Pleiades",
+  "credit": "T. Preibisch (Univ. Wuerzburg), ROSAT Project, MPE, NASA",
+  "explanation": "<b>  </b>\n\n<a href=\"http://www.ras.ucalgary.ca/~gibson/pleiades/\">The Pleiades star cluster</a> is one of the\n<a href=\"ap971018.html\">jewels of the northern sky</a>.\n\nTo the unaided eye it appears as\na lovely and tantalizing grouping of stars in\n<a href=\"http://www.astro.wisc.edu/~dolan/constellations/\nconstellations/Taurus.html\">the constellation of Taurus</a>,\nwhile telescopic views reveal cluster stars\nsurrounded by delicate blue wisps of <a href=\"lib/glossary.html#reflection\">dust-reflected starlight</a>.\n\n<a href=\"http://imagine.gsfc.nasa.gov/docs/introduction/\nxray_information.html\">To the X-ray telescopes</a>\non board the orbiting\n<a href=\"http://heasarc.gsfc.nasa.gov/docs/heasarc/missions/rosat.html\">ROSAT observatory</a>,\nthe cluster also presents an impressive,\n<a href=\"http://lucky.astro.uni-wuerzburg.de/~preib/pleiades_ima.html\">but slightly altered</a>, appearance.\n\n<a href=\"http://lucky.astro.uni-wuerzburg.de/~preib/images.html\">This false color image was produced</a> from ROSAT observations\nby translating different\nX-ray energy bands to visual colors - the lowest energies are shown\nin red, medium in green, and highest energies in blue.\n\n(The green boxes mark the position of the\n<a href=\"ap960618.html\">seven</a> brightest visual stars.)\n\n<a href=\"http://www.seds.org/messier/m/m045.html\">The Pleiades stars</a> seen in X-rays have extremely hot, tenuous\nouter atmospheres called <a href=\"ap970217.html\">coronas</a> and\nthe range of colors corresponds to different\n<a href=\"http://lucky.astro.uni-wuerzburg.de/~preib/fits.html\">coronal temperatures</a>.",
+  "date": "1998-04-05",
+  "hdurl": "https://apod.nasa.gov/apod/image/9703/pleiades_rosat.gif",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9703/pleiades_rosat.jpg"
+}

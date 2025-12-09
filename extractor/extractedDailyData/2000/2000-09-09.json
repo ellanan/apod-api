@@ -1,0 +1,10 @@
+{
+  "title": "X-Ray Moon and X-Ray Star",
+  "credit": "ROSAT Mission, MPE, ESA",
+  "explanation": "<b>  </b>\n\nAn\n<a href=\"http://imagine.gsfc.nasa.gov/docs/science/know_l2/binaries.html\">x-ray star</a> winks out behind the Moon\n<a href=\"http://heasarc.gsfc.nasa.gov/docs/rosat/gallery/\nmisc_gx5-1_moon_occult.html\">in these</a> before (left) and after\nviews of a\n<a href=\"http://www.skypub.com/sights/occultations/occultations.shtml\">lunar occultation</a> of the galactic x-ray source\n<a href=\" http://adsabs.harvard.edu/cgi-bin/\nnph-bib_query?bibcode=1997PASJ...49..589K&amp;db_key=AST&amp;high=3899d8d98228744\">\ndesignated GX5-1</a>.\n\nThe false color images were made using data from the\n<a href=\"http://heasarc.gsfc.nasa.gov/docs/rosat/rosat3.html\">ROSAT</a>\n(ROentgen SATellite), orbiting observatory.\n\nThey show high energy x-rays in yellow (mostly from\nGX5-1), and lower energy x-rays in red (the\n<a href=\"ap000902.html\">Moon reflecting x-rays</a> from the Sun).\n\nGX5-1 is a \n<a href=\"http://heasarc.gsfc.nasa.gov/docs/binary.html\">binary system</a> consisting of a\n<a href=\"lib/glossary.html#ns\">neutron star</a> and a companion star in\nmutual orbit about the system's center of mass.\n\nThe gas in the companion star's outer envelope falls\ntoward the neutron star\nand <a href=\"ap991219.html\">accumulates in a disk</a> around it.\n\nThis disk material swirls deeper in to\nthe <a href=\"http://antwrp.gsfc.nasa.gov/htmltest/rjn_bht.html\">neutron star's gravitational well</a>, and is finally dumped onto\nits surface - in the process creating tremendous\ntemperatures and generating the high energy x-rays.",
+  "date": "2000-09-09",
+  "hdurl": "https://apod.nasa.gov/apod/image/0009/gx5moon_rosat_big.gif",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0009/gx5moon_rosat.jpg"
+}

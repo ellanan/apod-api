@@ -1,0 +1,9 @@
+{
+  "title": "Simulation: Two Black Holes Merge",
+  "credit": "Simulating eXtreme Spacetimes Project",
+  "explanation": "<b>  </b> \n\nRelax and watch two black holes merge.\n\nInspired by the first\n<a href=\"https://www.ligo.caltech.edu/news/ligo20160211\">direct detection</a> of gravitational waves in 2015,\n<a href=\"https://www.ligo.caltech.edu/video/ligo20160211v3\">this\nsimulation plays</a> in slow motion but\nwould take about one third of a second if run in real time.\n\nSet on a cosmic stage, the black holes are posed in front of stars, gas,\nand dust.\n\nTheir extreme gravity lenses the light\n<a href=\"ap141026.html\">from behind</a> them into\n<a href=\"ap080728.html\">Einstein rings</a>\nas they spiral closer and finally merge into one.\n\nThe otherwise invisible gravitational waves generated\nas the massive objects rapidly coalesce cause the visible image\nto ripple and slosh both inside and outside the\n<a href=\"https://en.wikipedia.org/wiki/Einstein_ring\">Einstein rings</a>\neven after the \n<a href=\"https://www.black-holes.org/the-science-numerical-relativity/numerical-relativity/gravitational-lensing\">black holes</a> have merged.\n\n<a href=\"http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102\">Dubbed GW150914</a>, the gravitational waves\n<a href=\"https://en.wikipedia.org/wiki/List_of_gravitational_wave_observations\">detected by LIGO</a>\nare consistent with the merger of 36 and 31 solar mass\nblack holes at a distance of 1.3 billion light-years.\n\nThe final, single black hole has 63 times the mass of the Sun,\nwith the remaining 3 solar masses converted into energy radiated in\n<a href=\"https://www.ligo.caltech.edu/page/gravitational-waves\">gravitational\nwaves</a>.",
+  "date": "2024-05-10",
+  "service_version": "v1",
+  "media_type": "video",
+  "url": "https://www.youtube.com/embed/I_88S8DWbcU?rel=0"
+}

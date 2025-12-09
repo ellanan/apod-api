@@ -1,0 +1,10 @@
+{
+  "title": "The UV SMC from UIT",
+  "credit": "R.Cornett et al. (GSFC/LASP), UIT Team, NASA",
+  "explanation": "<b>Explanation</b>:\n\n<a href=\"gopher://info.mcc.ac.uk/11/miscellany/acronyms\">Translated from the \"acronese\"</a> the title reads - \nThe <b>U</b>ltra<b>V</b>iolet <b>S</b>mall <b>M</b>agellanic <b>C</b>loud\nfrom the <b>U</b>ltraviolet <b>I</b>maging\n<b>T</b>elescope.\n\nFYI,\n<a href=\"http://fondue.gsfc.nasa.gov/UIT/Astro2/Astro2_pictures.html#SMC\">the four ultraviolet images used</a> in this mosaic of the nearby\nirregular galaxy known as\n<a href=\"ap950919.html\">the Small Magellanic Cloud</a> were taken\nby the UIT instrument during <a href=\"ap960504.html\">the Astro 1</a> and\n<a href=\"http://fondue.gsfc.nasa.gov/UIT/UIT_HomePage.html#Astro2\">Astro 2</a> shuttle missions in 1990 and 1995.\n\nEach separate image field is slightly wider than the apparent size of the\nfull moon.\n\nThese\n<a href=\"lib/glossary.html#uv\">ultraviolet</a>\npictures, shown in false color, must be taken above the Earth's absorbing\natmosphere.\n\nThey highlight concentrations of hot, newly formed stars only a few millions\nof years old,\n<a href=\"http://xxx.lanl.gov/abs/astro-ph/9612098\">and reveal the progress of recent star formation in the SMC</a>.",
+  "date": "1996-12-20",
+  "hdurl": "https://apod.nasa.gov/apod/image/9612/smc4_uit_big.gif",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9612/smc4_uit.gif"
+}

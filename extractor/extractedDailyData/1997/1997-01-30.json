@@ -1,0 +1,10 @@
+{
+  "title": "Earth's Temperature",
+  "credit": "GMS, GOES-8, Meteosat, SSEC, NCDC, U. Wisc., NOAA",
+  "explanation": "<b>Explanation</b>: What's the <a href=\"http://www.unidata.ucar.edu/staff/blynds/tmp.html\">temperature</a>\noutside?  No matter where you are on <a href=\"ap960819.html\">Earth</a>,\nthe above map can tell you.  <a href=\"http://www.ssec.wisc.edu/data/index.html#composites\">This global montage</a>\nwas created using the temperature data from numerous satellites\norbiting the Earth.  This map indicates temperatures recorded\nearly on January 26<sup>th</sup>, 1997, but an even more <a href=\"http://www.ssec.wisc.edu/data/comp/latest_cmoll.gif\">recent map</a>\n-- updated every 6 hours -- is usually <a href=\"http://www.ssec.wisc.edu/data/comp/latest_cmoll.gif\">available</a>.\n For ocean colors on the map, lighter shades of blue indicate\nwarmer temperatures, while for the land, red hues indicate relative\nwarmth.  Just looking at the map one can see that summer warms\n<a href=\"ap951222.html\">Earth's southern hemisphere</a>, while\nwinter chills Earth's northern hemisphere.  The key at the bottom\nlists temperatures in degrees <a href=\"http://www.wqa.org/WQIS/Glossary/Centigrade.html\">Centigrade</a>\nthat can be <a href=\"http://www.uwosh.edu/students/wallip27/temp.html\">easily converted</a>\nto degrees <a href=\"http://www.wqa.org/WQIS/Glossary/Fahrenheit.html\">Fahrenheit</a>.",
+  "date": "1997-01-30",
+  "hdurl": "https://apod.nasa.gov/apod/image/9701/earthtemp_goes8_big.gif",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9701/earthtemp_goes8.gif"
+}

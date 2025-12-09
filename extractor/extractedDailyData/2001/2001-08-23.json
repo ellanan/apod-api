@@ -1,0 +1,10 @@
+{
+  "title": "Distortion from a Distant Cluster",
+  "credit": "D. Wittman (Lucent Technologies' Bell Labs) et al., NOAO, AURA, NSF",
+  "explanation": "<b>  </b>\n\n<a href=\"http://www.noao.edu/outreach/press/pr01/\n0111images.shtml\">This stunning</a>\ncolor deep sky view toward the constellation Pisces was\nmade with data from a fast, sensitive, digital detector known as the\n<a href=\"http://www.ctio.noao.edu/pfccd/btc_arw.html\">Big\nThroughput Camera</a> operating at\n<a href=\"http://www.ctio.noao.edu/index.html\">Cerro Tololo</a>\nInter-American <a href=\"ap010514.html\">Observatory</a> in Chile.\n\nHardly noticeable in the original picture is the small\ncluster of about 15 galaxies nearly 3 <i>billion</i> light-years\n<a href=\"http://heasarc.gsfc.nasa.gov/docs/cosmic/nicmos.html\">distant</a>,\ncircled at the lower right.\n\nIn fact, this distant cluster was not discovered by noticing\nits appearance in the image at all, but instead by mapping\nthe subtle distortions created by its gravity.\n\nAs predicted by\n<a href=\"http://www.pbs.org/wgbh/nova/einstein/relativity/\nindex.html\">Einstein's General Relativity</a> theory,\nthe cluster's gravitational mass acts like a lens, bending light\nand distorting the shape of background galaxies.\n\nThe effect is known as <a href=\"ap990601.html\">gravitational lensing</a>.\n\nComputer\n<a href=\"http://xxx.lanl.gov/abs/astro-ph/0104094\">mapping of\nweak distortions</a> of background galaxy shapes\nacross the Big Throughput image revealed that the large scale\ndistribution of mass in that part of the sky was concentrated in a\nsmall region.\n\nThat region turned out to correspond to the galaxy\ncluster -- the first time such an object\n<a href=\"http://www.noao.edu/outreach/press/pr01/pr0111.html\">has\nbeen discovered</a>\non the basis of its mass properties rather than its light.",
+  "date": "2001-08-23",
+  "hdurl": "https://apod.nasa.gov/apod/image/0108/lenscluster_btc_big.jpg",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0108/lenscluster_btc.jpg"
+}

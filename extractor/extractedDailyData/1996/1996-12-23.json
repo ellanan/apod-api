@@ -1,0 +1,10 @@
+{
+  "title": "The Hills of Ganymede",
+  "credit": "The Galileo Project, NASA",
+  "explanation": "<b>Explanation</b>:\n\n<a href=\"http://newproducts.jpl.nasa.gov/galileo/ganymede/121896.html\">This computer generated 3D close-up view</a> of Jupiter's\n<a href=\"ap960711.html\">large moon Ganymede</a>\nwas created using image data from\n<a href=\"http://newproducts.jpl.nasa.gov/galileo/overview.html\">NASA's Galileo spacecraft.</a> \n\n<a href=\"http://observe.ivv.nasa.gov/~dhbrown/stereo/samples.html\">Simulating stereo vision</a> by\ncombining two recent images recorded from different angles,\n3 dimensional information was reconstructed for a section\nof Ganymede's surface.\n\nThe result shows the furrows, craters, and hills in the\nregion appropriately known as \"Galileo Regio\" with a resolution\nof about 250 feet.\n\n<a href=\"http://newproducts.jpl.nasa.gov/galileo/tourhilites.html\">Currently exploring</a>\n<a href=\"lib/jupiter.html\">the Jovian System</a>,\nthe Galileo spacecraft\njust completed a flyby of <a href=\"ap961120.html\">Europa.</a>\nIt is scheduled to return to Ganymede in April next year.",
+  "date": "1996-12-23",
+  "hdurl": "https://apod.nasa.gov/apod/image/9612/gany3d1_gal_big.jpg",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9612/gany3d1_gal.jpg"
+}

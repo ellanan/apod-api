@@ -1,0 +1,10 @@
+{
+  "title": "A Sky Full Of Hydrogen",
+  "credit": "J. Dickey (UMn), F. Lockman (NRAO), SkyView",
+  "explanation": "<b>  </b>\n\nInterstellar space is \nfilled with extremely tenuous clouds of gas which are mostly Hydrogen.\n\n<a href=\"http://zenith.berkeley.edu/~abbas/hydrogen.html\">The neutral hydrogen atom</a> (HI in astronomer's shorthand)\n<a href=\"http://cst.lanl.gov/CST/imagemap/periodic/1.html\">consists of 1 proton and 1 electron</a>.\n\nThe proton and electron spin like tops but\ncan have only two orientations; spin axes parallel or anti-parallel.\n\nIt is a rare event for Hydrogen atoms in\n<a href=\"http://pegasus.phast.umass.edu/a100/handouts/ism.html\">the interstellar medium</a>\nto switch from the parallel to the anti-parallel configuration,\nbut when they do they emit radio waves with a\n<a href=\"http://imagine.gsfc.nasa.gov/docs/science/know_l1/emspectrum.html\">wavelength of 21 centimeters</a> (about 8 inches) and a\ncorresponding frequency of exactly 1420 MHz.\n\n<a href=\"ap971214.html\">Tuned to</a> this frequency\n<a href=\"http://www.nfra.nl/nfra/facilities/dwingeloo_intro.html\">radio telescopes have mapped</a> the neutral Hydrogen in the sky.\n\n<a href=\"http://skyview.gsfc.nasa.gov/cgi-bin/survey.pl#nh\">The above image represents such an all-sky HI survey</a>\nwith the plane of <a href=\"lib/milky_way.html\">our Milky Way Galaxy</a>\nrunning horizontally through the center.\n\nIn this false color image no\n<a href=\"ap970517.html\">stars are visible</a>,\njust diffuse clouds of gas tens to hundreds of light years\nacross which cluster near the plane.\n\nThe gas clouds seem to form arching, looping\nstructures, stirred up\n<a href=\"ap970803.html\">by stellar activity</a> in the galactic disk.",
+  "date": "1998-03-01",
+  "hdurl": "https://apod.nasa.gov/apod/image/9803/nHI_alt_skyview_big.gif",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9803/nHI_alt_skyview.jpg"
+}

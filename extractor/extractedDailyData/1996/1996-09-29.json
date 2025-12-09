@@ -1,0 +1,10 @@
+{
+  "title": "The X-Ray Moon",
+  "credit": "DARA, ESA, MPE, NASA, J.H.M.M. Schmitt",
+  "explanation": "<b>Explanation</b>:\nThis <a href=\"lib/glossary.html#X-ray\">X-Ray</a> image of <a href=\"ap960919.html\">the Moon</a>  was made by\nthe orbiting Roentgen Observatory Satellite \n(<a href=\"http://heasarc.gsfc.nasa.gov/docs/heasarc/missions/rosat.html\">ROSAT</a>) in 1990.  It shows three distinct regions:\na bright X-ray sky, a bright part of the Moon, and a relatively dark part\nof the Moon. The bright X-ray sky is due to the diffuse cosmic\n<a href=\"http://www.rosat.mpe-garching.mpg.de/survey/sxrb/\">X-ray background</a>.\nThe bright lunar crescent shines because it reflects X-rays emitted by\n<a href=\"ap960727.html\">the Sun</a>.  The dark lunar face is in shadow\nand so stands stands out from the relatively bright background -\nbut, surprisingly it is not completely dark!\nWhere do those X-rays from?\nThey are currently thought to result from energetic particles from\n<a href=\"http://www-spof.gsfc.nasa.gov/Education/Intro.html\">the solar wind</a>\nbombarding the lunar surface.",
+  "date": "1996-09-29",
+  "hdurl": "https://apod.nasa.gov/apod/image/moon_rosat.gif",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/moon_rosat.gif"
+}

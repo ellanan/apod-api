@@ -1,0 +1,10 @@
+{
+  "title": "SDO's Multiwavelength Sun",
+  "credit": "GSFC Scientific Visualization Studio, SDO, NASA",
+  "explanation": "<b>  </b>\n\nToday, <a href=\"ap120121.html\">the solstice</a>\nis at 17:11 Universal Time, the Sun reaching the\nsouthernmost declination in its yearly journey through planet Earth's\nsky.\n\n<a href=\"ap071222.html\">The December</a>\nsolstice marks the astronomical beginning of winter in the\nnorthern hemisphere and summer in the south.\n\nTo celebrate, explore this creative visualization of the Sun from\nvisible to extreme ultraviolet wavelengths, using image data from the\norbiting <a href=\"http://sdo.gsfc.nasa.gov/\">Solar Dynamics Observatory</a>\n(SDO).\n\nAgainst a base image made at a\n<a href=\"http://science-edu.larc.nasa.gov/EDDOCS/\nWavelengths_for_Colors.html\">visible wavelengths</a>,\nthe wedge-shaped segments show the solar disk at\nincreasingly shorter ultraviolet and extreme ultraviolet wavelengths.\n\nShown in false-color and rotating in a clockwise direction,\nthe filters decrease in wavelength from\n170 <a href=\"http://en.wikipedia.org/wiki/Nanometre\">nanometers</a>\n(in pink) through 9.4 nanometers (green).\n\nAt shorter wavelengths, the altitude and temperature of\nthe regions revealed in the solar atmosphere tend to increase.\n\nBright at visible wavelengths, the solar photosphere looks darker in\nthe ultraviolet, <a href=\"ap010419.html\">but sunspots</a> glow\nand <a href=\"ap130426.html\">bright plasma</a>\ntraces looping magnetic fields.\n\nWatch the filters sweep around the solar disk in\n<a href=\"http://svs.gsfc.nasa.gov/vis/a010000/a011300/a011385/\">this\nanimation of SDO's multiwavelength view of the Sun</a>.",
+  "date": "2013-12-21",
+  "hdurl": "https://apod.nasa.gov/apod/image/1312/SDOargoFD_bridgman.jpg",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1312/SDOargoFD_bridgman950c.jpg"
+}

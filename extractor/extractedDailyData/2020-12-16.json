@@ -1,9 +1,0 @@
-{
-  "title": "Sonified: The Matter of the Bullet Cluster",
-  "credit": "X-ray: NASA/CXC/SAO; Optical: NASA/STScI, Magellan/U.Arizona; Lensing Map: NASA/STScI, ESO WFI, Magellan/U.Arizona; Sonification: NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
-  "explanation": "What's the matter with the Bullet Cluster? This massive cluster of galaxies (1E 0657-558) creates gravitational lens distortions of background galaxies in a way that has been interpreted as strong evidence for the leading theory: that dark matter exists within. Different analyses, though, indicate that a less popular alternative -- modifying gravity-- could explain cluster dynamics without dark matter, and provide a more likely progenitor scenario as well. Currently, the two scientific hypotheses are competing to explain the observations: it's invisible matter versus amended gravity. The duel is dramatic as a clear Bullet-proof example of dark matter would shatter the simplicity of modified gravity theories. The featured sonified image is a Hubble/Chandra/Magellan composite with red depicting the X-rays emitted by hot gas, and blue depicting the suggested separated dark matter distribution. The sonification assigns low tones to dark matter, mid-range frequencies to visible light, and high tones to X-rays. The battle over the matter in the Bullet cluster is likely to continue as more observations, computer simulations, and analyses are completed.",
-  "date": "2020-12-16",
-  "service_version": "v1",
-  "media_type": "video",
-  "url": "https://www.youtube.com/embed/sau5-39wK1c?rel=0"
-}

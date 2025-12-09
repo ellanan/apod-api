@@ -1,0 +1,10 @@
+{
+  "title": "Median Mashup: Hubble's Top 100",
+  "explanation": "<b>  </b>\n\nNow, as you sip your\n<a href=\"http://en.wikipedia.org/wiki/Cosmic_latte\">cosmic latte</a>\nyou can view 100 Hubble Space Telescope images at the same time.\n\nThe popular scenes of the cosmos as captured from low Earth orbit\nare all combined into this single digital presentation.\n\nTo make it,\n<a href=\"http://www.spacetelescope.org/images/archive/top100/\">Hubble's\ntop 100 images</a> were downloaded and\nresized to identical pixel dimensions.\n\nAt each point the 100 pixel values were arranged from\nlowest to highest, and the middle or\n<a href=\"http://www.mathsisfun.com/median.html\">median</a> value was chosen\nfor the final image.\n\nThe combined image results in a visual\n<a href=\"ap080531.html\">abstraction</a> -\nlight from across the Universe surrounded by darkness.",
+  "date": "2014-09-13",
+  "hdurl": "https://apod.nasa.gov/apod/image/1409/West-HSTtop100median.jpg",
+  "service_version": "v1",
+  "copyright": "Michael West (Maria Mitchell Observatory)",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1409/West-HSTtop100median950.jpg"
+}

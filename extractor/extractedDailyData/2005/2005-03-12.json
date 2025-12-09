@@ -1,0 +1,10 @@
+{
+  "title": "Accretion Disk Simulation",
+  "credit": "Michael Owen, John Blondin (North Carolina State Univ.)",
+  "explanation": "<b>  </b>\n\nDon't be fooled by the familiar pattern.\n\nThe graceful spiral structure seen\nin this computer visualization does not portray winding spiral arms in\na distant <a href=\"ap020620.html\">galaxy of stars</a>.\n\nInstead, the graphic shows spiral shock waves in a three dimensional\n<a href=\"http://wonka.physics.ncsu.edu/~mpowen/\">simulation of an\naccretion disk</a> -- material swirling onto a compact\ncentral object that could represent a\n<a href=\"http://imagine.gsfc.nasa.gov/docs/science/know_l1/\ndwarfs.html\">white dwarf star</a>,\n\n<a href=\"http://www.astro.umd.edu/~miller/nstar.html\">neutron star</a>,\nor <a href=\"ap010119.html\">black hole</a>.\n\nSuch accretion disks power bright\n<a href=\"ap980723.html\">x-ray sources</a>\nwithin our own galaxy.\n\nThey form in binary star systems which consist of a donor star (not\nshown above), supplying the accreting material, and a compact object\nwhose <a href=\"http://whyfiles.org/052einstein/frame_drag4.html\">strong\ngravity</a> ultimately draws the material towards its surface.\n\nFor known\n<a href=\"http://heasarc.gsfc.nasa.gov/docs/binary.html\">x-ray\nbinary</a> systems the size of the accretion disk\nitself might fall somewhere between the diameter of the Sun\n(about 1,400,000 kilometers) and the diameter of the\nMoon's orbit (800,000 kilometers).\n\nOne interesting result of the\n<a href=\"http://wonka.physics.ncsu.edu/Astro/research/\ncp/cp_main.html\">virtual reality astrophysics</a>\nillustrated here is that the simulated\n<a href=\"http://scienceworld.wolfram.com/physics/\nAccretionDisk.html\">disk</a> develops instabilities\nwhich tend to smear out the pronounced spiral shocks.",
+  "date": "2005-03-12",
+  "hdurl": "https://apod.nasa.gov/apod/image/0503/accretion_mpowen_full.jpg",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/0503/accretion_mpowen_c1.jpg"
+}

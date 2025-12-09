@@ -1,0 +1,10 @@
+{
+  "title": "X-Ray Earth",
+  "credit": "Polar, PIXIE, NASA",
+  "explanation": "<b>Explanation</b>: The Earth glows in many kinds of light, including\nthe energetic <a href=\"lib/glossary.html#X-ray\">X-ray</a> band.\n Actually, the <a href=\"ap960819.html\">Earth</a> itself does\nnot glow - only <a href=\"ap961130.html\">aurora</a> produced high\nin the <a href=\"http://jaguar.joj.hsv.k12.al.us/magnet/r.html\">Earth's atmosphere</a>.\n Above is the <a href=\"http://pao.gsfc.nasa.gov/gsfc/weekly/96-19.htm\">first picture of the Earth in X-rays</a>,\ntaken in March with the orbiting <a href=\"http://nssdc.gsfc.nasa.gov/space/istp/polar.html\">Polar satellite</a>.\n Bright <a href=\"http://heasarc.gsfc.nasa.gov/docs/learning_center/\">X-ray emission</a>\nis shown in red.  <a href=\"http://lepmp.gsfc.nasa.gov/Education/Ielect.html\">Energetic ions from the Sun</a>\ncause <a href=\"http://www.geo.mtu.edu/weather/aurora/\">aurora</a>\nand energize <a href=\"http://lepmp.gsfc.nasa.gov/Education/Ielect.html\">electrons</a>\nin the <a href=\"http://leonardo.sr.unh.edu/ggs/jerry/exploration/wms1.html\">Earth's magnetosphere</a>.\n These electrons move along the <a href=\"http://leonardo.sr.unh.edu/ggs/jerry/exploration/whms1.html\">Earth's magnetic field</a>\nand eventually strike the <a href=\"http://julius.ngdc.noaa.gov/stp/IONO/ionointro.html\">Earth's ionosphere</a>,\ncausing the X-ray emission.  These X-rays are not dangerous because\nthey are absorbed by lower parts of the Earth's atmosphere.",
+  "date": "1996-12-30",
+  "hdurl": "https://apod.nasa.gov/apod/image/9612/earthxray_polar_big.gif",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/9612/earthxray_polar.gif"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Unwinding M51",
+  "explanation": "<b>  </b> \n\nThe arms of a grand design spiral galaxy 60,000 light-years across are\nunwound in this digital transformation of the magnificent 2005\n<a href=\"https://hubblesite.org/contents/news-releases/2005/news-2005-12.html\">Hubble Space Telescope portrait of M51</a>.\n\nIn fact, M51 is one of the original spiral nebulae, its winding\narms described by a mathematical curve known as a\n<a href=\"http://mathworld.wolfram.com/LogarithmicSpiral.html\">logarithmic\nspiral</a>, a spiral whose separation grows in a\n<a href=\"http://www.wikipedia.org/wiki/Geometric_progression\">geometric</a>\nway with increasing distance from the center.\n\nApplying logarithms to shift the pixel\ncoordinates in the Hubble image relative to the center of M51 maps\nthe galaxy's spiral arms into diagonal straight lines.\n\nThe transformed image dramatically shows the arms themselves are\ntraced by star formation, lined with pinkish starforming\nregions and young blue star clusters.\n\nCompanion galaxy NGC 5195 (top) seems to alter the track of the arm in\nfront of it though, and itself remains relatively unaffected by this\nunwinding of M51.\n\nAlso known as the\n<a href=\"http://www.cut-the-knot.org/Curriculum/Geometry/Mirabilis.shtml\">spira mirabilis</a>,\nlogarthimic spirals can be found in nature on all scales.\n\nFor example, logarithmic spirals can also describe\n<a href=\"ap080517.html\">hurricanes</a>, \nthe tracks of subatomic particles\nin a <a href=\"http://hst-archive.web.cern.ch/archiv/HST2000/teaching/resource/bubble/bubble.htm\">bubble chamber</a> and, of course,\n<a href=\"http://www.inference.phy.cam.ac.uk/mackay/\ncauliflower2.html\">cauliflower</a>.",
+  "date": "2020-08-21",
+  "hdurl": "https://apod.nasa.gov/apod/image/2008/M51Unwound.jpg",
+  "service_version": "v1",
+  "copyright": "Data - Hubble Heritage Project, Unwinding - Paul Howell",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/2008/M51Unwound_crop600.jpg"
+}

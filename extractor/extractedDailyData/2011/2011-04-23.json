@@ -1,0 +1,10 @@
+{
+  "title": "Shadows at the Lunar South Pole",
+  "credit": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter",
+  "explanation": "<b>  </b>\n\nWhat is it?\n\n<a href=\"http://lroc.sese.asu.edu/news/index.php?/archives/\n321-South-Pole-Illumination-Map.html\">It's a\nmulti-temporal illumination map</a>, of course.\n\nTo make it, the wide angle camera on the Lunar Reconnaissance\nOrbiter spacecraft collected 1,700 images\nover a period of 6 lunar days (6 Earth months),\nrepeatedly covering an area centered on the\n<a href=\"http://lroc.sese.asu.edu/news/index.php?/archives/\n287-The-Lunar-South-Pole.html\">Moon's south pole</a>.\n\nConverted to\n<a href=\"http://www.youtube.com/watch?v=CTjolEUj00g\">binary</a>\nvalues (shadowed pixels set to 0, illuminated pixels set to 1)\nthe images were stacked to\nproduce a map representing the percentage of time each\nspot on the surface was illuminated by the Sun.\n\nRemaining convincingly in shadow, the floor of the\n19 kilometer diameter\n<a href=\"http://www.south-pole.com/p0000097.htm\">Shackleton</a>\ncrater is seen near the center of the map.\n\nThe lunar south pole itself is at about 9 o'clock on the crater's rim.\n\nSince the Moon's axis of\n<a href=\"http://scienceworld.wolfram.com/physics/\nCassiniLaws.html\">rotation stays</a> almost perpendicular\n<a href=\"http://en.wikipedia.org/wiki/Orbit_of_the_Moon#Inclination\">to\nthe ecliptic plane</a>, crater floors near the lunar south\n<a href=\"http://lroc.sese.asu.edu/news/index.php?/archives/\n348-North-Pole-Mosaics-and-Movie.html\">and north poles</a>\ncan remain in permanent shadow and mountain tops in\nnearly continuous sunlight.\n\nUseful to future outposts, the shadowed crater floors could offer\n<a href=\"ap101025.html\">reservoirs of water ice</a>,\nand the sunlit mountain tops ideal locations for solar power arrays.",
+  "date": "2011-04-23",
+  "hdurl": "https://apod.nasa.gov/apod/image/1104/SouthPoleShadows_lro.jpg",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1104/SouthPoleShadows_lro800.jpg"
+}

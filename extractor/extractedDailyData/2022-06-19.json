@@ -1,8 +1,0 @@
-{
-  "title": "Game: Super Planet Crash",
-  "explanation": "Can you create a planetary system that lasts for 1000 years? Super Planet Crash, the featured game, allows you to try. To create up to ten planets, just click anywhere near the central star. Planet types can be selected on the left in order of increasing mass: Earth, Super-Earth, Ice giant, Giant planet, Brown dwarf, or Dwarf star. Each planet is gravitationally attracted not only to the central Sun-like star, but to other planets. Points are awarded, with bonus factors applied for increasingly crowded and habitable systems. The game ends after 1000 years or when a planet is gravitationally expelled. Many exoplanetary systems are being discovered in recent years, and Super Planet Crash demonstrates why some remain stable. As you might suspect after playing Super Planet Crash a few times, there is reason to believe that our own Solar System has lost planets during its formation.",
-  "date": "2022-06-19",
-  "service_version": "v1",
-  "media_type": "video",
-  "url": "https://stefanom.org/spc/game.php"
-}

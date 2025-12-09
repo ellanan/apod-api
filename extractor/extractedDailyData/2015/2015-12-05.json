@@ -1,0 +1,9 @@
+{
+  "title": "Kepler Orrery IV",
+  "explanation": "<b>  </b>\n\n<a href=\"http://kepler.nasa.gov/\">The exoplanet hunting Kepler</a>\nmission's total for candidate and \n<a href=\"http://arxiv.org/abs/1402.6534\">confirmed</a> multiple\nplanet systems stands at 1,705 worlds in orbit around 685 distant stars. \n\n<a href=\"https://github.com/ethankruse/kepler_orrery\">Put\nall of those</a> exoplanet orbits on the same scale\n<a href=\"http://www.arm.ac.uk/orrery/\">and follow</a>\ntheir relative orbital motions to get\n<a href=\"https://www.youtube.com/watch?v=_DnDeBa0KFc\">Kepler Orrery IV</a>.\n\nTo make the planets visible, their sizes\naren't shown to scale.\n\nBut orbits of the planets in\n<a href=\"https://www.youtube.com/watch?v=zR3Igc3Rhfg\">the Solar\nSystem</a> (dashed lines)\nare included to scale in the hypnotic video.\n\nOf course, Kepler uses planetary transits to detect\n<a href=\"http://science.nasa.gov/astrophysics/focus-areas/\nexoplanet-exploration/\">exoplanets</a>,\nlooking for a slight dimming of light\nas the planet crosses in front of its star.\n\nIn the time compressed video,\nKepler's multiplanet system orbits are all oriented\nto put observed transits at the three o'clock position.\n\nThe dervish-like movements highlight a stark contrast\nbetween most Kepler-discovered exoplanetary systems and our own.\n\n<a href=\"ap140303.html\">Planning</a>\nan interstellar vacation?\n\nBe sure to check the scale at the upper left first.\n\nThe color code indicates a planet's estimated\nequilibrium surface temperature\nbased on its orbit size and\n<a href=\"ap110329.html\">parent star</a>.",
+  "date": "2015-12-05",
+  "service_version": "v1",
+  "copyright": "Ethan Kruse (University of Washington)",
+  "media_type": "video",
+  "url": "https://www.youtube.com/embed/_DnDeBa0KFc?rel=0"
+}

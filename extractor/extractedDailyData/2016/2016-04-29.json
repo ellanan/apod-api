@@ -1,0 +1,10 @@
+{
+  "title": "Fermi's Gamma-ray Moon",
+  "credit": "NASA, DOE, International Fermi LAT Collaboration",
+  "explanation": "<b>  </b>\n\nIf you could only see\n<a href=\"ap131206.html\">gamma-rays,</a>\n<a href=\"ap150722.html\">photons</a> with up to a <i>billion</i>\nor more times the energy of visible light,\nthe Moon would be brighter than the Sun!\n\nThat startling notion underlies this novel image of the Moon, based\non data collected by the\n<a href=\"http://fermi.gsfc.nasa.gov/\">Fermi Gamma-ray Space\nTelescope's</a>\nLarge Area Telescope (LAT) instrument during its first seven years\nof operation (2008-2015).\n\nFermi's gamma-ray vision doesn't distinguish details on the lunar\nsurface, but a gamma-ray glow consistent with\nthe Moon's size and position is clearly found at the center of the\nfalse color map.\n\nThe brightest pixels correspond to the most significant detections\nof lunar gamma-rays.\n\n<a href=\"http://arxiv.org/abs/1604.03349\">Why is the gamma-ray\nMoon so bright?</a>\n\nHigh-energy charged particles streaming through the Solar System\nknown as <a href=\"http://helios.gsfc.nasa.gov/cosmic.html\">cosmic rays</a>\nconstantly bombard the lunar surface, unprotected by a magnetic field,\ngenerating the gamma-ray glow.\n\nBecause the cosmic rays come from all sides, the gamma-ray\nMoon is always full and does not go through phases.\n\n<a href=\"ap060527.html\">The first gamma-ray image</a>\nof the Moon was captured by the EGRET instrument onboard the\n<a href=\"http://www.nasa.gov/feature/goddard/2016/\nnasa-celebrates-25-years-of-breakthrough-gamma-ray-science\">Compton\nGamma-ray Observatory</a>, launched 25 years ago.",
+  "date": "2016-04-29",
+  "hdurl": "https://apod.nasa.gov/apod/image/1604/FermiMoon7y_SigMap_hot_nogrid.png",
+  "service_version": "v1",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/1604/FermiMoon7y_SigMap_hot_nogrid.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Crescent Moon HDR",
+  "explanation": "<b>  </b> \nHow come the crescent Moon doesn't look like this? \n\nFor one reason, because your eyes can't simultaneously \n<a href=\"https://psychology.stackexchange.com/questions/5408/sensitivity-of-human-eye-to-luminance\">discern bright and dark</a> regions like this.\n\nCalled \n<a href=\"https://en.wikipedia.org/wiki/Planetshine\">earthshine</a> \nor the da Vinci glow, the unlit part of a \n<a href=\"https://solarsystem.nasa.gov/resources/676/phases-of-the-moon/\">crescent Moon</a> \nis visible but usually hard to see because it is much dimmer than the sunlit arc.\n\nIn our digital age, however, the differences in brightness can be artificially reduced.\n\nThe <a href=\"https://www.miguelclaro.com/wp/portfolio/da-vince-glow-revealed-in-a-high-dynamic-range-of-a-crescent-moon/\">featured image</a> is actually a digital composite of 15 short exposures of the bright crescent, and 14 longer exposures of the dim remainder. \n\nThe origin of the \n<a href=\"ap190504.html\">da Vinci glow</a>, as explained by \n<a href=\"https://en.wikipedia.org/wiki/Leonardo_da_Vinci\">Leonardo da Vinci</a> \nabout 510 years ago, is sunlight reflected first by the \n<a href=\"https://earthobservatory.nasa.gov/\">Earth</a> to the Moon, and then back from the \n<a href=\"https://moon.nasa.gov/\">Moon</a> to the Earth.",
+  "date": "2020-08-24",
+  "hdurl": "https://apod.nasa.gov/apod/image/2008/HdrMoon_Claro_2000.jpg",
+  "service_version": "v1",
+  "copyright": "Miguel Claro (TWAN, Dark Sky Alqueva)",
+  "media_type": "image",
+  "url": "https://apod.nasa.gov/apod/image/2008/HdrMoon_Claro_1080.jpg"
+}

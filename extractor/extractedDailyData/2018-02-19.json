@@ -1,9 +1,0 @@
-{
-  "title": "Galaxy Formation in a Magnetic Universe",
-  "credit": "IllustrisTNG Project; Visualization: Mark Vogelsberger (MIT) et al. Music: Gymnopedie 3 (Composer: Erik Satie, Musician: Wahneta Meixsell)",
-  "explanation": "How did we get here? We know that we live on a planet orbiting a star orbiting a galaxy, but how did all of this form? To understand details better, astrophysicists upgraded the famous Illustris Simulation into IllustrisTNG -- now the most sophisticated computer model of how galaxies evolved in our universe. Specifically, this featured video tracks magnetic fields from the early universe (redshift 5) until today (redshift 0). Here blue represents relatively weak magnetic fields, while white depicts strong. These B fields are closely matched with galaxies and galaxy clusters. As the simulation begins, a virtual camera circles the virtual IllustrisTNG universe showing a young region -- 30-million light years across -- to be quite filamentary. Gravity causes galaxies to form and merge as the universe expands and evolves. At the end, the simulated IllustrisTNG universe is a good statistical match to our present real universe, although some interesting differences arise -- for example a discrepancy involving the power in radio waves emitted by rapidly moving charged particles.",
-  "date": "2018-02-19",
-  "service_version": "v1",
-  "media_type": "video",
-  "url": "https://www.youtube.com/embed/a-NDdDlWIII?rel=0"
-}
