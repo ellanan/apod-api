@@ -3,6 +3,11 @@ import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from './getDataByDate';
 import { getDataByDateFromOriginalApodAPI } from '../../extractor/getDataByDateFromOriginalApodAPI';
 
+// Helper to strip HTML and normalize whitespace for comparison
+function stripHtmlForComparison(html: string): string {
+  return html.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+}
+
 const testInterval = (period: Interval[]) => {
   period.forEach(async (dailyInterval) => {
     test(dailyInterval.start.toFormat('yyyy-MM-dd'), async () => {
@@ -40,18 +45,21 @@ const testInterval = (period: Interval[]) => {
           .replace(/(\s*)(\r\n|\r|\n)(.+)/, '')
       ).toEqual(getDataByDateResponse.title);
 
+      // Strip HTML from our response for comparison since NASA API returns plain text
+      const ourExplanation = stripHtmlForComparison(getDataByDateResponse.explanation);
+
       if (
         massagedOriginalAPIResponse.explanation.length >
-        getDataByDateResponse.explanation.length
+        ourExplanation.length
       ) {
         // official APOD API sometimes mistakenly includes footer data
         expect(massagedOriginalAPIResponse.explanation).toContain(
-          getDataByDateResponse.explanation
+          ourExplanation
         );
       } else {
         // official APOD API sometimes mistakenly cuts off the explanation
         // e.g. for 2004-10-01, it cuts off halfway at "Also known as Earth-crossing asteroid 4179, Toutatis"
-        expect(getDataByDateResponse.explanation).toContain(
+        expect(ourExplanation).toContain(
           massagedOriginalAPIResponse.explanation
         );
       }

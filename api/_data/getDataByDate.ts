@@ -24,11 +24,10 @@ export const getDataByDate = async (date: DateTime) => {
   const videoElement = $('iframe');
   // these seem to be video embeds as well
   const embedElement = $('embed');
-  const description = $('center ~ center ~ p')
-    .text()
-    .replace(/\s+/g, ' ')
-    .replace('Explanation:', '')
-    .trim();
+  const descriptionHtml = $('center ~ center ~ p')
+    .html()
+    ?.replace('Explanation:', '')
+    .trim() ?? '';
 
   // we want to extract anything between 'copyright' and 'explanation
   const [, copyright] =
@@ -48,7 +47,7 @@ export const getDataByDate = async (date: DateTime) => {
   return {
     title,
     credit,
-    explanation: description,
+    explanation: descriptionHtml,
     date: date.toISODate(),
     hdurl: hdImageUrl ?? imageUrl,
     service_version: 'v1',

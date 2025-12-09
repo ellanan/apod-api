@@ -4,9 +4,21 @@ import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { DateTime, Interval } from 'luxon';
 import { getDataByDate } from './_data/getDataByDate';
 
-const dataDictonary = require('./_data/data.json');
+type ApodEntry = {
+  title: string;
+  credit?: string;
+  explanation?: string;
+  date: string;
+  hdurl?: string;
+  service_version: string;
+  copyright?: string;
+  media_type: string;
+  url?: string;
+};
+
+const dataDictonary: Record<string, ApodEntry> = require('./_data/data.json');
 const isoDates = Object.keys(dataDictonary);
-const dailyData = Object.values(dataDictonary);
+const dailyData: ApodEntry[] = Object.values(dataDictonary);
 
 let lastDayOfData = isoDates[isoDates.length - 1];
 
@@ -19,11 +31,51 @@ type OrignalAPIQueryParams = {
 
 type AdditionalQueryParams = {
   limit?: string;
+  format?: 'text' | 'html' | 'markdown';
 };
+
+export type ExplanationFormat = 'text' | 'html' | 'markdown';
+
+export function transformExplanation(html: string | undefined, format: ExplanationFormat): string {
+  if (!html) return '';
+
+  if (format === 'html') {
+    return html;
+  }
+  if (format === 'markdown') {
+    // Convert <a href="url">text</a> to [text](url)
+    return html
+      .replace(/<a\s+href="([^"]+)"[^>]*>([^<]+)<\/a>/gi, '[$2]($1)')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+  // Default: text (strip all HTML)
+  return html
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function transformData<T extends { explanation?: string }>(
+  data: T | T[],
+  format: ExplanationFormat
+): T | T[] {
+  if (Array.isArray(data)) {
+    return data.map((entry) => ({
+      ...entry,
+      explanation: transformExplanation(entry.explanation, format),
+    }));
+  }
+  return {
+    ...data,
+    explanation: transformExplanation(data.explanation, format),
+  };
+}
 
 function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
   cacheDurationMinutes: number;
-  data: typeof dailyData | typeof dailyData[number];
+  data: ApodEntry | ApodEntry[];
 } {
   // if a date is passed, return the data for that date
   if (args.date) {
@@ -152,6 +204,8 @@ export default async (request: VercelRequest, response: VercelResponse) => {
     }
 
     const { cacheDurationMinutes, data } = getData(queryParams);
+    const format: ExplanationFormat = queryParams.format || 'text';
+    const transformedData = transformData(data, format);
 
     response
       .status(200)
@@ -161,7 +215,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
           cacheDurationMinutes * 60
         }, stale-while-revalidate=${cacheDurationMinutes * 60}` // cache could reuse a stale response while revalidating
       )
-      .send(data);
+      .send(transformedData);
   } catch (error) {
     console.error(error);
     response.status(500).send(error);
