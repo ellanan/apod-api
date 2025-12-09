@@ -36,6 +36,11 @@ https://apod.ellanan.com/api
 - `limit`: a positive integer.
   - must be used in combination with a valid start_date
   - returns a specified number of APODs starting from the start_date as a JSON object
+- `format`: a string indicating the format of the explanation field.
+  - valid values: `text` (default), `html`, `markdown`
+  - `text`: plain text with all HTML tags stripped (default, backwards compatible)
+  - `html`: raw HTML with links preserved (e.g., `<a href="...">link</a>`)
+  - `markdown`: links converted to markdown format (e.g., `[link](url)`)
 
 ### Returned Fields:
 
