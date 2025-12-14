@@ -3440,5 +3440,14 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg"
+  },
+  "2025-12-14": {
+    "title": "Juno Flyby of Ganymede and Jupiter",
+    "credit": "NASA, JPL-Caltech, SWRI, MSSS; Animation: Koji Kuramura, Gerald Eichstädt, Mike Stetson; Music: Vangelis",
+    "explanation": "<b>  </b>\nWhat would it be like to fly over the \n<a href=\"https://science.nasa.gov/jupiter/jupiter-moons/ganymede/\">largest moon</a> in the \n<a href=\"https://science.nasa.gov/solar-system/solar-system-facts/\">Solar System</a>?\n\nIn 2021, the robotic \n<a href=\"https://science.nasa.gov/mission/juno/\">Juno spacecraft</a> \nflew past \n<a href=\"https://science.nasa.gov/jupiter/jupiter-facts/\">Jupiter</a>'s \nhuge moon \n<a href=\"https://en.wikipedia.org/wiki/Ganymede_(moon)\">Ganymede</a> and took images that have been digitally \nconstructed into a detailed flyby.\n\nAs the <a href=\"https://www.youtube.com/watch?v=CC7OJ7gFLvE\">featured video</a> begins, \nJuno swoops over the two-toned surface of the 2,000-km wide moon, revealing an icy alien landscape filled with grooves and craters.\n\nThe <a href=\"ap960711.html\">grooves</a> are likely caused by shifting surface plates, while the craters are caused by \n<a href=\"ap010428.html\">violent impacts</a>.\n\nContinuing on in its orbit, Juno then performed its 34th \n<a href=\"ap250216.html\">close pass</a> over Jupiter's clouds.\n\nThe <a href=\"https://www.missionjuno.swri.edu/media-gallery/junos-10th-launch-anniversary?show=fig_610b07d5f5b97167311ead97&amp;m=610b07d5f5b97167311ead97\">digitally-constructed video</a> shows numerous \n<a href=\"ap171128.html\">swirling clouds</a> in the north, \ncolorful planet-circling <a href=\"https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter#/media/File:Jupiter_cloud_bands.svg\">zones and bands</a> across the middle -- featuring several \n<a href=\"ap170228.html\">white-oval cloud</a>s from the \n<a href=\"https://astronomynow.com/2017/06/26/jupiters-string-of-pearls/\">String of Pearls</a>, and finally more \n<a href=\"https://thumbs.dreamstime.com/b/two-cats-yin-yang-hug-sleep-friendship-love-126599120.jpg\">swirling</a> clouds in the south.",
+    "date": "2025-12-14",
+    "service_version": "v1",
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/CC7OJ7gFLvE?rel=0"
   }
 }
