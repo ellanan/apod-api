@@ -30,6 +30,7 @@ import y2022 from './2022.json';
 import y2023 from './2023.json';
 import y2024 from './2024.json';
 import y2025 from './2025.json';
+import y2026 from './2026.json';
 
 type ApodEntry = {
   title: string;
@@ -75,6 +76,7 @@ export const dataDictionary: Record<string, ApodEntry> = {
   ...y2023,
   ...y2024,
   ...y2025,
+  ...y2026,
 };
 
 export const isoDates = Object.keys(dataDictionary);
