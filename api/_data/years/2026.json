@@ -28,5 +28,14 @@
     "copyright": "Zhengjie Wu and Jeff Dai (TWAN)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg"
+  },
+  "2026-01-04": {
+    "title": "The Einstein Cross Gravitational Lens",
+    "explanation": "<b>  </b>\nMost galaxies have a single nucleus -- does this galaxy have four?  \n\nThe strange answer leads \n<a href=\"https://aas.org/careers/career-in-astronomy\">astronomers</a> \nto conclude that the nucleus of the surrounding galaxy is not even visible in \n<a href=\"https://noirlab.edu/public/images/noao-q2237/\">this image</a>.  \n\nThe central \n<a href=\"https://en.wikipedia.org/wiki/Four-leaf_clover\">cloverleaf</a> is rather light emitted from a background \n<a href=\"https://en.wikipedia.org/wiki/Quasar\">quasar</a>.  \n\nThe <a href=\"https://spaceplace.nasa.gov/what-is-gravity/en/\">gravitational</a> field of the visible foreground galaxy \n<a href=\"https://science.nasa.gov/wp-content/uploads/2024/09/gravitational-lens-diagram-simple.jpg\">breaks light</a> \nfrom this distant \n<a href=\"https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-quasars/\">quasar</a> \ninto four distinct images.  \n\nThe <a href=\"ap220222.html\">quasar</a> must be <a href=\"https://www.reddit.com/r/cats/comments/1lkdakf/six_of_seven_cuddle_pile_on_the_balcony/#lightbox\">properly aligned</a> behind the center of a massive galaxy for a \n<a href=\"ap990331.html\">mirage like this</a> to be evident.  \n\nThe general effect is known as \n<a href=\"https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/\">gravitational lensing</a>, and this specific case is known as the \n<a href=\"http://www.astr.ua.edu/keel/agn/qso2237.html\">Einstein Cross</a>.  \n\nStranger still, the images of the \n<a href=\"ap961215.html\">Einstein Cross</a> vary in relative brightness, \nenhanced occasionally by the additional \n<a href=\"https://en.wikipedia.org/wiki/Gravitational_microlensing\">gravitational microlensing</a> \neffect of specific stars in the foreground galaxy.",
+    "date": "2026-01-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/qso2237_wiyn_1024.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/qso2237_wiyn_1024.jpg"
   }
 }
