@@ -117,5 +117,13 @@
     "copyright": "Xu Chen",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_960.jpg"
+  },
+  "2026-01-13": {
+    "title": "A Solar Eruption from SDO",
+    "credit": "NASA, SDO, AIA, Helioviewer; Processing & Text: Ogetay Kayali (MTU)",
+    "explanation": "<b>  </b> \nWhat just leapt from the Sun? \n\nA <a href=\"ap220216.html\">towering</a> structure of solar \n<a href=\"https://svs.gsfc.nasa.gov/14299\">plasma</a> suddenly rose from the Sun's surface and unfurled into space -- a structure so large that many Earths would easily fit within it-- marking the onset of a dramatic \n<a href=\"https://www.swpc.noaa.gov/phenomena/coronal-mass-ejections\">Coronal Mass Ejection</a> (CME). \n\nThe event was captured in striking detail in late 2024 by NASA's \n<a href=\"https://sdo.gsfc.nasa.gov/\">Solar Dynamics Observatory</a> (SDO), whose continuous monitoring improves \n<a href=\"https://spaceplace.nasa.gov/spaceweather/\">space weather</a> forecasts and helps humanity better understand \n<a href=\"https://www.weather.gov/safety/space\">how solar activity affects</a> satellites, GPS, radio communications, and power grids on Earth. \n\nThe featured video blends three \nextreme-<a href=\"https://science.nasa.gov/ems/10_ultravioletwaves/\">ultraviolet</a> views from SDO’s \n<a href=\"https://aia.lmsal.com/\">Atmospheric Imaging Assembly</a> (AIA), revealing how \n<a href=\"https://en.wikipedia.org/wiki/Plasma_(physics)\">plasma</a> at different temperatures \n<a href=\"https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqybjdo71k1d51.jpg\">surged upward</a> as the eruption unfolded. \n\nHere, red highlights cooler, denser material lifted from the \n<a href=\"https://science.nasa.gov/blogs/the-sun-spot/2023/09/26/layers-of-the-sun/\">Sun’s lower atmosphere</a>, \nwhile yellow traces hotter, million-degree \n<a href=\"ap250730.html\">coronal loops</a> \nstretching outward as magnetic fields open. \n\nAfter the main outburst, the \n<a href=\"https://svs.gsfc.nasa.gov/4124/\">Sun’s magnetic fields</a> \nquickly reorganize.",
+    "date": "2026-01-13",
+    "service_version": "v1",
+    "media_type": "other"
   }
 }
