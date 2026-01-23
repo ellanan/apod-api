@@ -215,5 +215,15 @@
     "copyright": "Chris Fellows",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg"
+  },
+  "2026-01-23": {
+    "title": "Planetary Nebula Abell 7",
+    "explanation": "<b>  </b> \n\nVery faint planetary nebula Abell 7 is about 1,800 light-years distant.\n\nIt lies just south of Orion in planet Earth's skies toward the\nconstellation\n<a href=\"http://www.allthesky.com/constellations/big/lepus28vm-b.jpg\">Lepus, The Hare</a>.\n\nPosing with scattered Milky Way stars, its\n<a href=\"http://arxiv.org/abs/1210.6226\">generally</a>\nsimple spherical shape about 8 light-years in diameter is revealed in\nthis deep telescopic image.\n\nThe beautiful and complex shapes\nseen within the cosmic cloud are visually\nenhanced by the use of long exposures and\n<a href=\"ap111013.html\">narrowband</a> filters\nthat capture emission from hydrogen and oxygen atoms.\n\nOtherwise Abell 7 would be much\ntoo faint to be appreciated <a href=\"ap100506.html\">by eye</a>.\n\nA\n<a href=\"http://en.wikipedia.org/wiki/Planetary_nebula\">planetary nebula</a>\nrepresents a very brief final phase\nin stellar evolution that our own Sun will experience 5 billion\n<a href=\"http://www.futuretimeline.net/beyond.htm\">years hence</a>,\nas the nebula's central, once sun-like star shrugs off its outer layers.\n\nAbell 7 itself is estimated to be 20,000 years old.\n\nBut its central star, seen here as a\n<a href=\"https://www.nasa.gov/feature/goddard/2019/citizen-scientist-finds-ancient-white-dwarf-star-encircled-by-puzzling-rings\">fading white dwarf</a>,\nis some 10 billion years old.",
+    "date": "2026-01-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg",
+    "service_version": "v1",
+    "copyright": "Martin Pugh",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg"
   }
 }
