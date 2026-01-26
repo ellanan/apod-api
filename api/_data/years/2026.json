@@ -245,5 +245,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg"
+  },
+  "2026-01-26": {
+    "title": "NGC 55: A Galaxy of Nebulas",
+    "explanation": "<b>  </b>\nCan you see nebulas in other galaxies? \n\nYes, some \n<a href=\"https://science.nasa.gov/universe/decoding-nebulae/\">nebulas</a> shine brightly enough -- if you know how to look. \n\nClouds of \n<a href=\"https://spinoff.nasa.gov/NASA_Hydrogen_History_Informs_World%E2%80%99s_Hydrogen_Future\">hydrogen</a> and \n<a href=\"https://en.wikipedia.org/wiki/Oxygen\">oxygen</a> \nemit light at very specific colors, \nand by isolating them, astronomers and astrophotographers \ncan reveal structures that would otherwise be \n<a href=\"ap200329.html\">too faint</a> to notice. \n\n<a href=\"https://app.astrobin.com/u/Wolfgang-Promper?i=3n21nh#gallery\">This deep, 50-hour exposure</a> highlights glowing \n<a href=\"https://en.wikipedia.org/wiki/Hydrogen\">hydrogen</a> (red) and \n<a href=\"https://periodic.lanl.gov/8.shtml\">oxygen</a> (blue) across galaxy \n<a href=\"https://en.wikipedia.org/wiki/NGC_55\">NGC 55</a>, viewed nearly \n<a href=\"ap240606.html\">edge-on</a>. \n\nAlso known as the \n<a href=\"ap040724.html\">String of Pearls</a> Galaxy, \n<a href=\"ap190712.html\">NGC 55</a> is often compared to our \n<a href=\"https://science.nasa.gov/resource/the-milky-way-galaxy/\">Milky Way</a>'s satellite galaxy the \n<a href=\"ap241002.html\">Large Magellanic Cloud</a> (LMC), \nalthough NGC 55 lies much farther away at about 6.5 million \n<a href=\"https://spaceplace.nasa.gov/light-year/\">light-years</a>. \n\nThe resulting image \n<a href=\"https://media.istockphoto.com/id/1318976815/photo/cute-cat-hiding-under-the-blanket.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=MU772pD5-bo_-GuZtbWepzLPu_YVpx1pQUnIuoysgD4=\">uncovers</a> a sprinkling of \n<a href=\"https://en.wikipedia.org/wiki/Emission_nebula\">emission nebula</a>s \nwithin and sometimes above the galaxy's \n<a href=\"ap251106.html\">dusty disk</a>, \noffering a detailed look at distant \n<a href=\"https://science.nasa.gov/universe/stars/\">star</a>-forming regions.",
+    "date": "2026-01-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_3686.jpg",
+    "service_version": "v1",
+    "copyright": "Wolfgang Promper; Text: Ogetay Kayali (MTU)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg"
   }
 }
