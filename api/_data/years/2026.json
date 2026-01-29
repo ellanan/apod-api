@@ -275,5 +275,15 @@
     "copyright": "Daniel McCauley",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_1080.jpg"
+  },
+  "2026-01-29": {
+    "title": "NGC 2442: Galaxy in Volans",
+    "explanation": "<b>  </b> \n\n<a href=\"https://esahubble.org/news/heic1108/\">Distorted galaxy NGC 2442</a>\ncan be found in the southern constellation of the flying fish, (Piscis)\n<a href=\"https://en.wikipedia.org/wiki/Volans\">Volans</a>.\n\nLocated about 50 million light-years away, the galaxy's two\nspiral arms extending from a pronounced central bar give it a\nhook-shaped appearance in this deep and colorful image,\nwith foreground stars scattered across the telescopic field of\nview.\n\nThe image also reveals the distant galaxy's\nobscuring dust lanes, young blue star clusters and\n<a href=\"ap061123.html\">reddish star forming</a> regions\nsurrounding a core of yellowish light from an older population of stars.\n\nBut the star forming regions seem more concentrated along\nthe drawn-out (upper right)\n<a href=\"http://cass.ucsd.edu/public/tutorial/Galaxies.html\">spiral</a> arm.\n\nThe distorted structure is likely the result of an ancient\n<a href=\"http://arxiv.org/abs/astro-ph/9701015\">close encounter</a>\nwith a smaller galaxy that lies off top left of the frame.\n\n<a href=\"https://throughlightandtime.com/ngc-2442-lrgb-ha-rev-1-crop-cdk-1000-18-jan-2026/\">This telescopic field of view</a>\nspans over 200,000 light-years at the estimated distance of NGC 2442.",
+    "date": "2026-01-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_2048.jpg",
+    "service_version": "v1",
+    "copyright": "Mike Selby",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg"
   }
 }
