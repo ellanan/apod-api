@@ -315,5 +315,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg"
+  },
+  "2026-02-02": {
+    "title": "Orion: The Running Man Nebula",
+    "explanation": "<b>  </b> \nWhat part of Orion is this?\n\nJust north of the famous \n<a href=\"ap251113.html\">Orion Nebula</a> is a picturesque \n<a href=\"https://science.nasa.gov/universe/stars/\">star</a> \nforming region in \n<a href=\"https://en.wikipedia.org/wiki/Orion%27s_Sword\">Orion's Sword</a> that contains a lot of intricate \n<a href=\"https://science.nasa.gov/universe/dust-in-the-stellar-wind-a-cosmological-primer/\">dust</a> -- some of which appears blue \nbecause it reflects the light of \n<a href=\"ap250825.html\">bright embedded stars</a>. \n\nThe region's popular name is the \n<a href=\"ap160113.html\">Running Man Nebula</a> because, \nlooked at from the right, part of the brown dust appears to be running legs. \n\nCataloged as \n<a href=\"https://en.wikipedia.org/wiki/Sh_2-279\">Sharpless 279</a>, \nthe reflection nebula is not only part of the \n<a href=\"https://en.wikipedia.org/wiki/Orion_(constellation)\">constellation</a> of \n<a href=\"ap101226.html\">Orion</a>, but part of the greater \n<a href=\"https://en.wikipedia.org/wiki/Orion_molecular_cloud_complex\">Orion molecular cloud complex</a>. \n\nLight from the Running Man's bright stars, including \n<a href=\"https://theskylive.com/sky/stars/42-orionis-star\">42 Orionis</a>, the bright star closest to the \n<a href=\"https://www.instagram.com/p/DTvh2abATrw/\">featured image</a> center, is slowly \ndestroying and reshaping the surrounding dust, \nwhich will likely be \n<a href=\"https://media.istockphoto.com/id/1029915086/photo/cat-leaving-the-house-through-cat-flap.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=xKa2CPQas0dy-hh6ZtiNhksHQd25Yzh42uJzTTjpFCA=\">completely gone</a> in about 10 million years. \n\nThe nebula spans about 15 \n<a href=\"https://spaceplace.nasa.gov/light-year/\">light years</a> and lies about 1,500 light years away.",
+    "date": "2026-02-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg",
+    "service_version": "v1",
+    "copyright": "Robert G. Lyons (Robservatory)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg"
   }
 }
