@@ -325,5 +325,15 @@
     "copyright": "Robert G. Lyons (Robservatory)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg"
+  },
+  "2026-02-03": {
+    "title": "Red Spider Planetary Nebula from Webb",
+    "credit": "ESA/Webb, NASA & CSA, J. H. Kastner (RIT)",
+    "explanation": "<b>  </b> \nOh what a\n<a href=\"http://www.bartleby.com/100/338.25.html\">tangled web</a>\na <a href=\"https://en.wikipedia.org/wiki/Planetary_nebula\">planetary nebula</a> can weave. \n\nThe <a href=\"ap980106.html\">Red Spider Planetary Nebula</a>\nshows the complex structure that can result when a\n<a href=\"ap251207.html\">normal star</a> ejects\nits outer gases and becomes a\n<a href=\"ap000910.html\">white dwarf</a> star.\n\nOfficially tagged\n<a href=\"http://spider.seds.org/ngc/ngc.html\">NGC</a>\n<a href=\"http://en.wikipedia.org/wiki/Red_Spider_Nebula\">6537</a>, this two-lobed symmetric \n<a href=\"planetary_nebulae.html\">planetary nebula</a>\nhouses one of the\n<a href=\"ap231224.html\">hottest white dwarfs</a> ever observed,\nprobably as part of a <a href=\"binary_stars.html\">binary star</a> system. \n\nInternal <a href=\"https://science.nasa.gov/sun/what-is-the-solar-wind/\">winds</a> flowing out from the central stars,\nhave been measured in excess of 1,000 kilometers per second.\n\nThese\n<a href=\"ap200121.html\">winds</a> expand the\nnebula, flow along the nebula's walls, and cause waves of hot\n<a href=\"http://periodic.lanl.gov/1.shtml\">gas</a> and\n<a href=\"ap030706.html\">dust</a> to collide. \n\n<a href=\"https://en.wikipedia.org/wiki/Atom\">Atoms</a>\ncaught in these colliding shocks radiate light shown in the\n\n<a href=\"https://esawebb.org/images/potm2510a/\">featured</a> false-color \n<a href=\"https://science.nasa.gov/ems/07_infraredwaves/\">infrared</a> picture by the \n<a href=\"https://science.nasa.gov/mission/webb/\">James Webb Space Telescope</a>. \n\nThe\n<a href=\"https://ui.adsabs.harvard.edu/abs/2000A%26A...362L..17P/abstract\">Red Spider Nebula</a> lies toward the <a href=\"https://spaceplace.nasa.gov/constellations/\">constellation</a> of the Archer \n(<a href=\"http://www.astronomical.org/constellations/sgr.html\">Sagittarius</a>).  \n\nIts distance is not well known but has been\n<a href=\"https://media.tenor.com/x6G8GKIQPcUAAAAe/thinking-cat.png\">estimated by some</a> to be about 4,000 <a href=\"https://science.nasa.gov/exoplanets/what-is-a-light-year/\">light-years</a>.",
+    "date": "2026-02-03",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg"
   }
 }
