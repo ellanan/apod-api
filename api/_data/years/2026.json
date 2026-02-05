@@ -345,5 +345,15 @@
     "copyright": "Daniel Stern",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg"
+  },
+  "2026-02-05": {
+    "title": "NGC 1275 in the Perseus Cluster",
+    "explanation": "<b>  </b> \n\n<a href=\"http://en.wikipedia.org/wiki/Active_galactic_nucleus\">Active galaxy</a>\nNGC 1275 is the central, dominant member of the large and\nrelatively nearby\n<a href=\"ap090508.html\">Perseus Cluster of Galaxies</a>.\n\nWild-looking at visible wavelengths, the active galaxy is also a\nprodigious source of\n<a href=\"https://chandra.harvard.edu/xray_astro/history.html\">x-rays</a>\nand\n<a href=\"https://public.nrao.edu/radio-astronomy/the-science-of-radio-astronomy/\">radio</a>\nemission.\n\nNGC 1275 accretes matter as entire galaxies fall into it, ultimately\nfeeding a supermassive black hole at the galaxy's core.\n\nNarrowband image data used in this sharp telescopic image\nhighlights the resulting\n<a href=\"ap030505.html\">galactic debris</a>\nand <a href=\"ap050725.html\">filaments</a> of glowing gas,\nsome up to 20,000 light-years long.\n\n<a href=\"https://hubblesite.org/contents/news-releases/2008/news-2008-28.html\">The filaments persist</a>\nin NGC 1275, even though\nthe turmoil of galactic collisions should destroy them.\n \nWhat keeps the filaments together?\n\n<a href=\"http://arxiv.org/abs/0808.2712\">Observations</a>\nindicate that the structures, pushed out\nfrom the galaxy's center by the black hole's activity, are\nheld together by magnetic fields.\n\nAlso known as <a href=\"https://en.wikipedia.org/wiki/Perseus_(constellation)\">Perseus</a> A,\nNGC 1275 itself spans over 100,000 light years and\nlies about 230 million light years away.",
+    "date": "2026-02-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster.jpg",
+    "service_version": "v1",
+    "copyright": "Michal Wierzbinski, Hellas-Sky",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg"
   }
 }
