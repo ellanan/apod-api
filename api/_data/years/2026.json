@@ -365,5 +365,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg"
+  },
+  "2026-02-07": {
+    "title": "Crescent Enceladus",
+    "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
+    "explanation": "<b>  </b> \n\nPeering from the shadows, the\nSaturn-facing hemisphere of\n<a href=\"ap200427.html\">tantalizing inner moon Enceladus</a>\nposes in this Cassini spacecraft image.\n\n<a href=\"ap151021.html\">North</a> is up in\n<a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA20522\">the\ndramatic scene</a> captured during November 2016 as\nCassini's camera was pointed in a nearly sunward direction\nabout 130,000 kilometers from the moon's bright crescent.\n\nIn fact, the distant world reflects over 90 percent of the sunlight\nit receives, giving its surface about the same reflectivity as\n<a href=\"ap050224.html\">fresh snow</a>.\n\nA mere 500 kilometers in diameter,\n<a href=\"https://eyes.nasa.gov/apps/solar-system/#/story/enceladus_discovery?slide=slide_1\">Enceladus is a surprisingly</a>\nactive moon.\n\nData and images collected during Cassini's flybys have revealed\nwater vapor and ice grains spewing\nfrom south polar geysers and evidence of an\n<a href=\"https://www.nasa.gov/missions/cassini/nasa-study-finds-life-sparking-energy-source-and-molecule-at-enceladus/\">ocean of liquid water hidden beneath</a>\nthe moon's icy crust.",
+    "date": "2026-02-07",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladus.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg"
   }
 }
