@@ -375,5 +375,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg"
+  },
+  "2026-02-08": {
+    "title": "Active Sunspot Region 4366 Crosses the Sun",
+    "explanation": "<b>  </b> \nAn unusually active sunspot region is now crossing the Sun. \n\nThe region, labelled \n<a href=\"https://www.spaceweather.gov/news/x42-flare-region-4366\">AR 4366</a>, is much larger than the Earth and has \n<a href=\"https://www.space.com/astronomy/sun/sun-unleashes-extraordinary-solar-flare-barrage-as-new-volatile-sunspot-turns-toward-earth\">produced several powerful</a> solar \n<a href=\"ap180902.html\">flare</a>s over the past ten days. \n\nIn the featured image, the region is marked by large and dark \n<a href=\"https://science.nasa.gov/sun/sunspots/\">sunspots</a> \ntoward the upper right of the Sun's disk.\n\nThe image captured the Sun over a hill in \n<a href=\"https://youtu.be/JiIIAFeW56E\">Zacatecas</a>, \n<a href=\"https://en.wikipedia.org/wiki/Mexico\">Mexico</a>, 5 days ago. \n\nAR 4366 has become a candidate for the most active solar region in this entire 11-year \n<a href=\"https://en.wikipedia.org/wiki/Solar_cycle_25\">solar cycle</a>. \n\n<a href=\"ap141022.html\">Active solar regions</a> \nare frequently associated with increased \n<a href=\"ap240522.html\">auroral activity</a> on the \n<a href=\"https://science.nasa.gov/earth/facts/\">Earth</a>. \n\nNow reaching the edge, \n<a href=\"https://www.spaceweather.com/archive.php?view=1&amp;day=04&amp;month=02&amp;year=2026\">AR 4366</a> will begin facing away from the \nEarth during the coming week.\n\nIt is <a href=\"https://www.shitpostbot.com/img/sourceimages/cat-shrug-57b2eabb4e8db.jpeg\">not known</a>, though, if the active region will survive long enough to reappear in about two weeks' time, as the \n<a href=\"ap200819.html\">Sun rotates</a>.",
+    "date": "2026-02-08",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg",
+    "service_version": "v1",
+    "copyright": "Daniel Korona",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg"
   }
 }
