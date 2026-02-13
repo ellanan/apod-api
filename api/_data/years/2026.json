@@ -426,5 +426,15 @@
     "copyright": "Olaf Filzinger",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg"
+  },
+  "2026-02-13": {
+    "title": "NGC 147 and NGC 185",
+    "explanation": "<b>  </b> \n\nDwarf galaxies\n<a href=\"https://www.nasa.gov/feature/goddard/caldwell-17\">NGC 147</a>\n(left) and\n<a href=\"https://www.nasa.gov/feature/goddard/caldwell-18\">NGC 185</a>\nstand side by side in this deep telescopic portrait.\n\nThe two are not-often-imaged satellite galaxies of M31, the\n<a href=\"ap181217.html\">great spiral Andromeda Galaxy</a>,\nsome 2.5 million light-years away.\n\nTheir separation on the sky, less than one degree across a pretty\nfield of view toward the constellation Cassiopeia,\ntranslates to only about 35 thousand light-years at\nAndromeda's distance, but Andromeda itself is found well outside this frame.\n\nBrighter and more famous satellite galaxies of Andromeda,\n<a href=\"ap200925.html\">M32 and M110</a>, are\nseen much closer to the great spiral.\n\n<a href=\"https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.1764H/abstract\">NGC\n147 and NGC 185</a>\nhave been identified as binary galaxies, forming\na gravitationally stable binary system.\n\nBut recently discovered faint\n<a href=\"https://arxiv.org/abs/1511.08289\">dwarf galaxy Cassiopeia II</a>\nalso seems to\nbe part of their system, forming a gravitationally bound group\nwithin Andromeda's intriguing population of small\n<a href=\"https://astrobites.org/2013/01/26/the-curious-case-of-andromedas-satellites/\">satellite galaxies</a>.",
+    "date": "2026-02-13",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/N147N185.png",
+    "service_version": "v1",
+    "copyright": "Chuck Ayoub",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/N147N1851024.png"
   }
 }
