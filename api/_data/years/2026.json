@@ -436,5 +436,15 @@
     "copyright": "Chuck Ayoub",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/N147N1851024.png"
+  },
+  "2026-02-14": {
+    "title": "Roses are Red",
+    "explanation": "<b>  </b> \n\nRoses are red, nebulas are too, and this Valentine's gift is a\nstunning view!\n\nPictured is a loving look at the\n<a href=\"https://science.nasa.gov/asset/hubble/rosette-nebula-context-image/\">Rosette Nebula</a>\n(<a href=\"ap960214.html\">NGC 2237</a>):\na cosmic bloom of bright young stars sitting atop a\nstem of glowing hot gas.\n\nThe rose’s blue-white speckles are among the\n<a href=\"https://apod.nasa.gov/apod/ap070726.html\">most luminous stars in the galaxy</a>,\nwith some burning millions of times brighter than the Sun.\n\nTheir <a href=\"https://esahubble.org/wordbank/stellar-wind/\">stellar winds</a>\nsculpt the famed rose shape by pushing gas and dust away from the center.\n\nThough only a few million years old, these massive stars are\nalready nearing the\n<a href=\"https://science.nasa.gov/universe/the-lives-times-and-deaths-of-stars/\">end of their lives</a>,\nwhile dimmer stars embedded in the nebula will burn for billions\nof years to come.\n\nThe vibrant red hue comes from\n<a href=\"https://science.nasa.gov/mission/webb/science-overview/science-explainers/spectroscopy-101-how-absorption-and-emission-spectra-work/\">hydrogen gas</a>,\nionized by the\n<a href=\"https://astronomy.swin.edu.au/cosmos/*/Ultraviolet\">ultraviolet light from the young stars</a>.\n\nThe rose’s blue-white center is\n<a href=\"https://science.nasa.gov/ems/04_energytoimage/\">color-mapped</a> to indicate the presence of similarly ionized oxygen.\n\nThe Rosette Nebula reminds us of the beauty and transformation\nwoven into the fabric of the universe.",
+    "date": "2026-02-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg",
+    "service_version": "v1",
+    "copyright": "Raffaele Calcagno Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg"
   }
 }
