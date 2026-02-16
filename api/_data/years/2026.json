@@ -456,5 +456,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg"
+  },
+  "2026-02-16": {
+    "title": "Unexplained Shocks Around a White Dwarf Star",
+    "credit": "ESO, K. Iłkiewicz & S. Scaringi et al.; Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b> \nHow is RXJ0528+2838 creating such shock waves? \n\nA recently discovered \n<a href=\"https://science.nasa.gov/universe/stars/types/#white-dwarfs\">white dwarf star</a>, \nthe farther left of the two largest white spots, \n<a href=\"https://www.science.org/content/article/scientists-spot-never-seen-shock-wave-around-dead-star\">RXJ0528+2838</a>, \nwas found 730 \n<a href=\"https://spaceplace.nasa.gov/light-year/\">light-years</a> away from \n<a href=\"ap170709.html\">Earth</a>. \n\nMost stars, when \n<a href=\"https://science.nasa.gov/universe/stars/#death\">done</a> fusing nuclei in their cores for energy, become \n<a href=\"https://en.wikipedia.org/wiki/Red_giant\">red giant</a> stars, the cores of which \n<a href=\"ap260123.html\">live on</a> as faint dense \n<a href=\"https://en.wikipedia.org/wiki/White_dwarf\">white dwarfs</a> that slowly cool down for the rest of time. \n\nWhite dwarfs are so dense that the \nonly thing that stops them from collapsing further is \n<a href=\"https://en.wikipedia.org/wiki/Quantum_mechanics\">quantum mechanics</a>.\n\nIn about 5 billion years, \n<a href=\"ap260208.html\">our Sun</a> will become a \n<a href=\"ap231224.html\">white dwarf</a>, too. \n\nThe <a href=\"https://www.eso.org/public/images/eso2601b/\">featured image</a>, obtained with the \n<a href=\"https://www.eso.org/public/about-eso/\">European Southern Observatory</a>’s \n<a href=\"https://www.eso.org/public/teles-instr/paranal-observatory/vlt/\">Very Large Telescope</a>, shows unexplained \n<a href=\"https://science.nasa.gov/science-research/astrophysics/cosmic-bow-shocks/\">bow shocks</a> around RXJ0528+2838, similar to the \n<a href=\"https://www.britannica.com/science/bow-wave\">bow wave of water</a> around a fast-moving ship.\n\nAstronomers \n<a href=\"https://media.istockphoto.com/id/509119713/photo/weimaraner-with-head-cocked.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=FMXNT4yye2_I5n5Z8ZGJZxlYnosXXw9xPcUQ1FtATdM=&quot;\">don’t yet know</a> what is powering \n<a href=\"https://www.nature.com/articles/s41550-025-02748-8\">these shocks</a>, which have existed for at least 1,000 years. \n\nThe red, green and blue colors represent trace amounts of glowing \n<a href=\"https://astrobiology.nasa.gov/news/deep-hydrogen/\">hydrogen</a>, \n<a href=\"https://periodic.lanl.gov/7.shtml\">nitrogen</a> and \n<a href=\"https://science.nasa.gov/universe/exoplanets/oxygen-on-exoplanets-isnt-proof-of-life/\">oxygen</a> gas.",
+    "date": "2026-02-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg"
   }
 }
