@@ -466,5 +466,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg"
+  },
+  "2026-02-17": {
+    "title": "Tails of Comet Wierzchoś",
+    "explanation": "<b>  </b> \nSome \n<a href=\"https://science.nasa.gov/solar-system/comets/\">comets</a> are \n<a href=\"ap240808.html\">regular guests</a> of our solar neighborhood; \nothers come by only once, never to return. \n\nWe won’t have another chance to see \n<a href=\"https://en.wikipedia.org/wiki/C/2024_E1_(Wierzcho%C5%9B)\">Comet C/2024 E1 (Wierzchoś</a>), \nwhich is currently making its way through the inner \n<a href=\"https://science.nasa.gov/solar-system/\">Solar System</a>. \n\nThe <a href=\"https://en.wikipedia.org/wiki/Hyperbolic_trajectory\">hyperbolic orbit</a> of this comet \n<a href=\"https://cosmoquest.org/x/365daysofastronomy/2026/01/18/jan-18th-ultra-distant-comet-c-2024-e1-wierzchos/\">indicates that</a> \nit will likely become an interstellar traveler. \n\nComet Wierzchoś is \n<a href=\"https://astro.vanbuitenen.nl/comet/2024E1\">today</a> near its closest approach to the Earth, passing roughly the \n<a href=\"https://en.wikipedia.org/wiki/Astronomical_unit\">same distance</a> from the \n<a href=\"ap220206.html\">Earth</a> as is the \n<a href=\"https://science.nasa.gov/sun/\">Sun</a>. \n\nThe featured 30-minute exposure was taken last week in \n<a href=\"https://en.wikipedia.org/wiki/Chile\">Chile</a> \nand shows a 5-degree long \n<a href=\"https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg\">ion tail</a> as well as three shorter \n<a href=\"ap250126.html\">dust tails</a>. \n\nThe <a href=\"https://www.science.org/content/article/why-do-some-comets-glow-green\">green hue</a> of the \n<a href=\"https://www.esa.int/ESA_Multimedia/Images/2023/11/Structure_of_a_comet\">coma</a> comes from the breakdown of \n<a href=\"https://en.wikipedia.org/wiki/Diatomic_carbon\">dicarbon</a> molecules by sunlight, \nbut that process does \n<a href=\"https://pbs.twimg.com/media/BUCOEePIcAAht9h.jpg\">not last long</a> enough to also \n<a href=\"https://www.pnas.org/doi/full/10.1073/pnas.2113315118\">tinge the tails</a>. \n\nOn the far right lies a \n<a href=\"https://science.nasa.gov/universe/galaxies/types/\">spiral galaxy</a> far in the distance: \n<a href=\"ap241202.html\">NGC 300</a>.",
+    "date": "2026-02-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1280.jpg",
+    "service_version": "v1",
+    "copyright": "José J. Chambó; Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg"
   }
 }
