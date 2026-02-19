@@ -486,5 +486,15 @@
     "copyright": "Piotr Czerski",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg"
+  },
+  "2026-02-19": {
+    "title": "IC 2574: Coddington's Nebula",
+    "explanation": "<b>  </b> \n\n<a href=\"ap210813.html\">Grand spiral galaxies</a>\noften seem to get all the glory, flaunting\ntheir young, bright, blue star clusters in beautiful,\nsymmetric <a href=\"ap080517.html\">spiral</a> arms.\n\nBut small, irregular galaxies form stars too.\n\nIn fact, \n<a href=\"https://app.astrobin.com/u/Dane_Vetter?i=xti9o5\">dwarf galaxy IC 2574 shows</a>\nclear <a href=\"http://arxiv.org/abs/0808.0193\">evidence</a>\nof intense star forming activity in its telltale reddish\nregions of glowing hydrogen gas.\n\nJust as in spiral galaxies, the\n<a href=\"ap240627.html\">turbulent</a> star-forming regions\nin IC 2574 are churned by\n<a href=\"ap250203.html\">stellar winds</a> and\nsupernova explosions spewing material into the\ngalaxy's interstellar medium and\n<a href=\"ap111120.html\">triggering</a> further star formation.\n\nA mere 12 million light-years distant, IC 2574 is part of the\nM81 group of galaxies, seen toward the northern\nconstellation Ursa Major.\n\nAlso known as Coddington's Nebula, the faint but intriguing\n<a href=\"https://history.aip.org/exhibits/cosmology/ideas/island.htm\">island\nuniverse</a>\nis about 50,000 light-years across, discovered by\nAmerican astronomer Edwin Coddington in 1898.",
+    "date": "2026-02-19",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg",
+    "service_version": "v1",
+    "copyright": "Dane Vetter",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg"
   }
 }
