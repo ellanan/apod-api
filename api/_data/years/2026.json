@@ -556,5 +556,15 @@
     "copyright": "ESA/Hubble & NASA, B. Balick (U. Washington)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg"
+  },
+  "2026-02-26": {
+    "title": "Webb and Hubble: IC 5332",
+    "credit": "ESA/Webb, NASA, CSA, J. Lee and the PHANGS-JWST and PHANGS-HST Teams Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b> \n\nWhat does the universe look like through\n<a href=\"https://www.wikihow.com/Build-Near-Infrared-Goggles\">infrared goggles</a>?\n\nOur eyes can only see\n<a href=\"https://science.nasa.gov/ems/09_visiblelight/\">visible light</a>,\nbut astronomers want to see more.\n\nToday’s APOD shows\n<a href=\"https://science.nasa.gov/universe/galaxies/types/\">spiral galaxy</a>\n<a href=\"https://en.wikipedia.org/wiki/IC_5332\">IC 5332</a>\nas seen by two\n<a href=\"https://www.nasa.gov/\">NASA</a>\ntelescopes:\n<a href=\"https://science.nasa.gov/mission/webb/\">Webb</a> in\nmid-<a href=\"https://science.nasa.gov/ems/07_infraredwaves/\">infrared</a>\nand <a href=\"https://science.nasa.gov/mission/hubble/\">Hubble</a> in\n<a href=\"https://science.nasa.gov/ems/10_ultravioletwaves/\">ultraviolet</a>\nand visible light.\n\nTo toggle between the two space-based views just slide your cursor over\nthe image\n(or follow <a href=\"image/2602/IC5332hubble2209b_1024.jpg\">this link</a>).\n\nThe Hubble image highlights the\n<a href=\"https://en.wikipedia.org/wiki/Spiral_arm\">spiral arms</a>\nof the galaxy separated by\n<a href=\"https://images.unsplash.com/photo-1581928520011-5668fdbc091f?q=80&amp;w=2234&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D4\">dark</a>\nregions, whereas the Webb image reveals a finer, more tangled structure.\n<a href=\"https://science.nasa.gov/universe/be-glad-you-dont-have-to-dust-in-space/\">Interstellar dust</a>\nscatters and absorbs light from the stars in the galaxy,\ncausing the\n<a href=\"https://apod.nasa.gov/apod/ap251106.html\">dark dust lanes</a>\nin the Hubble image, and then emits heat in infrared light, so dust\n<a href=\"https://science.nasa.gov/mission/webb/science-overview/science-explainers/infrared-astronomy/\">glows</a>\nin this Webb image.\n\nThe\n<a href=\"https://science.nasa.gov/mission/webb/mid-infrared-instrument-miri/\">Mid-InfraRed Instrument</a>\non Webb needs to operate at a chilling temperature of\n-266ºC (or - 447ºF), otherwise it would detect infrared radiation from\nthe telescope itself.\n<a href=\"https://esawebb.org/images/comparisons/potm2209a/\">Combining</a>\nthese observations,\n<a href=\"https://phangs.stsci.edu\">astronomers</a>\nconnect the “small scale” of gas and stars to the truly large scale of\ngalactic structure and evolution.",
+    "date": "2026-02-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/potm2209c.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/IC5332webb2209c_1024.jpg"
   }
 }
