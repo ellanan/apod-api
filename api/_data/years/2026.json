@@ -622,5 +622,15 @@
     "copyright": "Peter Bresseler; Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg"
+  },
+  "2026-03-05": {
+    "title": "Total Lunar Eclipse over Tsé Bit'a'í",
+    "explanation": "<b>  </b> \n\nEarlier this week, Earth’s shadow swept across the full <a href=\"https://science.nasa.gov/moon/\">Moon</a> in the year’s only\n<a href=\"https://science.nasa.gov/moon/eclipses/\">total lunar eclipse</a>.\n\nThis stunning sequence combines images showing the Moon’s path across the night sky. \n\nEach lunar image captures our planet’s shadow gradually engulfing the Moon, culminating in its red glow. \n\nSunlight <a href=\"https://science.nasa.gov/ems/03_behaviors/\">scatters and refracts</a> as it passes through Earth’s atmosphere toward the Moon.\n\nShorter wavelength light (blue and green) <a href=\"https://www.youtube.com/watch?v=l-2ekH1QPpY\">scatters more efficiently</a>, leaving\n<a href=\"ap250911.html\">red, orange, and yellow hues</a> to paint the lunar surface.\n\n<a href=\"https://discovernavajo.com/shiprock-peak/\">Tsé Bit'a'í</a> (”rock with wings”, also known as Shiprock), located in \n<a href=\"https://www.navajo-nsn.gov/\">Navajo Nation</a>, provides a powerful \n<a href=\"https://newmexiconomad.com/shiprock/\">volcanic</a> foreground central to this photo and \n<a href=\"https://nativememoryproject.org/story/shiprock-the-monster-birds/\">to stories of Navajo origin, adventure, and heroism</a>.\n\nAs the first full moon of the <a href=\"https://asia.si.edu/whats-on/events/celebrations/lunar-new-year-celebration/\">lunar new year</a>, this eclipse held significance across cultures.\n\n<a href=\"https://www.skyatnightmagazine.com/news/march-2026-blood-moon-lunar-eclipse-pictures\">Visible from East Asia to North America</a>, this eclipse united observers across great distances, a cosmic reminder that we share the same sky.",
+    "date": "2026-03-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg",
+    "service_version": "v1",
+    "copyright": "Satoru Murata; Text: Keighley Rockcliffe (NASA GSFC, UMCP, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg"
   }
 }
