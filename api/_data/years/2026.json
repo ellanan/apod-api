@@ -632,5 +632,15 @@
     "copyright": "Satoru Murata; Text: Keighley Rockcliffe (NASA GSFC, UMCP, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg"
+  },
+  "2026-03-06": {
+    "title": "The Astrosphere of HD 61005",
+    "credit": "X-ray: NASA / CXC / Johns Hopkins Univ. / C.M. Lisse et al.; Infrared: NASA / ESA / STIS; Optical: NSF / NoirLab / CTIO / DECaPS2 Processing: NASA / CXC / SAO / N. Wolk - Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b> \n\nDo young stars blow bubbles?\n\nThe larger view shows a stellar field observed with the\n<a href=\"https://noirlab.edu/public/programs/ctio/\">Cerro Tololo Inter-American Observatory</a>\nin Chile, and the inset highlights\n<a href=\"https://en.wikipedia.org/wiki/HD_61005\">HD 61005</a>,\na star like our <a href=\"https://science.nasa.gov/sun/\">Sun</a>,\nonly 120 <a href=\"https://www.youtube.com/watch?v=MX3PIkbTQwQ\">light-years</a>\naway.\n\nMuch\n<a href=\"https://spaceplace.nasa.gov/sun-age/en/\">younger</a>\nthan the Sun, at just about 100 million years old, it blows a fast and dense\n<a href=\"https://esahubble.org/wordbank/stellar-wind/\">stellar wind</a>\nthat pushes out the cooler dust and gas that\n<a href=\"https://en.wikipedia.org/wiki/Interstellar_medium\">surrounds</a> it,\nforming a bubble called an <i>astrosphere</i>.\n\nThe star-blown bubble was\n<a href=\"https://chandra.si.edu/press/26_releases/press_022326.html\">detected</a>\nwith the\n<a href=\"https://www.nasa.gov/mission/chandra-x-ray-observatory/\">Chandra\nX-ray Observatory</a>,\nand it has a diameter roughly 200 times the\n<a href=\"https://en.wikipedia.org/wiki/Astronomical_unit\">Earth-Sun distance</a>.  \n\nOur Sun has a bubble too, called the\n<a href=\"https://science.nasa.gov/heliophysics/focus-areas/heliosphere/\">heliosphere</a>, which\n<a href=\"ap120908.html\">protects</a> the planets from\n<a href=\"https://www.iaea.org/newscenter/news/cosmic-radiation-why-we-should-not-be-worried\">cosmic radiation</a>.\n\nAlso shown in the inset is\n<a href=\" https://science.nasa.gov/missions/hubble/hubble-surveys-debris-strewn-exoplanetary-construction-yards/\">debris</a>\nleft behind from star formation, observed by\n<a href=\"https://science.nasa.gov/mission/hubble/\">Hubble</a>.\n\nThe debris appears as\n<a href=\"https://free-images.com/lg/df34/pelikan_wing_span_water.jpg\">wings</a>,\ngiving the star its nickname: the\n<a href=\"https://science.nasa.gov/asset/hubble/hubble-catches-a-dusty-moth/\">Moth</a>.",
+    "date": "2026-03-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg"
   }
 }
