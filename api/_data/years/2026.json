@@ -662,5 +662,15 @@
     "copyright": "Alyn Wallace",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg"
+  },
+  "2026-03-09": {
+    "title": "The Cranium Nebula from the Webb Telescope",
+    "credit": "NASA, ESA, CSA, STScI; Processing: J. DePasquale (STScI)",
+    "explanation": "<b>  </b> \nWhat's going on inside the head of this nebula? \n\nDubbed the Exposed \n<a href=\"https://science.nasa.gov/missions/webb/nasas-webb-examines-cranium-nebula/\">Cranium Nebula</a> for its similarity to the <a href=\"https://en.wikipedia.org/wiki/Human_brain#/media/File:Visible_Human_head_slice.jpg\">human brain</a>, \nwhat created the nebula remains a mystery. \n\nOne thought is that the Cranium Nebula, also known as PMR 1, is a \n<a href=\"https://en.wikipedia.org/wiki/Planetary_nebula\">planetary nebula</a> surrounding a \n<a href=\"https://science.nasa.gov/photojournal/pj-white-dwarf-stars/\">white dwarf star</a>.\n\nIn this mode, the outer atmosphere was expelled when the original \n<a href=\"https://en.wikipedia.org/wiki/Stellar_evolution#Mid-sized_stars\">Sun-like star</a> ran out of \n<a href=\"https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html\">central nuclear fuel</a> and contracted.\n\nA competing thought is that the central star is much more massive, \npossibly a \n<a href=\"ap250203.html\">Wolf-Rayet star</a>, \nthat is ejecting gas and \n<a href=\"https://science.nasa.gov/universe/dust-in-the-stellar-wind-a-cosmological-primer/\">dust</a> via turbulent \n<a href=\"ap000318.html\">stellar wind</a>s. \n\nAdding to the \n<a href=\"https://www.reddit.com/r/aww/comments/sf84rb/does_anyone_elses_dog_tilt_their_head_when_they/#lightbox\">intrigue</a> is the dark vertical central division \nand the thin outer gaseous shell. \n\nThe <a href=\"https://esawebb.org/images/weic2605a/\">featured image</a> was taken by the \n<a href=\"https://science.nasa.gov/mission/webb/\">Webb Space Telescope</a> in \n<a href=\"https://celliant.com/pulse/all/infrared-light/\">mid</a>-\n<a href=\"https://science.nasa.gov/ems/07_infraredwaves/\">infrared</a> light, while a second image, included as a rollover, \nis in near-<a href=\"https://en.wikipedia.org/wiki/Infrared\">infrared</a>. \n\nFuture observations may reveal if this brainy system \nwill quietly just fade from view or, many years from now, \nsuddenly erupt in a powerful \n<a href=\"https://youtu.be/wymMn-SmALY\">supernova</a>.",
+    "date": "2026-03-09",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/Cranium_Webb_8832.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg"
   }
 }
