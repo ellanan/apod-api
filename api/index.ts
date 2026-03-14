@@ -146,11 +146,11 @@ export default async (request: VercelRequest, response: VercelResponse) => {
               console.log(
                 `error getting data for ${interval.start.toISODate()}`
               );
-              if (e.response?.status === 404) {
+              if (e.response?.status === 404 || e.code === 'ETIMEDOUT' || e.code === 'ENOTFOUND' || e.code === 'ENETUNREACH') {
                 // this day's data isn't available yet
                 return null;
               }
-              // throw expected error back up
+              // throw unexpected error back up
               throw e;
             });
           })
