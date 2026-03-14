@@ -692,5 +692,24 @@
     "copyright": "William Vrbasso Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg"
+  },
+  "2026-03-12": {
+    "title": "A Near-Full Rotation of Uranus",
+    "credit": "ESA/Webb, NASA, CSA, STScI, P. Tiranti, H. Melin, M. Zamani (ESA/Webb) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "explanation": "<b>  </b> \n\n<a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_maps_Uranus_s_mysterious_upper_atmosphere\">For the first time</a>\nwe are witnessing outer planet\n<a href=\"https://science.nasa.gov/uranus/\">Uranus</a> \ntake center stage and\n<a href=\"https://tenor.com/kkzN22NnPWc.gif\">pirouette</a>.\n\nUranus is one of the Solar System’s strangest planets, \n<a href=\"ap250914.html\">lying on its side</a> \nand spinning like a \n<a href=\"https://tinyurl.com/rotisserie-chicken\">rotisserie chicken</a>.\n\nThe featured video is composed of over 1000 \n<a href=\"https://science.nasa.gov/mission/webb/science-overview/science-explainers/spectroscopy-101-types-of-spectra-and-spectroscopy/\">spectra</a> \ntaken over 15 hours of continuous viewing by \n<a href=\"https://science.nasa.gov/mission/webb/nirspec/\">JWST's NIRSpec instrument</a>\nwhile Uranus rotates.\n\nThe data captures the behavior of Uranus’s \n<a href=\"https://www.sciencedirect.com/topics/earth-and-planetary-sciences/planetary-ionosphere\">ionosphere</a>:\nthe ionized layer of a planet’s atmosphere that strongly interacts with \n<a href=\"https://astrobites.org/2020/12/11/a-tour-of-solar-system-magnetospheres/\">the planet's magnetic field</a>.\n\nThe aurora’s rosy glow traces the complex interplay between \n<a href=\"https://www.planetary.org/space-images/the-magnetic-fields-of-uranus-and-neptune\">Uranus's misaligned rotation and magnetic axes</a>.\n\nClouds can be seen as bright spots traveling across the ice giant. The blue-to-red colors represent low-to-high altitudes, showing\n<a href=\"https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119304\">a brand new three-dimensional view</a> \ninto how energy is distributed throughout the planet’s atmosphere. In the image on the left, everything is framed by \n<a href=\"ap971126.html\">the rings of Uranus</a>.\n\nThis is the most detailed look into the atmosphere of Uranus achieved yet!",
+    "date": "2026-03-12",
+    "service_version": "v1",
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/3jsn1829OPw?rel=0"
+  },
+  "2026-03-13": {
+    "title": "Toolondo Totality Trails",
+    "explanation": "<b>  </b> \n\nIn this composited night skyscape, stacked exposures trace graceful\nstar trails above Lake Toolondo, Victoria,\nAustralia, planet Earth.\n\nCaptured while the\n<a href=\"https://science.nasa.gov/moon/eclipses/\">lunar eclipse</a>\nof March 3 was\n<a href=\"https://svs.gsfc.nasa.gov/5604\">in progress</a>,\nthe exposures used were made during the hour-long\n<a href=\"ap260307.html\">total eclipse phase</a>.\n\nSo faint star trails are easily visible along with \nthe trail of the reddened Moon in the\n<a href=\"ap260305.html\">eclipse-darkened skies</a>\nabove the lake and trees.\n\nOf course, the apparent motion of Moon and stars revealed in the\ntimelapse composite\n<a href=\"ap230922.html\">reflect</a> the\nEarth's daily rotation\n<a href=\"ap240817.html\">around its axis</a>.\n\nDramatically punctuating the Moon's trail as totality ended,\na single, separate telephoto image of the totally eclipsed Moon was scaled and\nblended into the scene.",
+    "date": "2026-03-13",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia1600.jpg",
+    "service_version": "v1",
+    "copyright": "Jason Perry",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg"
   }
 }
