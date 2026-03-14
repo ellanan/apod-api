@@ -711,5 +711,15 @@
     "copyright": "Jason Perry",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg"
+  },
+  "2026-03-14": {
+    "title": "A Year for K2-315b",
+    "credit": "NASA Ames/JPL-Caltech/T. Pyle, Christine Daniloff, MIT",
+    "explanation": "<b>  </b> \n\nWant to visit a planet that has 3.14 days in a year?\n\nThen plan a trip to K2-315b, an earth-sized planet orbiting around\na cool, red, M dwarf star about once every 3.14 days.\n\n<a href=\"https://ui.adsabs.harvard.edu/abs/2020AJ....160..172N/abstract\">The exoplanet's discovery</a>,\nbased on publicly available data\nfrom the planet-hunting\n<a href=\"https://science.nasa.gov/mission/kepler/\">Kepler Space Telescope's</a>\nextended K2 mission, was announced in 2020.\n\nK2-315b's measured orbital period in days is nearly equal to the\n<a href=\"https://science.nasa.gov/learning-resources/10-ways-to-celebrate-pi-day-with-nasa-on-march-14/#hds-sidebar-nav-9\">extremely</a>\npopular <a href=\"https://apod.nasa.gov/htmltest/rjn_dig.html\">irrational</a>\nnumber Pi.\n\nThat\n<a href=\"https://science.nasa.gov/resource/orbits-and-keplers-laws/\">puts</a>\nthe exoplanet so close to its parent star that its\nsurface is likely very warm,\n<a href=\"https://news.mit.edu/2020/earth-sized-pi-planet-0921\">baking-hot in fact</a>.\n\nAnd this Pi planet is over 185 light-years away.\n\nSo instead of trying to arrange for an\n<a href=\"https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/\">interstellar vacation</a>\nto K2-315b, there may be easier and more comfortable ways for you to celebrate\n<a href=\"https://earthsky.org/human-world/pi-day-nasa-pi-day-challenge/\">Pi day on planet Earth</a>.",
+    "date": "2026-03-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg"
   }
 }
