@@ -59,7 +59,7 @@ async.eachLimit(
   async (interval, cb) => {
     await saveDataForDate(interval.start).catch((e) => {
       console.log(`error getting data for ${interval.start.toISODate()}`);
-      if (e.response.status === 404) {
+      if (e.response?.status === 404) {
         // this day's data isn't available yet
         return null;
       }

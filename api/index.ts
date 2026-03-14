@@ -1,4 +1,4 @@
-import _ from 'lodash';
+import _ from "lodash";
 // The VercelRequest and VercelResponse imports are types for the Request and Response objects
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { DateTime, Interval } from 'luxon';
@@ -69,6 +69,7 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
       data: dataDictionary[isoDate],
     };
   }
+
   // if a start_date and end_date are passed, return the data for that date range
   if (args.start_date && args.end_date) {
     const startIsoDate = validateDateParam(args.start_date, 'start_date');
@@ -84,6 +85,7 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
       ),
     };
   }
+
   // if start_date is passed, return the data for that date and all future days
   // if both start_date and limit are passed, return the data for that date and limit days
   if (args.start_date) {
@@ -98,6 +100,7 @@ function getData(args: OrignalAPIQueryParams & AdditionalQueryParams): {
       data: dailyData.slice(startingIndex, startingIndex + limit),
     };
   }
+
   // if count is passed, return a random subset of the data
   if (args.count) {
     return {
@@ -119,19 +122,20 @@ export default async (request: VercelRequest, response: VercelResponse) => {
 
     const daysSinceLastData = Interval.fromDateTimes(
       DateTime.fromISO(lastDayOfData),
-      DateTime.now().startOf('day')
-    ).length('days');
+      DateTime.now().startOf("day")
+    ).length("days");
 
     // handle the case where some data is missing
     if (daysSinceLastData >= 1) {
       console.log(
         `missing ${daysSinceLastData} days of data from ${lastDayOfData}`
       );
+
       // try to get the missing data from the last day of data
       const missingData = await Promise.all(
         Interval.fromDateTimes(
-          DateTime.fromISO(lastDayOfData).startOf('day').plus({ days: 1 }),
-          DateTime.now().endOf('day')
+          DateTime.fromISO(lastDayOfData).startOf("day").plus({ days: 1 }),
+          DateTime.now().endOf("day")
         )
           .splitBy({
             days: 1,
@@ -142,7 +146,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
               console.log(
                 `error getting data for ${interval.start.toISODate()}`
               );
-              if (e.response.status === 404) {
+              if (e.response?.status === 404) {
                 // this day's data isn't available yet
                 return null;
               }
@@ -182,7 +186,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
     response
       .status(200)
       .setHeader(
-        'Cache-Control',
+        "Cache-Control",
         `max-age=0, s-maxage=${
           cacheDurationMinutes * 60
         }, stale-while-revalidate=${cacheDurationMinutes * 60}` // cache could reuse a stale response while revalidating
