@@ -1,8 +1,11 @@
-name: Update Data Every 3 Hours
+name: Update Data
 
 on:
   schedule:
-    - cron: '15 */3 * * *'
+    # NASA typically publishes APOD between ~05:00-07:00 UTC
+    - cron: '0 6 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
