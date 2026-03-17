@@ -741,5 +741,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg"
+  },
+  "2026-03-17": {
+    "title": "The Tadpoles of IC 410",
+    "explanation": "<b>  </b> \n\n<a href=\"https://app.astrobin.com/u/nebulaphotos?i=07is4o\">This telescopic close-up</a>\nshows off the central regions of\notherwise faint emission nebula IC 410,\ncaptured under backyard skies.\n\n<a href=\"https://www.youtube.com/watch?v=okEPUA_k2xQ\">Presented</a>\nin a Hubble color palette,\nthe image combines visible broadband and narrowband data\nwith data from the near-infrared.\n\nBelow and right of center\nare two remarkable inhabitants of the interstellar pond of gas and dust.\nthe Tadpoles of IC 410.\n\nPartly obscured by foreground dust, the nebula itself surrounds\n<a href=\"http://arxiv.org/abs/1207.5632\">NGC 1893, a young</a>\ngalactic cluster of stars.\n\nFormed in the interstellar cloud a mere 4 million years ago, the\n<a href=\"ap070726.html\">intensely hot, bright</a>\ncluster stars energize the glowing gas.\n\nBut the cosmic tadpoles themselves are\ncomposed of denser cooler gas and dust.\n\nAround 10 light-years long they are likely sites of ongoing \n<a href=\"https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/\">star formation</a>.\n\nSculpted by stellar winds and radiation their heads are outlined by\n<a href=\"https://science.nasa.gov/missions/hubble/embryonic-stars-emerge-from-interstellar-eggs/\">bright ridges of ionized gas</a>\nwhile their tails trail away from the cluster's central young stars.\n\n<a href=\"ap240202.html\">IC 410</a> lies some 10,000 light-years away,\ntoward the <a href=\"ap140213.html\">nebula-rich constellation Auriga</a>.",
+    "date": "2026-03-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver.jpg",
+    "service_version": "v1",
+    "copyright": "Nico Carver",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg"
   }
 }
