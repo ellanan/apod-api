@@ -781,5 +781,15 @@
     "copyright": "Juan Carlos Casado (Starry Earth, TWAN)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg"
+  },
+  "2026-03-21": {
+    "title": "Galaxies in the River: NGC 1300 and NGC 1297",
+    "explanation": "<b>  </b> \n\nSpiral NGC 1300 and elliptical NGC 1297 are galaxies that\nlie on the banks of the southern constellation\n<a href=\"https://noirlab.edu/public/es/education/constellations/eridanus/?nocache=true\">Eridanus (The River)</a>.\n\nAt 70 million light-years distant or more,\nboth are members of the\n<a href=\"http://www.atlasoftheuniverse.com/galgrps/for.html\">Eridanus Galaxy Cluster</a>.\n\nAbout 100,000 light-years across, at lower left in this sharp,\ngalaxy group photo\n<a href=\"https://science.nasa.gov/asset/hubble/spiral-galaxy-ngc-1300/\">NGC 1300 is seen face-on</a>\nwith a prominent central bar and grand, sweeping spiral arms.\n\nLike other\n<a href=\"https://science.nasa.gov/universe/galaxies/types/#spiral-galaxies\">spiral galaxies</a>,\nincluding our own barred spiral Milky Way Galaxy, NGC 1300 is\nthought to have a supermassive central black hole.\n\nA contrast in appearance and slightly more distant, NGC 1297 is\nthe roughly spherical large\nelliptical galaxy near the top of the frame.\n\nWith little active star formation,\n<a href=\"https://science.nasa.gov/universe/galaxies/types/#elliptical-galaxies\">elliptical galaxies</a>\nare composed of older populations of stars and are likely \nhe result of multiple\n<a href=\"ap251204.html\">collisions and mergers</a> with spirals.",
+    "date": "2026-03-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB.jpg",
+    "service_version": "v1",
+    "copyright": "Dietmar Hager, Eric Benson",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg"
   }
 }
