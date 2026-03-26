@@ -827,5 +827,15 @@
     "copyright": "Rositsa Dimitrova Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg"
+  },
+  "2026-03-26": {
+    "title": "Black Holes and Neutron Stars: 218 Mergers and Counting",
+    "credit": "Ryan Nowicki, Bill Smith & Karan Jani Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b> \nWhat is the <a href=\"https://www.youtube.com/watch?v=QyDcTbR-kEA\">sound</a> of two black holes merging in deep space?\n\n<a href=\"https://www3.nasa.gov/specials/Quesst/science-of-sound.html\">Sound waves</a> don't propagate in vacuum, but <a href=\"https://en.wikipedia.org/wiki/Gravitational_wave\">gravitational waves</a> do.\n\nIn 2015 we were able to \"hear\" them for the <a href=\"ap160211.html\">first time</a> and confirm one of <a href=\"https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/\">Albert Einstein</a>'s theoretical predictions.\n\nEach <a href=\"https://www.youtube.com/watch?v=gT1VwCTe_90\">square</a> on the <a href=\"ap211207.html\">grid</a> of the <a href=\"https://www.ligo.caltech.edu/image/ligo20250826a\">featured image</a> represents one of the gravitational wave detections announced <a href=\"https://www.ligo.caltech.edu/WA/news/ligo20260305\">so far</a> by the <a href=\"https://www.ligo.caltech.edu/\">LIGO</a>-<a href=\"https://www.virgo-gw.eu/\">VIRGO</a>-<a href=\"https://gwcenter.icrr.u-tokyo.ac.jp/en/organization\">KAGRA</a> <a href=\"https://gcn.nasa.gov/missions/lvk\">Collaboration</a>.\n\nThese plots show how the binary pair accelerates in their <a href=\"ap160212.html\">orbit</a> around each other towards merger: the rising frequency effect is called a \"<a href=\"https://www.ligo.caltech.edu/video/ligo20160615v2\">chirp</a>\".\n\nAlthough there are significantly more <a href=\"https://science.nasa.gov/universe/neutron-stars-are-weird/\">neutron stars</a> than <a href=\"https://science.nasa.gov/universe/black-holes/\">black holes</a>, <a href=\"https://arxiv.org/abs/2508.18082\">most of the detections</a> are binary black hole mergers.\n\nThat happens because black holes are <a href=\"https://media.ligo.northwestern.edu/gallery/mass-plot\">heavier</a> and their signals are louder and can be seen farther away, resulting in more detections.\n\nThese events are <a href=\"https://arxiv.org/pdf/2508.18083\">rare</a>, and we don't expect to see one close by in our <a href=\"https://science.nasa.gov/resource/the-milky-way-galaxy/\">Galaxy</a> any time soon.\n\nBut they are happening <a href=\"https://images.unsplash.com/photo-1533601017-dc61895e03c0\">continuously</a> throughout the cosmos.",
+    "date": "2026-03-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg"
   }
 }
