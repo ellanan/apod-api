@@ -877,5 +877,15 @@
     "copyright": "SADR Observatory Team: J-C Dalouzy, P. Bazart, M. Dherbécourt, C. Humbert, G. Leroy, J-P Quéau, H. Talbot, & E. Valin",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg"
+  },
+  "2026-03-31": {
+    "title": "Uranus's Largest Moon: Titania",
+    "credit": "NASA, Voyager 2; Processing & License: zelario12",
+    "explanation": "<b>  </b> \nTitania's tortured terrain is a mix of canyons, cliffs, and craters. \n\n<a href=\"https://www.nasa.gov/\">NASA</a>'s interplanetary robot spacecraft \n<a href=\"https://science.nasa.gov/mission/voyager/voyager-2/\">Voyager 2</a> passed the largest moon of \n<a href=\"https://science.nasa.gov/uranus/\">Uranus</a> in 1986 and took the \n<a href=\"https://www.flickr.com/photos/197038812@N04/53515363728/\">feature picture</a>.\n\nThat the\n<a href=\"ap000930.html\">trenches of Titania</a> \nresemble those on another moon of Uranus, \n<a href=\"ap960303.html\">Ariel</a>, \nindicate that Titania underwent some violent surface \nevent possibly related to water \n<a href=\"https://ui.adsabs.harvard.edu/abs/2024LPICo3040.1034B/abstract\">freezing and expanding</a> in its distant past. \n\nAlthough Titania is Uranus's largest moon, \nit is only about half the radius of \n<a href=\"ap140826.html\">Triton</a> - \nthe largest moon of Uranus's sister planet \n<a href=\"ap210725.html\">Neptune</a>, \nwhich itself is \n<a href=\"https://imgur.com/little-kitten-meets-big-dog-ODwrS\">slightly smaller</a> than \n<a href=\"ap251004.html\">Earth's Moon</a>. \n\n<a href=\"https://science.nasa.gov/uranus/moons/titania/\">Titania</a>, \ndiscovered by \n<a href=\"https://en.wikipedia.org/wiki/William_Herschel\">William Herschel</a> \nin 1787, is essentially a large dirty iceball \nthat is composed of about half water-ice and half rock. \n\nThere is recent \n<a href=\"https://www.jpl.nasa.gov/news/new-study-of-uranus-large-moons-shows-4-may-hold-water/\">speculation</a> that \n<a href=\"https://en.wikipedia.org/wiki/Decay_heat\">radioactive heating</a> \nmelts some underground ice into oceans.",
+    "date": "2026-03-31",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg"
   }
 }
