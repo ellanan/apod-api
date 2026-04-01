@@ -887,5 +887,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg"
+  },
+  "2026-04-01": {
+    "title": "The Claw and Bubble Nebulae",
+    "explanation": "<b>  </b>\nWhat unexpected things do you see when you look up at the night sky? Today’s image resembles an \n<a href=\"https://www.riseart.com/guide/2366/guide-to-abstract-art\">abstract painting</a>, \nwith large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the \n<a href=\"https://www.psychologytoday.com/us/blog/singular-perspective/202105/why-the-human-brain-is-so-good-detecting-patterns\">human mind finds patterns</a>, \nidentifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern \n<a href=\"https://science.nasa.gov/mission/webb/science-overview/science-explainers/spectroscopy-101-light-and-matter/\">how light and matter interact</a>. \nThe \n<a href=\"ap171026.html\">Claw</a> \n(Sh2-157) and \n<a href=\"ap220323.html\">Bubble</a> \n(<a href=\"ap170531.html\">NGC 7635</a>) \nNebulae glow \n<a href=\"https://delsaert.com/deep-sky/nebulae/h-alpha/\">colors that are mapped</a> \nto the yellow and blue shown, indicating the presence of hydrogen and oxygen \n<a href=\"https://astronomy.swin.edu.au/cosmos/*/HII+Region\">ionized by the intense light emitted from stars</a> \nseveral times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is \n<a href=\"https://www.arts.gov/stories/blog/2014/art-and-science-talk-scientist-lisa-hoffman\">to look for the unexpected</a>.",
+    "date": "2026-04-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/claw_bubble.jpg",
+    "service_version": "v1",
+    "copyright": "Richard Whitehead Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg"
   }
 }
