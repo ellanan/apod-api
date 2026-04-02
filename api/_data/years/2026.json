@@ -897,5 +897,15 @@
     "copyright": "Richard Whitehead Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg"
+  },
+  "2026-04-02": {
+    "title": "Liftoff! Returning to the Moon",
+    "explanation": "<b>  </b>\n\n\nWe are one <a href=\"https://en.wikipedia.org/wiki/One_small_step\">small step</a> closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's <a href=\"https://www.nasa.gov/mission/artemis-ii/\">Artemis II</a> launched aboard the <a href=\"https://www.nasa.gov/humans-in-space/space-launch-system/\">Space Launch System (SLS)</a> from <a href=\"https://www.kennedyspacecenter.com/\">Kennedy Space Center</a>. Carrying <a href=\"https://www.nasa.gov/feature/our-artemis-crew/\">four astronauts</a>, the Orion spacecraft's planned lunar flyby will be the first in\nover half a century. This historic test flight, echoing the legacy of <a href=\"https://www.nasa.gov/the-apollo-program/\">Apollo</a> while pushing beyond it, will carry its crew farther from Earth than any humans <a href=\"https://en.wikipedia.org/wiki/Gene_Cernan\">since 1972</a>, looping around the Moon before returning home. During the approximately ten-day journey, Orion's systems--from life support to navigation--will be tested in deep space, while astronauts observe the lunar surface, including shadowed regions of the far side rarely seen with such perspective. After looping around the Moon, the astronauts will return to Earth, ending their journey with a <a href=\"https://www.nasa.gov/image-article/apollo-12-splashdown/\">Pacific Ocean splashdown</a>.",
+    "date": "2026-04-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
+    "service_version": "v1",
+    "copyright": "NASA/Bill Ingalls; Text: Ogetay Kayali (MTU)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg"
   }
 }
