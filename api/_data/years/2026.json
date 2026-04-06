@@ -937,5 +937,13 @@
     "copyright": "AAO ITSO Office, Gemini Obs./AURA & T. A. Rector (U. Alaska Anchorage)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg"
+  },
+  "2026-04-06": {
+    "title": "The Path of Artemis II",
+    "credit": "NASA, GSFC, Artemis II, SVS",
+    "explanation": "<b>  </b> \nWhy doesn't Artemis II land on the Moon?\n\nThe main reason is that \n<a href=\"https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/\">Artemis II</a> is primarily a test mission designed to make a future \n<a href=\"https://www.nasa.gov/humans-in-space/artemis/\">Artemis missions</a> \n-- which will land humans on the Moon -- better prepared. \n\nSimilarly, NASA's \n<a href=\"ap181224.html\">Apollo 8</a> and \n<a href=\"https://www.nasa.gov/mission/apollo-10/\">Apollo 10</a> \nwent right near the Moon as tests before \n<a href=\"https://www.nasa.gov/history/apollo-11-mission-overview/\">Apollo 11</a> -- \nwhich <a href=\"ap190717.html\">landed</a>. \n\nAs the trajectory in the \n<a href=\"https://svs.gsfc.nasa.gov/5622/\">featured animated video</a> shows, \nArtemis II will loop around both the \n<a href=\"https://science.nasa.gov/earth/facts/\">Earth</a> and the \n<a href=\"https://science.nasa.gov/moon/\">Moon</a> \nbefore returning to the Earth about 10 days after launch.\n\nThe <a href=\"https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/\">Artemis II</a> mission will take \n<a href=\"ap190818.html\">human</a>s outside the \nEarth's <a href=\"https://science.nasa.gov/heliophysics/focus-areas/magnetosphere-ionosphere/\">magnetosphere</a> for the first time since the \n<a href=\"https://www.nasa.gov/the-apollo-program/\">Apollo missions</a> 50 years ago. \n\nIn <a href=\"https://svs.gsfc.nasa.gov/5622/\">the video</a>, particles from the \n<a href=\"ap000318.html\">solar wind</a> are shown as streaks, \nwhile the Earth's reacting \n<a href=\"https://en.wikipedia.org/wiki/Magnetosphere#/media/File:Structure_of_the_magnetosphere_LanguageSwitch.svg\">magnetosphere</a> is shown in flickering green. \n\nThe Earth's <a href=\"ap160406.html\">magnetosphere</a> is important in deflecting \n<a href=\"https://solar-center.stanford.edu/FAQ/Qsolwindcomp.html\">powerful particles</a> arriving from the \n<a href=\"ap240818.html\">Sun</a> as well as creating \n<a href=\"ap260210.html\">picturesque</a> \n<a href=\"ap250210.html\">auroras</a> visible from the Earth's surface.",
+    "date": "2026-04-06",
+    "service_version": "v1",
+    "media_type": "other"
   }
 }
