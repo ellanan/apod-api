@@ -1013,5 +1013,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg"
+  },
+  "2026-04-14": {
+    "title": "The Long Wispy Tail of Comet R3 (PanSTARRS)",
+    "explanation": "<b>  </b> \nWhy does Comet R3 (PanSTARRS) have a wispy tail? \n\nThe newest bright member of the inner Solar System, \n<a href=\"https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)\">Comet C/2025 R3 (PanSTARRS)</a> is already extending an \n<a href=\"https://www.shutterstock.com/image-photo/surprised-cat-amazement-open-mouth-260nw-2259711007.jpg\">impressive</a> stream of glowing gas.\n\nThis tail starts from an unseen \n<a href=\"ap251019.html\">central nucleus</a> of dirty ice that is likely a few kilometers across.\n\nThe nucleus is warmed by the Sun and \n<a href=\"ap151118.html\">emits</a> a cloud of neutral gas into a \n<a href=\"https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg\">coma</a> that \n<a href=\"https://www.science.org/content/article/why-do-some-comets-glow-green\">glows light green</a>.\n\nNuclear gas ionized by \n<a href=\"https://science.nasa.gov/ems/10_ultravioletwaves/\">energetic sunlight</a> is pushed away from the \n<a href=\"https://science.nasa.gov/sun/\">Sun</a> by the \n<a href=\"https://science.nasa.gov/sun/what-is-the-solar-wind/\">solar wind</a> into an ion tail that \n<a href=\"https://astronomy.stackexchange.com/questions/36907/blue-color-of-ion-plasma-comet-tails\">glows light blue</a>. \n\nThe wispy nature of the \n<a href=\"http://www2.ess.ucla.edu/~jewitt/tail.html\">ion tail</a> is caused by the \n<a href=\"ap220110.html\">constantly changing</a> structure of the solar wind. \n\n<a href=\"https://www.instagram.com/p/DXE-wbzFhgo/\">Pictured</a> from \n<a href=\"https://en.wikipedia.org/wiki/Rhode_Island\">Rhode Island</a>, \n<a href=\"https://en.wikipedia.org/wiki/United_States\">USA</a> two days ago, \n<a href=\"ap260412.html\">Comet R3 (PanSTARRS)</a> \nshows off a many-degree ion tail. \n\n<a href=\"https://theskylive.com/c2025r3-info\">Comet R3 (PanSTARRS)</a> is best seen before dawn from \nnorthern skies for another 10 days, after which it \nwill be best visible from southern skies.",
+    "date": "2026-04-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_2710.jpg",
+    "service_version": "v1",
+    "copyright": "Haythem Hamdi",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_960.jpg"
   }
 }
