@@ -1102,5 +1102,15 @@
     "service_version": "v1",
     "media_type": "video",
     "url": "https://youtube.com/embed/MT8tg5b3b8E?si=46r2TF9THNvtq1ep"
+  },
+  "2026-04-23": {
+    "title": "Large Scale Structure of the Universe",
+    "credit": "Claire Lamman/DESI collaboration Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b> \n\nThis is a map of the universe.\n\nThe <a href=\"https://www.desi.lbl.gov/\">Dark Energy Spectroscopic Instrument (DESI)</a> at <a href=\"https://kpno.noirlab.edu/\">Kitt Peak National Observatory</a>, <a href=\"https://en.wikipedia.org/wiki/Arizona\">Arizona</a>, has finished its <a href=\"https://noirlab.edu/public/news/noirlab2610/\">five-year survey</a>.\n\nIt observed more than 47 million galaxies and quasars and created a <a href=\"https://www.youtube.com/watch?v=VSTGiRLWzS4\">3D map</a> centered on the Earth.\n\nToday's <a href=\"https://noirlab.edu/public/images/noirlab2610c/\">featured image</a> shows a thin slice of these data: the black gaps indicate where  <a href=\"https://science.nasa.gov/resource/the-milky-way-galaxy/\">our Galaxy</a> obscures distant objects.\n\nThe feathery web in the inset shows the <a href=\"ap071211.html\">large scale structure</a> of the universe.\n\nLight of the most distant galaxies shown here travelled for <a href=\"https://starwalk.space/en/infographics/entire-universe-in-1-year\">11 billion years</a> to reach the Earth.\n\nGalaxies cluster throughout <a href=\"https://science.nasa.gov/universe/overview/\">cosmic history</a> under the competing influences of <a href=\"https://gracefo.jpl.nasa.gov/news/5/what-is-gravity/\">gravity</a> and <a href=\"https://science.nasa.gov/dark-energy/\">dark energy</a>, responsible for the <a href=\"https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/\">accelerated expansion</a> of the universe.\n\nAnalysis of <a href=\"https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/021\">early DESI results</a> hinted at the possibility that dark energy, described as a cosmological constant by <a href=\"https://www.aps.org/archives/publications/apsnews/200507/history.cfm\">Albert Einstein</a>, may not be constant after all.\n\nBut we still have to wait for the analysis of the now complete dataset.\n\nThe nature of dark energy is the biggest <a href=\"https://images.unsplash.com/photo-1730804518415-75297e8d2a41\">mystery</a> of cosmology.",
+    "date": "2026-04-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/noirlab2610c.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg"
   }
 }
