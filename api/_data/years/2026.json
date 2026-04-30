@@ -1172,5 +1172,13 @@
     "copyright": "Gianni Tumino Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg"
+  },
+  "2026-04-30": {
+    "title": "Waves on Titan",
+    "credit": "Una Schneck Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b> \n\nHave you ever thought about surfing on an alien world?\n\nWe can now expand the search for the <a href=\"https://www.popsci.com/environment/whats-the-formula-for-the-perfect-wave/\">perfect wave</a> from Earth to the rest of the Solar System, and <a href=\"https://cdn.stocksnap.io/img-thumbs/960w/surfboard-beach_7A561BC965.jpg\">beyond</a>.\n\nScientists have developed a new model for simulating <a href=\"https://oceanservice.noaa.gov/facts/wavesinocean.html\">waves</a> on <a href=\"https://news.mit.edu/2026/waves-hit-different-on-other-planets-0416\">other planets</a>.\n\n<a href=\"https://science.nasa.gov/saturn/moons/titan/\">Titan</a> is one of the 274 confirmed <a href=\"ap210706.html\">moons</a> of <a href=\"https://science.nasa.gov/saturn/\">Saturn</a> to date, and the only object in the solar system (besides Earth) known to have liquid lakes and seas on its surface. \n\nThe <a href=\"https://www.youtube.com/watch?v=6kECVsTTetM&amp;t=2s\">featured video</a> shows a <a href=\"https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JE009490\">simulation</a> of waves on Earth (right) and on Titan (left), under the same conditions (the scale marker is in meters).\n\nA light breeze would create taller, slower-moving waves on Titan than on Earth, because the <a href=\"https://en.wikipedia.org/wiki/Lakes_and_rivers_of_Titan\">lakes</a> there are filled with light liquid <a href=\"https://www.jpl.nasa.gov/news/titans-surface-organics-surpass-oil-reserves-on-earth/\">hydrocarbons</a>, and because of Titan's low gravity and higher atmospheric pressure.\n\nIn a couple of years, <a href=\"https://www.nasa.gov/\">NASA</a> expects to launch the <a href=\"https://science.nasa.gov/mission/dragonfly/\">Dragonfly</a> mission, which will travel for 6 years and send a <a href=\"https://en.wikipedia.org/wiki/Rotorcraft\">rotorcraft</a> to explore Titan and study its <a href=\"https://astrobiology.nasa.gov/news/the-habitability-of-titan-and-its-ocean/\">microbial habitability</a>.",
+    "date": "2026-04-30",
+    "service_version": "v1",
+    "media_type": "other"
   }
 }
