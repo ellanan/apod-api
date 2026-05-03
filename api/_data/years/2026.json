@@ -1200,5 +1200,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg"
+  },
+  "2026-05-03": {
+    "title": "Trifid Pillars and Jets",
+    "credit": "NASA, ESA, STScI; Processing: J. DePasquale (STScI)",
+    "explanation": "<b>  </b> \nDust pillars are like \n<a href=\"ap241022.html\">interstellar mountains</a>.  \n\nThey survive because they are more dense than their \nsurroundings, but they are slowly being  \n<a href=\"https://youtu.be/ChEHQUMEkXw?t=20\">eroded away</a> \nby a hostile environment. \n\nVisible in the\n<a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-dazzles-with-young-stars-in-trifid-nebula/\">featured picture</a> by the \n<a href=\"https://science.nasa.gov/mission/hubble/\">Hubble Space Telescope</a> \nis the end of a huge gas and dust pillar in the\n<a href=\"https://en.wikipedia.org/wiki/Trifid_Nebula\">Trifid Nebula</a> (M20),\npunctuated by a smaller pillar pointing up and an unusual\n<a href=\"ap251205.html\">jet</a> pointing to the upper left.  \n\nMany of the bright dots are \n<a href=\"https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/\">newly formed stars</a>.\n\nA star near the small pillar's end is slowly being stripped of its \n<a href=\"ap240507.html\">accreting gas</a> \nby radiation from a tremendously brighter \n<a href=\"https://science.nasa.gov/universe/stars/\">star</a> situated off the \ntop of the image.  \n\nThe <a href=\"https://youtu.be/QFwfV2A1ZgY\">jet extends</a> nearly a \n<a href=\"https://chandra.harvard.edu/photo/cosmic_distance.html\">light-year</a> and would \nnot be visible without external illumination.  \n\nAs gas and <a href=\"ap030706.html\">dust</a> \nevaporate from the pillars, the \n<a href=\"https://i.pinimg.com/564x/ce/fb/c2/cefbc2fb4ca5022aa7f0d5b77d426c50.jpg\">hidden</a> stellar source of this \n<a href=\"ap250528.html\">jet</a> will likely be uncovered, \npossibly over the next 20,000 years.",
+    "date": "2026-05-03",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg"
   }
 }
