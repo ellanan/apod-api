@@ -1227,5 +1227,15 @@
     "copyright": "Marcin Rosadziński",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg"
+  },
+  "2026-05-06": {
+    "title": "The Retrograde Dance of Saturn and Neptune",
+    "explanation": "<b>  </b> \n\nWhat does it mean for \n<a href=\"https://science.nasa.gov/saturn/\">Saturn</a> and \n<a href=\"https://science.nasa.gov/neptune/\">Neptune</a> to be in retrograde? \nFeatured is a composite of images taken over 34 nights from May 2025 to February \n2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over \nthat time, the two planets exhibited \n<a href=\"ap250530.html\">retrograde motion</a>, \nmeaning they appeared to move backward in the sky. This \n<a href=\"https://youtu.be/1nVSzzYCAYk?si=I-42YO6rHQZ9CuNV&amp;t=124\">apparent backwards motion</a> \noccurs when Earth overtakes the slower outer planets as they orbit the Sun. Imagine the Solar System \nis a running track. Earth \"runs\" faster along the inside of the track compared to the outer planets. \nAs Earth approaches, aligns, and then \"laps\" the outer planets, they change position from ahead to behind from \nthe Earth's perspective. This perspective shift is what causes the outer planets to change position in the \nnight sky.\n<a href=\"https://vimeo.com/1177973763\">An animation</a> \ncorresponding to today’s image shows Saturn and Neptune’s months-long dance across \nthe northern night sky. Saturn stepped from \n<a href=\"https://noirlab.edu/public/education/constellations/pisces/\">the Pisces constellation</a> \ninto <a href=\"https://noirlab.edu/public/education/constellations/aquarius/\">Aquarius</a> \nand back again while Neptune remained in Pisces. This is the closest Saturn and Neptune have been \nin the sky since their last <a href=\"https://earthsky.org/astronomy-essentials/what-is-a-conjunction/\">conjunction</a> in 1989.",
+    "date": "2026-05-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde.jpg",
+    "service_version": "v1",
+    "copyright": "Tunç Tezel (TWAN) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg"
   }
 }
