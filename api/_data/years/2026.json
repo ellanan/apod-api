@@ -1265,5 +1265,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg"
+  },
+  "2026-05-10": {
+    "title": "Comet R3 PanSTARRS and Orion",
+    "explanation": "<b>  </b> \nOrion never had a sword like this.\n\nAs Comet \n<a href=\"https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)\">C/2025 R3 (PanSTARRS)</a> heads out of the inner Solar System, \nit is putting on quite a \n<a href=\"ap260420.html\">show for long exposure cameras</a>. \n\nCurrently \n<a href=\"https://starwalk.space/en/news/comet-c2025-r3-panstarrs\">seen toward</a> the \n<a href=\"https://spaceplace.nasa.gov/constellations/en/\">constellation</a> of \n<a href=\"https://greeklegendsandmyths.com/orion.html\">Orion the Hunter</a>, the distant \n<a href=\"ap250420.html\">Orion Nebula</a> \nis visible on the upper right.\n\n<a href=\"https://theskylive.com/c2025r3-info\">Comet R3 PanSTARRS</a> \nis now showing \n<a href=\"https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg\">two distinct tails</a>: a short \n<a href=\"https://astronomy.swin.edu.au/cosmos/*/Cometary+Dust+Tail\">dust tail</a> pointing toward the top of the image \nand a long and \n<a href=\"ap220110.html\">wavy ion tail</a> \ntrailing off toward the upper left. \n\nThe <a href=\"https://astronomy.swin.edu.au/cosmos/c/Cometary+Gas+Tail\">ion tail</a> points away from the \n<a href=\"https://science.nasa.gov/sun/\">Sun</a> and \n<a href=\"http://www2.ess.ucla.edu/~jewitt/tail.html\">glows blue</a> from excited \n<a href=\"https://science.nasa.gov/earth/earth-observatory/global-maps/carbon-monoxide/\">carbon monoxide</a>. \n\nLarge particles in the dust tail somewhat \n<a href=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DfzgrmAlBOsFVYpD2zBqj6FDI5z77THEpQ&amp;s\">resist</a> the radiation pressure that push them away from the Sun and so retain a bit of the comet's orbit. \n\nThe <a href=\"https://van.physics.illinois.edu/ask/listing/31796\">dust tail shines</a> by \n<a href=\"ap221227.html\">reflected sunlight</a>.\n\nThe <a href=\"https://www.facebook.com/photo?fbid=1492086498960108&amp;set=a.216372196531551\">featured image</a> was taken a few days ago from \n<a href=\"https://en.wikipedia.org/wiki/France\">France</a>'s \n<a href=\"https://youtu.be/MUEVBSiWWR8\">Reunion Island</a> \nin the southern \n<a href=\"https://en.wikipedia.org/wiki/Indian_Ocean\">Indian Ocean</a>.",
+    "date": "2026-05-10",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960.jpg",
+    "service_version": "v1",
+    "copyright": "Luc Perrot (TWAN)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg"
   }
 }
