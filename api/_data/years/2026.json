@@ -1375,5 +1375,15 @@
     "copyright": "William Vrbasso Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg"
+  },
+  "2026-05-21": {
+    "title": "A Collision of Galaxy Clusters",
+    "credit": "X-ray: NASA/CXC/CfA/C. Watson et al.; Optical: PanSTARRS; Image Processing: NASA/CXC/SAO/N. Wolk and P. Edmonds Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b>\n\n    This big beautiful <a href=\"https://chandra.si.edu/photo/2026/a2029/\">spiral</a> shines in <a href=\"https://science.nasa.gov/ems/11_xrays/\">X-ray light</a>. It is about 20 times larger than our <a href=\"https://www.youtube.com/watch?v=MX3PIkbTQwQ&amp;t=44s\">Galaxy</a>.\n\n    It belongs to <a href=\"https://en.wikipedia.org/wiki/Abell_2029\">Abell 2029</a>, a <a href=\"https://chandra.harvard.edu/xray_sources/galaxy_clusters.html\">galaxy cluster</a> one billion <a href=\"https://en.wikipedia.org/wiki/Light-year\">light-years</a> away.\n\n    (To see only the galaxies, hover your cursor over the image, or follow this <a href=\"image/2605/a2029_optical.jpg\">link</a>.) \n    \n    Galaxy clusters are the <a href=\"https://science.nasa.gov/universe/galaxies/large-scale-structures/\">largest structures</a> in the universe that are <a href=\"ap190226.html\">supported</a> by gravity.\n    \n    Abell 2029 is formed by <a href=\"ap240327.html\">thousands of galaxies</a>, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in <a href=\"https://science.nasa.gov/dark-matter/\">dark matter</a>.\n    \n    The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.\n    \n    It was found in a <a href=\"https://iopscience.iop.org/article/10.3847/1538-4357/ae2026\">recent study</a> that used data from NASA's <a href=\"https://science.nasa.gov/mission/chandra/\">Chandra X-ray Observatory</a> to show that Abell 2029 had a collision with a smaller cluster four billion years ago.\n    \n    The <a href=\"ap000306.html\">collision</a> affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a <a href=\"https://images.unsplash.com/photo-1700455350393-34e80e3e0997\">wine glass</a>, shaping the spiral.",
+    "date": "2026-05-21",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg"
   }
 }
