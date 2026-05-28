@@ -1443,5 +1443,15 @@
     "copyright": "Bernard Miller Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg"
+  },
+  "2026-05-28": {
+    "title": "NGC 1514: The Crystal Ball Nebula",
+    "credit": "International Gemini Observatory/NOIRLab/NSF/AURA; Image Processing: J. Miller & M. Rodriguez (International Gemini Observatory/NSF NOIRLab), T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), D. de Martin & M. Zamani (NSF NOIRLab) Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b>\n\n    What do you see in this crystal ball?\n\n    The <a href=\"https://noirlab.edu/public/news/noirlab2613/\">featured image</a> shows <a href=\"ap250415.html\">NGC 1514</a>, known as the <a href=\"https://en.wikipedia.org/wiki/NGC_1514\">Crystal Ball Nebula</a>, observed by the <a href=\"https://noirlab.edu/public/programs/gemini-observatory/gemini-north/\">Gemini North telescope</a> on <a href=\"https://hilo.hawaii.edu/maunakea/\">Maunakea</a>, in <a href=\"https://en.wikipedia.org/wiki/Hawai%CA%BBi_(island)\">Hawai'i</a>.\n\n    NGC 1514 is 1,500 light-years away and was discovered by <a href=\"https://en.wikipedia.org/wiki/William_Herschel\">William Herschel</a> in 1790.\n\n    This <a href=\"https://en.wikipedia.org/wiki/Planetary_nebula\">planetary nebula</a> is formed when a star becomes a <a href=\"https://science.nasa.gov/universe/stars/types/#red-giants\">red giant</a> and ejects its outer gas layers.\n\n    The ejected shell of gas is heated up by the core of the star to temperatures hotter than the surface of our <a href=\"https://science.nasa.gov/sun/facts/\">Sun</a>: that makes the gas shine, creating <a href=\"ap030614.html\">beautiful images</a> like this one.\n        \n    The slightly asymmetrical shape of the Crystal Ball Nebula reveals a secret: the bright star in the center has a companion.\n\n    As the two stars orbit each other with a period of about <a href=\"https://www.aanda.org/articles/aa/pdf/2017/04/aa30700-17.pdf\">nine years</a>, they shape the gas around them.\n\n    In about <a href=\"https://phys.org/news/2026-05-beautiful-death-dying-star-crystal.html\">10,000 - 25,000</a> years the nebula will be <a href=\"https://images.unsplash.com/photo-1544954412-78da2cfa1a0c\">dissipated</a> by their stellar winds.",
+    "date": "2026-05-28",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/noirlab2613a_large.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg"
   }
 }
