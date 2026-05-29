@@ -1453,5 +1453,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg"
+  },
+  "2026-05-29": {
+    "title": "Messier 104",
+    "credit": "CTIO, NOIRLab, DOE, NSF, AURA; Image Processing: T. A. Rector (U. Alaska Anchorage), D. de Martin (NSF’s NOIRLab) & M. Zamani (NSF, NOIRLab)",
+    "explanation": "<b>  </b> \n\nA gorgeous spiral galaxy,\n<a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/\">Messier 104 is famous</a>\nfor its nearly <a href=\"ap010510.html\">edge-on</a>\nprofile featuring a broad ring of obscuring dust lanes.\n\nSeen in silhouette against an extensive central bulge of stars,\nthe swath of <a href=\"ap190101.html\">cosmic dust</a> lends a\nbroad brimmed hat-like appearance to the galaxy suggesting\na more popular moniker, the Sombrero Galaxy.\n\nAlso known as NGC 4594, the Sombrero galaxy can be seen\n<a href=\"ap070505.html\">across the spectrum</a> and\n<a href=\"https://arxiv.org/abs/1107.1238\">is host</a> to a central\nsupermassive black hole.\n\nAbout 50,000 light-years across and 28 million light-years away,\n<a href=\"https://svs.gsfc.nasa.gov/30855\">M104 is</a> one of the\nlargest galaxies at the southern edge of the Virgo Galaxy Cluster.\n\nStill, the spiky foreground stars in this field of view\nlie well within our own Milky Way.\n\n<a href=\"https://noirlab.edu/public/images/noirlab2612a/\">This broad\nview</a> of the well-known galaxy was processed to reveal M104's\nextended halo, as well as a faint\n<a href=\"ap240927.html\">tidal stellar stream</a>.\n\nIt was captured by the \n<a href=\"https://noirlab.edu/public/programs/ctio/victor-blanco-4m-telescope/decam/\">Dark Energy Camera</a> (DECam) on the Blanco 4-meter telescope\nat the <a href=\"https://noirlab.edu/public/programs/ctio/\">Cerro Tololo\nInter-American Observatory</a>.",
+    "date": "2026-05-29",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg"
   }
 }
