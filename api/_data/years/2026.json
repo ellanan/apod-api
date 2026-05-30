@@ -1463,5 +1463,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg"
+  },
+  "2026-05-30": {
+    "title": "Supermoon Versus Micromoon",
+    "credit": "Soumyadeep Mukherjee",
+    "explanation": "<b>  </b> \nWhat is so micro about tonight's blue micromoon?  \n\nJust after sunset, a \n<a href=\"https://science.nasa.gov/moon/moon-phases/\">full moon</a> will appear \n<a href=\"https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F8hmjed7ux61a1.jpg\">slightly smaller</a> and dimmer than usual. \n\nThe reason is that the \n<a href=\"ap220515.html\">Moon's fully illuminated phase</a> \noccurs within a short time of \n<a href=\"https://en.wiktionary.org/wiki/apogee\">apogee</a> - \nwhen <a href=\"https://science.nasa.gov/moon/\">the Moon</a> \nis farthest from \n<a href=\"https://science.nasa.gov/earth/facts/\">the Earth</a> in its \n<a href=\"https://en.wikipedia.org/wiki/Elliptic_orbit\">elliptical orbit</a>. \n\nIn fact, <a href=\"https://www.universetoday.com/articles/why-the-second-full-moon-of-may-is-a-blue-minimoon\">tonight's micromoon</a> will be the \nfarthest, smallest, and dimmest Moon this year. \n\nBut tonight's micromoon is notable for yet another reason: it is also a \n<a href=\"https://en.wikipedia.org/wiki/Blue_moon\">blue moon</a>, meaning that it is the second \n<a href=\"ap240915.html\">full moon</a> in the same month \n(<a href=\"https://en.wiktionary.org/wiki/month\">moon-th</a>). \n\n<a href=\"https://www.instagram.com/p/CuPPbkXJq4v/\">Pictured here</a>, \na <a href=\"https://science.nasa.gov/moon/supermoons/\">supermoon</a> -- \nwhen the full moon appears near its largest -- is compared to a micromoon as photographed from \n<a href=\"https://youtu.be/KML2zqvE_jM\">Kolkata</a>, \n<a href=\"https://en.wikipedia.org/wiki/India\">India</a> \nin May and December of 2021. \n\nAlthough the next micromoon occurs next month, and the \n<a href=\"https://earthsky.org/astronomy-essentials/when-is-the-next-blue-moon/\">next blue moon</a> at the end of 2028, the next blue micromoon will not occur \n<a href=\"https://www.sciencealert.com/rare-blue-micromoon-wont-return-until-2053-dont-miss-it-this-week\">until 2053</a>.",
+    "date": "2026-05-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_3000.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg"
   }
 }
