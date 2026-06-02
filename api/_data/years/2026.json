@@ -1493,5 +1493,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg"
+  },
+  "2026-06-02": {
+    "title": "The Vela Supernova Remnant",
+    "explanation": "<b>  </b> \nThe explosion is over, but the consequences continue. \n\nAbout twelve thousand years ago, a relatively normal star in the constellation \n<a href=\"https://en.wikipedia.org/wiki/Vela_(constellation)\">Vela</a> suddenly \n<a href=\"https://youtu.be/wymMn-SmALY\">exploded</a>, \ncreating a strange point of light briefly visible to \nhumans living near the beginning of \n<a href=\"https://en.wikipedia.org/wiki/Cave_painting\">recorded history</a>. \n\nThe outer layers of the star crashed into the \n<a href=\"ap130924.html\">interstellar medium</a>, driving a \n<a href=\"ap210414.html\">shock wave</a> that is still visible today. \n\nThe \n<a href=\"https://app.astrobin.com/u/jmtanous?i=qkfmgy\">featured image</a>,\ntaken piecemeal over 60 hours from the \n<a href=\"https://youtu.be/lw5zT530rb4\">Khomas Region</a> of \n<a href=\"https://en.wikipedia.org/wiki/Namibia\">Namibia</a>, \ncaptures some of that filamentary and gigantic shock in \n<a href=\"https://science.nasa.gov/ems/09_visiblelight/\">visible light</a>, with details highlighted by \n<a href=\"https://en.wikipedia.org/wiki/Hydrogen-alpha\">hydrogen</a> (red) and \n<a href=\"https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/\">oxygen</a> (blue) emissions.\n\nAs gas flies away from the detonated star, it \n<a href=\"https://imagine.gsfc.nasa.gov/observatories/satellite/compton/snr.html\">decays</a> and reacts with the \n<a href=\"https://astrobiology.com/2025/04/the-interstellar-medium.html\">interstellar medium</a>, \nproducing light in many different colors and energy bands.\n\nRemaining at the center of the \n<a href=\"https://en.wikipedia.org/wiki/Vela_Supernova_Remnant\">Vela Supernova Remnant</a> is a \n<a href=\"https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-pulsars/\">pulsar</a>, a star as dense as nuclear matter that \n<a href=\"https://youtu.be/jv2rEa7iqhA\">spins around</a> \nmore than ten times in a single second.",
+    "date": "2026-06-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_2900.jpg",
+    "service_version": "v1",
+    "copyright": "José Mtanous",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg"
   }
 }
