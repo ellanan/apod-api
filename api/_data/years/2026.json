@@ -1513,5 +1513,15 @@
     "copyright": "Nick Fritz Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2606/andromeda_1024.png"
+  },
+  "2026-06-04": {
+    "title": "A Planetary Nebula with Cosmic Buckyballs",
+    "credit": "NASA/ESA/CSA/J. Cami (Western University); Image Processing: K. Beecroft Text: Jan Cami (Western University) & Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b>\n\n   What is happening inside this unusual nebula?\n\n   <a href=\"https://esahubble.org/wordbank/planetary-nebula/\">Planetary nebula</a> <a href=\"https://en.wikipedia.org/wiki/IC_1266\">Tc 1</a>, captured here in exquisite detail by the <a href=\"https://science.nasa.gov/mission/webb/\">James Webb Space Telescope</a>, is the celestial site where buckyballs <a href=\"https://www.youtube.com/watch?v=7q47nuOI0vU\">were first identified</a> in 2010.\n    \n   <a href=\"https://en.wikipedia.org/wiki/Buckminsterfullerene\">Buckminsterfullerene</a> — as buckyballs are <a href=\"https://www.nobelprize.org/prizes/chemistry/1996/summary/\">officially called</a> — is a molecule with <a href=\"ap030119.html\">60 carbon atoms</a> (C<sub>60</sub>) arranged in the shape of a <a href=\"https://images.unsplash.com/photo-1669891340245-5b787bb7fa70\">soccer ball</a>.\n\n   The molecule is named for architect <a href=\"https://en.wikipedia.org/wiki/Buckminster_Fuller\">Buckminster Fuller</a> because of its resemblance to the <a href=\"https://en.wikipedia.org/wiki/Geodesic_dome\">geodesic dome</a> he helped popularize.\n\n   <a href=\"https://news.westernu.ca/2026/04/jwst-buckyballs/\">Webb’s new data</a> reveal where the C<sub>60</sub> molecules live in this nebula, and the geometry is striking: they populate a thin spherical shell around the central star, visible here as the bright edge of the nebula’s glowing orange central region.\n\n    Look closely near the nebula’s heart and a more perplexing feature emerges: a delicate structure shaped uncannily like an <a href=\"https://en.wikipedia.org/wiki/Upside-down_question_and_exclamation_marks\">upside-down question mark</a>, fitting punctuation for the many questions this nebula still poses.",
+    "date": "2026-06-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/buckyballs.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg"
   }
 }
