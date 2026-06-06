@@ -1533,5 +1533,15 @@
     "copyright": "Rafael Sampaio",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg"
+  },
+  "2026-06-06": {
+    "title": "Charon: Moon of Pluto",
+    "credit": "NASA, Johns Hopkins Univ./APL, Southwest Research Institute, U.S. Naval Observatory",
+    "explanation": "<b>  </b> \n\nA darkened and mysterious north polar region\n<a href=\"https://en.wikipedia.org/wiki/Neverland_Regio\">known to some as</a>\nMordor Macula caps this premier view\n<a href=\"https://science.nasa.gov/dwarf-planets/pluto/moons/charon/\">of Charon, Pluto's largest moon</a>.\n\nThe high-resolution image\nwas captured by the\n<a href=\"https://pluto.jhuapl.edu/\">interplanetary</a> space probe\n<a href=\"https://science.nasa.gov/mission/new-horizons/\">New Horizons</a>\nnear its closest approach to distant Pluto on July 14, 2015.\n\n<a href=\"http://pluto.jhuapl.edu/Galleries/Featured-Images/image.php?page=1&amp;gallery_id=2&amp;image_id=323\">The combined blue, red, and infrared</a>\nimage data was processed to enhance colors\nand follow variations in Charon's surface properties\nwith a resolution of about 2.9 kilometers (1.8 miles).\n\nA stunning image of Charon's Pluto-facing hemisphere, it also\nfeatures a clear view of an apparently moon-girdling belt of\nfractures and canyons that seems to\nseparate smooth southern plains from varied northern terrain.\n\nCharon is 1,214 kilometers (754 miles) across.\n\nThat's about 1/10th the size of planet Earth\nbut a whopping 1/2 the diameter of\n<a href=\"https://www.nasa.gov/directorates/how-big-is-pluto-new-horizons-settles-decades-long-debate/\">Pluto itself</a>,\nand makes it the largest satellite relative to its\nparent body in the Solar System.\n\nStill, the moon appears as a small bump at about the 1 o'clock position\non Pluto's disk in the grainy, negative, telescopic picture inset\nat upper left.\n\nThat image was used by James Christy and Robert Harrington\nat the U.S. Naval Observatory in Flagstaff to\n<a href=\"https://www.nasa.gov/missions/charon-at-40-four-decades-of-discovery-on-plutos-largest-moon/\">discover Charon in June of 1978</a>.",
+    "date": "2026-06-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/Charon-Neutral-Bright-Release.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg"
   }
 }
