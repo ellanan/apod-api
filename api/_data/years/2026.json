@@ -1643,5 +1643,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg"
+  },
+  "2026-06-17": {
+    "title": "Longmore 8: The Hamster Wheel Nebula",
+    "explanation": "<b>  </b> \nHow did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was \n<a href=\"https://articles.adsabs.harvard.edu/pdf/1977MNRAS.178..251L\">discovered by Andrew Longmore</a> \nin 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in \n<a href=\"https://www.atnf.csiro.au/resources/education/senior-astrophysics/photometry/photographicastro/\">photographic technology</a>, \nincluding the use of \n<a href=\"http://spiff.rit.edu/classes/phys373/lectures/catch_plates/kodak_chart.pdf\">highly sensitive film</a>, \nto capture deeper and fainter objects on \n<a href=\"ap190817.html\">plates</a> \nthat were examined \n<a href=\"https://en.meming.world/wiki/File:Scared_Hamster.jpg/\">by eye</a> \nand catalogued. \n<a href=\"https://www.hansonastronomy.com/longmore-8\">The featured image</a>, \ntaken at <a href=\"https://help.telescope.live/hc/en-us/articles/360002577798-El-Sauce-Observatory-Chile-CHI\">Observatorio El Sauce</a> \nin Chile, depicts an intricate wheel structure of glowing hydrogen that was thrown out into space by a \n<a href=\"https://science.nasa.gov/universe/stars/\">dying star</a> \nand <a href=\"https://astronomy.swin.edu.au/cosmos/i/Ionised+Hydrogen\">ionized</a> \nby the leftover \n<a href=\"https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html\">white dwarf</a>. \nThis structure was barely visible on the original plate, emphasizing the power of modern \ntelescopes and cameras. Two opposing clumps of red hydrogen gas encased in \n<a href=\"https://members.pcug.org.au/~stevec/ESO382-63_STXL6303_RC14.htm\">the blue veil of ionized oxygen</a> \nhint at the presence of a \n<a href=\"https://astrobites.org/2022/02/15/planetary-nebulae-the-desolation-of-binaries/\">companion</a> \nto the bright white dwarf at the wheel’s center!",
+    "date": "2026-06-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/hamster.jpg",
+    "service_version": "v1",
+    "copyright": "Mazlin, Parker, Forman, Magill, Hanson Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg"
   }
 }
