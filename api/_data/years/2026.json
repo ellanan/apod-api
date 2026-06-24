@@ -1710,5 +1710,13 @@
     "date": "2026-06-23",
     "service_version": "v1",
     "media_type": "other"
+  },
+  "2026-06-24": {
+    "title": "SDO Observes a Coronal Mass Ejection",
+    "credit": "NASA, SDO, AIA; Processing: Richard Petarius III (MTU) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "explanation": "<b>  </b> \nWhy does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and \n<a href=\"https://www.khanacademy.org/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:ions/a/ions?referrer=share_link\">ions</a> \ncalled <a href=\"https://www.youtube.com/watch?v=E3T2ldsdtMg\">plasma</a>. \nThe motion of those charged particles creates \n<a href=\"ap250730.html\">magnetic field loops</a> \nthat are \n<a href=\"ap140304.html\">larger than the Earth</a>. \nThese loops twist, turn, and \n<a href=\"https://imgur.com/Kdl1ozo\">trap</a> \nplasma. The featured time-lapse, taken over 2 hours on April 24th, 2026 by the \n<a href=\"https://science.nasa.gov/mission/sdo/\">Solar Dynamics Observatory</a>, \nshows what happens when those magnetic fields become too stressed: they snap and expel billions of tons (trillions of kilograms) of plasma into space at millions of miles (or kilometers) per hour in what is called a \n<a href=\"https://www.spaceweather.gov/phenomena/coronal-mass-ejections\">coronal mass ejection</a> \n(CME). The Sun releases a few CMEs each day when it is at \n<a href=\"https://www.youtube.com/watch?v=E65T2AV-EjM\">the peak of its activity cycle</a>, \nwhich passed in 2025. Some of these eruptions hit Earth and can disrupt power grids, disable satellites, and endanger astronauts, which is why \n<a href=\"https://www.noaa.gov/education/resource-collections/weather-atmosphere/space-weather\">space weather</a> \nmonitoring is so important.",
+    "date": "2026-06-24",
+    "service_version": "v1",
+    "media_type": "other"
   }
 }
