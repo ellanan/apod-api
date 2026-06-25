@@ -9,7 +9,9 @@
     "dev": "ts-node-dev -r dotenv/config --respawn --transpile-only extractor/getDataByDate.ts",
     "dev2": "ts-node -r dotenv/config --transpile-only extractor/getDataByDate.ts",
     "update-data": "ts-node extractor/extractData.ts",
-    "backfill-data": "ts-node extractor/backfillData.ts"
+    "backfill-data": "ts-node extractor/backfillData.ts",
+    "check-buggy-copyright": "ts-node extractor/repairBuggyCopyright.ts",
+    "repair-buggy-copyright": "ts-node extractor/repairBuggyCopyright.ts --fix"
   },
   "author": "",
   "license": "ISC",

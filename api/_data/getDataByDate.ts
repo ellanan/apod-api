@@ -34,9 +34,9 @@ export const getDataByDate = async (date: DateTime) => {
     ?.replace('Explanation:', '')
     .trim() ?? '';
 
-  // we want to extract anything between 'copyright' and 'explanation
+  // we want to extract anything between 'copyright' and 'explanation:'
   const [, copyright] =
-    /copyright:\s+(.+)\s+explanation/gi.exec(body.replace(/\s+/gi, ' ')) || [];
+    /copyright:\s+(.+?)\s+explanation:/gi.exec(body.replace(/\s+/gi, ' ')) || [];
   // we want to extract anything between 'credit' and 'explanation
   const [, credit] =
     /credit:\s+(.+?)\s+(?:;|explanation)/gi.exec(body.replace(/\s+/gi, ' ')) ||
