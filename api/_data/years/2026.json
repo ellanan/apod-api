@@ -1718,5 +1718,15 @@
     "date": "2026-06-24",
     "service_version": "v1",
     "media_type": "other"
+  },
+  "2026-06-25": {
+    "title": "Anticrepuscular Rays over Sicily",
+    "explanation": "<b>  </b>\n\n    The <a href=\"https://science.nasa.gov/sun/\">Sun</a> has just set... in the opposite side of the sky.\n\n    Pictured <a href=\"https://www.instagram.com/p/DZxl4R-gi73/?img_index=1\">here</a> are <a href=\"https://en.wikipedia.org/wiki/Anticrepuscular_rays\">anticrepuscular rays</a> apparently converging in the east in this image of the <a href=\"https://en.wikipedia.org/wiki/Geology_of_Sicily\">limestone plateau</a> in the heart of the <a href=\"https://www.italia.it/en/sicily/hyblaean-mountains\">Hyblaean Mountains</a> of southeastern <a href=\"https://en.wikipedia.org/wiki/Sicily\">Sicily</a>, in Italy.\n\n    How were these anticrepuscular rays formed, if the Sun <a href=\"https://images.unsplash.com/photo-1598398386929-4d5370672e9f\">wasn't there</a>?\n\n    After the Sun set (in the west, as usual) its light still illuminated a <a href=\"https://www.instagram.com/p/DZxl4R-gi73/?img_index=2\">cloud</a> higher up in the sky.\n\n    Partially blocked by the cloud, the sunlight produced <a href=\"ap200318.html\">patterns</a> of light and shadow, crossing the sky in parallel lines.\n\n    Perspective makes it look like they converge in the east, in the same way that <a href=\"https://images.unsplash.com/photo-1588127727253-e5f2faf4f541\">train tracks</a> appear to meet in the distance.\n\n    This effect can also happen at <a href=\"ap240921.html\">sunrise</a>, only the directions are exchanged.\n\n    In <a href=\"https://cloudappreciationsociety.org/cloud-library/anti-crepuscular-rays/\">rare</a> cases, both <a href=\"ap100811.html\">crepuscular</a> and anticrepuscular rays can be seen <a href=\"https://earthsky.org/earth/how-to-see-anticrepuscular-rays/\">at the same time</a>.",
+    "date": "2026-06-25",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg",
+    "service_version": "v1",
+    "copyright": "Marcella Giulia Pace Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg"
   }
 }
