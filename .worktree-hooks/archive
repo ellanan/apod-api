@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# tbd archive hook (runs just before `git worktree remove`).
+# Delegates to the shared teardown lib (same logic the Claude Code
+# WorktreeRemove hook runs).
+set -euo pipefail
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+export WT_PATH="${TBD_WORKTREE_PATH:-$PWD}"
+
+bash "$DIR/lib/teardown.sh"

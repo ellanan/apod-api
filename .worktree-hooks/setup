@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# tbd setup hook (PARALLEL — runs in its own terminal while the agent is
+# already running). Use for slow work the agent doesn't need immediately:
+# pnpm install, warming caches.
+#
+# Delegates to the shared lib script (same logic the Claude Code hook runs).
+set -euo pipefail
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+export WT_PATH="${TBD_WORKTREE_PATH:-$PWD}"
+
+bash "$DIR/lib/install-deps.sh"
