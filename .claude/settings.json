@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "WorktreeCreate": [
+      {
+        "type": "command",
+        "command": "node \"${CLAUDE_PROJECT_DIR}/.claude/hooks/worktree-create.mjs\""
+      }
+    ],
+    "WorktreeRemove": [
+      {
+        "type": "command",
+        "command": "node \"${CLAUDE_PROJECT_DIR}/.claude/hooks/worktree-remove.mjs\""
+      }
+    ]
+  }
+}
