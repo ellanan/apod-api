@@ -93,3 +93,14 @@ describe('responses match official API for data from a long time ago', () => {
     })
   );
 });
+
+describe('responses match official API for HTML5 <video> dates', () => {
+  // 2026-04-06 and 2026-06-24 are served by NASA as a native <video> block:
+  //   <video ...><source src="image/..../foo.mp4" type="video/mp4"></video>
+  testInterval(
+    Interval.fromISO('2026-04-06/2026-04-07').splitBy({ days: 1 })
+  );
+  testInterval(
+    Interval.fromISO('2026-06-24/2026-06-25').splitBy({ days: 1 })
+  );
+});

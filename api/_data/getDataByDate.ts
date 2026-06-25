@@ -26,9 +26,11 @@ export const getDataByDate = async (date: DateTime) => {
   const imageElement = $(
     'a[href^=image] img[src^=image], button img[src^=image]'
   );
-  const videoElement = $('iframe');
+  const iframeElement = $('iframe');
   // these seem to be video embeds as well
   const embedElement = $('embed');
+  // NASA also serves some videos as a native HTML5 <video> block
+  const htmlVideoElement = $('video');
   const descriptionHtml = $('center ~ center ~ p')
     .html()
     ?.replace('Explanation:', '')
@@ -49,6 +51,16 @@ export const getDataByDate = async (date: DateTime) => {
     $('a[href^=image]').attr('href') &&
     `https://apod.nasa.gov/apod/${$('a[href^=image]').attr('href')}`;
 
+  // The <video> URL lives on the element itself or a child <source>; it is a
+  // relative `image/...mp4` path that we resolve to an absolute URL.
+  const htmlVideoSrc =
+    htmlVideoElement.attr('src') ?? htmlVideoElement.find('source').attr('src');
+  const htmlVideoUrl = htmlVideoSrc
+    ? htmlVideoSrc.startsWith('http')
+      ? htmlVideoSrc
+      : `https://apod.nasa.gov/apod/${htmlVideoSrc}`
+    : undefined;
+
   return {
     title,
     credit,
@@ -57,7 +69,13 @@ export const getDataByDate = async (date: DateTime) => {
     hdurl: hdImageUrl ?? imageUrl,
     service_version: 'v1',
     copyright,
-    media_type: imageUrl ? 'image' : videoElement.length ? 'video' : 'other',
-    url: imageUrl ?? videoElement.attr('src'),
+    media_type: imageUrl
+      ? 'image'
+      : iframeElement.length
+      ? 'video'
+      : htmlVideoUrl
+      ? 'video'
+      : 'other',
+    url: imageUrl ?? iframeElement.attr('src') ?? htmlVideoUrl,
   };
 };
