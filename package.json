@@ -13,6 +13,7 @@
   },
   "author": "",
   "license": "ISC",
+  "packageManager": "pnpm@10.19.0",
   "devDependencies": {
     "@types/async": "^3.2.12",
     "@types/jest": "^27.4.0",
@@ -36,6 +37,6 @@
   },
   "volta": {
     "node": "22.21.0",
-    "npm": "10.9.4"
+    "pnpm": "10.19.0"
   }
 }
