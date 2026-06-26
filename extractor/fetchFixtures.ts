@@ -38,7 +38,7 @@ async function main() {
   // decodeApodHtml's BOM path deterministically (real UTF-16LE NASA pages are
   // rare and hard to pin to a stable date).
   if (!imageBuf) throw new Error('image fixture missing; cannot synthesize utf16le');
-  const utf16le = Buffer.from('﻿' + decodeApodHtml(imageBuf), 'utf16le');
+  const utf16le = Buffer.from('﻿' + decodeApodHtml(imageBuf).replace(/^﻿/, ''), 'utf16le');
   fs.writeFileSync(path.join(fixturesDir, 'utf16le-encoded.html'), utf16le);
   console.log(`wrote utf16le-encoded.html (${utf16le.length} bytes)`);
 }
