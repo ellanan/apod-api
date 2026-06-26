@@ -26,3 +26,7 @@ yarn-error.log*
 .vercel
 output.txt
 .env*.local
+
+# superpowers implementation plans — intentionally not checked in.
+# See docs/superpowers/CLAUDE.md. Design specs (docs/superpowers/specs) ARE tracked.
+/docs/superpowers/plans/

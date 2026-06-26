@@ -2,17 +2,14 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 import { DateTime } from 'luxon';
 
-export const getDataByDate = async (date: DateTime) => {
-  const url = `https://apod.nasa.gov/apod/ap${date.toFormat('yyMMdd')}.html`;
-  console.log(`fetching ${url}`);
-  const response = await axios.get(url, { responseType: 'arraybuffer' });
-  const buf = Buffer.from(response.data);
-  // Some APOD pages are served as UTF-16 LE despite the Content-Type header claiming UTF-8
-  const html = buf[0] === 0xFF && buf[1] === 0xFE
+// Some APOD pages are served as UTF-16 LE despite the Content-Type header
+// claiming UTF-8; detect the BOM and decode accordingly.
+export const decodeApodHtml = (buf: Buffer): string =>
+  buf[0] === 0xff && buf[1] === 0xfe
     ? buf.toString('utf16le')
     : buf.toString('utf8');
 
-  console.log(`parsing ${url}`);
+export const parseApodHtml = (html: string, date: DateTime) => {
   const $ = cheerio.load(html);
 
   const body = $('body').text();
@@ -26,9 +23,11 @@ export const getDataByDate = async (date: DateTime) => {
   const imageElement = $(
     'a[href^=image] img[src^=image], button img[src^=image]'
   );
-  const videoElement = $('iframe');
+  const iframeElement = $('iframe');
   // these seem to be video embeds as well
   const embedElement = $('embed');
+  // NASA also serves some videos as a native HTML5 <video> block
+  const htmlVideoElement = $('video');
   const descriptionHtml = $('center ~ center ~ p')
     .html()
     ?.replace('Explanation:', '')
@@ -49,6 +48,16 @@ export const getDataByDate = async (date: DateTime) => {
     $('a[href^=image]').attr('href') &&
     `https://apod.nasa.gov/apod/${$('a[href^=image]').attr('href')}`;
 
+  // The <video> URL lives on the element itself or a child <source>; it is a
+  // relative `image/...mp4` path that we resolve to an absolute URL.
+  const htmlVideoSrc =
+    htmlVideoElement.attr('src') ?? htmlVideoElement.find('source').attr('src');
+  const htmlVideoUrl = htmlVideoSrc
+    ? htmlVideoSrc.startsWith('http')
+      ? htmlVideoSrc
+      : `https://apod.nasa.gov/apod/${htmlVideoSrc}`
+    : undefined;
+
   return {
     title,
     credit,
@@ -57,7 +66,22 @@ export const getDataByDate = async (date: DateTime) => {
     hdurl: hdImageUrl ?? imageUrl,
     service_version: 'v1',
     copyright,
-    media_type: imageUrl ? 'image' : videoElement.length ? 'video' : 'other',
-    url: imageUrl ?? videoElement.attr('src'),
+    media_type: imageUrl
+      ? 'image'
+      : iframeElement.length
+      ? 'video'
+      : htmlVideoUrl
+      ? 'video'
+      : 'other',
+    url: imageUrl ?? iframeElement.attr('src') ?? htmlVideoUrl,
   };
+};
+
+export const getDataByDate = async (date: DateTime) => {
+  const url = `https://apod.nasa.gov/apod/ap${date.toFormat('yyMMdd')}.html`;
+  console.log(`fetching ${url}`);
+  const response = await axios.get(url, { responseType: 'arraybuffer' });
+  const buf = Buffer.from(response.data);
+  console.log(`parsing ${url}`);
+  return parseApodHtml(decodeApodHtml(buf), date);
 };

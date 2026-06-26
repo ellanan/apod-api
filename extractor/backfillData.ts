@@ -15,32 +15,22 @@ fs.mkdirSync(yearsDir, { recursive: true });
 const args = process.argv.slice(2);
 const startDateArg = args.find((arg) => arg.startsWith('--start='))?.split('=')[1];
 const endDateArg = args.find((arg) => arg.startsWith('--end='))?.split('=')[1];
+const datesArg = args.find((arg) => arg.startsWith('--dates='))?.split('=')[1];
+const reextractOther = args.includes('--reextract-other');
 
-if (!startDateArg || !endDateArg) {
-  console.error('Usage: ts-node extractor/backfillData.ts --start=YYYY-MM-DD --end=YYYY-MM-DD');
-  console.error('Example: ts-node extractor/backfillData.ts --start=2025-10-02 --end=2025-11-12');
-  process.exit(1);
+// Collect every date currently stored with media_type 'other'
+function collectOtherDates(): string[] {
+  const dates: string[] = [];
+  for (const file of fs.readdirSync(yearsDir).filter((f) => f.endsWith('.json'))) {
+    const entries = JSON.parse(
+      fs.readFileSync(path.join(yearsDir, file), 'utf-8')
+    );
+    for (const [date, entry] of Object.entries<{ media_type?: string }>(entries)) {
+      if (entry.media_type === 'other') dates.push(date);
+    }
+  }
+  return dates.sort();
 }
-
-const startDate = DateTime.fromISO(startDateArg);
-const endDate = DateTime.fromISO(endDateArg);
-
-if (!startDate.isValid) {
-  console.error(`Invalid start date: ${startDateArg}`);
-  process.exit(1);
-}
-
-if (!endDate.isValid) {
-  console.error(`Invalid end date: ${endDateArg}`);
-  process.exit(1);
-}
-
-if (startDate > endDate) {
-  console.error('Start date must be before or equal to end date');
-  process.exit(1);
-}
-
-console.log(`Backfilling data from ${startDate.toISODate()} to ${endDate.toISODate()}`);
 
 async function saveDataForDate(date: DateTime) {
   const data = await getDataByDate(date);
@@ -55,20 +45,54 @@ async function saveDataForDate(date: DateTime) {
   );
 }
 
-const dateInterval = Interval.fromDateTimes(
-  startDate.startOf('day'),
-  endDate.endOf('day')
-).splitBy({
-  days: 1,
-});
+// Build the list of dates to re-extract based on the chosen mode
+let dates: DateTime[];
+if (reextractOther) {
+  const isoDates = collectOtherDates();
+  console.log(`Re-extracting ${isoDates.length} dates currently stored as 'other'`);
+  dates = isoDates.map((d) => DateTime.fromISO(d));
+} else if (datesArg) {
+  const isoDates = datesArg.split(',').map((s) => s.trim()).filter(Boolean);
+  dates = isoDates.map((d) => DateTime.fromISO(d));
+  const invalidIndex = dates.findIndex((d) => !d.isValid);
+  if (invalidIndex !== -1) {
+    console.error(`Invalid date in --dates: ${isoDates[invalidIndex]}`);
+    process.exit(1);
+  }
+  console.log(`Re-extracting ${dates.length} specified dates`);
+} else if (startDateArg && endDateArg) {
+  const startDate = DateTime.fromISO(startDateArg);
+  const endDate = DateTime.fromISO(endDateArg);
+  if (!startDate.isValid) {
+    console.error(`Invalid start date: ${startDateArg}`);
+    process.exit(1);
+  }
+  if (!endDate.isValid) {
+    console.error(`Invalid end date: ${endDateArg}`);
+    process.exit(1);
+  }
+  if (startDate > endDate) {
+    console.error('Start date must be before or equal to end date');
+    process.exit(1);
+  }
+  console.log(`Backfilling data from ${startDate.toISODate()} to ${endDate.toISODate()}`);
+  dates = Interval.fromDateTimes(startDate.startOf('day'), endDate.endOf('day'))
+    .splitBy({ days: 1 })
+    .map((interval) => interval.start!);
+} else {
+  console.error(
+    'Usage: ts-node extractor/backfillData.ts (--start=YYYY-MM-DD --end=YYYY-MM-DD | --dates=YYYY-MM-DD,... | --reextract-other)'
+  );
+  process.exit(1);
+}
 
 // run 8 async operations at a time
 async.eachLimit(
-  dateInterval,
+  dates,
   8,
-  async (interval, cb) => {
-    await saveDataForDate(interval.start!).catch((e) => {
-      console.log(`error getting data for ${interval.start?.toISODate()}`);
+  async (date, cb) => {
+    await saveDataForDate(date).catch((e) => {
+      console.log(`error getting data for ${date.toISODate()}`);
       if (e.response?.status === 404) {
         // this day's data isn't available yet
         return null;
@@ -77,7 +101,7 @@ async.eachLimit(
       throw e;
     });
     cb();
-    console.log(`finished getting data for ${interval.start?.toISODate()}`);
+    console.log(`finished getting data for ${date.toISODate()}`);
   },
   (err) => {
     if (err) throw err;
