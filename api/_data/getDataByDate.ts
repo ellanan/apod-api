@@ -2,17 +2,14 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 import { DateTime } from 'luxon';
 
-export const getDataByDate = async (date: DateTime) => {
-  const url = `https://apod.nasa.gov/apod/ap${date.toFormat('yyMMdd')}.html`;
-  console.log(`fetching ${url}`);
-  const response = await axios.get(url, { responseType: 'arraybuffer' });
-  const buf = Buffer.from(response.data);
-  // Some APOD pages are served as UTF-16 LE despite the Content-Type header claiming UTF-8
-  const html = buf[0] === 0xFF && buf[1] === 0xFE
+// Some APOD pages are served as UTF-16 LE despite the Content-Type header
+// claiming UTF-8; detect the BOM and decode accordingly.
+export const decodeApodHtml = (buf: Buffer): string =>
+  buf[0] === 0xff && buf[1] === 0xfe
     ? buf.toString('utf16le')
     : buf.toString('utf8');
 
-  console.log(`parsing ${url}`);
+export const parseApodHtml = (html: string, date: DateTime) => {
   const $ = cheerio.load(html);
 
   const body = $('body').text();
@@ -78,4 +75,13 @@ export const getDataByDate = async (date: DateTime) => {
       : 'other',
     url: imageUrl ?? iframeElement.attr('src') ?? htmlVideoUrl,
   };
+};
+
+export const getDataByDate = async (date: DateTime) => {
+  const url = `https://apod.nasa.gov/apod/ap${date.toFormat('yyMMdd')}.html`;
+  console.log(`fetching ${url}`);
+  const response = await axios.get(url, { responseType: 'arraybuffer' });
+  const buf = Buffer.from(response.data);
+  console.log(`parsing ${url}`);
+  return parseApodHtml(decodeApodHtml(buf), date);
 };
