@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# tbd preSession hook (BLOCKING — the agent does not start until this exits).
+# Use for anything the agent must have on its first turn: env files, config.
+#
+# tbd runs this with cwd = worktree path and TBD_* env vars set. We translate
+# those to the generic WT_* contract and delegate to the shared lib script,
+# so the real logic stays in one place shared with the Claude Code hook.
+set -euo pipefail
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+export WT_PATH="${TBD_WORKTREE_PATH:-$PWD}"
+export WT_SRC="${TBD_REPO_PATH:?TBD_REPO_PATH not set by tbd}"
+
+bash "$DIR/lib/copy-local-config.sh"
