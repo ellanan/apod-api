@@ -1751,5 +1751,15 @@
     "copyright": "Shingoo Lee",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg"
+  },
+  "2026-06-27": {
+    "title": "Mars Marathon by Perseverance",
+    "credit": "NASA, LPL (U. Arizona), MRO, HiRISE",
+    "explanation": "<b>  </b> \n\n<a href=\"https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/\">In this recent HiRISE</a>\nview from the Mars Reconnaissance Orbiter,\nthe little green dot indicated on the surface of the big Red Planet is the\n<a href=\"https://science.nasa.gov/mission/mars-2020-perseverance/\">Perseverance</a>\nMars rover.\n\nRecorded on June 13, the car-sized, six-wheeled robot was imaged\na day before completing a Martian marathon,\ntraveling a total distance of 26.218 miles\n(<a href=\"https://en.wikipedia.org/wiki/Marathon#IAAF_and_world_records\">42.195 kilometers</a>)\nsince it began exploring the surface of Mars.\n\nThat equivalent marathon distance was achieved by Perseverance on its\nmission sol (Martian day) 1,890, after about 5 Earth years\nand 4 Earth months of driving.\n\nPerseverance is continuing <a href=\"ap250928.html\">to hunt</a>\nfor biosignatures.\n\nIn the HiRISE image, the Mars rover's tracks\ncan be seen leading to\n<a href=\"https://science.nasa.gov/mission/mars-2020-perseverance/location-map/\">its location</a>\nin an area west of its\n<a href=\"ap210227.htm\">landing site</a> in Jezero crater near an\n<a href=\"https://science.nasa.gov/resource/perseverance-explores-the-jezero-crater-delta/\">ancient river delta</a>.",
+    "date": "2026-06-27",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/PIA26726.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg"
   }
 }
