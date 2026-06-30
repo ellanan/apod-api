@@ -1781,5 +1781,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg"
+  },
+  "2026-06-30": {
+    "title": "Unusually Smooth Sections of Asteroid Itokawa",
+    "credit": "JAXA, ISAS",
+    "explanation": "<b>  </b> \nWhy are parts of this asteroid's surface so smooth? \n\nThe answer seems likely to do with the dynamics of an \n<a href=\"https://science.nasa.gov/solar-system/asteroids/\">asteroid</a> that is a loose \n<a href=\"https://daviddarling.info/encyclopedia/R/rubble-pile_asteroid.html\">pile of rubble</a> rather than a solid rock. \n\nThe <a href=\"ap051116.html\">unusual asteroid</a> \n<a href=\"https://science.nasa.gov/solar-system/asteroids/25143-itokawa/\">Itokawa</a> was visited by the \n<a href=\"https://user.iiasa.ac.at/~marek/fbook/01/geos/ja.html\">Japan</a>ese spacecraft \n<a href=\"https://science.nasa.gov/mission/hayabusa/\">Hayabusa</a> in 2005 which imaged and \ndocumented its unusual structure and mysterious \n<a href=\"ap051121.html\">lack of craters</a>. \n\n<a href=\"https://www.science.org/doi/10.1126/science.1134390\">Analyses of the border regions</a> between smooth and rugged sections indicate that jostling of the asteroid might be creating segregation between large and small rocks near the surface, like the \n<a href=\"https://en.wikipedia.org/wiki/Granular_convection\">Brazil nut effect</a>. \n\nThe robotic Hayabusa actually \n<a href=\"ap190312.html\">touched down</a> \non one of the smooth patches, dubbed the \n<a href=\"https://global.jaxa.jp/article/special/hayabusa_sp3/p2_e.html\">MUSES Sea</a>, and collected \n<a href=\"https://www.planetary.org/articles/3191\">soil samples</a>.\n\nThese samples were \n<a href=\"https://global.jaxa.jp/article/special/hayabusa/index_e.html\">returned to Earth</a> and are not only \ngiving clues to the ancient history of \n<a href=\"ap100619.html\">this unusual asteroid</a>, \nbut also about the early years of our entire \n<a href=\"https://eyes.nasa.gov/apps/solar-system/#/home\">Solar System</a>.\n\nComputer simulations show that 500-meter <a href=\"https://www.esa.int/ESA_Multimedia/Videos/2017/04/Visualisation_of_asteroid_Itokawa/(lang)\">asteroid Itokawa</a> may \n<a href=\"https://i.ytimg.com/vi/1Kl4rNUTWCA/hqdefault.jpg\">impact the Earth</a> within the next few million years.",
+    "date": "2026-06-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg"
   }
 }
