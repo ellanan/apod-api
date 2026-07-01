@@ -1791,5 +1791,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg"
+  },
+  "2026-07-01": {
+    "title": "The Cotton Candy Clouds of Rho Ophiuchi",
+    "explanation": "<b>  </b> \nAlthough they look like cotton candy, you cannot eat these clouds! Taken in \n<a href=\"https://www.youtube.com/watch?v=kH4w3Ev2uKg\">Cádiz, Spain</a>, \n<a href=\"https://www.instagram.com/p/DZ0HKvRDNbW/\">today's image</a> \nfeatures \n<a href=\"ap251025.html\">the Rho Ophiuchi complex</a>, \na rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a \nnearby star-forming region containing hundreds of \n<a href=\"https://en.wikipedia.org/wiki/Young_stellar_object\">young stellar objects</a>, \nincluding \n<a href=\"ap250313.html\">protostars</a> and \n<a href=\"https://astronomy.swin.edu.au/cosmos/T/T+Tauri+Stars\">T Tauri stars</a>. \nLight from \n<a href=\"https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)\">the triple star system</a> \nat its center \n<a href=\"https://science.nasa.gov/ems/03_behaviors/\">reflects</a> \noff of small dust grains to create the blue \n<a href=\"https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/\">reflection nebula</a>. \n<a href=\"https://science.nasa.gov/ems/10_ultravioletwaves/\">Ultraviolet</a> \nlight from hot stars \n<a href=\"https://astronomy.swin.edu.au/cosmos/i/Ionisation\">ionizes</a> \nthe surrounding hydrogen gas, creating the red \n<a href=\"ap251021.html\">emission nebula</a>. \n<a href=\"ap250611.html\">Antares</a>, \n<a href=\"https://theplanets.org/red-supergiant-star-facts/\">a red supergiant</a> \nbig enough to engulf the Solar System’s \n<a href=\"https://science.nasa.gov/asset/webb/asteroid-belts-illustration/\">asteroid belt</a>, \nlights up the yellow region. Dark \n<a href=\"https://science.nasa.gov/universe/dust-in-the-stellar-wind-a-cosmological-primer/\">interstellar dust</a> \nblocks some of the complex’s color. Recent \n<a href=\"https://www.youtube.com/watch?v=U3X8rZtVJOQ\">JWST observations</a> \nexhibit shadows cast by hidden \n<a href=\"https://esawebb.org/wordbank/circumstellar-disc/\">circumstellar disks</a>, \nthe beginning stages of planet formation. \n<a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-4/\">Messier 4</a>, \na globular cluster almost as old as the universe, sits in the bottom right and witnesses yet \nanother chaotic burst of youth in the Milky Way.",
+    "date": "2026-07-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_1024.png",
+    "service_version": "v1",
+    "copyright": "Ángel Molina Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg"
   }
 }
