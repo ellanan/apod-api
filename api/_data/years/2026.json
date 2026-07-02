@@ -1801,5 +1801,15 @@
     "copyright": "Ángel Molina Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg"
+  },
+  "2026-07-02": {
+    "title": "Sibling Supernova Remnants",
+    "credit": "NASA Goddard Space Flight Center and M. Michailidis et al. 2026; optical: DSS; infrared: NASA/WISE/JPL-Caltech/UCLA; ultraviolet: NASA/Swift Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b>\n\n    What happens when one of the stars in a  <a href=\"https://science.nasa.gov/universe/stars/multiple-star-systems/\">binary</a> goes supernova?\n\n    This <a href=\"https://science.nasa.gov/missions/fermi/nasas-fermi-sibling-supernova-remnants/\">image</a> combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two <a href=\"ap260206.html\">supernova remnants</a> and their surrounding environment, about 6,000 light-years away.\n\n    The younger one is the well-known <a href=\"ap231226.html\">Jellyfish Nebula</a> in the center (mostly in yellow).\n\n    If we could see it by eye, it would appear <a href=\"https://en.wikipedia.org/wiki/IC_443\">larger than the full moon</a> in the sky.\n\n    The filament shown in purple is part of an older, overlapping supernova remnant, <a href=\"https://arxiv.org/pdf/2007.03226\">G189.6+3.3</a>.\n\n    A <a href=\"https://ui.adsabs.harvard.edu/abs/2026AAS...24743307M/abstract\">new study</a> used data from <a href=\"https://www.nasa.gov/\">NASA</a>'s <a href=\"https://science.nasa.gov/mission/fermi/\">Fermi Gamma-ray Space Telescope</a> to piece together their <a href=\"https://humsci.stanford.edu/feature/researchers-uncover-evidence-sibling-supernovas\">story</a>.\n\n    Astronomers believe that there were two stars in a binary system, then the first one exploded as a supernova, <a href=\"https://images.unsplash.com/vector-1741055269495-7abf86aab37a\">kicking</a> away its companion, which also exploded as a supernova tens of thousands of years later, creating the superimposed supernova remnants we see today.\n\n    The bright star on the right is actually a triple star system named <a href=\"https://en.wikipedia.org/wiki/Eta_Geminorum\">Propus</a>.",
+    "date": "2026-07-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/sibling_supernovae.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg"
   }
 }
