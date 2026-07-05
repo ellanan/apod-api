@@ -1831,5 +1831,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg"
+  },
+  "2026-07-05": {
+    "title": "Saturn's Iapetus: Painted Moon",
+    "credit": "NASA, ESA, JPL, SSI, Cassini Imaging Team",
+    "explanation": "<b>  </b> \nWhat has happened to Saturn's moon Iapetus? \n\nVast sections of \n<a href=\"https://science.nasa.gov/saturn/moons/iapetus/\">this strange world</a> are dark as \n<a href=\"https://en.wikipedia.org/wiki/Coal\">coal</a>, \nwhile others are as \n<a href=\"https://www.earthdata.nasa.gov/topics/cryosphere/albedo\">bright as snow</a>. \n\nTo help better understand this unusually tinted moon, \nin 2007 \n<a href=\"https://www.nasa.gov/about/\">NASA</a> \ndirected the \n<a href=\"https://science.nasa.gov/mission/cassini/spacecraft/cassini-orbiter/\">robotic Cassini spacecraft</a> then orbiting \n<a href=\"ap200419.html\">Saturn</a> to swoop within 2,000 kilometers. \n\n<a href=\"https://science.nasa.gov/photojournal/the-other-side-of-iapetus/\">Pictured here</a>, from about 75,000 kilometers out, \nis the hemisphere of Iapetus that is \n<a href=\"https://en.wikipedia.org/wiki/Tidal_locking\">always trailing</a>. \n\nA <a href=\"https://en.wikipedia.org/wiki/Engelier\">large impact crater</a> seen in the south spans 500 kilometers and appears superposed on an \n<a href=\"https://en.wikipedia.org/wiki/Gerin_(crater)\">older crater</a> \nof similar size. \n\nThe <a href=\"ap070914.html\">dark material</a> is seen increasingly coating the easternmost part of \n<a href=\"https://en.wikipedia.org/wiki/Iapetus_(moon)\">Iapetus</a>, darkening craters and highlands alike. \n\nA <a href=\"https://ui.adsabs.harvard.edu/abs/2005DPS....37.3908S/abstract\">leading hypothesis</a> is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice \n<a href=\"https://en.wikipedia.org/wiki/Sublimation_(phase_transition)\">sublimates</a>. \n\nAn initial coating of this <a href=\"https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Dark-stained_Iapetus\">dark material</a> may have been \n<a href=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzYXbehmVESHlOweeRMxQ9RZECGsss1-hWx2p70VHlg&amp;s=10\">effectively painted on</a> by the accretion of meteor-liberated debris from \n<a href=\"ap180514.html\">other moon</a>s.",
+    "date": "2026-07-05",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_4100.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg"
   }
 }
