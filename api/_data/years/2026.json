@@ -1841,5 +1841,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg"
+  },
+  "2026-07-06": {
+    "title": "Dueling Bands over the Atacama Desert",
+    "explanation": "<b>  </b> \nWhat are these two bands in the sky? \n\nThe more commonly seen band is on the left and is the central band of our \n<a href=\"https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html\">Milky Way galaxy</a>. \n\nOur <a href=\"https://science.nasa.gov/sun/\">Sun</a> orbits in the disk of \n<a href=\"ap240804.html\">this spiral galaxy</a> \nso that from inside, it \n<a href=\"ap170328.html\">appears as a band</a> \nof comparable brightness all the way \n<a href=\"ap180313.html\">around the sky</a>. \n\nThe less commonly seen band, on the right, is \n<a href=\"https://en.wikipedia.org/wiki/Zodiacal_light\">zodiacal light</a> -- sunlight reflected from dust \norbiting the Sun in our \n<a href=\"https://science.nasa.gov/solar-system/\">Solar System</a>. \n\n<a href=\"ap120116.html\">Zodiacal light</a> is \nbrightest near the Sun and so is best \nseen just before sunrise or just after sunset. \n\nOn some evenings, this ribbon of zodiacal light can \n<a href=\"https://thumbs.dreamstime.com/b/funny-excited-guinea-pig-isolated-yellow-background-shocked-face-tiny-paws-raised-364478590.jpg\">appear quite prominent</a>. \n\nIt was \n<a href=\"https://ui.adsabs.harvard.edu/abs/2010ApJ...713..816N/abstract\">discovered only in this century</a> \nthat zodiacal dust was mostly expelled by comets that have passed \n<a href=\"ap250216.html\">near Jupiter</a>. \n\nThe <a href=\"https://www.flickr.com/photos/julienlooten/55200394659/\">featured image</a> was captured about a year ago from the \n<a href=\"https://youtu.be/o5JfmFSBDgE\">Atacama Desert</a> in \n<a href=\"https://en.wikipedia.org/wiki/Chile\">Chile</a>.",
+    "date": "2026-07-06",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg",
+    "service_version": "v1",
+    "copyright": "Julien Looten",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg"
   }
 }
