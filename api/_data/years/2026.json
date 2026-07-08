@@ -1861,5 +1861,14 @@
     "copyright": "Rod Prazeres",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg"
+  },
+  "2026-07-08": {
+    "title": "Swift Boost Mission",
+    "credit": "Katalyst Space Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "explanation": "<b>  </b>\n\n    Sometimes we can all use <a href=\"https://www.youtube.com/watch?v=0C58ttB2-Qg\">a little help from a friend</a>. \n\n    <a href=\"https://www.nasa.gov/\">NASA</a>'s <a href=\"https://science.nasa.gov/mission/swift/\">Neil Gehrels Swift Observatory</a> needs a boost to stay in orbit after almost 22 years of service.\n\n    This <a href=\"https://svs.gsfc.nasa.gov/15051/#media_group_380453\">video</a> shows an artist's visualization of the <a href=\"https://science.nasa.gov/mission/swift/swift-boost-mission/\">Swift Boost Mission</a>: The <a href=\"https://www.katalystspace.com/\">Katalyst</a>'s <a href=\"https://www.katalystspace.com/news/katalyst-develops-design-for-nasa-to-rescue-500m-space-telescope\">LINK spacecraft</a> was launched aboard a <a href=\"https://www.northropgrumman.com/\">Northrop Grumman</a> <a href=\"https://en.wikipedia.org/wiki/Northrop_Grumman_Pegasus\">Pegasus XL rocket</a> on July 3 and it is now en route to rendezvous with Swift and boost it to a higher orbit over the course of the next <a href=\"https://science.nasa.gov/mission/swift/swift-boost-mission/timeline/\">several months</a>.\n\n    This type of maneuver has <a href=\"https://svs.gsfc.nasa.gov/15051/#media_group_380414\">never been attempted before</a>.\n\n    If successful, it will be the technology demonstration of a new key capability to extended the lifetime of spacecraft in low Earth orbit, whose orbits <a href=\"https://en.wikipedia.org/wiki/Orbital_decay\">decay over time</a>.\n\n    Swift has an array of <a href=\"https://www.swift.ac.uk/about/instruments.php\">instruments</a> that observe the most energetic <a href=\"https://apod.nasa.gov/apod/ap130508.html\">explosions</a> in the Universe in gamma-rays, X-rays and ultraviolet, and the unique ability to repoint in their direction within <a href=\"https://imagine.gsfc.nasa.gov/observatories/learning/swift/faq/\">tens of seconds</a>.\n\n    Astronomers around the world, and indeed all fans of cosmic explosions, are <a href=\"https://i0.wp.com/catcaresolutions.com/wp-content/uploads/2019/07/funny-wet-cat.jpg\">anxiously</a> hoping for a successful mission!",
+    "date": "2026-07-08",
+    "service_version": "v1",
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2607/Swift_Boost.mp4"
   }
 }
