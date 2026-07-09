@@ -1870,5 +1870,15 @@
     "service_version": "v1",
     "media_type": "video",
     "url": "https://apod.nasa.gov/apod/image/2607/Swift_Boost.mp4"
+  },
+  "2026-07-09": {
+    "title": "The Red Glow of the Cosmic Bat Nebula",
+    "explanation": "<b>  </b> \n<a href=\"https://www.instagram.com/p/DaNe2cgDRT5/\">This Cosmic Bat</a> \nwishes you a happy \n<a href=\"https://en.wikipedia.org/wiki/Summerween\">Summerween</a>! \nThis mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, \n<a href=\"ap251030.html\">the Cosmic Bat Nebula</a> \n(<a href=\"https://articles.adsabs.harvard.edu/pdf/1962ApJS....7....1L\">LDN</a> 43), \nnot to be confused with \n<a href=\"ap251028.html\">the Bat Nebula</a> \n(NGC 6995), is a vibrant \n<a href=\"https://science.nasa.gov/universe/stars/\">birthplace for stars</a>. \nA bit of young starlight peeks through the \n<a href=\"ap230129.html\">dense clouds</a> \nof gas and dust that make up the Cosmic Bat’s 12 lightyear wingspan. The \n<a href=\"https://science.nasa.gov/ems/10_ultravioletwaves/\">ultraviolet</a> \nlight from the young stars energizes the nebula’s hydrogen gas, causing it to \n<a href=\"https://www.astronomy.com/science/i-read-that-ultraviolet-light-is-the-cause-of-hii-regions-but-this-light-is-invisible-so-why-are-these-objects-the-color-red/\">glow an ominous red</a>. \nThe <a href=\"ap250528.html\">jet</a> \nof glowing hydrogen gas emerging from the bat’s head \n<a href=\"https://astronomy.swin.edu.au/cosmos/*/Stellar+Jets\">hints at the star formation</a> \nhidden within.",
+    "date": "2026-07-09",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_1024.jpg",
+    "service_version": "v1",
+    "copyright": "Humbert Cédric Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg"
   }
 }
