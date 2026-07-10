@@ -1880,5 +1880,15 @@
     "copyright": "Humbert Cédric Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg"
+  },
+  "2026-07-10": {
+    "title": "Western Moon, Eastern Sea",
+    "explanation": "<b>  </b> \n\n<a href=\"http://lroc.sese.asu.edu/posts/189\">The Mare Orientale</a>,\nLatin for Eastern Sea, is one of the most striking\nlarge scale lunar features.\n\nThe youngest of the large lunar impact basins it's \nvery difficult to see from an\n<a href=\"https://skyandtelescope.org/astronomy-news/set-your-sights-on-this-lunar-bulls-eye/\">earthbound perspective</a>.\n\nStill, captured on July 7 during a period of favorable tilt, or\n<a href=\"https://svs.gsfc.nasa.gov/5195\">libration</a>\nof the lunar nearside,\nthe Eastern Sea can be found at the upper right in this sharp\ntelescopic view.\n\nIn the image, the large lunar mare is\nextremely foreshortened and stretches along the Moon's western edge.\n\nFormed by the impact of an asteroid over 3 billion years\nago and nearly 1000 kilometers across, the\n<a href=\"https://www.lpi.usra.edu/lunar/missions/orbiter/lunar_orbiter/impact_basin/\">impact basin's</a>\nconcentric circular features are ripples in the lunar crust.\n\nBut they are a little easier to spot in\nmore direct images of the region taken from\n<a href=\"ap960112.html\">lunar orbit</a>.\n\nSo why is the Eastern Sea at the Moon's western edge?\n\nThe <a href=\"https://en.wikipedia.org/wiki/Mare_Orientale\">Mare Orientale</a>\nlunar feature was named before 1961.\n\nThat's when the convention labeling\n<a href=\"https://adsabs.harvard.edu/full/2007JBAA..117..129B\">east and west on lunar maps</a>\nwas reversed.",
+    "date": "2026-07-10",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon.jpg",
+    "service_version": "v1",
+    "copyright": "Guy Bardon",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg"
   }
 }
