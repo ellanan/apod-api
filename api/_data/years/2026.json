@@ -1890,5 +1890,15 @@
     "copyright": "Guy Bardon",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg"
+  },
+  "2026-07-11": {
+    "title": "Messier 24: Sagittarius Star Cloud",
+    "explanation": "<b>  </b> \n\n<a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/\">Unlike most entries</a>\nin Charles Messier's famous catalog of deep sky objects,\n<a href=\"http://www.messier.seds.org/m/m024.html\">M24</a>\nis not a bright galaxy, star cluster, or nebula.\n\nIt's a gap in nearby, obscuring interstellar dust clouds that allows\na view of the distant stars in the Sagittarius spiral arm\nof our Milky Way galaxy.\n\n<a href=\"https://oneminuteastronomer.com/4460/small-sagittarius-star-cloud/\">Direct your gaze</a>\nthrough this gap with binoculars or a small telescope and you are\nlooking through a window over 300 light-years wide at stars some\n10,000 light-years or more from Earth.\n\nSometimes called the\n<a href=\"https://en.wikipedia.org/wiki/Small_Sagittarius_Star_Cloud\">Small Sagittarius Star Cloud</a>,\nM24's luminous stars stretch across\nthis gorgeous interstellar scene.  \n\nSpanning over four full moons on the sky toward the\nconstellation Sagittarius, the telescopic field of view includes\n<a href=\"https://ui.adsabs.harvard.edu/abs/1919ApJ....49....1B/abstract\">dark markings</a>\nB92 and B93 <a href=\"ap100708.html\">near the center</a> of M24,\nalong with other\nclouds of dust and glowing nebulae toward the center of the Milky Way.",
+    "date": "2026-07-11",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/M24.png",
+    "service_version": "v1",
+    "copyright": "Chuck Ayoub",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/M24_1088.jpg"
   }
 }
