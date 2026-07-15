@@ -1928,5 +1928,15 @@
     "copyright": "JAXA, U. of Tokyo, Chiba Tech, Tokyo U. of Science, AIST, Paris Obs., IAC",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg"
+  },
+  "2026-07-15": {
+    "title": "Red Sprites in the Tatacoa Desert",
+    "explanation": "<b>  </b> \nIs there an angry \n<a href=\"https://starwars.fandom.com/wiki/Sith\">Sith</a> \nusing \n<a href=\"https://starwars.fandom.com/wiki/Force_lightning\">force lightning</a> \nin the \n<a href=\"https://www.youtube.com/watch?v=8xRBEN2IzPo\">Tatacoa Desert</a>? \nThis is not science fiction, but a \n<a href=\"https://www.instagram.com/p/DajC0nThpZp/\">red sprite</a> \nwith multiple \n<a href=\"https://link.springer.com/article/10.1007/s10712-013-9224-4\">streamers</a>! \nOrdinary \n<a href=\"https://www.nssl.noaa.gov/education/svrwx101/lightning/faq/\">lightning</a> \noccurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The \n<a href=\"https://www.youtube.com/watch?v=MsINeZMeTMQ\">opposite charges attract</a>, \nreaching towards each other and superheating the air into a white strike of \n<a href=\"https://www.youtube.com/watch?v=E3T2ldsdtMg\">plasma</a>. \n<a href=\"ap231002.html\">Red sprites</a> \nare \n<a href=\"ap210104.html\">millisecond events</a> triggered by \n<a href=\"https://www.noaa.gov/jetstream/lightning/positive-and-negative-side-of-lightning\">positive cloud-to-ground</a> \nlightning. They extend up into \n<a href=\"https://spaceplace.nasa.gov/whats-in-the-atmosphere/\">the mesosphere</a> where the air is too thin for \n<a href=\"https://www.nesdis.noaa.gov/about/k-12-education/severe-weather/what-causes-lightning-and-thunder\">thunder</a>. \nTheir red glow comes from heated \n<a href=\"https://www.noaa.gov/jetstream/atmosphere\">molecular nitrogen</a>. \nThere are \n<a href=\"https://earthweb.ess.washington.edu/space/AtmosElec/spriteinfo.html\">several potential causes</a> \nfor red sprites, including that the preceding \n<a href=\"https://www.theweathernetwork.com/en/news/science/explainers/astronaut-spots-red-sprite-from-the-international-space-station\">positive lightning exposes the negatively charged cloud core</a> \nto the positively charged upper atmosphere, allowing those charges to connect. \n<a href=\"https://science.nasa.gov/mission/juno/\">NASA’s Juno</a> \nhas observed \n<a href=\"https://www.astronomy.com/science/sprites-and-elves-found-frolicking-in-jupiters-skies/\">sprites on Jupiter</a>, \nindicating that sprites occur on other planets!",
+    "date": "2026-07-15",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/red_sprite.jpg",
+    "service_version": "v1",
+    "copyright": "Mario Vargas Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg"
   }
 }
