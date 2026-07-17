@@ -1948,5 +1948,15 @@
     "copyright": "Team Ciel Austral Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg"
+  },
+  "2026-07-17": {
+    "title": "The Dust Trail of Comet Tempel 2",
+    "explanation": "<b>  </b> \n\n<a href=\"https://theskylive.com/10p-info\">Comet 10P/Tempel 2</a>\norbits the Sun once every 5.4 years.\n\nCurrently visible in binoculars or small telescopes toward\nthe constellation Capricornus, the\n<a href=\"https://en.wikipedia.org/wiki/List_of_periodic_comets\">periodic</a>\ncomet is captured in this sharp telescopic\n<a href=\"https://app.astrobin.com/i/1ewym6?r=0\">image from July 11</a>\nsporting a bright nuclear region and pretty greenish coma.\n\nRemarkably, a thin dust <i>trail</i>,\nnot a typical dust tail, is also seen extending both east and west of\nthe Tempel 2 nucleus.\n\nUnlike a\n<a href=\"https://science.nasa.gov/solar-system/comets/facts/\">comet dust tail</a>,\nwhich tends to temporarily\nfan out in a direction away from the Sun, this dust trail\n<a href=\"https://ui.adsabs.harvard.edu/abs/2024RSPTA.38230200K/abstract\">is due to the residual dust</a>\nshed during\n<a href=\"https://ui.adsabs.harvard.edu/abs/2012AJ....144..153K/abstract\">many past</a>\norbits along this ancient periodic comet's orbital plane.\n\nIn fact, Tempel 2's dust trail may get a little narrower and brighter\nfrom our perspective as Earth crosses through the comet's orbital plane\non July 20.\n\n<a href=\"https://en.wikipedia.org/wiki/10P/Tempel\">Comet 10P/Tempel 2</a>\nwill reach a perihelion on August 2, and make\nits closest approach to Earth on August 3.",
+    "date": "2026-07-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg",
+    "service_version": "v1",
+    "copyright": "Dan Bartlett",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg"
   }
 }
