@@ -1997,5 +1997,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg"
+  },
+  "2026-07-22": {
+    "title": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
+    "credit": "DES/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA Image Processing: T.A. Rector (UAA/NOIRLab), R. Colombari & M. Zamani (NOIRLab) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "explanation": "<b>  </b> \nThe Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. \n<a href=\"ap181129.html\">The Corona Australis Cloud</a> \nis a collage of \n<a href=\"https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/\">reflection and emission nebulae</a> \non the left of \n<a href=\"https://noirlab.edu/public/news/noirlab2617/?lang\">today’s image</a>. \nAt 430 light years away, this cloud is one of the closest \n<a href=\"https://science.nasa.gov/mission/webb/science-overview/science-explainers/webbs-star-formation-discoveries/\">star-forming regions</a> \nto Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into \n<a href=\"https://lco.global/spacebook/stars/protostar/\">protostars</a>. \nRecently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis \n<a href=\"ap970219.html\">binary system</a> \nstirs up the nebula \n<a href=\"https://app.astrobin.com/i/2hti5p\">NGC 6729</a>. \nThe younger of the pair \n<a href=\"https://astronomy.swin.edu.au/cosmos/*/Ionisation\">ionizes</a> \nnearby gas with its ultraviolet light, causing it to glow. \n<a href=\"https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/\">The Chandelier Cluster</a> \n(NGC 6723) dangles from the top right, but is actually tens of thousands\nof light years farther away than its apparent star-forming neighbor.\nWhile NGC 6723 experienced multiple periods of star formation creating \n<a href=\"https://esahubble.org/images/potm2606a/\"><i>slightly</i> younger</a> \nstars, the chandelier twinkles with stars almost as old as the universe.",
+    "date": "2026-07-22",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/corona_australis.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg"
   }
 }
