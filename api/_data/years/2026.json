@@ -2007,5 +2007,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg"
+  },
+  "2026-07-23": {
+    "title": "The Large Magellanic Cloud",
+    "explanation": "<b>  </b>\n    \n    Have you ever seen <a href=\"https://www.youcanseethemilkyway.com/blog/what-galaxies-can-you-see-with-the-naked-eye\">another galaxy</a> with your own eyes?\n\n    The <a href=\"https://www.instagram.com/p/Da5kVNrkSwA/?img_index=1\">featured image</a> shows the <a href=\"https://en.wikipedia.org/wiki/Large_Magellanic_Cloud\">Large Magellanic Cloud</a> (LMC), one of the closest neighbors of our <a href=\"https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html\">Milky Way</a>.\n    \n    If you are anywhere south of <a href=\"https://oceanservice.noaa.gov/facts/latitude.html\">latitude</a> 20° N (but the further south, the better), you can see it <a href=\"https://www.astronomy.com/observing/take-a-closer-look-at-the-large-magellanic-cloud/\">with the unaided eye</a> if you go to a dark sky location, away from big cities and <a href=\"ap200408.html\">light polution</a>.\n\n    It is a <a href=\"https://esahubble.org/wordbank/dwarf-galaxy/\">dwarf</a> <a href=\"https://science.nasa.gov/universe/galaxies/types/#irregular-galaxies\">irregular galaxy</a> about 163,000 light-years away, and a member of our <a href=\"http://www.atlasoftheuniverse.com/localgr.html\">Local Group</a> of galaxies.\n\n    Despite being small, with a total mass approximately equivalent to <a href=\"https://iopscience.iop.org/article/10.3847/1538-4357/ad1f58/pdf\">10% - 20%</a> of the mass of the Milky Way, the LMC is very actively <a href=\"ap260219.html\">forming stars</a>.\n\n    This is likely due in part to the gravitational <a href=\"https://images.unsplash.com/photo-1687425961065-46efeb465c66\">push and pull</a> of tides caused by the Milky Way on the LMC.\n\n    Some astronomers have predicted that it will <a href=\"https://www.sci.news/astronomy/large-magellanic-cloud-milky-way-collision-06788.html\">collide</a> with the Milky Way in in about 2 billion years.",
+    "date": "2026-07-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/LMC.jpg",
+    "service_version": "v1",
+    "copyright": "Monica Mesa Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg"
   }
 }
