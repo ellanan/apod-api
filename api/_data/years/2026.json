@@ -2066,5 +2066,14 @@
     "copyright": "Gonzalo Laserna Vargas",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg"
+  },
+  "2026-07-29": {
+    "title": "Psyche Receives Gravity Assist from Mars",
+    "credit": "NASA/JPL-Caltech/ASU/True Story Films Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "explanation": "<b>  </b> \nSolar System bodies make deep space exploration more fuel efficient! \n<a href=\"https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/\">Today’s video</a> \nshows \n<a href=\"https://science.nasa.gov/mission/psyche/\">the Psyche spacecraft</a> \ngaining speed and changing its trajectory with minimal fuel spent due to a \n<a href=\"https://science.nasa.gov/learn/basics-of-space-flight/primer/\">gravity assist</a> \nfrom Mars in May 2026. Mars has an average orbital speed of almost \n87,000 km/h (54,000 mph) around the Sun. Its orbital motion and its gravity allowed Mars to \npull Psyche along with it, increasing the spacecraft’s speed. Gravity assists have been used since 1959’s \n<a href=\"https://en.wikipedia.org/wiki/Luna_3\">Luna 3 mission</a> \nto allow for spacecraft \n(<a href=\"https://www.youtube.com/watch?v=l8TA7BU2Bvo\">the Voyagers</a>, \n<a href=\"ap990826.html\">Cassini</a>) \nto reach farther than they could with fuel alone. This assist helped the Psyche spacecraft on its journey \nto the Psyche asteroid, which it will reach in 2029. While passing Mars, the spacecraft tested instruments \nthat will analyze the asteroid’s composition and magnetic field. This is the first mission to an asteroid \n<a href=\"https://www.planetary.org/space-missions/psyche\">thought to be largely made of metal</a>, \nan essential building block for planets, rather than rock or ice.",
+    "date": "2026-07-29",
+    "service_version": "v1",
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3"
   }
 }
