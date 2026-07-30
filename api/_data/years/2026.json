@@ -2075,5 +2075,15 @@
     "service_version": "v1",
     "media_type": "video",
     "url": "https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3"
+  },
+  "2026-07-30": {
+    "title": "Red Sun through Wildfire Smoke",
+    "explanation": "<b>  </b>\n    \n    This could be the view from an <a href=\"https://science.nasa.gov/exoplanets/\">exoplanet</a> orbiting around a <a href=\"https://www.britannica.com/science/red-dwarf-star\">red dwarf star</a>, but it is our own <a href=\"https://science.nasa.gov/sun/\">Sun</a>.\n\n    <a href=\"https://www.instagram.com/p/DbH_V37lKyN/\">This image</a> was taken on July 22, 2026, in the <a href=\"https://en.wikipedia.org/wiki/Okanagan\">Okanagan region</a> in the Canadian province of <a href=\"https://www.supernaturalbc.com/\">British Columbia</a>.\n\n    <a href=\"https://fire.airnow.gov/\">Wildfire smoke</a> from the <a href=\"https://en.wikipedia.org/wiki/Pacific_Northwest\">Pacific Northwest</a> acted as a <a href=\"https://www.usa.canon.com/learning/training-articles/training-articles-list/being-safe-using-solar-filters\">solar filter</a>, allowing the photographer to take this photo of the Sun directly.\n\n    Several <a href=\"https://science.nasa.gov/sun/sunspots/\">sunspots</a> are also visible in this eerie image; just below and right of the center is <a href=\"https://www.friendsofnasa.org/2026/07/fast-evolving-sunspot-ar-4493-larger.html\">AR 4493</a>, a fast evolving, giant <a href=\"https://scied.ucar.edu/image/solar-active-regions-sunspots-uv-image\">active solar region</a> and sunspot group.\n    \n    The smoke is made of tiny particles that help block and <a href=\"https://en.wikipedia.org/wiki/Mie_scattering\">scatter</a> light with bluer <a href=\"https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/wavelengths/\">colors</a>, so the light we see coming from the Sun is <a href=\"ap130829.html\">dimmer and redder</a> than usual (but it is never safe to <a href=\"https://images.unsplash.com/photo-1505628346881-b72b27e84530\">stare directly</a> at the Sun).\n\n    Sunsets and sunrises are also <a href=\"https://weather.com/science/weather-explainers/news/2025-08-05-wildfire-smoke-red-sunset-sunrise-scattering-explained\">more colorful</a> because of the smoke.  \n    \n    Some <a href=\"https://science.nasa.gov/exoplanets/resources/life-and-death/chapter-6/\">6 billion years</a> from now, the Sun will actually start to turn redder as it approaches its <a href=\"https://science.nasa.gov/universe/stars/types/#red-giants\">red giant</a> phase.",
+    "date": "2026-07-30",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/red_sun.jpg",
+    "service_version": "v1",
+    "copyright": "Debra Ceravolo Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg"
   }
 }
