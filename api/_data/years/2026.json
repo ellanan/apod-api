@@ -2085,5 +2085,15 @@
     "copyright": "Debra Ceravolo Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg"
+  },
+  "2026-07-31": {
+    "title": "NGC 4372 and the Dark Doodad",
+    "explanation": "<b>  </b> \n\nThe Dark Doodad Nebula drifts\n<a href=\"ap210101.html\">through southern skies</a>,\na tantalizing target for binoculars toward the small constellation\n<a href=\"http://en.wikipedia.org/wiki/Musca\">Musca</a>, The Fly.\n\nA dusty interstellar cloud, it's seen against\nrich starfields just south of the Coalsack Nebula and the Southern Cross.\n\nStretching for about 3 degrees across this telescopic field of view, \n<a href=\"https://en.wikipedia.org/wiki/Dark_Doodad_Nebula\">the Dark Doodad</a>\nis punctuated near its southern tip (upper right) by yellowish\nglobular star cluster\n<a href=\"http://spider.seds.org/spider/MWGC/n4372.html\">NGC 4372</a>.\n\nOf course NGC 4372 roams the halo of our\n<a href=\"https://science.nasa.gov/resource/the-milky-way-galaxy/\">Milky Way</a>\ngalaxy, a background object some 20,000 light-years away and only\nby chance along our line-of-sight to the Dark Doodad.\n\nAbout 700 light-years distant and over 30 light-years long,\nthe Dark Doodad's well defined silhouette belongs to the\n<a href=\"https://arxiv.org/abs/1507.03742\">potentially</a> star-forming\n<a href=\"https://ui.adsabs.harvard.edu/abs/2024A%26A...687L...9E/abstract\">Musca molecular cloud</a>.\n\nThe dusty Dark Doodad's delightfully alliterative moniker was first coined by\n<a href=\"https://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&amp;object_id=dicicco\">astro-imager and writer</a>\nDennis di Cicco in 1986 while\nobserving Comet Halley from the Australian outback.",
+    "date": "2026-07-31",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg",
+    "service_version": "v1",
+    "copyright": "Alessandro Cipolat Bares",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg"
   }
 }
