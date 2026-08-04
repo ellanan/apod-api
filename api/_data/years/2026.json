@@ -2125,5 +2125,15 @@
     "copyright": "Tom Burnett",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg"
+  },
+  "2026-08-04": {
+    "title": "Curious Cometary Knots in the Helix Nebula",
+    "credit": "NASA, ESA, CSA, STScI, JWST; Processing: A. Pagan (STScI)",
+    "explanation": "<b>  </b> \nWhat causes unusual knots of gas and dust in \n<a href=\"https://en.wikipedia.org/wiki/Planetary_nebula\">planetary nebulas</a>? \n\nSeen also in the \n<a href=\"ap230814.html\">Ring Nebula</a>, the \n<a href=\"ap260622.html\">Dumbbell Nebula</a> and \n<a href=\"ap060709.html\">NGC 2392</a>, \nthe knots' existence was not initially predicted, and their origins are still \n<a href=\"https://dogwithblog.in/wp-content/uploads/2014/08/head-tilt-flappy-ears.jpg\">not well understood</a>. \n\nPictured <a href=\"https://science.nasa.gov/asset/webb/helix-nebula-nircam/\">here</a> is a fascinating image of \n<a href=\"https://science.nasa.gov/asset/webb/helix-nebula-context-vista-and-webb/\">part</a> of the \n<a href=\"ap250729.html\">Helix Nebula</a> by the \n<a href=\"https://science.nasa.gov/mission/webb/\">James Webb Space Telescope</a> showing tremendous detail in \n<a href=\"https://science.nasa.gov/ems/07_infraredwaves/\">infrared light</a>.\n\nThe cometary knots have masses similar to the \n<a href=\"https://science.nasa.gov/earth/facts/\">Earth</a> but have sizes typically several times the orbit of Pluto. \n\n<a href=\"https://ui.adsabs.harvard.edu/abs/1996AJ....111.1630O/abstract\">One hypothesis</a> for the fragmentation and \nevolution of the knots includes existing gas being \n<a href=\"https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Taylor_instability\">driven out</a> by a less dense but highly energetic \n<a href=\"https://en.wikipedia.org/wiki/Stellar_wind\">stellar wind</a> of the central evolving star. \n\nThe <a href=\"https://en.wikipedia.org/wiki/Helix_Nebula\">Helix Nebula</a> is one of the closest examples of a \n<a href=\"https://esahubble.org/wordbank/planetary-nebula/\">planetary nebula</a> created at the end of the \n<a href=\"https://science.nasa.gov/resource/the-life-cycle-of-a-sun-like-star-annotated/\">life of a Sun-like star</a>. \n\nGiven a technical designation of NGC 7293, the \n<a href=\"https://science.nasa.gov/asset/webb/helix-nebula-mini-poster/\">Helix Nebula</a> lies about 650 \n<a href=\"https://spaceplace.nasa.gov/light-year/en/\">light-year</a>s away towards the constellation of Water Carrier \n(<a href=\" https://en.wikipedia.org/wiki/Aquarius_(constellation)\">Aquarius</a>).",
+    "date": "2026-08-04",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg"
   }
 }
