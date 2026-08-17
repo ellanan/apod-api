@@ -2255,5 +2255,15 @@
     "copyright": "Dave Lane",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg"
+  },
+  "2026-08-17": {
+    "title": "A Golden Corona Eclipse",
+    "explanation": "<b>  </b> \nThis total solar eclipse appeared not only poetically beautiful but scientifically interesting. \n\nUsually the \n<a href=\"https://apod.nasa.gov/apod/ap230516.html\">solar corona</a> appears white, and to \nsome observers the corona of last week's total solar eclipse did appear \n<a href=\"https://apod.nasa.gov/apod/ap260814.html\">this pearly color</a>. \n\nBut this time, totality observers in Spain saw a corona that appeared unusually golden. \n\nFor one reason, from \n<a href=\"https://en.wikipedia.org/wiki/Spain\">Spain</a>, \nthe totality occurred when the setting Sun was near the horizon. \n\nThat low, sunlight travels through a large amount of \n<a href=\"https://www.optics4kids.org/what-is-optics/scattering/why-is-the-sky-blue-why-are-sunsets-red\">air which scatters</a> out blue light.\n\nAn unusual amount of \n<a href=\"https://media.istockphoto.com/id/1215895183/photo/portrait-of-a-ginger-cat-the-cat-in-the-medical-face-mask-outdoors-medical-concept.jpg\">smoke in the air</a> from nearby \n<a href=\"https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-5.9,35.0,3.1z\">forest fires</a> \nacted as a second filter, \n<a href=\"https://apod.nasa.gov/apod/ap260730.html\">further scattering</a> the \nremaining blue tones and deepening the already gold-dominated \n<a href=\"https://science.nasa.gov/ems/09_visiblelight/\">light</a>.\n\nThe <a href=\"https://en.wikipedia.org/wiki/High_dynamic_range\">HDR</a>-processed, multiple-exposure \n<a href=\"https://www.instagram.com/p/Db_yz70jS86/\">featured image</a> was captured from \n<a href=\"https://youtu.be/GqtSSkrpk6E\">Benavente</a>, \n<a href=\"https://en.wikipedia.org/wiki/Spain\">Spain</a> last week. \n\nOne thing that did not appear golden was a \n<a href=\"https://en.wikipedia.org/wiki/Hydrogen-alpha\">hydrogen</a>-glowing \n<a href=\"https://apod.nasa.gov/apod/ap230801.html\">prominence</a> that hovered over the \n<a href=\"https://science.nasa.gov/sun/\">Sun</a>'s left edge -- \nits original \n<a href=\"https://apod.nasa.gov/apod/ap170912.html\">bright pink</a> color survived.",
+    "date": "2026-08-17",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_1751.jpg",
+    "service_version": "v1",
+    "copyright": "Rui Santos (Living Impressions)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg"
   }
 }
