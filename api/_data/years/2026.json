@@ -2341,5 +2341,15 @@
     "copyright": "Tim Martin",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg"
+  },
+  "2026-08-26": {
+    "title": "JWST Images The Lion's Head Nebula",
+    "credit": "NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "explanation": "<b>  </b> \nAre we looking at the future of our \n<a href=\"https://science.nasa.gov/sun/\">Sun</a>? \nThe \n<a href=\"https://science.nasa.gov/mission/webb/\">James Webb Space Telescope</a> \ncaptured \n<a href=\"https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/\">today’s composite image</a> \nof the Lion’s Head Nebula \n(<a href=\"https://apod.nasa.gov/apod/ap200216.html\">NGC 2392</a>) \nwith its \n<a href=\"https://science.nasa.gov/mission/webb/nircam/\">NIRCam</a> and \n<a href=\"https://science.nasa.gov/mission/webb/mid-infrared-instrument-miri/\">MIRI</a> \ninstruments. The Lion’s Head Nebula is the \n<a href=\"https://science.nasa.gov/asset/webb/life-cycles-of-sun-like-and-massive-stars/\">remnant of a Sun-like star</a>. \nThis star was unable to sustain the \n<a href=\"https://science.nasa.gov/universe/stars/#life\">nuclear fusion</a> \nin its core needed to remain stable. It began to shed layers of gas and dust into space, \nforming this \n<a href=\"https://esahubble.org/wordbank/planetary-nebula/\">planetary nebula</a>. \nA hot stellar core, called a \n<a href=\"https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html\">white dwarf</a>, \nis left behind within the lion’s nose. Do not \n<a href=\"https://www.instagram.com/reels/DVRSVzOjDXp/\">boop</a> \nthis nose! Intense radiation from the white dwarf is \n<a href=\"https://astronomy.swin.edu.au/cosmos/*/Ionisation\">ionizing</a> \nthe gas as it expands, creating the irregular bubble that makes up the lion’s face. \n<a href=\"https://apod.nasa.gov/apod/ap260804.html\">Dust clumps</a> \nthat have survived the white dwarf’s radiation and a cloud of ionized gas make up the lion’s mane. This \n<a href=\"https://apod.nasa.gov/apod/ap000124.html\">new and more detailed view</a> \nof the nebula will help humanity learn more about how the gas and dust interact with each other and the white dwarf radiation.",
+    "date": "2026-08-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg"
   }
 }
