@@ -2391,5 +2391,14 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg"
+  },
+  "2026-08-31": {
+    "title": "Launch of the Roman Space Telescope",
+    "credit": "NASA",
+    "explanation": "<b>  </b> \nA new telescope has been launched \n<a href=\"ap021124.html\">into space</a> to study the universe.\n\nThe <a href=\"https://science.nasa.gov/mission/roman-space-telescope/who-is-nancy-grace-roman/\">Nancy Grace Roman</a> \n<a href=\"https://science.nasa.gov/mission/roman-space-telescope/\">Space Telescope</a> (RST) has the same size main mirror as the \n<a href=\"https://science.nasa.gov/mission/hubble/overview/about-hubble/\">Hubble Space Telescope</a> (HST) but sees 100 times more sky during each snapshot.  \n\nThis is possible because when compared to HST, RST's main mirror is \n<a href=\"https://www.skyatnightmagazine.com/advice/what-is-a-fast-telescope\">more curved</a>, its secondary mirror is closer, and its \n<a href=\"https://science.nasa.gov/mission/roman-space-telescope/wide-field-instrument/\">main camera</a> is larger. \n\nThe result is that \n<a href=\"https://science.nasa.gov/mission/roman-space-telescope/science/\">RST can inspect</a> more of the sky more quickly, \nlikely allowing, among other capabilities, the discovery of \n<a href=\"https://science.nasa.gov/mission/roman-space-telescope/type-ia-supernovae/\">many more supernovas</a> which tell us more about the expansion rate and \n<a href=\"ap241020.html\">composition</a> of our \n<a href=\"ap231231.html\">universe</a>, and \n<a href=\"ap220814.html\">many more planets</a> \norbiting other stars that tell us more about the \npossibilities for \n<a href=\"https://science.nasa.gov/exoplanets/search-for-life/\">life elsewhere</a> in the universe.\n\nRST will <a href=\"https://www.esa.int/Science_Exploration/Space_Science/L2_the_second_Lagrangian_Point\">orbit the Sun</a>, not the Earth, like the \n<a href=\"https://science.nasa.gov/mission/webb/\">James Webb Space Telescope</a>. \n\nThe <a href=\"https://youtu.be/9wq3VHsL_bE?t=4028\">featured video</a> shows \n<a href=\"https://www.stsci.edu/roman\">Roman</a> being launched yesterday from \n<a href=\"https://www.nasa.gov/kennedy/\">Kennedy Space Center</a>, \n<a href=\"https://commons.wikimedia.org/wiki/File:Map_of_Florida_Regions_with_Cities.svg\">Florida</a>, \n<a href=\"https://user.iiasa.ac.at/~marek/fbook/04/print/us.html\">USA</a> aboard a \n<a href=\"https://www.spacex.com/\">SpaceX</a> \n<a href=\"https://www.spacex.com/vehicles/falcon-heavy\">Falcon Heavy</a> rocket.",
+    "date": "2026-08-31",
+    "service_version": "v1",
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4"
   }
 }
