@@ -2400,5 +2400,15 @@
     "service_version": "v1",
     "media_type": "video",
     "url": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4"
+  },
+  "2026-09-01": {
+    "title": "A Plane Lunar Eclipse",
+    "credit": "Paulo Ferreira",
+    "explanation": "<b>  </b> \nDid you need to be on the right side of this airplane to see this eclipse?\n\nNo. \n\n<a href=\"https://science.nasa.gov/moon/eclipses/\">Lunar eclipses</a> are routinely seen from the \n<a href=\"ap251221.html\">half of the Earth</a> facing the Moon \nwhen the eclipse occurs, \nmaking them some of the most commonly witnessed astronomical events.\n\nYou don't even need any \n<a href=\"https://science.nasa.gov/asset/webb/components-of-webbs-scientific-instruments/\">special equipment</a> to see one -- just your \n<a href=\"https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work\">unaided eyes</a>. \n\nLunar eclipses are also some of the \n<a href=\"ap260825.html\">most</a> \n<a href=\"ap260305.html\">photographed</a> \n<a href=\"ap251103.html\">astronomical</a> \n<a href=\"ap250324.html\">events</a> because, \nunlike with a solar eclipse, \n<a href=\"https://plus.unsplash.com/premium_photo-1753481184578-75816508791a\">your eyes</a> and camera do not have to look toward the bright \n<a href=\"https://science.nasa.gov/sun/\">Sun</a>.\n\nHowever, considering the \n<a href=\"https://www.facebook.com/photo/?fbid=1064077302987513&amp;set=a.1063776469684263\">featured image</a> taken \n<a href=\"https://svs.gsfc.nasa.gov/5672/\">last week</a> from \n<a href=\"https://user.iiasa.ac.at/~marek/fbook/04/geos/po.html\">Portugal</a>, if you were on the left side of \n<a href=\"ap130513.html\">that airplane</a> during takeoff, \nyou might have trouble seeing it -- at first.\n\nBut even then, \n<a href=\"ap240211.html\">after takeoff</a>, since \n<a href=\"https://spaceplace.nasa.gov/eclipses/en/\">lunar eclipses</a> typically last for hours, \nyou might soon be able to safely cross the aisle(s) to see it.",
+    "date": "2026-09-01",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg"
   }
 }
