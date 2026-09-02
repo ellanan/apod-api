@@ -2410,5 +2410,15 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg"
+  },
+  "2026-09-02": {
+    "title": "Solar Eclipses and Culture",
+    "explanation": "<b>  </b> \nPretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable \nyour whole life. One day, you witness the sky transform as it does in \n<a href=\"https://www.instagram.com/p/DcBum3zI7YL/\">today’s spliced image</a> \nspanning two hours of \n<a href=\"https://apod.nasa.gov/apod/ap260813.html\">the August 12, 2026 solar eclipse</a>. \nThe Sun disappears, leaving behind a bright, empty ring. What would you think had happened? \nHumans have interpreted eclipses in countless ways throughout \n<a href=\"https://science.nasa.gov/eclipses/history/\">history</a>, \nembedding \n<a href=\"https://www.exploratorium.edu/eclipse/eclipse-stories-from-around-the-world\">beliefs</a> \nabout connection, rebirth, or danger into culture. “Eclipse” comes from the Greek word \n“<a href=\"https://www.etymonline.com/word/eclipse\">ékleipsis</a>” \nmeaning “abandonment”. In ancient Greece, the solar eclipse marked the anger of the gods and \nthe Sun abandoning humanity. To \n<a href=\"https://www.exploratorium.edu/eclipse/navajo-understanding-eclipses\">the Diné people</a>, \nthis celestial alignment is a time of renewal. Out of respect and to avoid the danger of sunlight, \nthe Diné stay inside until the Sun and Moon separate. \n<a href=\"https://www.metmuseum.org/perspectives/sikien-koutammakou\">The Batammariba people of Benin and Togo</a> \nbelieve that the Sun and Moon fight during an eclipse, so the community encourages peace among themselves. Eclipses are an example of the longstanding connection between astronomy and society.",
+    "date": "2026-09-02",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg",
+    "service_version": "v1",
+    "copyright": "Javier Castro Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg"
   }
 }
