@@ -2470,5 +2470,15 @@
     "copyright": "Mark Killion",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg"
+  },
+  "2026-09-08": {
+    "title": "Hubble: Decagon Around Saturn's South Pole",
+    "credit": "NASA, ESA, STScI, HST; A. Sánchez-Lavega (UPV), A. Simon (NASA-GSFC), M. Wong (UC Berkeley); Processing: A. Pagan (STScI)",
+    "explanation": "<b>  </b> \nWhy are Saturn’s poles geometric?\n\n<a href=\"https://science.nasa.gov/saturn/\">Saturn</a>’s \nNorth Pole has been known to be surrounded by a \n<a href=\"ap230618.html\">hexagonal</a> (6 sides) cloud since \n<a href=\"https://ui.adsabs.harvard.edu/abs/1988Icar...76..335G/abstract\">discovery in 1987</a> in data taken by NASA’s \n<a href=\"https://science.nasa.gov/mission/voyager/\">Voyager spacecrafts</a>, \nwhich quickly flew past the \n<a href=\"https://science.nasa.gov/image-article/apod-2020-april-19-cassini-approaches-saturn/\">ringed world</a> in the early 1980s. \n\nNow, recent observations of Saturn by the \n<a href=\"ap090525.html\">Hubble Space Telescope</a> \nreveal a slightly different geometric cloud pattern \naround the South Pole: a \n<a href=\"https://mathworld.wolfram.com/Decagon.html\">decagon</a> (10 \n<a href=\"https://www.geogebra.org/m/bbD4R2Ck\">sides</a>). \n\nThe geometric boundaries are \n<a href=\"https://youtu.be/VQzLY17ncWM\">possibly caused</a> \nby waves when the fast-moving gas away from the \npoles interacts with slower-moving gas closer to the poles. \n\nIn the \n<a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\">featured image composite</a> by the Hubble taken last year, the \n<a href=\"ap081027.html\">South Pole of Saturn</a> \nis marked by an X and surrounded by bands of circulating clouds. \n\nThe <a href=\"https://science.nasa.gov/asset/hubble/decagon-on-saturns-south-pole-single-filter/\">decagon</a> appears most prominent in the dark inner regions.  \n\nThe <a href=\"ap180907.html\">northern hexagon</a> has proven stable for over 40 years, while the stability of the southern decagon will surely remain a \n<a href=\"https://unsplash.com/photos/white-and-black-cat-on-white-textile-ZsMhJkloV64\">topic of research</a>.",
+    "date": "2026-09-08",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg"
   }
 }
