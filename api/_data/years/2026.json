@@ -2480,5 +2480,14 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg"
+  },
+  "2026-09-09": {
+    "title": "Witness XZ Andromedae Wink",
+    "credit": "Ogetay Kayali (MTU, Starfront Observatories) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "explanation": "<b>  </b> \nIs this star winking at us? The central object in \n<a href=\"https://app.astrobin.com/u/OgetayKayali?i=r3zngj&amp;r=B\">today’s animation</a> \nis not one but <i>two</i> stars. XZ Andromedae, indicated by the bold lines, is an \n<a href=\"https://commons.wikimedia.org/wiki/File:Algol-type_variable_binary_star_animation_3.gif\">Algol-type</a> \n<a href=\"https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/\">eclipsing binary</a> \nwith a nearly edge-on orbit from Earth’s perspective. The bottom \n<a href=\"https://imagine.gsfc.nasa.gov/science/toolbox/timing1.html\">light curve</a> \nshows the amount of light from the system dim and brighten as the cooler star \neclipses its hotter, brighter companion. Analysis of several XZ Andromedae light curves indicates \n<a href=\"https://arxiv.org/pdf/1904.07373\">there may be two other stars</a> \norbiting the system. This particular light curve was created with \n<a href=\"https://github.com/OgetayKayali/citizen-astronomy\">Citizen Astronomy</a>, \nan \n<a href=\"https://opensource.org/osd\">open-source software</a> \nfor \n<a href=\"https://boyce-astro.org/differential-photometry/\">differential photometry</a>. \nThe software takes the difference in brightness between a target and comparison star and traces \nits behavior over time. This technique reduces most variations from the instrument and Earth’s \natmosphere. In addition to eclipsing binaries, this analysis is useful for studying \n<a href=\"https://science.nasa.gov/exoplanets/whats-a-transit/\">transiting exoplanets</a>, \n<a href=\"ap240616.html\">accreting black holes</a>, \n<a href=\"ap160209.html\">supernovae</a>, \nand many more time-varying astronomical phenomena. Astrophotographers: try it out on your own data!",
+    "date": "2026-09-09",
+    "service_version": "v1",
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2609/xz_and.mp4"
   }
 }
