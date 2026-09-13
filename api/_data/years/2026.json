@@ -2518,5 +2518,14 @@
     "service_version": "v1",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg"
+  },
+  "2026-09-13": {
+    "title": "Comet NEOWISE Rising over the Adriatic Sea",
+    "explanation": "<b>  </b> \nThis sight was worth getting out of bed early. \n\nJust over four years ago, \n<a href=\"https://en.wikipedia.org/wiki/C/2020_F3_(NEOWISE)\">Comet C/2020 F3 (NEOWISE)</a> \nrose before dawn to the \n<a href=\"https://unsplash.com/photos/brown-tabby-cat-7GX5aICb5i4\">delight</a> of northern sky enthusiasts awake that early.\n\nUp before sunrise on July 8th, the featured photographer was able \nto capture in dramatic fashion one of the few comets \n<a href=\"https://www.facebook.com/media/set/?vanity=APOD.Sky&amp;set=a.2762832093820992\">visible</a> to the unaided eye this century, an \ninner-<a href=\"https://science.nasa.gov/solar-system/\">Solar System</a> intruder that has become known as the \n<a href=\"ap131013.html\">Great Comet</a> of 2020. \n\nThe \n<a href=\"https://www.instagram.com/p/CCXz9yUIOQb/\">resulting video</a> \ndetailed Comet NEOWISE from \n<a href=\"https://en.wikipedia.org/wiki/Italy\">Italy</a> rising over the \n<a href=\"https://en.wikipedia.org/wiki/Adriatic_Sea\">Adriatic Sea</a>.\n\nThe <a href=\"https://www.youtube.com/embed/ts0Ek3nLHew\">featured time-lapse video</a> \ncombines over 240 images taken over 30 minutes. \n\n<a href=\"ap200707.html\">The comet</a> \nwas seen rising through a foreground of bright and undulating \n<a href=\"https://en.wikipedia.org/wiki/Noctilucent_cloud\">noctilucent clouds</a>, \nand before a background of distant stars. \n\n<a href=\"https://earthsky.org/space/how-to-see-comet-c2020-f3-neowise\">Comet NEOWISE</a> remained unexpectedly bright for over a month, \nwith its \n<a href=\"ap210308.html\">ion and dust</a> tails \n<a href=\"https://www.nasa.gov/feature/jpl/comet-neowise-sizzles-as-it-slides-by-the-sun-providing-a-treat-for-observers\">found to emanate</a> from a \n<a href=\"ap100104.html\">nucleus</a> spanning \nabout five kilometers across.",
+    "date": "2026-09-13",
+    "service_version": "v1",
+    "copyright": "Paolo Girotti",
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4"
   }
 }
