@@ -2527,5 +2527,15 @@
     "copyright": "Paolo Girotti",
     "media_type": "video",
     "url": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4"
+  },
+  "2026-09-14": {
+    "title": "Where Your Elements Came From",
+    "credit": "NASA's GSFC, SVS",
+    "explanation": "<b>  </b> \nThe hydrogen in your body and present in every molecule of water came from the \n<a href=\"https://science.nasa.gov/universe/the-big-bang/\">Big Bang</a>. \n\nThere are no other \n<a href=\"http://www.sciencealert.com/lhc-produces-primordial-soup-of-the-universe-using-less-particles-than-thought-possible\">appreciable</a> sources of \n<a href=\"https://periodic.lanl.gov/1.shtml\">hydrogen</a> in the universe. \n\nThe <a href=\"https://en.wikipedia.org/wiki/Carbon#Formation_in_stars\">carbon</a> in your body was made by \n<a href=\"https://nightsky.jpl.nasa.gov/documents/845/SNNuclearFusion.pdf\">nuclear fusion</a> \nin the interior of stars, as was the \n<a href=\"https://en.wikipedia.org/wiki/Oxygen#Isotopes_and_stellar_origin\">oxygen</a>. \n\nMuch of the iron in your body was made during \n<a href=\"https://youtu.be/wymMn-SmALY\">supernova</a>s of stars that occurred \nlong ago and far away. \n\nThe <a href=\"ap171015.html\">gold</a> in your jewelry was likely made from \nneutron stars during collisions that may have been visible as short-duration \n<a href=\"https://svs.gsfc.nasa.gov/14738/\">gamma-ray bursts</a>\nor <a href=\"ap171016.html\">gravitational wave events</a>.\n\nElements like phosphorus and copper are \n<a href=\"https://www.planetary.org/articles/were-made-of-starstuff-what-does-that-mean\">present in our bodies</a> in only small amounts \nbut are essential to the functioning of all known <a href=\"https://news.climate.columbia.edu/2013/04/01/phosphorus-essential-to-life-are-we-running-out/\">life</a>. \n\nThe <a href=\"https://svs.gsfc.nasa.gov/13873/\">featured periodic table</a> is \n<a href=\"https://unsplash.com/photos/fluffy-calico-cat-with-yellow-eyes--vcg9-w_yMk\">color coded</a> to indicate \n<a href=\"ap190818.html\">humanity</a>'s best guess as to the \n<a href=\"https://en.wikipedia.org/wiki/Nucleosynthesis\">nuclear origin</a> of all known elements. \n\nThe sites of <a href=\"https://www.youtube.com/watch?v=7EpcUohHees\">nuclear creation</a> \nof some \n<a href=\"https://pubchem.ncbi.nlm.nih.gov/periodic-table/\">elements</a>, \nsuch as \n<a href=\"https://ui.adsabs.harvard.edu/abs/2016A%26A...585A.102Y/abstract\">copper</a>, \nare not really well known and are continuing topics of observational and computational research.",
+    "date": "2026-09-14",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg"
   }
 }
