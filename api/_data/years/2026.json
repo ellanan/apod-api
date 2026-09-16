@@ -2547,5 +2547,15 @@
     "copyright": "Arnaud Mariat",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg"
+  },
+  "2026-09-16": {
+    "title": "Webb's View of M64",
+    "credit": "NASA, CSA, ESA, F. Belfiore (ESO), J. Lee (STScI), A. Leroy (OSU), and D. Thilker (JHU); Image Processing: G. Kober (NASA/Catholic University) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "explanation": "<b>  </b> \nSometimes where \n<a href=\"ap010806.html\">Hubble</a> \nfinds darkness, \n<a href=\"https://science.nasa.gov/mission/webb/\">Webb</a> \nsees light. An example is today’s composite images of \n<a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-64/\">Messier 64</a> (M64), \na nearby \n<a href=\"https://science.nasa.gov/universe/galaxies/types/\">spiral galaxy</a> \n<a href=\"https://en.wikipedia.org/wiki/Black_Eye_Galaxy\">of many names</a>. \nThe dark band of \n<a href=\"https://www.cfa.harvard.edu/news/dust-galaxy\">dust</a> \npartially blocking its bright core earned it the moniker \n“<a href=\"ap230720.html\">the Black Eye Galaxy</a>.” \nWebb’s <a href=\"https://jwst-docs.stsci.edu/jwst-mid-infrared-instrument\">Mid-InfraRed Instrument</a> (MIRI) \nsees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. \nThese young stars are embedded in pink star-forming regions in the secondary Hubble-only image. \nM64’s inner and outer gas regions \n<a href=\"https://ui.adsabs.harvard.edu/abs/1992Natur.360..442B/abstract\">counter-rotate</a>, \ncreating regions of increased star formation where the two gas “currents” meet and compress. \nA merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the \nouter gas. Spiral galaxies were once thought to have peaceful histories. \nM64 was key evidence that spiral galaxies, including the \n<a href=\"https://astrobites.org/2019/03/12/hunting-for-stellar-streams/\">Milky Way</a>, \ncan and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, \nmotion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and \nevolution.",
+    "date": "2026-09-16",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg"
   }
 }
