@@ -2577,5 +2577,15 @@
     "copyright": "George Chatzifrantzis",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg"
+  },
+  "2026-09-19": {
+    "title": "A Zodiacal Night",
+    "explanation": "<b>  </b> \n\n<a href=\"https://earthsky.org/astronomy-essentials/everything-you-need-to-know-zodiacal-light-or-false-dusk\">Also known as the false dawn</a>,\na luminous band of zodiacal light is captured in this dark night skyscape.\n\nThe serene view was recorded just before\nthe beginning of astronomical\n<a href=\"https://en.wikipedia.org/wiki/Twilight\">twilight</a>\nduring September's star party at the remote\nHanle Dark Sky Reserve, Ladakh, India, planet Earth.\n\nAt about 4,500  meters altitude, the dark sky reserve\n<a href=\"https://www.bbc.com/travel/article/20250829-the-himalayan-village-where-you-can-see-the-cosmos\">presents a haven</a>\nfor hardy stargazing and astrophotography enthusiasts.\n\nWhile meteors streak through the night, bright planet Jupiter\nappears immersed in the faint zodiacal glow near the eastern horizon.\n\n<a href=\"image/2609/2026-09-09ZodiacalLightHSPannotated1024.jpg\">Follow the zodiacal band</a>\ntoward the zenith to find open star cluster M44\nand a yellowish tinged planet Mars near the center of the frame.\n\nIn fact,\n<a href=\"https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006509\">serendipitous</a>\ndetections of interplanetary dust by\nNASA's Juno spacecraft suggest Mars itself is the source of dust\nthat back scatters sunlight and creates\n<a href=\"https://www.nasa.gov/feature/goddard/2021/serendipitous-juno-spacecraft-detections-shatter-ideas-about-origin-of-zodiacal-light\">zodiacal\nlight in planet Earth's night.</a>",
+    "date": "2026-09-19",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg",
+    "service_version": "v1",
+    "copyright": "Neelam and Ajay Talwar (TWAN)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg"
   }
 }
