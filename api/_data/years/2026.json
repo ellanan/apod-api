@@ -2617,5 +2617,15 @@
     "copyright": "Petr Horalek / Inst. Physics Opava",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg"
+  },
+  "2026-09-23": {
+    "title": "A New Lunar Crater: McGetchin",
+    "credit": "NASA/GSFC/Intuitive Machines Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)",
+    "explanation": "<b>  </b> \nA once-in-a-lifetime crater has appeared on the Moon! \nA comet or asteroid roughly the size of a \n<a href=\"https://www.fisheries.noaa.gov/species/humpback-whale\">humpback whale</a> \n(approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime \nbetween April and May of 2024. The \n<a href=\"https://science.nasa.gov/mission/lro/\">Lunar Reconnaissance Orbiter</a> \n(LRO), with its \n<a href=\"ap240602.html\">monthly monitoring of the Moon</a>, \ncaptured \n<a href=\"https://lroc.im-ldi.com/images/1501\">today’s images</a> \nof the lunar surface before and after the event. The resulting crater, \nnamed after Apollo-era lunar scientist \n<a href=\"https://rock.geosociety.org/net/documents/gsa/memorials/v16/McGetchin-TR.pdf\">McGetchin</a>, \nis two soccer fields across. Craters of this size are only expected once \n<a href=\"https://ui.adsabs.harvard.edu/abs/2001SSRv...96...55N/abstract\">every 132 years</a>! \n<a href=\"https://www.science.org/doi/10.1126/sciadv.aeh9568\">Follow up thermal imaging</a> \nrevealed a \n<a href=\"https://assets.science.nasa.gov/content/dam/science/missions/lro/McGetchinLROblinkImage.gif\">large cold spot</a> \nthat surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or \n<a href=\"https://science.nasa.gov/biological-physical/what-is-lunar-regolith/\">regolith</a>, \nmaking it less dense and harder to retain heat. This event affected an area \n<a href=\"https://www.science.org/doi/10.1126/sciadv.aeh7812\">much larger than the visible crater</a>, \nwhich will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface. \nIt also reminds us all to be \n<a href=\"ap250803.html\">thankful for Earth's atmosphere</a>.",
+    "date": "2026-09-23",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg",
+    "service_version": "v1",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg"
   }
 }
