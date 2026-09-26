@@ -2647,5 +2647,15 @@
     "copyright": "Javier O. Cadenas Parra",
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg"
+  },
+  "2026-09-26": {
+    "title": "Mirrored Meteor and Milky Way",
+    "explanation": "<b>  </b> \n\nOn August 15, this\n<a href=\"https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/\">perseid meteor</a>\nstreaked through night\nskies over the Observatorio del Roque de los Muchachos at\nLa Palma, Canary Islands, Spain.\n\nThe bright and colorful meteor trail was captured next to the central\nMilky Way,\nwhose dark interstellar dust clouds and luminous starlight\nreach above the horizon.\n\nIn the foreground of this tantalizing celestial scene is the 23 meter diameter\nmirror of the prototype\n<a href=\"https://lst.iac.es/info/about\">Large-Sized Telescope</a>\n(<a href=\"https://www.ctao.org/news-resources/outreach-and-education/ctao-for-educators/lst-paper-model/\">LST-1</a>).\n\nLST-1 is\nthe first telescope constructed at the\nnorthern hemisphere site of the innovative\n<a href=\"https://www.ctao.org/\">Cherenkov Telescope Array Observatory</a>.\n\nWith 198 hexagonal mirror segments and a\nlarge,  high-efficiency, pixelized camera,\nLST-1  is designed to detect extremely brief,\n<a href=\"https://science.nasa.gov/image-article/apod-2016-august-20-gamma-rays-and-comet-dust/\">atmospheric visible light flashes</a>.\n\nLasting about a billionth of a second, the visible light\nflashes are triggered by energetic gamma-rays\nfrom cosmic sources such as\n<a href=\"https://lst.iac.es/news/lst-magic-detect-OP313-paper\">distant active galaxies</a>\nand gamma-ray bursts.\n\nOf course, on that night some individual mirror segments\nof LST-1 also reflected\nthe atmospheric flash of the bright perseid meteor.",
+    "date": "2026-09-26",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg",
+    "service_version": "v1",
+    "copyright": "Jeff Dai (TWAN)",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg"
   }
 }
