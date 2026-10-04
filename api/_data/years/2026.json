@@ -2717,5 +2717,13 @@
     "service_version": "v1",
     "media_type": "video",
     "url": "about:blank"
+  },
+  "2026-10-04": {
+    "title": "NASA Science",
+    "explanation": "",
+    "date": "2026-10-04",
+    "service_version": "v1",
+    "media_type": "video",
+    "url": "about:blank"
   }
 }
