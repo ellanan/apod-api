@@ -3137,9 +3137,16 @@
   },
   "2026-11-25": {
     "title": "NASA Science",
-    "credit": "NASA/JPL-Caltech SPHEREx; data from NASA/IPAC IRSA. Processing: The Bright Nobles (Muhammet Mücahit Soylu, Serdar Aydın, Furkan Küpeli), ChronosphereX (chronospherex.com). SPHEREx Seeing Through Dust",
     "explanation": "",
     "date": "2026-11-25",
+    "service_version": "v1",
+    "media_type": "video",
+    "url": "about:blank"
+  },
+  "2026-11-26": {
+    "title": "NASA Science",
+    "explanation": "",
+    "date": "2026-11-26",
     "service_version": "v1",
     "media_type": "video",
     "url": "about:blank"
